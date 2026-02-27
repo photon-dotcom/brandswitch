@@ -21,6 +21,8 @@ import { AffiliateButton } from '@/components/AffiliateButton';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AlternativeCard } from '@/components/AlternativeCard';
 import { FAQ, type FAQItem } from '@/components/FAQ';
+import { EmailCapture } from '@/components/EmailCapture';
+import { ExitIntentPopup } from '@/components/ExitIntentPopup';
 
 // ── Static generation ──────────────────────────────────────────────────────
 
@@ -48,6 +50,35 @@ interface Props {
   params: { locale: string; slug: string };
 }
 
+function answerDescription(
+  displayName: string,
+  cat: string,
+  altCount: number,
+  altNames: string[],
+): string {
+  const year = new Date().getFullYear();
+  const [a1, a2, a3] = altNames;
+  const catLower = cat.toLowerCase();
+
+  if (altCount < 3 || !a1) {
+    return `Discover ${catLower} brands similar to ${displayName}. Browse ${altCount} alternatives and find the best match for you at Brandswitch.`;
+  }
+
+  // Pick template by name hash (deterministic rotation across pages)
+  const hash = displayName.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
+  const t = hash % 3;
+
+  const candidates = [
+    `The top ${altCount} alternatives to ${displayName} include ${a1}, ${a2}, and ${a3}. Compare similar ${catLower} brands at Brandswitch.`,
+    `Looking for brands like ${displayName}? Top alternatives: ${a1}, ${a2}, ${a3}. ${altCount} ${catLower} brands compared by similarity.`,
+    `Best ${displayName} alternatives for ${year}: ${a1}, ${a2}, ${a3} and ${altCount - 3} more ${catLower} brands ranked by similarity.`,
+  ];
+
+  // Truncate to 160 chars if needed
+  const desc = candidates[t];
+  return desc.length <= 160 ? desc : candidates[t].slice(0, 157) + '...';
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const brand = getBrandBySlug(params.locale, params.slug);
   if (!brand) return { title: 'Brand Not Found' };
@@ -56,9 +87,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = brand.categories[0] ?? 'brand';
   const alternatives = getBrandAlternatives(params.locale, brand);
   const altCount = alternatives.length;
+  const altNames = alternatives.slice(0, 3).map(a => cleanDisplayName(a.name));
 
   const title = `${altCount} Brands Like ${displayName} — Best ${cat} Alternatives | Brandswitch`;
-  const description = getBrandDescription({ ...brand, name: displayName });
+  const description = answerDescription(displayName, cat, altCount, altNames);
 
   // Only add hreflang for markets where the brand actually exists
   const brandMarkets = getBrandMarkets(params.slug);
@@ -128,6 +160,60 @@ function buildFAQ(brand: { name: string; categories: string[]; domain: string })
 
 // ── Schema.org ────────────────────────────────────────────────────────────
 
+function FAQPageSchema({
+  brand,
+  category,
+  alternatives,
+}: {
+  brand: { name: string; domain: string };
+  category: string;
+  alternatives: { name: string }[];
+}) {
+  if (alternatives.length < 3) return null;
+  const [a1, a2, a3] = alternatives.map(a => cleanDisplayName(a.name));
+  const count = alternatives.length;
+  const cat = category.toLowerCase();
+  const name = brand.name;
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `What are the best alternatives to ${name}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `The top alternatives to ${name} include ${a1}, ${a2}, and ${a3}. We've found ${count} similar ${cat} brands ranked by similarity.`,
+        },
+      },
+      {
+        '@type': 'Question',
+        name: `What brands are similar to ${name}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `Brands similar to ${name} include ${a1}, ${a2}, ${a3}, and ${count - 3} more. These are ${cat} brands that share a similar audience and style.`,
+        },
+      },
+      {
+        '@type': 'Question',
+        name: `Is ${name} a good ${cat} brand?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `${name} is a popular ${cat} brand available at ${brand.domain}. Compare it with ${count} alternatives to find the best option for you.`,
+        },
+      },
+    ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 function ItemListSchema({
   brand,
   alternatives,
@@ -183,6 +269,7 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
   return (
     <>
       <ItemListSchema brand={brand} alternatives={alternatives} locale={locale} />
+      <FAQPageSchema brand={brand} category={primaryCategory} alternatives={alternatives} />
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
 
@@ -264,6 +351,63 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
           </div>
         </div>
 
+        {/* ── Quick comparison table ───────────────────────────────── */}
+        {alternatives.length >= 3 && (() => {
+          const tableRows = [brand, ...alternatives.slice(0, 3)];
+          return (
+            <div className="mb-8 overflow-x-auto rounded-2xl border border-bs-border">
+              <table className="w-full min-w-[500px] text-sm">
+                <caption className="text-left px-4 pt-3 pb-2 text-xs font-semibold text-bs-gray uppercase tracking-wide">
+                  Quick Comparison
+                </caption>
+                <thead>
+                  <tr className="border-b border-bs-border bg-bs-bg/60">
+                    <th className="text-left px-4 py-2.5 font-medium text-bs-gray text-xs">Brand</th>
+                    <th className="text-left px-4 py-2.5 font-medium text-bs-gray text-xs">Category</th>
+                    <th className="text-center px-4 py-2.5 font-medium text-bs-gray text-xs">Markets</th>
+                    <th className="text-center px-4 py-2.5 font-medium text-bs-gray text-xs">Alternatives</th>
+                    <th className="px-4 py-2.5"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {tableRows.map((row, i) => {
+                    const isCurrent = i === 0;
+                    const marketCount = getBrandMarkets(row.slug).length;
+                    return (
+                      <tr
+                        key={row.id}
+                        className={`border-b border-bs-border/50 last:border-0 ${isCurrent ? 'bg-bs-teal-light/30' : 'bg-white hover:bg-bs-bg/40'}`}
+                      >
+                        <td className="px-4 py-2.5">
+                          <div className="flex items-center gap-2">
+                            <BrandLogo name={row.name} logo={row.logo} domain={row.domain} size={28} logoQuality={row.logoQuality} />
+                            <span className={`font-medium truncate max-w-[120px] ${isCurrent ? 'text-bs-teal' : 'text-bs-dark'}`}>
+                              {cleanDisplayName(row.name)}
+                            </span>
+                            {isCurrent && <span className="text-[10px] bg-bs-teal text-white px-1.5 py-0.5 rounded-full shrink-0">You</span>}
+                          </div>
+                        </td>
+                        <td className="px-4 py-2.5 text-bs-gray text-xs">{translateCategory(locale, row.categories[0] ?? '')}</td>
+                        <td className="px-4 py-2.5 text-center text-bs-dark font-medium text-xs">{marketCount}</td>
+                        <td className="px-4 py-2.5 text-center text-bs-dark font-medium text-xs">{row.similarBrands?.length ?? 0}</td>
+                        <td className="px-4 py-2.5 text-right">
+                          {row.affiliateUrl ? (
+                            <AffiliateButton href={row.affiliateUrl} label={t('visit')} variant={isCurrent ? 'primary' : 'secondary'} size="sm" />
+                          ) : (
+                            <Link href={`/${locale}/brands-like/${row.slug}`} className="text-xs text-bs-teal hover:underline">
+                              {t('view_alternatives')}
+                            </Link>
+                          )}
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          );
+        })()}
+
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
 
           {/* ── Main column ───────────────────────────────────────── */}
@@ -320,6 +464,9 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
                 ))}
               </div>
             </section>
+
+            {/* Email capture */}
+            <EmailCapture category={primaryCategory} locale={locale} />
 
             {/* FAQ */}
             <section>
@@ -434,6 +581,22 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
 
         </div>
       </div>
+
+      {/* Exit-intent popup — desktop only, once per session */}
+      {alternatives.length >= 3 && (
+        <ExitIntentPopup
+          brandName={displayName}
+          alternatives={alternatives.slice(0, 3).map(alt => ({
+            name: cleanDisplayName(alt.name),
+            slug: alt.slug,
+            logo: alt.logo,
+            domain: alt.domain,
+            affiliateUrl: alt.affiliateUrl,
+            logoQuality: alt.logoQuality,
+          }))}
+          locale={locale}
+        />
+      )}
     </>
   );
 }

@@ -1,10 +1,11 @@
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import type { Brand } from '@/types/brand';
-import { sharedCategories, getBrandDescription } from '@/lib/brands';
+import { sharedCategories, getBrandDescription, getAlternativeReason } from '@/lib/brands';
 import { translateCategory } from '@/lib/translations';
 import { BrandLogo } from './BrandLogo';
 import { AffiliateButton } from './AffiliateButton';
+import { SaveButton } from './SaveButton';
 
 interface AlternativeCardProps {
   alternative: Brand;
@@ -15,6 +16,7 @@ interface AlternativeCardProps {
 export async function AlternativeCard({ alternative, mainBrand, locale }: AlternativeCardProps) {
   const t = await getTranslations('ui');
   const shared = sharedCategories(mainBrand, alternative);
+  const reason = getAlternativeReason(locale, mainBrand, alternative);
 
   return (
     <div className="group flex gap-4 p-4 sm:p-5 bg-white border border-bs-border rounded-2xl hover:border-bs-teal/40 hover:shadow-card-hover transition-all">
@@ -40,13 +42,17 @@ export async function AlternativeCard({ alternative, mainBrand, locale }: Altern
               {alternative.name}
             </Link>
             <p className="text-xs text-bs-gray">{alternative.domain}</p>
+            <p className="text-xs text-bs-gray/60 mt-0.5">{reason}</p>
           </div>
-          <AffiliateButton
-            href={alternative.affiliateUrl}
-            label={t('visit')}
-            variant="secondary"
-            size="sm"
-          />
+          <div className="flex items-center gap-1 shrink-0">
+            <AffiliateButton
+              href={alternative.affiliateUrl}
+              label={t('visit')}
+              variant="secondary"
+              size="sm"
+            />
+            <SaveButton slug={alternative.slug} />
+          </div>
         </div>
 
         {/* Description */}

@@ -24,6 +24,7 @@ export function GET() {
 
   const sitemaps = [
     `${base}/sitemaps/pages.xml`,
+    `${base}/sitemaps/comparisons.xml`,
     `${base}/sitemaps/brands-us.xml`,
     `${base}/sitemaps/brands-uk.xml`,
     `${base}/sitemaps/brands-de.xml`,

@@ -9,6 +9,9 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/'],
       },
     ],
-    sitemap: 'https://brandswitch.com/sitemap.xml',
+    sitemap: [
+      'https://brandswitch.com/sitemap.xml',
+      'https://brandswitch.com/llms.txt',
+    ],
   };
 }

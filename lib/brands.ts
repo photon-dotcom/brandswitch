@@ -476,3 +476,115 @@ export function getBrandDescription(brand: {
   const idx = nameHash(name) % DESC_TEMPLATES.length;
   return DESC_TEMPLATES[idx]({ name, cat, count, domain });
 }
+
+// ── Similarity reason helpers ──────────────────────────────────────────────
+
+/**
+ * Returns true if the given slug appears in any curated category list for the market.
+ */
+export function isCuratedBrand(market: string, slug: string): boolean {
+  const data = getCuratedData(market);
+  for (const entries of Object.values(data)) {
+    if (entries.some(e => e.slug === slug)) return true;
+  }
+  return false;
+}
+
+/**
+ * Returns the rank of a brand in the curated list for its primary category (1-based),
+ * or 0 if not found.
+ */
+export function getCuratedRank(market: string, slug: string, categorySlug: string): number {
+  const data = getCuratedData(market);
+  const entries = data[categorySlug] ?? [];
+  const entry = entries.find(e => e.slug === slug);
+  return entry?.rank ?? 0;
+}
+
+/**
+ * Returns the number of markets that both brands are available in simultaneously.
+ */
+export function countSharedMarkets(slug1: string, slug2: string): number {
+  let count = 0;
+  for (const m of MARKETS) {
+    const idx = getSlugIndex(m);
+    if (idx.has(slug1) && idx.has(slug2)) count++;
+  }
+  return count;
+}
+
+/**
+ * Generates a short "why this alternative?" reason string for display on brand pages.
+ * Combines up to 2 signals into a human-readable phrase.
+ */
+export function getAlternativeReason(
+  market: string,
+  mainBrand: Brand,
+  alternative: Brand,
+): string {
+  const shared = sharedCategories(mainBrand, alternative);
+  const catName = shared[0] ?? (alternative.categories[0] ?? 'brand');
+  const catLower = catName.toLowerCase();
+  const altCategorySlug = catToSlug(alternative.categories[0] ?? '');
+
+  const reasons: string[] = [];
+
+  // Signal 1: top-ranked alternative
+  const rank = getCuratedRank(market, alternative.slug, altCategorySlug);
+  if (rank === 1) {
+    reasons.push(`#1 ${catLower} brand`);
+  } else if (rank === 2) {
+    reasons.push(`#2 ${catLower} brand`);
+  } else if (isCuratedBrand(market, alternative.slug) && isCuratedBrand(market, mainBrand.slug)) {
+    reasons.push(`Both top-rated ${catLower} brands`);
+  } else if (shared.length > 0) {
+    reasons.push(`Both in ${catLower}`);
+  }
+
+  // Signal 2: market overlap
+  const sharedMarkets = countSharedMarkets(mainBrand.slug, alternative.slug);
+  if (sharedMarkets >= 6) {
+    reasons.push(`Available in ${sharedMarkets} markets`);
+  }
+
+  if (reasons.length === 0) return `Similar ${catLower} brand`;
+  return reasons.slice(0, 2).join(' · ');
+}
+
+// ── Comparison pair helpers ────────────────────────────────────────────────
+
+export interface ComparisonPair {
+  slug1: string;
+  slug2: string;
+}
+
+/**
+ * Generates up to `limit` comparison pairs for a market.
+ * For each curated top brand, takes its top-3 similar brands that are also curated.
+ * Deduplicates (A-vs-B = B-vs-A).
+ */
+export function getComparisonPairs(market: string, limit = 200): ComparisonPair[] {
+  const slugIndex = getSlugIndex(market);
+  const seen = new Set<string>();
+  const pairs: ComparisonPair[] = [];
+
+  const allCurated = getAllCuratedTopBrands(market);
+  const curatedSlugs = new Set(allCurated.map(c => c.brand.slug));
+
+  for (const { brand } of allCurated) {
+    if (pairs.length >= limit) break;
+    const topAlts = (brand.similarBrands ?? []).slice(0, 3);
+    for (const altSlug of topAlts) {
+      if (!curatedSlugs.has(altSlug)) continue;
+      const alt = slugIndex.get(altSlug);
+      if (!alt) continue;
+      const key = [brand.slug, altSlug].sort().join('--');
+      if (seen.has(key)) continue;
+      seen.add(key);
+      pairs.push({ slug1: brand.slug, slug2: altSlug });
+      if (pairs.length >= limit) break;
+    }
+  }
+
+  return pairs;
+}

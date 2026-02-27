@@ -5,11 +5,14 @@ import { BrandLogo } from '@/components/BrandLogo';
 import { AffiliateButton } from '@/components/AffiliateButton';
 import { PopularBrandsSection } from '@/components/PopularBrandsSection';
 import type { PopularBrandItem, CategoryPill } from '@/components/PopularBrandsSection';
+import fs from 'fs';
+import path from 'path';
 import {
   getHomepageBrands,
   getHomepageFeaturedBrands,
   getTopBrands,
   getCategories,
+  getBrandBySlug,
   catToSlug,
   cleanDisplayName,
   getBrandDescription,
@@ -66,6 +69,36 @@ export default async function HomePage({ params: { locale } }: PageProps) {
   const categories = getCategories(locale);
   const sortedCategories = [...categories].sort((a, b) => b.brandCount - a.brandCount);
   const totalBrands = getTopBrands(locale, 999999).length;
+
+  // ── Trending section data ──────────────────────────────────────────────
+  const STATIC_TRENDING = [
+    'nike', 'adidas', 'samsung', 'dyson', 'asos', 'ulta-beauty',
+  ];
+
+  const trendingBrands = (() => {
+    try {
+      const logPath = path.join(process.cwd(), 'data', 'click-log.json');
+      const raw = fs.readFileSync(logPath, 'utf-8');
+      const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+      const counts = new Map<string, number>();
+      for (const line of raw.split('\n').filter(Boolean)) {
+        const evt = JSON.parse(line) as { brandSlug: string; market: string; timestamp: string };
+        if (evt.market !== locale) continue;
+        if (new Date(evt.timestamp).getTime() < sevenDaysAgo) continue;
+        counts.set(evt.brandSlug, (counts.get(evt.brandSlug) ?? 0) + 1);
+      }
+      const topSlugs = Array.from(counts.entries())
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 6)
+        .map(([slug]) => slug);
+      if (topSlugs.length >= 3) {
+        return topSlugs.map(s => getBrandBySlug(locale, s)).filter(Boolean);
+      }
+    } catch { /* no click data yet */ }
+
+    // Fall back to static list
+    return STATIC_TRENDING.map(s => getBrandBySlug(locale, s)).filter(Boolean);
+  })();
 
   return (
     <>
@@ -145,6 +178,44 @@ export default async function HomePage({ params: { locale } }: PageProps) {
         viewAlternativesLabel={tui('view_alternatives')}
         allLabel={tui('all')}
       />
+
+      {/* ── Trending Now ──────────────────────────────────────────────── */}
+      {trendingBrands.length > 0 && (
+        <section className="px-4 sm:px-6 py-4 pb-10">
+          <div className="max-w-6xl mx-auto">
+            <div className="flex items-center justify-between mb-5">
+              <div>
+                <h2 className="text-lg font-semibold text-bs-dark mb-0.5">Trending Now</h2>
+                <p className="text-xs text-bs-gray">Most visited brands this week</p>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+              {trendingBrands.slice(0, 6).map(brand => {
+                if (!brand) return null;
+                return (
+                  <div key={brand.id} className="flex flex-col gap-2 p-3 bg-white border border-bs-border rounded-2xl hover:border-bs-teal/50 hover:shadow-card-hover transition-all">
+                    <BrandLogo name={brand.name} logo={brand.logo} domain={brand.domain} size={40} logoQuality={brand.logoQuality} />
+                    <div className="min-w-0">
+                      <p className="text-sm font-semibold text-bs-dark truncate leading-tight">{cleanDisplayName(brand.name)}</p>
+                      <span className="inline-block text-[10px] bg-bs-teal-light text-bs-teal px-1.5 py-0.5 rounded-full font-medium mt-0.5 truncate max-w-full">
+                        {brand.categories[0] ?? ''}
+                      </span>
+                    </div>
+                    <div className="flex flex-col gap-1 mt-auto">
+                      {brand.affiliateUrl && (
+                        <AffiliateButton href={brand.affiliateUrl} label={tui('visit')} variant="secondary" size="sm" className="w-full justify-center" />
+                      )}
+                      <Link href={`/${locale}/brands-like/${brand.slug}`} className="text-[10px] text-center text-bs-teal hover:underline">
+                        View alternatives →
+                      </Link>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* ── Featured Brands ───────────────────────────────────────────── */}
       {featuredBrands.length > 0 && (

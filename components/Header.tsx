@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { useState } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
+import { SavedBrandsLink } from './SavedBrandsLink';
 
 interface HeaderProps {
   locale: string;
@@ -88,6 +89,7 @@ export function Header({ locale }: HeaderProps) {
 
         {/* ── Right side ───────────────────────── */}
         <div className="flex items-center gap-3">
+          <SavedBrandsLink locale={locale} />
 
           {/* Market switcher dropdown */}
           <div className="relative hidden sm:block">

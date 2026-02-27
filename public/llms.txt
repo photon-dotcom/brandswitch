@@ -1,0 +1,25 @@
+# brandswitch
+
+## About
+brandswitch is a brand discovery platform that helps users find alternatives to their favorite brands. We cover 57,000+ brands across 18 categories and 18 countries.
+
+## What we answer
+- "What brands are similar to [brand]?"
+- "What are the best alternatives to [brand]?"
+- "Top [category] brands"
+- "Brands like [brand] in [country]"
+
+## Structure
+- Brand pages: /[country]/brands-like/[brand-slug] — shows similar brands ranked by similarity
+- Category pages: /[country]/category/[category-slug] — all brands in a category
+- Top brands: /[country]/top-brands/[category-slug] — curated top brands per category
+- Markets: us, uk, de, fr, nl, es, it, se, ch, at, au, dk, ca, fi, mx, br, be, no
+
+## Categories
+Health & Beauty, Accessories, Home & Garden, Clothing, Sports Outdoors & Fitness, Digital Services & Streaming, Electronics, Food Drinks & Restaurants, Travel & Vacations, Gifts Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies
+
+## Data
+Updated daily from affiliate partner networks. Similarity is computed by category overlap, audience match, and market presence.
+
+## Contact
+info@brandswitch.com
