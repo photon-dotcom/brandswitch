@@ -46,10 +46,9 @@ export function GET(request: NextRequest) {
   prefix.sort((a, b) => b.eCPC - a.eCPC);
   contains.sort((a, b) => b.eCPC - a.eCPC);
 
-  const results = [...prefix, ...contains]
+  const results: SearchResult[] = [...prefix, ...contains]
     .slice(0, 8)
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    .map(({ eCPC: _eCPC, ...r }): SearchResult => r);
+    .map(({ name, slug, logo, domain, categories }) => ({ name, slug, logo, domain, categories }));
 
   return NextResponse.json(results);
 }

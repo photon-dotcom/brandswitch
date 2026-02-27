@@ -4,10 +4,6 @@ import { getTranslations } from 'next-intl/server';
 import { getCategories, MARKETS } from '@/lib/brands';
 import { translateCategory } from '@/lib/translations';
 
-interface Props {
-  params: { locale: string };
-}
-
 export async function generateMetadata(): Promise<Metadata> {
   return {
     title: 'Browse Brand Categories | Brandswitch',
@@ -42,7 +38,7 @@ const CAT_ICONS: Record<string, string> = {
   'office-supplies':                '◖',
 };
 
-export default async function CategoryIndexPage({ params: { locale } }: Props) {
+export default async function CategoryIndexPage({ params: { locale } }: { params: { locale: string } }) {
   const t = await getTranslations('ui');
   const categories = getCategories(locale);
   const totalBrands = categories.reduce((s, c) => s + c.brandCount, 0);

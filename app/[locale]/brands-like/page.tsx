@@ -3,10 +3,6 @@ import { getTranslations } from 'next-intl/server';
 import { getTopBrands, MARKETS } from '@/lib/brands';
 import { BrandCard } from '@/components/BrandCard';
 
-interface Props {
-  params: { locale: string };
-}
-
 export async function generateMetadata(): Promise<Metadata> {
   return {
     title: `Popular Brands — Find Alternatives | Brandswitch`,
@@ -19,7 +15,7 @@ export async function generateStaticParams() {
 }
 export const revalidate = 86400;
 
-export default async function BrandsIndexPage({ params: { locale } }: Props) {
+export default async function BrandsIndexPage({ params: { locale } }: { params: { locale: string } }) {
   const t = await getTranslations('ui');
   const brands = getTopBrands(locale, 120);
 
