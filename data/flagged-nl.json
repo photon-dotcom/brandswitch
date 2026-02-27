@@ -6,8 +6,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

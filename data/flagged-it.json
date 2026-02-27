@@ -37,9 +37,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/it-it.ring.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "IT",
@@ -62,8 +64,12 @@
     "domain": "1-web.it",
     "description": "",
     "logo": "https://logo.clearbit.com/1-web.it?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/1-web-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/1-web-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -84,11 +90,43 @@
     "domain": "antonios-wine.com",
     "description": "",
     "logo": "https://logo.clearbit.com/antonios-wine.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/antonios-wine-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/antonios-wine-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "307137",
+    "name": "baronematerassi-shop.it",
+    "slug": "baronematerassi-shopit",
+    "domain": "baronematerassi-shop.it",
+    "description": "",
+    "logo": "https://logo.clearbit.com/baronematerassi-shop.it?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/baronematerassi-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/baronematerassi-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -134,8 +172,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

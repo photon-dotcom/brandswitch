@@ -89,9 +89,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/sweat.com?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -117,9 +119,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/ag.care?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -144,9 +148,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/spirit.com?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -171,10 +177,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/style.justfab.ca?size=200",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories"
     ],
@@ -199,9 +207,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/ca.loccitane.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -253,8 +263,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "CA",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

@@ -6,8 +6,13 @@
     "domain": "ticketmaster.dk",
     "description": "",
     "logo": "https://logo.clearbit.com/ticketmaster.dk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Events & Entertainment"
+    ],
+    "tags": [
+      "events",
+      "entertainment"
+    ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/ticketmaster-dk-dk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ticketmaster-dk-dk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",

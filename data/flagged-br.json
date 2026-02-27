@@ -41,10 +41,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/buy.points.com?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations",
       "digital",
@@ -72,9 +74,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/englishlive.ef.com?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -99,8 +103,12 @@
     "domain": "toluna.com",
     "description": "",
     "logo": "https://logo.clearbit.com/toluna.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -122,11 +130,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/airhelp-com-br-1732877677.png",
     "categories": [
+      "Products",
       "Travel & Vacations",
       "Digital Services & Streaming",
       "Subscription Boxes & Services"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations",
       "digital",
@@ -156,9 +166,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/uol.com.br?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -184,10 +196,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/natura-com-br-br-1730969552.jpg",
     "categories": [
+      "Products",
       "Health & Beauty",
       "Accessories"
     ],
     "tags": [
+      "products",
       "health",
       "beauty",
       "accessories"

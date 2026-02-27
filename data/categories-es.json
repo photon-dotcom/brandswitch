@@ -1,53 +1,58 @@
 [
   {
-    "name": "Accessories",
-    "slug": "accessories",
-    "brandCount": 210
-  },
-  {
-    "name": "Health & Beauty",
-    "slug": "health-and-beauty",
-    "brandCount": 205
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 1195
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 205
+    "brandCount": 213
+  },
+  {
+    "name": "Accessories",
+    "slug": "accessories",
+    "brandCount": 211
+  },
+  {
+    "name": "Health & Beauty",
+    "slug": "health-and-beauty",
+    "brandCount": 208
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 180
+    "brandCount": 186
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 173
+    "brandCount": 175
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 157
+    "brandCount": 159
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 150
+    "brandCount": 154
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 144
+    "brandCount": 146
   },
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 100
+    "brandCount": 102
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 76
+    "brandCount": 85
   },
   {
     "name": "Auto & Tires",
@@ -62,7 +67,7 @@
   {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
-    "brandCount": 54
+    "brandCount": 55
   },
   {
     "name": "Toys & Games",
@@ -77,16 +82,16 @@
   {
     "name": "Pets",
     "slug": "pets",
-    "brandCount": 29
+    "brandCount": 37
+  },
+  {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "brandCount": 28
   },
   {
     "name": "Baby & Toddler",
     "slug": "baby-and-toddler",
     "brandCount": 25
-  },
-  {
-    "name": "Office Supplies",
-    "slug": "office-supplies",
-    "brandCount": 24
   }
 ]

@@ -89,8 +89,12 @@
     "domain": "analystprep.com",
     "description": "",
     "logo": "https://logo.clearbit.com/analystprep.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/analyst-preparation-inc?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/analyst-preparation-inc?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -171,9 +175,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/davincivaporizer.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -197,8 +203,12 @@
     "domain": "dia.com",
     "description": "",
     "logo": "https://logo.clearbit.com/dia.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/dia-and-co?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/dia-and-co?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -275,10 +285,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/jrdunn.com?size=200",
     "categories": [
-      "Accessories"
+      "Accessories",
+      "Products"
     ],
     "tags": [
-      "accessories"
+      "accessories",
+      "products"
     ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/jr-dunn-jewelers?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -417,11 +429,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/sleepyhead.jpg",
     "categories": [
-      "Home & Garden"
+      "Home & Garden",
+      "Products"
     ],
     "tags": [
       "home",
-      "garden"
+      "garden",
+      "products"
     ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/sleepyhead?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -538,9 +552,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/abercrombie.com?size=200",
     "categories": [
+      "Products",
       "Clothing"
     ],
     "tags": [
+      "products",
       "clothing"
     ],
     "country": "US",
@@ -564,10 +580,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/alimiles-com-1708500180.png",
     "categories": [
-      "Clothing"
+      "Clothing",
+      "Products"
     ],
     "tags": [
-      "clothing"
+      "clothing",
+      "products"
     ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/alimiles-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -589,8 +607,12 @@
     "domain": "ascotandhart.com",
     "description": "",
     "logo": "https://logo.clearbit.com/ascotandhart.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/ascotandhart-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ascotandhart-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -612,9 +634,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/discoverasr-com-us-1729066028.png",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -639,10 +663,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/baer.tools?size=200",
     "categories": [
+      "Products",
       "Auto & Tires",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "auto",
       "tires",
       "home",
@@ -668,8 +694,12 @@
     "domain": "buy-honeybucket.com",
     "description": "",
     "logo": "https://logo.clearbit.com/buy-honeybucket.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/buy-honeybucket-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
@@ -691,10 +721,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/buy.points.com?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations",
       "digital",
@@ -721,8 +753,12 @@
     "domain": "cash.app",
     "description": "",
     "logo": "https://logo.clearbit.com/cash.app?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/cash-app?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/cash-app?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -833,8 +869,12 @@
     "domain": "chinesean.com",
     "description": "",
     "logo": "https://logo.clearbit.com/chinesean.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/chinesean-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/chinesean-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -883,9 +923,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/crownandcaliber.com?size=200",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "US",
@@ -909,9 +951,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/daysmart.com?size=200",
     "categories": [
+      "Electronics",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "electronics",
       "digital",
       "services",
       "streaming"
@@ -937,9 +981,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/deals.getomnidatasafe.io?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -965,9 +1011,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/deals.getthephotostickomni.io?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "US",
@@ -991,9 +1039,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/directmobile.co.uk?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "US",
@@ -1016,8 +1066,12 @@
     "domain": "free-spirit-shop.com",
     "description": "",
     "logo": "https://logo.clearbit.com/free-spirit-shop.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/free-spirit-shop-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
@@ -1038,8 +1092,12 @@
     "domain": "free.lesko.com",
     "description": "",
     "logo": "https://logo.clearbit.com/free.lesko.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/free-lesko-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/free-lesko-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1061,9 +1119,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/getmyimmunity-com-1738924377.png",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1087,8 +1147,12 @@
     "domain": "us.got-bag.com",
     "description": "",
     "logo": "https://logo.clearbit.com/us.got-bag.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/us-got-bag-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/us-got-bag-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1109,8 +1173,12 @@
     "domain": "weareholy.com",
     "description": "",
     "logo": "https://logo.clearbit.com/weareholy.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Clothing"
+    ],
+    "tags": [
+      "clothing"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/weareholy-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/weareholy-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1131,8 +1199,12 @@
     "domain": "lazada.com",
     "description": "",
     "logo": "https://logo.clearbit.com/lazada.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/lazada-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/lazada-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1154,9 +1226,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/mysmileteeth-com-1748335569.png",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1180,8 +1254,12 @@
     "domain": "hi.octafx.com",
     "description": "",
     "logo": "https://logo.clearbit.com/hi.octafx.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/hi-octafx-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/hi-octafx-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1230,11 +1308,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/shop-theufl-com-1749709688.png",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories",
       "sports",
@@ -1262,9 +1342,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/snapmaker.com?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1402,8 +1484,12 @@
     "domain": "usercentrics.com",
     "description": "",
     "logo": "https://logo.clearbit.com/usercentrics.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/usercentrics-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/usercentrics-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1425,9 +1511,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/wholesalescarvesusa-com-1737449716.png",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "US",
@@ -1450,8 +1538,12 @@
     "domain": "5sens.co",
     "description": "",
     "logo": "https://logo.clearbit.com/5sens.co?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/5sens-co-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/5sens-co-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1473,9 +1565,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/a-listbossybags.com?size=200",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "US",
@@ -1498,8 +1592,12 @@
     "domain": "ajanmore.com",
     "description": "",
     "logo": "https://logo.clearbit.com/ajanmore.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/ajanmore-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ajanmore-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1521,10 +1619,14 @@
     "description": "",
     "logo": "https://logo.clearbit.com/aglowpamperparty.com?size=200",
     "categories": [
+      "Gifts, Flowers & Parties",
       "Health & Beauty",
       "Events & Entertainment"
     ],
     "tags": [
+      "gifts",
+      "flowers",
+      "parties",
       "health",
       "beauty",
       "events",
@@ -1550,8 +1652,12 @@
     "domain": "ajuvia.com",
     "description": "",
     "logo": "https://logo.clearbit.com/ajuvia.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/ajuvia-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ajuvia-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1600,10 +1706,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/bandier.com?size=200",
     "categories": [
+      "Products",
       "Clothing",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "clothing",
       "sports",
       "outdoors",
@@ -1658,9 +1766,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/captions.com?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -1686,10 +1796,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/myconsumers-org-1731043614.jpg",
     "categories": [
+      "Products",
       "Digital Services & Streaming",
       "Subscription Boxes & Services"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming",
@@ -1716,8 +1828,12 @@
     "domain": "enterprisedna.co",
     "description": "",
     "logo": "https://logo.clearbit.com/enterprisedna.co?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/enterprisedna-co-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/enterprisedna-co-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1738,8 +1854,12 @@
     "domain": "survivallife.com",
     "description": "",
     "logo": "https://logo.clearbit.com/survivallife.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/survivallife-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
@@ -1761,9 +1881,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/winnermedicalstore.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1787,8 +1909,12 @@
     "domain": "365inlove.com",
     "description": "",
     "logo": "https://logo.clearbit.com/365inlove.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/365inlove-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/365inlove-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1810,9 +1936,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/aaawholesalecompany-com-1753861381.png",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1836,8 +1964,12 @@
     "domain": "artralab.com",
     "description": "",
     "logo": "https://logo.clearbit.com/artralab.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/artralab-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/artralab-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1858,8 +1990,12 @@
     "domain": "astorandorion.com",
     "description": "",
     "logo": "https://logo.clearbit.com/astorandorion.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/astorandorion-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/astorandorion-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1881,10 +2017,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/barrywang-com-1716441776.png",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories"
     ],
@@ -1909,9 +2047,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/equinoxplus.com?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -1936,8 +2076,12 @@
     "domain": "figure.com",
     "description": "",
     "logo": "https://logo.clearbit.com/figure.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/figure-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/figure-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1959,10 +2103,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/forloveandlemons-com-1708228183.png",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories"
     ],
@@ -1986,8 +2132,12 @@
     "domain": "junilearning.com",
     "description": "",
     "logo": "https://logo.clearbit.com/junilearning.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/junilearning-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/junilearning-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -2008,8 +2158,12 @@
     "domain": "lisettel.com",
     "description": "",
     "logo": "https://logo.clearbit.com/lisettel.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/lisettel-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/lisettel-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -2031,9 +2185,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/mymobilex-com-1767608123.png",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -2059,15 +2215,15 @@
     "description": "",
     "logo": "https://logo.clearbit.com/questnutrition.com?size=200",
     "categories": [
-      "Health & Beauty",
-      "Food, Drinks & Restaurants"
+      "Food, Drinks & Restaurants",
+      "Health & Beauty"
     ],
     "tags": [
-      "health",
-      "beauty",
       "food",
       "drinks",
-      "restaurants"
+      "restaurants",
+      "health",
+      "beauty"
     ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/questnutrition-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2090,9 +2246,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/carpuride.com?size=200",
     "categories": [
+      "Products",
       "Auto & Tires"
     ],
     "tags": [
+      "products",
       "auto",
       "tires"
     ],
@@ -2117,9 +2275,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/us.technics.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "US",
@@ -2143,9 +2303,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/vitalpharmacysupplies.com.au?size=200",
     "categories": [
+      "Office Supplies",
       "Health & Beauty"
     ],
     "tags": [
+      "office",
+      "supplies",
       "health",
       "beauty"
     ],
@@ -2163,6 +2326,32 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "108271",
+    "name": "Bcbg - Bcbgmaxazria",
+    "slug": "bcbg-bcbgmaxazria",
+    "domain": "bcbg.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/bcbg.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/bcbg-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bcbg-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "182760",
     "name": "Buy Gazelle",
     "slug": "buy-gazelle",
@@ -2170,9 +2359,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/buy.gazelle.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "US",
@@ -2196,9 +2387,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/easy-peasy.ai?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -2223,8 +2416,12 @@
     "domain": "get-himalla.com",
     "description": "",
     "logo": "https://logo.clearbit.com/get-himalla.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/get-himalla-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/get-himalla-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2245,8 +2442,12 @@
     "domain": "get-syngas.com",
     "description": "",
     "logo": "https://logo.clearbit.com/get-syngas.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/get-syngas-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/get-syngas-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2268,9 +2469,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/gethygenius-ionic-toothbrush.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2295,9 +2498,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/healthy-future.site?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2322,9 +2527,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/her-haus.com?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -2349,9 +2556,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/makeamerica-slimagain.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2376,9 +2585,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/metatrim.trustednutraproduct.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2403,9 +2614,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/nutri-magic.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2429,8 +2642,12 @@
     "domain": "proxy-seller.com",
     "description": "",
     "logo": "https://logo.clearbit.com/proxy-seller.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/proxy-seller-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/proxy-seller-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2452,9 +2669,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/satisfyer-us-1712124195.png",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -2478,8 +2697,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2501,10 +2724,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/us-frankgreen-com-1722505597.jpg",
     "categories": [
+      "Products",
       "Accessories",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "accessories",
       "home",
       "garden"
@@ -2556,8 +2781,12 @@
     "domain": "fabtastic.co",
     "description": "",
     "logo": "https://logo.clearbit.com/fabtastic.co?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.shoptastic.io/us/store/fabtastic-co-us?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/us/store/fabtastic-co-us?userId=88888889&subId={your tracking code}&url={deeplink target url}",
@@ -2631,8 +2860,12 @@
     "domain": "free-now.com",
     "description": "",
     "logo": "https://logo.clearbit.com/free-now.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.shoptastic.io/us/store/free-now-com?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/us/store/free-now-com?userId=88888889&subId={your tracking code}&url={deeplink target url}",
@@ -2653,8 +2886,12 @@
     "domain": "de.weareholy.com",
     "description": "",
     "logo": "https://logo.clearbit.com/de.weareholy.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Clothing"
+    ],
+    "tags": [
+      "clothing"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.shoptastic.io/us/store/de-weareholy-com?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/us/store/de-weareholy-com?userId=88888889&subId={your tracking code}&url={deeplink target url}",
@@ -2733,8 +2970,12 @@
     "domain": "wholesaletomillion.com",
     "description": "",
     "logo": "https://logo.clearbit.com/wholesaletomillion.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.shoptastic.io/us/store/wholesaletomillion-com-us?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/us/store/wholesaletomillion-com-us?userId=88888889&subId={your tracking code}&url={deeplink target url}",
@@ -2755,8 +2996,12 @@
     "domain": "awesomitems.com",
     "description": "",
     "logo": "https://logo.clearbit.com/awesomitems.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "US",
     "affiliateUrl": "https://www.shoptastic.io/us/store/awesomitems-com-us?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/us/store/awesomitems-com-us?userId=88888889&subId={your tracking code}&url={deeplink target url}",

@@ -6,8 +6,12 @@
     "domain": "analystprep.com",
     "description": "",
     "logo": "https://logo.clearbit.com/analystprep.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/analystprep-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/analystprep-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -28,8 +32,12 @@
     "domain": "aspect-shop.de",
     "description": "",
     "logo": "https://logo.clearbit.com/aspect-shop.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/aspect-shop-de?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/aspect-shop-de?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -82,9 +90,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/dein-gizmo.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "DE",
@@ -108,9 +118,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/die-beraterapotheke.de?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -134,8 +146,12 @@
     "domain": "dw-shop.de",
     "description": "",
     "logo": "https://logo.clearbit.com/dw-shop.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/dw-shop-de?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/dw-shop-de?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -157,9 +173,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/easy-tecs.de?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "DE",
@@ -210,9 +228,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/hygiene-shop.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -237,9 +257,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/juwelier-dietz.de?size=200",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "DE",
@@ -263,9 +285,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/loewen-apotheke24.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -289,8 +313,12 @@
     "domain": "meta-m.de",
     "description": "",
     "logo": "https://logo.clearbit.com/meta-m.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/meta-m-de?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/meta-m-de?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -312,9 +340,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/nova-motors.de?size=200",
     "categories": [
+      "Products",
       "Auto & Tires"
     ],
     "tags": [
+      "products",
       "auto",
       "tires"
     ],
@@ -370,9 +400,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/parkett-agentur.de?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -397,9 +429,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/de-de.sennheiser.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "DE",
@@ -423,9 +457,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/sleekshop.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -450,9 +486,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/wiemann-lehrmittel.de?size=200",
     "categories": [
+      "Products",
       "Office Supplies"
     ],
     "tags": [
+      "products",
       "office",
       "supplies"
     ],
@@ -476,8 +514,12 @@
     "domain": "donnerde.com",
     "description": "",
     "logo": "https://logo.clearbit.com/donnerde.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/donnerde-com-de?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/donnerde-com-de?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -499,11 +541,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/baer-tools-1741674428.png",
     "categories": [
+      "Products",
       "Accessories",
       "Auto & Tires",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "accessories",
       "auto",
       "tires",
@@ -557,9 +601,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/suntour-reisen-de-1757928056.png",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -610,8 +656,12 @@
     "domain": "ampm-store.de",
     "description": "",
     "logo": "https://logo.clearbit.com/ampm-store.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/ampm-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ampm-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -632,8 +682,12 @@
     "domain": "ara-shoes.de",
     "description": "",
     "logo": "https://logo.clearbit.com/ara-shoes.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Shoes"
+    ],
+    "tags": [
+      "shoes"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/ara-shoes-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ara-shoes-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -655,11 +709,13 @@
     "description": "",
     "logo": "https://logo.clearbit.com/arbeitsbedarf24.de?size=200",
     "categories": [
+      "Products",
       "Clothing",
       "Home & Garden",
       "Office Supplies"
     ],
     "tags": [
+      "products",
       "clothing",
       "home",
       "garden",
@@ -687,9 +743,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/axa-de-1732520828.png",
     "categories": [
+      "Products",
       "Subscription Boxes & Services"
     ],
     "tags": [
+      "products",
       "subscription",
       "boxes",
       "services"
@@ -714,8 +772,12 @@
     "domain": "beurer-shop.de",
     "description": "",
     "logo": "https://logo.clearbit.com/beurer-shop.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/beurer-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/beurer-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -765,9 +827,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/fewo-direkt-de-1741589650.png",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -820,9 +884,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/fitshop.co.uk?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -847,8 +913,12 @@
     "domain": "fr.vente-unique.be",
     "description": "",
     "logo": "https://logo.clearbit.com/fr.vente-unique.be?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/fr-vente-unique-be-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/fr-vente-unique-be-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -863,33 +933,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "181291",
-    "name": "Garten Schlueter",
-    "slug": "garten-schlueter",
-    "domain": "garten-schlueter.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/garten-schlueter.de?size=200",
-    "categories": [
-      "Home & Garden"
-    ],
-    "tags": [
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/garten-schlueter-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/garten-schlueter-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "406013",
     "name": "Manomano",
     "slug": "manomano",
@@ -897,9 +940,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/manomano.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -917,33 +962,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "119787",
-    "name": "Moebelmeile",
-    "slug": "moebelmeile24",
-    "domain": "moebelmeile24.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/moebelmeile24.de?size=200",
-    "categories": [
-      "Home & Garden"
-    ],
-    "tags": [
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/moebelmeile24-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/moebelmeile24-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "308257",
     "name": "Nature Heart",
     "slug": "nature-heart",
@@ -951,9 +969,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/nature-heart.de?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -978,9 +998,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/premierinn.co.uk?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -998,57 +1020,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "329706",
-    "name": "Sale Cc",
-    "slug": "sale-cc",
-    "domain": "sale-cc.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/sale-cc.de?size=200",
-    "categories": [],
-    "tags": [],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/sale-cc-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/sale-cc-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "330425",
-    "name": "Scandinavian Lifestyle",
-    "slug": "scandinavian-lifestyle",
-    "domain": "scandinavian-lifestyle.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/scandinavian-lifestyle.de?size=200",
-    "categories": [
-      "Clothing",
-      "Home & Garden"
-    ],
-    "tags": [
-      "clothing",
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/scandinavian-lifestyle-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/scandinavian-lifestyle-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "328961",
     "name": "Mein schöner Garten",
     "slug": "shop-mein-schoener-garten",
@@ -1056,9 +1027,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/mein-schoener-garten.de?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1083,9 +1056,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/spiele-offensive.de?size=200",
     "categories": [
+      "Products",
       "Toys & Games"
     ],
     "tags": [
+      "products",
       "toys",
       "games"
     ],
@@ -1110,9 +1085,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/switch-bot.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "DE",
@@ -1136,9 +1113,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/demoware.technikdirekt.de?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "DE",
@@ -1161,8 +1140,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -1183,8 +1166,12 @@
     "domain": "vente-unique.be",
     "description": "",
     "logo": "https://logo.clearbit.com/vente-unique.be?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/vente-unique-be-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/vente-unique-be-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -1205,8 +1192,13 @@
     "domain": "baby-nova-shop.de",
     "description": "",
     "logo": "https://logo.clearbit.com/baby-nova-shop.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Baby & Toddler"
+    ],
+    "tags": [
+      "baby",
+      "toddler"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/baby-nova-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/baby-nova-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -1228,10 +1220,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/schicker-mineral.de?size=200",
     "categories": [
+      "Products",
       "Health & Beauty",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "health",
       "beauty",
       "home",
@@ -1380,8 +1374,12 @@
     "domain": "handelsangebote.de",
     "description": "",
     "logo": "https://logo.clearbit.com/handelsangebote.de?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.shoptastic.io/de/store/handelsangebote-de?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/de/store/handelsangebote-de?userId=88888889&subId={your tracking code}&url={deeplink target url}",
@@ -1402,8 +1400,12 @@
     "domain": "de.klinc.com",
     "description": "",
     "logo": "https://logo.clearbit.com/de.klinc.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "DE",
     "affiliateUrl": "https://www.shoptastic.io/de/store/de-klinc-com?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/de/store/de-klinc-com?userId=88888889&subId={your tracking code}&url={deeplink target url}",

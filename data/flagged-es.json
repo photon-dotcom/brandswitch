@@ -7,9 +7,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/es-es.ring.com?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "ES",
@@ -32,8 +34,12 @@
     "domain": "toluna.com",
     "description": "",
     "logo": "https://logo.clearbit.com/toluna.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "ES",
     "affiliateUrl": "https://www.pickalink.com/click/toluna-com-es?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/toluna-com-es?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -54,8 +60,12 @@
     "domain": "hbm-machines.com",
     "description": "",
     "logo": "https://logo.clearbit.com/hbm-machines.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "ES",
     "affiliateUrl": "https://www.pickalink.com/click/hbm-machines-com-cpc-es?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/hbm-machines-com-cpc-es?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -76,8 +86,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "ES",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-es?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-es?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

@@ -43,11 +43,13 @@
     "categories": [
       "Clothing",
       "Accessories",
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
       "clothing",
       "accessories",
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -66,27 +68,29 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "206",
+    "id": "312009",
     "name": "Buy Sheds Direct",
     "slug": "buy-sheds-direct",
     "domain": "buyshedsdirect.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/buy-sheds-direct-1718874312.png",
     "categories": [
+      "Products",
       "Health & Beauty",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "health",
       "beauty",
       "home",
       "garden"
     ],
     "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/buy-sheds-direct?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/buy-sheds-direct?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/buyshedsdirect-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/buyshedsdirect-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "Up to 3.3250%",
+    "commission": "3.33%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [],
@@ -129,8 +133,12 @@
     "domain": "chitterchatter.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/chitterchatter.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/chitterchatter-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/chitterchatter-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -152,9 +160,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/cineworld.co.uk?size=200",
     "categories": [
+      "Products",
       "Events & Entertainment"
     ],
     "tags": [
+      "products",
       "events",
       "entertainment"
     ],
@@ -178,8 +188,12 @@
     "domain": "corkk.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/corkk.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/corkk-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/corkk-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -201,9 +215,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/countrywidepaintball.co.uk?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -228,8 +244,12 @@
     "domain": "crimpit.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/crimpit.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/crimpit-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/crimpit-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -251,10 +271,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/alamo.co.uk?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations",
       "Auto & Tires"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations",
       "auto",
@@ -348,9 +370,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/discount-london.com?size=200",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -374,8 +398,12 @@
     "domain": "dwell.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/dwell.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/dwell-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/dwell-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -397,9 +425,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/ecigaretteweb.co.uk?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -424,9 +454,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/equus.co.uk?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -451,8 +483,12 @@
     "domain": "forthwithlife.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/forthwithlife.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/forthwithlife-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/forthwithlife-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -499,8 +535,12 @@
     "domain": "marketing.rakuten.com",
     "description": "",
     "logo": "https://logo.clearbit.com/marketing.rakuten.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/marketing-rakuten-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/marketing-rakuten-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -522,9 +562,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/mowdirect.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -549,9 +591,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/nomadluggage.co.uk?size=200",
     "categories": [
+      "Accessories",
       "Travel & Vacations"
     ],
     "tags": [
+      "accessories",
       "travel",
       "vacations"
     ],
@@ -681,8 +725,12 @@
     "domain": "system.shoptimised.com",
     "description": "",
     "logo": "https://logo.clearbit.com/system.shoptimised.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/system-shoptimised-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/system-shoptimised-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -703,8 +751,12 @@
     "domain": "sosala.com",
     "description": "",
     "logo": "https://logo.clearbit.com/sosala.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/sosala-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/sosala-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -726,9 +778,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/stanfords-1707123158.png",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -753,9 +807,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/sweetsdirect.co.uk?size=200",
     "categories": [
+      "Products",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "food",
       "drinks",
       "restaurants"
@@ -807,8 +863,13 @@
     "domain": "teletextholidays.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/teletextholidays.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/teletextholidays-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/teletextholidays-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -829,8 +890,12 @@
     "domain": "uk.tigerwit.com",
     "description": "",
     "logo": "https://logo.clearbit.com/uk.tigerwit.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/uk-tigerwit-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/uk-tigerwit-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -879,8 +944,12 @@
     "domain": "twentyfifth.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/twentyfifth.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/twentyfifth-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/twentyfifth-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -932,9 +1001,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/postedsweets.co.uk?size=200",
     "categories": [
+      "Products",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "food",
       "drinks",
       "restaurants"
@@ -960,9 +1031,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/roofingsuppliesuk.co.uk?size=200",
     "categories": [
+      "Office Supplies",
       "Home & Garden"
     ],
     "tags": [
+      "office",
+      "supplies",
       "home",
       "garden"
     ],
@@ -987,9 +1061,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/snowboard-asylum.com?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -1015,9 +1091,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/a-couvert.com?size=200",
     "categories": [
+      "Products",
       "Gifts, Flowers & Parties"
     ],
     "tags": [
+      "products",
       "gifts",
       "flowers",
       "parties"
@@ -1042,8 +1120,12 @@
     "domain": "uk.allies.shop",
     "description": "",
     "logo": "https://logo.clearbit.com/uk.allies.shop?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/uk-allies-shop?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/uk-allies-shop?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1091,8 +1173,12 @@
     "domain": "apexlearning.org.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/apexlearning.org.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/apexlearning-org-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/apexlearning-org-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1114,10 +1200,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bargainhardware-co-uk-1768901642.png",
     "categories": [
+      "Products",
       "Electronics",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "electronics",
       "home",
       "garden"
@@ -1143,9 +1231,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/be-fibre-co-uk-gb-1712642133.png",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -1171,9 +1261,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bristolairportparkingsolutions-co-uk-1719898448.png",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "UK",
@@ -1197,10 +1289,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/buymeonce-co-uk-uk-1718681699.png",
     "categories": [
+      "Products",
       "Clothing",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "clothing",
       "home",
       "garden"
@@ -1226,6 +1320,7 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/buytogive-co-uk-1718620187.png",
     "categories": [
+      "Products",
       "Clothing",
       "Electronics",
       "Health & Beauty",
@@ -1235,6 +1330,7 @@
       "Toys & Games"
     ],
     "tags": [
+      "products",
       "clothing",
       "electronics",
       "health",
@@ -1269,6 +1365,7 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/clearancexl-co-uk-1713272365.jpg",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories",
       "Food, Drinks & Restaurants",
@@ -1276,6 +1373,7 @@
       "Toys & Games"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories",
       "food",
@@ -1305,8 +1403,12 @@
     "domain": "existentialthread.clothing",
     "description": "",
     "logo": "https://logo.clearbit.com/existentialthread.clothing?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Clothing"
+    ],
+    "tags": [
+      "clothing"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/existentialthread-clothing?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/existentialthread-clothing?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1327,8 +1429,13 @@
     "domain": "fitpink.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/fitpink.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Office Supplies"
+    ],
+    "tags": [
+      "office",
+      "supplies"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/fitpink-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/fitpink-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1349,8 +1456,12 @@
     "domain": "free-now.com",
     "description": "",
     "logo": "https://logo.clearbit.com/free-now.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/free-now-com-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/free-now-com-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1372,9 +1483,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/funnyfuzzy-co-uk-1732783058.png",
     "categories": [
+      "Products",
       "Pets"
     ],
     "tags": [
+      "products",
       "pets"
     ],
     "country": "UK",
@@ -1398,10 +1511,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/gravity-global-com-1753434829.png",
     "categories": [
+      "Products",
       "Events & Entertainment",
       "Toys & Games"
     ],
     "tags": [
+      "products",
       "events",
       "entertainment",
       "toys",
@@ -1428,9 +1543,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/katesomerville.co.uk?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1454,8 +1571,12 @@
     "domain": "logsonline.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/logsonline.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/logsonline-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/logsonline-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1476,8 +1597,12 @@
     "domain": "mobilityinmotion.com",
     "description": "",
     "logo": "https://logo.clearbit.com/mobilityinmotion.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/mobilityinmotion-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/mobilityinmotion-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1499,9 +1624,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/oakandhyde.com?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1525,8 +1652,12 @@
     "domain": "pauljohnsoncoaching.com",
     "description": "",
     "logo": "https://logo.clearbit.com/pauljohnsoncoaching.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/pauljohnsoncoaching-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
@@ -1547,8 +1678,15 @@
     "domain": "joinrooster.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/joinrooster.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Auto & Tires",
+      "Products"
+    ],
+    "tags": [
+      "auto",
+      "tires",
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/joinrooster-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
@@ -1570,9 +1708,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/skinstation.co.uk?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -1597,9 +1737,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/stonecare4u.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1623,8 +1765,12 @@
     "domain": "tobermorydistillery.com",
     "description": "",
     "logo": "https://logo.clearbit.com/tobermorydistillery.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/tobermorydistillery-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/tobermorydistillery-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1645,8 +1791,12 @@
     "domain": "winternational.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/winternational.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Clothing"
+    ],
+    "tags": [
+      "clothing"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/winternational-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/winternational-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -1668,9 +1818,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/1pmobile.co.uk?size=200",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "UK",
@@ -1693,8 +1845,12 @@
     "domain": "anastasiabeverlyhills.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/anastasiabeverlyhills.co.uk?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/anastasiabeverlyhills-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/anastasiabeverlyhills-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -1716,64 +1872,16 @@
     "description": "",
     "logo": "https://logo.clearbit.com/aspinaloflondon.co.uk?size=200",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/aspinaloflondon-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/aspinaloflondon-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "303926",
-    "name": "Atkin and Thyme",
-    "slug": "atkin-and-thyme",
-    "domain": "atkinandthyme.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/atkinandthyme.co.uk?size=200",
-    "categories": [
-      "Food, Drinks & Restaurants"
-    ],
-    "tags": [
-      "food",
-      "drinks",
-      "restaurants"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/atkinandthyme-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/atkinandthyme-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "306499",
-    "name": "Benjaminbutton",
-    "slug": "benjaminbutton",
-    "domain": "benjaminbutton.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/benjaminbutton.co.uk?size=200",
-    "categories": [],
-    "tags": [],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/benjaminbutton-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/benjaminbutton-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -1792,9 +1900,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/buyfencingdirect.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1846,9 +1956,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/capsulecrm.com?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -1874,9 +1986,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/dtbrownseeds.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -1901,10 +2015,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/fortnumandmason.co.uk?size=200",
     "categories": [
+      "Products",
       "Gifts, Flowers & Parties",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "gifts",
       "flowers",
       "parties",
@@ -1933,9 +2049,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/lovellsoccer.co.uk?size=200",
     "categories": [
+      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "sports",
       "outdoors",
       "fitness"
@@ -1961,9 +2079,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/morrisons.co.uk?size=200",
     "categories": [
+      "Products",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "food",
       "drinks",
       "restaurants"
@@ -2015,9 +2135,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/okadirect.co.uk?size=200",
     "categories": [
+      "Products",
       "Home & Garden"
     ],
     "tags": [
+      "products",
       "home",
       "garden"
     ],
@@ -2042,9 +2164,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/ray-ban.com?size=200",
     "categories": [
+      "Products",
       "Accessories"
     ],
     "tags": [
+      "products",
       "accessories"
     ],
     "country": "UK",
@@ -2061,6 +2185,34 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "308219",
+    "name": "Shop Uk Haier Europe",
+    "slug": "shop-uk-haier-europe",
+    "domain": "shop-uk.haier-europe.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/shop-uk.haier-europe.com?size=200",
+    "categories": [
+      "Products",
+      "Electronics"
+    ],
+    "tags": [
+      "products",
+      "electronics"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/shop-uk-haier-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/shop-uk-haier-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "109484",
     "name": "thebodyshop",
     "slug": "thebodyshop",
@@ -2068,9 +2220,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/thebodyshop.co.uk?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -2095,9 +2249,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/three-co-uk-1754476072.png",
     "categories": [
+      "Products",
       "Electronics"
     ],
     "tags": [
+      "products",
       "electronics"
     ],
     "country": "UK",
@@ -2120,8 +2276,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2170,8 +2330,12 @@
     "domain": "one.com",
     "description": "",
     "logo": "https://logo.clearbit.com/one.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/one-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/one-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -2192,8 +2356,12 @@
     "domain": "buy.myzone.org",
     "description": "",
     "logo": "https://logo.clearbit.com/buy.myzone.org?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "UK",
     "affiliateUrl": "https://www.shoptastic.io/uk/store/buy-myzone-org?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/uk/store/buy-myzone-org?userId=88888889&subId={your tracking code}&url={deeplink target url}",

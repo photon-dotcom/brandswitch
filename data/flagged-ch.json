@@ -7,9 +7,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/ch.mymuesli.com?size=200",
     "categories": [
+      "Products",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "food",
       "drinks",
       "restaurants"
@@ -35,9 +37,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/fc-moto.de?size=200",
     "categories": [
+      "Products",
       "Auto & Tires"
     ],
     "tags": [
+      "products",
       "auto",
       "tires"
     ],

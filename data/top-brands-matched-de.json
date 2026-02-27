@@ -181,11 +181,6 @@
   ],
   "home-and-garden": [
     {
-      "rank": 1,
-      "name": "Wayfair",
-      "slug": "wayfair"
-    },
-    {
       "rank": 13,
       "name": "KitchenAid",
       "slug": "kitchenaid"
@@ -271,11 +266,6 @@
       "rank": 3,
       "name": "PlayStation Direct",
       "slug": "playstation-direct"
-    },
-    {
-      "rank": 5,
-      "name": "Gamestop",
-      "slug": "gamestop"
     }
   ],
   "office-supplies": [

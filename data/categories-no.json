@@ -1,48 +1,58 @@
 [
   {
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 364
+  },
+  {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 46
+    "brandCount": 48
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 38
+    "brandCount": 39
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 34
+    "brandCount": 35
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 32
+    "brandCount": 33
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 30
+    "brandCount": 31
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 30
+    "brandCount": 31
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 29
+    "brandCount": 31
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 28
+    "brandCount": 30
   },
   {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
     "brandCount": 14
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 12
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -55,14 +65,19 @@
     "brandCount": 11
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 11
-  },
-  {
     "name": "Toys & Games",
     "slug": "toys-and-games",
     "brandCount": 10
+  },
+  {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "brandCount": 9
+  },
+  {
+    "name": "Pets",
+    "slug": "pets",
+    "brandCount": 8
   },
   {
     "name": "Baby & Toddler",
@@ -70,19 +85,9 @@
     "brandCount": 7
   },
   {
-    "name": "Pets",
-    "slug": "pets",
-    "brandCount": 7
-  },
-  {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 5
-  },
-  {
-    "name": "Office Supplies",
-    "slug": "office-supplies",
-    "brandCount": 5
+    "brandCount": 6
   },
   {
     "name": "Subscription Boxes & Services",

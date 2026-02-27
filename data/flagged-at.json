@@ -7,9 +7,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/afega-anti-aging-shop.com?size=200",
     "categories": [
+      "Products",
       "Health & Beauty"
     ],
     "tags": [
+      "products",
       "health",
       "beauty"
     ],
@@ -33,11 +35,41 @@
     "domain": "akkushop-austria.at",
     "description": "",
     "logo": "https://logo.clearbit.com/akkushop-austria.at?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "AT",
     "affiliateUrl": "https://www.pickalink.com/click/akkushop-austria-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/akkushop-austria-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "327847",
+    "name": "Bessere Technik",
+    "slug": "bessere-technik",
+    "domain": "bessere-technik.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/bessere-technik.de?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "AT",
+    "affiliateUrl": "https://www.pickalink.com/click/bessere-technik-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bessere-technik-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",

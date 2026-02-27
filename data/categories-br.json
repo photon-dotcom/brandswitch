@@ -1,23 +1,28 @@
 [
   {
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 631
+  },
+  {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
     "brandCount": 70
   },
   {
-    "name": "Health & Beauty",
-    "slug": "health-and-beauty",
-    "brandCount": 62
-  },
-  {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 62
+    "brandCount": 65
+  },
+  {
+    "name": "Health & Beauty",
+    "slug": "health-and-beauty",
+    "brandCount": 64
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 46
+    "brandCount": 49
   },
   {
     "name": "Clothing",
@@ -27,27 +32,27 @@
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 41
+    "brandCount": 42
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 38
+    "brandCount": 40
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 31
+    "brandCount": 37
+  },
+  {
+    "name": "Sports, Outdoors & Fitness",
+    "slug": "sports-outdoors-and-fitness",
+    "brandCount": 35
   },
   {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
     "brandCount": 30
-  },
-  {
-    "name": "Sports, Outdoors & Fitness",
-    "slug": "sports-outdoors-and-fitness",
-    "brandCount": 29
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -57,7 +62,7 @@
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 21
+    "brandCount": 22
   },
   {
     "name": "Baby & Toddler",
@@ -75,18 +80,18 @@
     "brandCount": 11
   },
   {
-    "name": "Auto & Tires",
-    "slug": "auto-and-tires",
-    "brandCount": 7
-  },
-  {
     "name": "Pets",
     "slug": "pets",
-    "brandCount": 5
+    "brandCount": 9
   },
   {
     "name": "Office Supplies",
     "slug": "office-supplies",
-    "brandCount": 5
+    "brandCount": 9
+  },
+  {
+    "name": "Auto & Tires",
+    "slug": "auto-and-tires",
+    "brandCount": 7
   }
 ]

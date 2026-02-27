@@ -201,15 +201,12 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
 
               {/* CTA */}
               {brand.affiliateUrl && (
-                <div className="flex items-center gap-3">
-                  <AffiliateButton
-                    href={brand.affiliateUrl}
-                    label={`Visit ${displayName}`}
-                    variant="primary"
-                    size="lg"
-                  />
-                  <span className="text-xs text-bs-gray/70">Affiliate link</span>
-                </div>
+                <AffiliateButton
+                  href={brand.affiliateUrl}
+                  label={`Visit ${displayName}`}
+                  variant="primary"
+                  size="lg"
+                />
               )}
             </div>
           </div>

@@ -6,8 +6,12 @@
     "domain": "kahoy.no",
     "description": "",
     "logo": "https://logo.clearbit.com/kahoy.no?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "NO",
     "affiliateUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -29,10 +33,12 @@
     "description": "",
     "logo": "https://logo.clearbit.com/no.boohoo.com?size=200",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories"
     ],
@@ -56,8 +62,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "NO",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-no?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-no?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

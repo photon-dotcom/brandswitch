@@ -7,12 +7,14 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/dealscomau_logo.png",
     "categories": [
-      "Food, Drinks & Restaurants"
+      "Food, Drinks & Restaurants",
+      "Products"
     ],
     "tags": [
       "food",
       "drinks",
-      "restaurants"
+      "restaurants",
+      "products"
     ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/dealscomau?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -96,11 +98,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bravofly-au_logo.png",
     "categories": [
-      "Travel & Vacations"
+      "Travel & Vacations",
+      "Products"
     ],
     "tags": [
       "travel",
-      "vacations"
+      "vacations",
+      "products"
     ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/bravofly-au?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -181,8 +185,16 @@
     "domain": "dymocks.com.au",
     "description": "",
     "logo": "https://logo.clearbit.com/dymocks.com.au?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Gifts, Flowers & Parties",
+      "Products"
+    ],
+    "tags": [
+      "gifts",
+      "flowers",
+      "parties",
+      "products"
+    ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/dymocks-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/dymocks-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -342,10 +354,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/updown-desk-au-1725341094.png",
     "categories": [
+      "Products",
       "Accessories",
       "Office Supplies"
     ],
     "tags": [
+      "products",
       "accessories",
       "office",
       "supplies"
@@ -399,11 +413,13 @@
     "logo": "https://gstatic.shoptastic.io/web/storelogo/adrift-com-au-au-1723707358.png",
     "categories": [
       "Clothing",
-      "Accessories"
+      "Accessories",
+      "Products"
     ],
     "tags": [
       "clothing",
-      "accessories"
+      "accessories",
+      "products"
     ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/adrift-com-au-au?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -425,8 +441,12 @@
     "domain": "epzen.com.au",
     "description": "",
     "logo": "https://logo.clearbit.com/epzen.com.au?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/epzen-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/epzen-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -448,9 +468,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/globalexpress.rakuten.co.jp?size=200",
     "categories": [
+      "Products",
       "Digital Services & Streaming"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming"
@@ -476,10 +498,12 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/woolworths-com-au-1735027727.png",
     "categories": [
+      "Products",
       "Digital Services & Streaming",
       "Food, Drinks & Restaurants"
     ],
     "tags": [
+      "products",
       "digital",
       "services",
       "streaming",

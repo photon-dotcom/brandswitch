@@ -681,15 +681,7 @@ async function resolveLogoQuality(brand: Brand): Promise<LogoResolution> {
     }
   }
 
-  // 2. Logo.dev — HEAD returns 404, must use GET; no Content-Length so body is read
-  const logoDevUrl = `https://img.logo.dev/${domain}?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png`;
-  const ld = await checkUrl(logoDevUrl, 'GET');
-  await sleep(100);
-  if (ld.ok && ld.isImage && ld.size > LOGO_MIN_SIZE) {
-    return { logo: logoDevUrl, logoQuality: 'high', logoSource: 'logodev' };
-  }
-
-  // 3. CompanyEnrich — free, no auth (50ms politeness delay)
+  // 2. CompanyEnrich — free, no auth (50ms politeness delay)
   const ceUrl = `https://api.companyenrich.com/logo/${domain}`;
   const ce = await checkUrl(ceUrl);
   await sleep(50);
@@ -697,12 +689,20 @@ async function resolveLogoQuality(brand: Brand): Promise<LogoResolution> {
     return { logo: ceUrl, logoQuality: 'high', logoSource: 'companyenrich' };
   }
 
-  // 4. DeBounce — free, no auth (50ms politeness delay)
+  // 3. DeBounce — free, no auth (50ms politeness delay)
   const dbUrl = `https://logo.debounce.com/${domain}`;
   const db = await checkUrl(dbUrl);
   await sleep(50);
   if (db.ok && db.isImage && db.size > LOGO_MIN_SIZE) {
     return { logo: dbUrl, logoQuality: 'high', logoSource: 'debounce' };
+  }
+
+  // 4. Logo.dev — lower priority due to occasional incorrect logos; GET required
+  const logoDevUrl = `https://img.logo.dev/${domain}?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png`;
+  const ld = await checkUrl(logoDevUrl, 'GET');
+  await sleep(100);
+  if (ld.ok && ld.isImage && ld.size > LOGO_MIN_SIZE) {
+    return { logo: logoDevUrl, logoQuality: 'high', logoSource: 'logodev' };
   }
 
   // 5. Clearbit — existing fallback
@@ -758,9 +758,9 @@ function loadExistingLogoCache(): Map<string, { logo: string; logoQuality: Brand
 async function resolveAllLogos(brands: Brand[]): Promise<void> {
   const existingCache = loadExistingLogoCache();
 
-  // Apply cached logos — skip brands already at logodev/api/clearbit/inherited quality
-  // Re-fetch companyenrich/debounce brands so Logo.dev (higher priority) gets a chance
-  const STABLE_SOURCES = new Set<Brand['logoSource']>(['api', 'logodev', 'clearbit', 'inherited']);
+  // Apply cached logos — skip brands already resolved from stable high-quality sources.
+  // Logo.dev is NOT stable: CompanyEnrich/DeBounce now outrank it, so logodev brands get re-fetched.
+  const STABLE_SOURCES = new Set<Brand['logoSource']>(['api', 'clearbit', 'inherited', 'companyenrich', 'debounce']);
   for (const brand of brands) {
     const cached = existingCache.get(brand.domain);
     if (!cached) continue;
@@ -1026,6 +1026,78 @@ function computeSimilarity(brands: Brand[], topN = 15): Brand[] {
   return brands;
 }
 
+// ── Category Inference ────────────────────────────────────────────────────────
+
+/** Maps keyword patterns to canonical API category names (must match translations.ts exactly) */
+const CATEGORY_KEYWORDS: Array<{ pattern: RegExp; category: string }> = [
+  { pattern: /shoe|boot|sneaker|footwear|heel|sandal|clog/i,                                                         category: 'Shoes' },
+  { pattern: /beauty|skincare|skin.?care|makeup|cosmetic|hair|fragrance|perfume|nail|lotion|serum|moistur/i,         category: 'Health & Beauty' },
+  { pattern: /cloth|apparel|fashion|dress|shirt|jeans|outfitter|wear|wardrob|jacket|coat|trouser|skirt|suit/i,       category: 'Clothing' },
+  { pattern: /sport|gym|fitness|yoga|athlet|outdoor|hiking|camping|running|cycling|swimming|golf|tennis|workout/i,   category: 'Sports, Outdoors & Fitness' },
+  { pattern: /electron|gadget|computer|laptop|phone|tablet|software|gaming|wireless|headphone|speaker/i,             category: 'Electronics' },
+  { pattern: /travel|hotel|flight|vacation|holiday|cruise|booking|airbnb|resort|accommodation/i,                     category: 'Travel & Vacations' },
+  { pattern: /furniture|garden|kitchen|decor|living|bedding|bath|rug|curtain|sofa|lamp|mattress/i,                   category: 'Home & Garden' },
+  { pattern: /food|drink|restaurant|coffee|tea|wine|beer|grocery|meal|snack|nutrition|organic|supplement|vitamin/i,  category: 'Food, Drinks & Restaurants' },
+  { pattern: /jewel|jewellery|watch|handbag|purse|accessory|wallet|belt|scarf|sunglasses|luggage/i,                  category: 'Accessories' },
+  { pattern: /pet|dog|cat|veterinar|animal|puppy|kitten|aquarium/i,                                                  category: 'Pets' },
+  { pattern: /baby|infant|toddler|nursery|maternity|nappy|diaper|stroller/i,                                         category: 'Baby & Toddler' },
+  { pattern: /toy|board.?game|video.?game|console|lego|puzzle/i,                                                     category: 'Toys & Games' },
+  { pattern: /streaming|podcast|music|ebook|magazine|subscription.?box|monthly.?box/i,                               category: 'Digital Services & Streaming' },
+  { pattern: /\bcar\b|tyre|tire|automotive|vehicle|truck|motorcycle|motorbike/i,                                     category: 'Auto & Tires' },
+  { pattern: /gift|flower|floral|party|occasion|wedding|celebration|balloon|greeting/i,                              category: 'Gifts, Flowers & Parties' },
+  { pattern: /event|ticket|entertainment|concert|theater|theatre|cinema|festival|sport.?event/i,                     category: 'Events & Entertainment' },
+  { pattern: /office|stationery|printer|ink|toner|business.?supply|supplies/i,                                       category: 'Office Supplies' },
+];
+
+/** Try to infer a category from brand name + domain keywords. Returns null if no match. */
+function inferCategoryFromText(name: string, domain: string): string | null {
+  const text = `${name} ${domain}`.toLowerCase();
+  for (const { pattern, category } of CATEGORY_KEYWORDS) {
+    if (pattern.test(text)) return category;
+  }
+  return null;
+}
+
+/**
+ * For brands with empty or generic "Products" categories, attempt to infer
+ * a better category from brand name + domain. Brands that remain uncategorised
+ * keep "Products" as a fallback.
+ * Returns stats and the list of brands that couldn't be categorised.
+ */
+function assignMissingCategories(brands: Brand[]): {
+  assigned: number;
+  stillMissing: number;
+  noCategoryBrands: Array<{ name: string; domain: string; country: string }>;
+} {
+  const GENERIC_CATS = new Set(['Products', 'products']);
+  let assigned = 0;
+  let stillMissing = 0;
+  const noCategoryBrands: Array<{ name: string; domain: string; country: string }> = [];
+
+  for (const brand of brands) {
+    const hasRealCategory = brand.categories.some(c => c && !GENERIC_CATS.has(c));
+    if (hasRealCategory) continue; // already has a real category
+
+    const inferred = inferCategoryFromText(brand.name, brand.domain);
+    if (inferred) {
+      // Replace generic/empty with inferred (keep generic as secondary for breadcrumb fallback)
+      brand.categories = [inferred, ...brand.categories.filter(c => GENERIC_CATS.has(c))];
+      brand.tags = deriveTags([inferred]);
+      assigned++;
+    } else {
+      // No inference possible — ensure "Products" fallback exists
+      if (brand.categories.length === 0) {
+        brand.categories = ['Products'];
+        brand.tags = ['products'];
+      }
+      stillMissing++;
+      noCategoryBrands.push({ name: brand.name, domain: brand.domain, country: brand.country });
+    }
+  }
+
+  return { assigned, stillMissing, noCategoryBrands };
+}
+
 // ── Category Summaries ────────────────────────────────────────────────────────
 
 function buildCategories(brands: Brand[]): CategorySummary[] {
@@ -1126,6 +1198,14 @@ async function main() {
 
   // ── Step 3: Normalise ────────────────────────────────────────────────────
   const normalised = soiFiltered.map(normalise);
+
+  // ── Step 3.5: Assign missing categories ──────────────────────────────────
+  const { assigned: catAssigned, stillMissing: catMissing, noCategoryBrands } = assignMissingCategories(normalised);
+  console.log(`✓ Category inference: ${catAssigned} brands assigned a category, ${catMissing} still uncategorised (keeping "Products" fallback)`);
+  fs.writeFileSync(
+    path.join(DATA_DIR, 'no-category-brands.json'),
+    JSON.stringify(noCategoryBrands, null, 2)
+  );
 
   // ── Step 4: Filter to target markets ────────────────────────────────────
   const byMarket: Record<string, Brand[]> = Object.fromEntries(
@@ -1319,6 +1399,7 @@ async function main() {
   console.log('\n  Pipeline summary:');
   console.log(`    Raw records across all feeds: ${allRawBrands.length.toLocaleString()}`);
   console.log(`    SOI brands removed:           ${soiRemoved}`);
+  console.log(`    Category-inferred:            ${catAssigned} (${catMissing} still uncategorised → see no-category-brands.json)`);
   console.log(`    Non-target market:            ${filteredOut.toLocaleString()}`);
   console.log(`    Cross-feed conflicts:         ${conflicts} (lower priority brands dropped)`);
   console.log(`    Junk brands flagged:          ${totalFlagged}`);

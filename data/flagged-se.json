@@ -7,9 +7,11 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/se-boohoo-com-1729845268.png",
     "categories": [
+      "Products",
       "Clothing"
     ],
     "tags": [
+      "products",
       "clothing"
     ],
     "country": "SE",
@@ -32,8 +34,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",

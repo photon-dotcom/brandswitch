@@ -7,9 +7,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/boutique.dodynette.com?size=200",
     "categories": [
+      "Products",
       "Clothing"
     ],
     "tags": [
+      "products",
       "clothing"
     ],
     "country": "FR",
@@ -32,8 +34,12 @@
     "domain": "alarme-maison-sans-fil.fr",
     "description": "",
     "logo": "https://logo.clearbit.com/alarme-maison-sans-fil.fr?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/alarme-maison-sans-fil-fr?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/alarme-maison-sans-fil-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -54,8 +60,12 @@
     "domain": "okiweed.com",
     "description": "",
     "logo": "https://logo.clearbit.com/okiweed.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/okiweed-com?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/okiweed-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
@@ -76,8 +86,12 @@
     "domain": "baita-home.com",
     "description": "",
     "logo": "https://logo.clearbit.com/baita-home.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/baita-home-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/baita-home-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -85,6 +99,61 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "116477",
+    "name": "Bayard Jeunesse",
+    "slug": "bayard-jeunesse",
+    "domain": "bayard-jeunesse.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/bayard-jeunesse.com?size=200",
+    "categories": [
+      "Products",
+      "Toys & Games"
+    ],
+    "tags": [
+      "products",
+      "toys",
+      "games"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/bayard-jeunesse-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bayard-jeunesse-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "116669",
+    "name": "Bleu Bonheur",
+    "slug": "bleu-bonheur",
+    "domain": "bleu-bonheur.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/bleu-bonheur.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/bleu-bonheur-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bleu-bonheur-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -127,9 +196,11 @@
     "description": "",
     "logo": "https://logo.clearbit.com/g-star.com?size=200",
     "categories": [
+      "Products",
       "Clothing"
     ],
     "tags": [
+      "products",
       "clothing"
     ],
     "country": "FR",
@@ -152,8 +223,12 @@
     "domain": "value2read.blogspot.com",
     "description": "",
     "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
@@ -174,8 +249,12 @@
     "domain": "sunsky-online.com",
     "description": "",
     "logo": "https://logo.clearbit.com/sunsky-online.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "FR",
     "affiliateUrl": "https://www.shoptastic.io/fr/store/sunsky-online-com-fr?userId=88888889&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/fr/store/sunsky-online-com-fr?userId=88888889&subId={your tracking code}&url={deeplink target url}",

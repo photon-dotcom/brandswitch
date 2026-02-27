@@ -1,5 +1,10 @@
 [
   {
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 519
+  },
+  {
     "name": "Home & Garden",
     "slug": "home-and-garden",
     "brandCount": 84
@@ -7,46 +12,51 @@
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 80
+    "brandCount": 82
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 64
+    "brandCount": 65
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 61
+    "brandCount": 64
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 59
+    "brandCount": 62
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 51
+    "brandCount": 53
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 47
+    "brandCount": 50
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 43
+    "brandCount": 44
   },
   {
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
-    "brandCount": 26
+    "brandCount": 27
   },
   {
     "name": "Toys & Games",
     "slug": "toys-and-games",
+    "brandCount": 25
+  },
+  {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
     "brandCount": 24
   },
   {
@@ -57,12 +67,7 @@
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 20
-  },
-  {
-    "name": "Office Supplies",
-    "slug": "office-supplies",
-    "brandCount": 20
+    "brandCount": 22
   },
   {
     "name": "Pets",
@@ -70,14 +75,14 @@
     "brandCount": 19
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
+    "name": "Shoes",
+    "slug": "shoes",
     "brandCount": 16
   },
   {
-    "name": "Shoes",
-    "slug": "shoes",
-    "brandCount": 15
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 16
   },
   {
     "name": "Baby & Toddler",

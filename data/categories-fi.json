@@ -1,5 +1,10 @@
 [
   {
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 170
+  },
+  {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
     "brandCount": 27
@@ -40,6 +45,11 @@
     "brandCount": 10
   },
   {
+    "name": "Food, Drinks & Restaurants",
+    "slug": "food-drinks-and-restaurants",
+    "brandCount": 9
+  },
+  {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
     "brandCount": 8
@@ -50,19 +60,14 @@
     "brandCount": 8
   },
   {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "brandCount": 7
+  },
+  {
     "name": "Toys & Games",
     "slug": "toys-and-games",
     "brandCount": 7
-  },
-  {
-    "name": "Food, Drinks & Restaurants",
-    "slug": "food-drinks-and-restaurants",
-    "brandCount": 7
-  },
-  {
-    "name": "Office Supplies",
-    "slug": "office-supplies",
-    "brandCount": 6
   },
   {
     "name": "Baby & Toddler",

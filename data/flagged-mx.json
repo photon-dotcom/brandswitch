@@ -6,8 +6,12 @@
     "domain": "bancoppel.com",
     "description": "",
     "logo": "https://logo.clearbit.com/bancoppel.com?size=200",
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/bancoppel-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/bancoppel-com-mx?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
