@@ -56,11 +56,25 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Stage only the generated data files (not .sync-checkpoint.json)
-          git add data/brands-us.json data/brands-uk.json \
-                  data/brands-de.json data/brands-fr.json \
-                  data/categories-us.json data/categories-uk.json \
-                  data/categories-de.json data/categories-fr.json \
-                  data/sync-summary.json || true
+          git add \
+            data/brands-us.json data/brands-uk.json data/brands-de.json data/brands-fr.json \
+            data/brands-nl.json data/brands-es.json data/brands-it.json data/brands-se.json \
+            data/brands-ch.json data/brands-at.json data/brands-au.json data/brands-dk.json \
+            data/brands-ca.json data/brands-fi.json data/brands-mx.json data/brands-br.json \
+            data/brands-be.json data/brands-no.json \
+            data/categories-us.json data/categories-uk.json data/categories-de.json data/categories-fr.json \
+            data/categories-nl.json data/categories-es.json data/categories-it.json data/categories-se.json \
+            data/categories-ch.json data/categories-at.json data/categories-au.json data/categories-dk.json \
+            data/categories-ca.json data/categories-fi.json data/categories-mx.json data/categories-br.json \
+            data/categories-be.json data/categories-no.json \
+            data/search-index-us.json data/search-index-uk.json data/search-index-de.json data/search-index-fr.json \
+            data/search-index-nl.json data/search-index-es.json data/search-index-it.json data/search-index-se.json \
+            data/search-index-ch.json data/search-index-at.json data/search-index-au.json data/search-index-dk.json \
+            data/search-index-ca.json data/search-index-fi.json data/search-index-mx.json data/search-index-br.json \
+            data/search-index-be.json data/search-index-no.json \
+            data/top-brands-matched-us.json data/top-brands-matched-uk.json \
+            data/top-brands-matched-de.json data/top-brands-matched-fr.json \
+            data/sync-summary.json || true
 
           # Only commit if there are actual changes
           if git diff --staged --quiet; then
