@@ -2,7 +2,7 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 1200
+    "brandCount": 1202
   },
   {
     "name": "Health & Beauty",
@@ -40,14 +40,14 @@
     "brandCount": 138
   },
   {
-    "name": "Shoes",
-    "slug": "shoes",
+    "name": "Travel & Vacations",
+    "slug": "travel-and-vacations",
     "brandCount": 110
   },
   {
-    "name": "Travel & Vacations",
-    "slug": "travel-and-vacations",
-    "brandCount": 109
+    "name": "Shoes",
+    "slug": "shoes",
+    "brandCount": 110
   },
   {
     "name": "Food, Drinks & Restaurants",

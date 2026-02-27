@@ -24,31 +24,5 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "196562",
-    "name": "Free People - CPS",
-    "slug": "free-people-cps",
-    "domain": "freepeople.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/freepeople.com?size=200",
-    "categories": [
-      "Clothing"
-    ],
-    "tags": [
-      "clothing"
-    ],
-    "country": "NL",
-    "affiliateUrl": "https://www.shoptastic.io/nl/store/freepeople-com-nl?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/nl/store/freepeople-com-nl?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "0.02",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
   }
 ]

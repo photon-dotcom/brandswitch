@@ -2,12 +2,12 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 631
+    "brandCount": 639
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 70
+    "brandCount": 71
   },
   {
     "name": "Home & Garden",
@@ -37,12 +37,12 @@
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 40
+    "brandCount": 41
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 37
+    "brandCount": 38
   },
   {
     "name": "Sports, Outdoors & Fitness",
@@ -77,7 +77,7 @@
   {
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
-    "brandCount": 11
+    "brandCount": 12
   },
   {
     "name": "Pets",

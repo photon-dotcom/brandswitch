@@ -2,7 +2,7 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 5883
+    "brandCount": 5895
   },
   {
     "name": "Health & Beauty",
@@ -17,12 +17,12 @@
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 1108
+    "brandCount": 1110
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 950
+    "brandCount": 951
   },
   {
     "name": "Sports, Outdoors & Fitness",
@@ -72,7 +72,7 @@
   {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
-    "brandCount": 234
+    "brandCount": 235
   },
   {
     "name": "Subscription Boxes & Services",

@@ -1,31 +1,5 @@
 [
   {
-    "id": "406079",
-    "name": "Kahoy (NO)",
-    "slug": "kahoyno",
-    "domain": "kahoy.no",
-    "description": "",
-    "logo": "https://logo.clearbit.com/kahoy.no?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "0.00%",
-    "commissionType": "Percentage",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "245417",
     "name": "boohoo",
     "slug": "boohoo",

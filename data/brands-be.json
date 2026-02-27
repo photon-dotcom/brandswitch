@@ -5,7 +5,7 @@
     "slug": "lenovo-be-paused",
     "domain": "lenovo.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/lenovo-be-paused_logo.png",
+    "logo": "https://api.companyenrich.com/logo/lenovo.com",
     "categories": [
       "Electronics"
     ],
@@ -33,11 +33,11 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -714,7 +714,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -1583,8 +1583,8 @@
   },
   {
     "id": "412222",
-    "name": "Bismo (NL)",
-    "slug": "bismo-nl",
+    "name": "Bismo",
+    "slug": "bismo",
     "domain": "bismo.nl",
     "description": "",
     "logo": "https://logo.debounce.com/bismo.nl",
@@ -2448,7 +2448,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -2860,7 +2860,7 @@
   },
   {
     "id": "160632",
-    "name": "Di.be",
+    "name": "di.be",
     "slug": "dibe",
     "domain": "di.be",
     "description": "",
@@ -4236,8 +4236,8 @@
   },
   {
     "id": "411467",
-    "name": "Frank Energie (BE)",
-    "slug": "frank-energie-be",
+    "name": "Frank Energie",
+    "slug": "frank-energie",
     "domain": "frankenergie.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/frankenergie.be",
@@ -6120,8 +6120,8 @@
   },
   {
     "id": "115910",
-    "name": "Lampeetlumiere - BE",
-    "slug": "lampeetlumiere-be",
+    "name": "Lampeetlumiere",
+    "slug": "lampeetlumiere",
     "domain": "lampeetlumiere.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lampeetlumiere.be",
@@ -6321,7 +6321,7 @@
       "lampenlicht",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe"
     ],
     "logoQuality": "high",
@@ -6913,7 +6913,7 @@
       "energyknights",
       "ibood",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -7206,7 +7206,7 @@
       "energyknights",
       "ibood",
       "media-markt",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -7889,7 +7889,7 @@
     "similarBrands": [
       "skiset-be-1",
       "bajabikes",
-      "snowtravel-be",
+      "snowtravel",
       "andufit",
       "bellatio",
       "myprotein",
@@ -8671,8 +8671,8 @@
   },
   {
     "id": "91674",
-    "name": "Philips NL",
-    "slug": "philips-nl",
+    "name": "Philips",
+    "slug": "philips",
     "domain": "philips.nl",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/philips.nl",
@@ -9388,7 +9388,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "viking-direct",
       "coolsound",
       "galaxusbe",
@@ -10133,7 +10133,7 @@
     "similarBrands": [
       "netski",
       "bajabikes",
-      "snowtravel-be",
+      "snowtravel",
       "andufit",
       "bellatio",
       "myprotein",
@@ -12829,8 +12829,8 @@
   },
   {
     "id": "427258",
-    "name": "WorkWear4All (BE)",
-    "slug": "workwear4all-be",
+    "name": "WorkWear4All",
+    "slug": "workwear4all",
     "domain": "workwear4all.be",
     "description": "",
     "logo": "https://logo.debounce.com/workwear4all.be",
@@ -13124,8 +13124,8 @@
   },
   {
     "id": "179430",
-    "name": "50liefde (BE)",
-    "slug": "50liefde-be",
+    "name": "50liefde",
+    "slug": "50liefde",
     "domain": "50liefde.be",
     "description": "",
     "logo": "https://img.logo.dev/50liefde.be?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -13376,7 +13376,7 @@
     "similarBrands": [
       "netski",
       "skiset-be-1",
-      "snowtravel-be",
+      "snowtravel",
       "andufit",
       "bellatio",
       "myprotein",
@@ -15047,7 +15047,7 @@
   {
     "id": "207658",
     "name": "Hey",
-    "slug": "hey",
+    "slug": "hey-be",
     "domain": "eshop.heytelecom.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eshop.heytelecom.be",
@@ -15087,8 +15087,8 @@
   },
   {
     "id": "191740",
-    "name": "Hey! (BE)",
-    "slug": "hey-be",
+    "name": "Hey!",
+    "slug": "hey-be-1",
     "domain": "heytelecom.be",
     "description": "",
     "logo": "https://img.logo.dev/heytelecom.be?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -15128,8 +15128,8 @@
   },
   {
     "id": "192430",
-    "name": "HighTea NL",
-    "slug": "hightea-nl",
+    "name": "HighTea",
+    "slug": "hightea",
     "domain": "hightea.nl",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hightea.nl",
@@ -15171,8 +15171,8 @@
   },
   {
     "id": "194289",
-    "name": "HighWine NL",
-    "slug": "highwine-nl",
+    "name": "HighWine",
+    "slug": "highwine",
     "domain": "highwine.nl",
     "description": "",
     "logo": "https://logo.debounce.com/highwine.nl",
@@ -16814,6 +16814,47 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "194872",
+    "name": "Shopcore.nl",
+    "slug": "shopcorenl",
+    "domain": "shopcore.nl",
+    "description": "",
+    "logo": "https://img.logo.dev/shopcore.nl?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/shopcore-nl-be?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.05",
+    "similarBrands": [
+      "123optic",
+      "accountable",
+      "advalorem",
+      "airfranceit",
+      "aktiia",
+      "albelli",
+      "alidrop",
+      "alleenstaande-mamasbe",
+      "alleenstaande-papasbe",
+      "allekabelsbe",
+      "alternate",
+      "alyseebe",
+      "andufit",
+      "app-storylane",
+      "appelhoes"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "194335",
     "name": "Spiru.be",
     "slug": "spirube",
@@ -17965,6 +18006,49 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "213517",
+    "name": "Testaankoop NL- Multigift Premium",
+    "slug": "testaankoop-nl-multigift-premium",
+    "domain": "testachats.be",
+    "description": "",
+    "logo": "https://logo.debounce.com/testachats.be",
+    "categories": [
+      "Gifts, Flowers & Parties"
+    ],
+    "tags": [
+      "gifts",
+      "flowers",
+      "parties"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/testachats-be?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "albelli",
+      "bellatio",
+      "cewe",
+      "ditverzinjeniet",
+      "eurogifts",
+      "fotogeschenk",
+      "gedenktegelnl",
+      "genderrevealnl",
+      "liefleven",
+      "sissy-boy",
+      "thortful",
+      "prinses-elisabeth",
+      "fun-en-feest",
+      "la-boite-rose",
+      "regiobloemist"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "215177",
     "name": "Aanbieders",
     "slug": "aanbieders",
@@ -18696,7 +18780,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -18975,7 +19059,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -20302,7 +20386,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -20846,8 +20930,8 @@
   },
   {
     "id": "217625",
-    "name": "Under Armour CH",
-    "slug": "under-armour-ch",
+    "name": "Under Armour",
+    "slug": "under-armour-be-1",
     "domain": "underarmour.ch",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/underarmour.ch",
@@ -21617,7 +21701,7 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "263708",
+    "id": "263693",
     "name": "Delicando",
     "slug": "delicando",
     "domain": "delicando.com",
@@ -22215,7 +22299,7 @@
       "ibood",
       "media-markt",
       "memorypcbe",
-      "philips-nl",
+      "philips",
       "refurbed-nlbe",
       "viking-direct",
       "coolsound",
@@ -22910,8 +22994,8 @@
   },
   {
     "id": "765629",
-    "name": "50plusmatch (BE)",
-    "slug": "50plusmatch-be",
+    "name": "50plusmatch",
+    "slug": "50plusmatch",
     "domain": "50plusmatch.be",
     "description": "",
     "logo": "https://img.logo.dev/50plusmatch.be?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -23082,8 +23166,8 @@
   },
   {
     "id": "765754",
-    "name": "Alleenstaande-Mamas (BE)",
-    "slug": "alleenstaande-mamas-be",
+    "name": "Alleenstaande-Mamas",
+    "slug": "alleenstaande-mamas",
     "domain": "deeplink-alleenstaande-mamas.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-alleenstaande-mamas.be",
@@ -23124,8 +23208,8 @@
   },
   {
     "id": "765756",
-    "name": "Alleenstaande-Papas (BE)",
-    "slug": "alleenstaande-papas-be",
+    "name": "Alleenstaande-Papas",
+    "slug": "alleenstaande-papas",
     "domain": "deeplink-alleenstaande-papas.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-alleenstaande-papas.be",
@@ -24420,7 +24504,7 @@
     "supportsDeepLink": false,
     "commission": "2.52%",
     "commissionType": "Percentage",
-    "eCPC": "0.81",
+    "eCPC": "0.86",
     "similarBrands": [
       "fotofabriek",
       "mpb",
@@ -24856,7 +24940,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -24906,8 +24990,8 @@
   },
   {
     "id": "766150",
-    "name": "Erovibes (BE)",
-    "slug": "erovibes-be",
+    "name": "Erovibes",
+    "slug": "erovibes",
     "domain": "erovibes.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/erovibes.be",
@@ -25377,8 +25461,8 @@
   },
   {
     "id": "766173",
-    "name": "GfK SmartScan (BE_fr)",
-    "slug": "gfk-smartscan-be_fr",
+    "name": "GfK SmartScan (BE fr)",
+    "slug": "gfk-smartscan-be-fr",
     "domain": "orangeblast.go2cloud.org",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/orangeblast.go2cloud.org",
@@ -25418,8 +25502,8 @@
   },
   {
     "id": "765757",
-    "name": "Girls.G-Dating (BE)",
-    "slug": "girlsg-dating-be",
+    "name": "Girls.G-Dating",
+    "slug": "girlsg-dating",
     "domain": "deeplink-g-dating.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-g-dating.be",
@@ -25493,7 +25577,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25828,7 +25912,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26511,8 +26595,8 @@
   },
   {
     "id": "660036",
-    "name": "Leukstetickets (BE)",
-    "slug": "leukstetickets-be",
+    "name": "Leukstetickets",
+    "slug": "leukstetickets",
     "domain": "leukstetickets.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/leukstetickets.be",
@@ -26766,8 +26850,8 @@
   },
   {
     "id": "766158",
-    "name": "MaatjeMeer-Match (BE)",
-    "slug": "maatjemeer-match-be",
+    "name": "MaatjeMeer-Match",
+    "slug": "maatjemeer-match",
     "domain": "deeplink-maatjemeer-match.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-maatjemeer-match.be",
@@ -27528,7 +27612,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27536,8 +27620,8 @@
   },
   {
     "id": "765759",
-    "name": "Ondeugend-daten (BE)",
-    "slug": "ondeugend-daten-be",
+    "name": "Ondeugend-daten",
+    "slug": "ondeugend-daten",
     "domain": "deeplink-ondeugend-daten.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-ondeugend-daten.be",
@@ -28165,8 +28249,8 @@
   },
   {
     "id": "765758",
-    "name": "Regioswingers (BE)",
-    "slug": "regioswingers-be",
+    "name": "Regioswingers",
+    "slug": "regioswingers",
     "domain": "deeplink-regioswingers.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-regioswingers.be",
@@ -28587,8 +28671,8 @@
   },
   {
     "id": "766151",
-    "name": "Seniorengeluk (BE)",
-    "slug": "seniorengeluk-be",
+    "name": "Seniorengeluk",
+    "slug": "seniorengeluk",
     "domain": "deeplink-seniorengeluk.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-seniorengeluk.be",
@@ -28879,8 +28963,8 @@
   },
   {
     "id": "702825",
-    "name": "Snowtravel (BE)",
-    "slug": "snowtravel-be",
+    "name": "Snowtravel",
+    "slug": "snowtravel",
     "domain": "snowtravel.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/snowtravel.be",
@@ -29009,8 +29093,8 @@
   },
   {
     "id": "766159",
-    "name": "StedenDating (BE)",
-    "slug": "stedendating-be",
+    "name": "StedenDating",
+    "slug": "stedendating",
     "domain": "deeplink-stedendating.be",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deeplink-stedendating.be",
@@ -29167,7 +29251,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29637,7 +29721,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29678,7 +29762,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -30147,8 +30231,8 @@
   },
   {
     "id": "698407",
-    "name": "What You Expect (BE_fr) 18-34yo",
-    "slug": "what-you-expect-be_fr-18-34yo",
+    "name": "What You Expect (BE fr) 18-34yo",
+    "slug": "what-you-expect-be-fr-18-34yo",
     "domain": "whatyouexpect.eu",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/whatyouexpect.eu",
@@ -30364,8 +30448,8 @@
   },
   {
     "id": "702840",
-    "name": "Zendure (BE)",
-    "slug": "zendure-be",
+    "name": "Zendure",
+    "slug": "zendure",
     "domain": "be.zendure.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/be.zendure.com",
@@ -30397,7 +30481,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30526,7 +30610,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -31284,7 +31368,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31675,8 +31759,8 @@
   },
   {
     "id": "181064",
-    "name": "Woovin NL",
-    "slug": "woovin-nl",
+    "name": "Woovin",
+    "slug": "woovin",
     "domain": "woovin.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/woovin.com",
@@ -33590,7 +33674,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33965,7 +34049,7 @@
       "lautsprecher-teufel",
       "media-markt",
       "memorypcbe",
-      "philips-nl"
+      "philips"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

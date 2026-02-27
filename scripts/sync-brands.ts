@@ -249,40 +249,75 @@ function deriveTags(categories: string[]): string[] {
 // ── Brand Name Cleanup ────────────────────────────────────────────────────────
 
 /** Trailing noise patterns stripped from the end of API brand names */
+// All 18 market codes plus common ISO/regional variants used across patterns below
+const CC = 'US|UK|GB|DE|FR|CA|AU|NL|ES|IT|SE|CH|AT|DK|NO|FI|MX|BR|PT|BE|IE|NZ|SG|HK|WW|EU|APAC';
+
 const NAME_NOISE_PATTERNS: RegExp[] = [
   /\s*[-–|]\s*Official\s+Site\s*$/i,
   /\s*[|]\s*Shop\s+Now\s*$/i,
   /\s*\(\s*Official\s*\)\s*$/i,
   /\s+Online\s+Store\s*$/i,
   /\s+Online\s+Shop\s*$/i,
-  // Affiliate model indicators (CPA, CPC, CPL, CPS, CPR)
+
+  // Underscore-separated commission+country chains at end: "_CPS_US", "_CA_FR_AU_UK", "_WW" etc.
+  // Matches one or more groups of _XX or _CPS etc. (including comma-separated combos like _US,CA,MX)
+  /(?:_(?:US|UK|DE|FR|CA|AU|NL|ES|IT|SE|CH|AT|DK|NO|FI|MX|BR|BE|WW|EU|IE|NZ|SG|HK|CP[ACSLR]))+(?:,[A-Z]{2})*\s*\*?\s*$/i,
+
+  // Affiliate model indicators: trailing CPA, CPC, CPL, CPS, CPR (with optional dash)
   /\s*[-–]?\s*\bCP[ACSLR]\b\s*$/i,
-  // Market/region suffixes with preceding dash ("Nike - US", "Foreo – DE")
-  /\s*[-–]\s*(US|UK|DE|FR|CA|AU|IE|ES|IT|NL|BE|CH|AT|DK|NO|SE|FI|NZ|SG|HK|WW|EU|APAC)(\/[A-Z]+)*\s*$/,
-  // Multi-market combos: "US CA MX", "US CA", "US & CA", "US &" (any sequence after first code)
-  /\s+(US|UK|DE|FR|CA|AU|WW|EU)\s*[&+].*$/i,            // "US & CA", "US &", "US & CA & MX"
-  /\s+(US|UK|DE|FR|CA|AU|WW)\s+[A-Z]{2}(\s+[A-Z]{2})*\s*$/,  // "US CA", "US CA MX", etc.
-  // Standalone trailing market code ("Nike US", "Foreo ES", "Brand WW")
-  /\s+(US|UK|DE|FR|CA|AU|IE|ES|IT|NL|BE|CH|AT|DK|NO|SE|FI|NZ|SG|HK|WW)(\/[A-Z]+)*\s*$/,
+
+  // Combined country + commission at end: "DE CPS", "ES CPA", "IT CPC"
+  new RegExp(`\\s+(?:${CC})\\s+CP[ACSLR]\\s*$`),
+
+  // Comma-separated market list before commission: "US, FR, SE, UK, ES CPS"
+  /\s+(?:[A-Z]{2}(?:,\s*|\s+))+[A-Z]{2}\s+CP[ACSLR]\s*$/,
+
+  // Market/region suffixes with preceding dash: "Nike - US", "Foreo – DE"
+  new RegExp(`\\s*[-–]\\s*(?:${CC})(?:\\/[A-Z]+)*\\s*$`),
+
+  // Multi-market combos: "ES & IT", "US & CA", "US &" — all 18 market codes
+  new RegExp(`\\s+(?:${CC})\\s*[&+].*$`, 'i'),
+
+  // Multi-market space-separated: "US CA MX", "US CA"
+  new RegExp(`\\s+(?:${CC})\\s+[A-Z]{2}(?:\\s+[A-Z]{2})*\\s*$`),
+
+  // Comma-separated market list at end: "UK, AU, US" or "_US,CA,MX" (after underscore chain stripped)
+  /\s*,\s*(?:[A-Z]{2}(?:,\s*)?)+[A-Z]{2}\s*$/,
+
+  // Standalone trailing market code: "Nike US", "Foreo ES", "Brand WW"
+  new RegExp(`\\s+(?:${CC})(?:\\/[A-Z]+)*\\s*$`),
+
   // Extended region suffixes
-  /\s+GCC\s*$/i,                                          // Gulf Cooperation Council
-  /\s+EU\s*$/i,                                           // European Union
-  /\s+USA\s*$/i,                                          // United States (spelled out)
-  /\s*\(\s*US\s*\)\s*$/i,                                 // "(US)" variant
+  /\s+GCC\s*$/i,
+  /\s+EU\s*$/i,
+  /\s+USA\s*$/i,
+
+  // Parenthesized country code: "(US)", "(ES)", "(IT)", "(NL)" etc. — all markets, optional trailing number
+  new RegExp(`\\s*\\(\\s*(?:${CC}|SL)\\s*\\)\\s*(?:\\d+)?\\s*$`, 'i'),
+
+  // Parenthesized comma-list: "(CA,AU,UK)", "(US, CA)"
+  /\s*\(\s*[A-Z]{2}(?:,\s*[A-Z]{2})+\s*\)\s*$/,
+
   // Affiliate reporting noise
-  /\s*\(\s*Reporting\s*\+?\s*\d*\s*days?\s*\)\s*$/i,     // "(Reporting+1day)"
-  /\s*\(\s*Realtime\s*\)\s*$/i,                           // "(Realtime)"
-  /\s+offline\s+codes?\s*&?\s*links?\s*$/i,               // "offline codes&links"
+  /\s*\(\s*Reporting\s*(?:Realtime|\+?\s*\d*\s*days?)\s*\)\s*$/i,
+  /\s*\(\s*Realtime\s*\)\s*$/i,
+  /\s+offline\s+codes?\s*&?\s*links?\s*$/i,
+
   // Trailing bracket junk: [Official], [US], [New], [Sale], [Global] etc.
   /\s*\[[^\]]{1,30}\]\s*$/,
+
   // Trailing dangling punctuation left after other patterns run
   /\s*[&+|,\-–]\s*$/,
+
+  // Trailing lone number (e.g. "Handyhuellen 4" after country strip)
+  /\s+\d+\s*$/,
 ];
 
 /** Leading prefixes stripped from the start of API brand names */
 const NAME_LEADING_PREFIXES: RegExp[] = [
-  /^Deeplink\s+/i,  // "Deeplink Brand" → "Brand"
-  /^Links\s+/i,     // "Links Brand" → "Brand"
+  /^Deeplink\s+/i,       // "Deeplink Brand" → "Brand" (case-insensitive covers DeepLink too)
+  /^Links\s+/i,          // "Links Brand" → "Brand"
+  /^[A-Z]{2}-\s*/,       // "AP- Brand", "AT- Brand" → "Brand" (affiliate platform prefixes)
 ];
 
 /** True if a brand name is just a raw domain (no spaces, has a TLD extension) */
@@ -327,16 +362,23 @@ function cleanBrandName(raw: string | null | undefined): string {
     name = name.replace(pat, '').trim();
   }
 
-  // Apply trailing noise patterns
-  for (const pat of NAME_NOISE_PATTERNS) {
-    name = name.replace(pat, '').trim();
+  // Apply trailing noise patterns in a loop until stable.
+  // Multiple passes are needed because stripping one suffix can reveal another
+  // (e.g. "Brand_CPS_UK (Reporting Realtime) GB" → strip GB → strip Reporting → strip _CPS_UK).
+  for (let pass = 0; pass < 4; pass++) {
+    const before = name;
+    for (const pat of NAME_NOISE_PATTERNS) {
+      name = name.replace(pat, '').trim();
+    }
+    // Underscore→space runs inside the loop so revealed country codes get stripped on the next pass
+    // (e.g. "JR Pass_US, AU, UK" → comma strip → "JR Pass_US" → underscore→space → "JR Pass US" → US strip)
+    if (name.includes('_')) {
+      name = name.replace(/_+/g, ' ').trim();
+    }
+    name = name.replace(/\s{2,}/g, ' ').trim();
+    name = name.replace(/[\s,\-–|&+]+$/, '').trim();
+    if (name === before) break;
   }
-
-  // Collapse multiple internal spaces
-  name = name.replace(/\s{2,}/g, ' ').trim();
-
-  // Strip any trailing punctuation left behind after pattern removal
-  name = name.replace(/[\s,\-–|&+]+$/, '').trim();
 
   // If the result looks like a raw domain, humanize it
   if (looksLikeDomainName(name)) {

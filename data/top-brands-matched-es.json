@@ -38,6 +38,11 @@
       "rank": 3,
       "name": "Under Armour",
       "slug": "under-armour"
+    },
+    {
+      "rank": 32,
+      "name": "Decathlon",
+      "slug": "decathlon"
     }
   ],
   "electronics": [

@@ -28,32 +28,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "206996",
-    "name": "Toluna ES",
-    "slug": "toluna-es",
-    "domain": "toluna.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/toluna.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "ES",
-    "affiliateUrl": "https://www.pickalink.com/click/toluna-com-es?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/toluna-com-es?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "€0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "426381",
     "name": "Hbm Machines",
     "slug": "hbm-machines",

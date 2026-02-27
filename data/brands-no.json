@@ -74,7 +74,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -111,7 +111,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -160,7 +160,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -202,10 +202,10 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -245,7 +245,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -286,7 +286,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -327,7 +327,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -368,7 +368,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -409,7 +409,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -454,7 +454,7 @@
       "desigual",
       "shesaidyes",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "spreadshirt",
       "bagbrokers",
       "bijoure",
@@ -499,7 +499,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -540,7 +540,7 @@
       "antibug",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime",
+      "autodoc-no",
       "autohobbyno"
     ],
     "logoQuality": "high",
@@ -574,7 +574,7 @@
     "similarBrands": [
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -623,7 +623,7 @@
       "reservedeler24",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -638,8 +638,8 @@
   },
   {
     "id": "329808",
-    "name": "Autodoc CPS NO (Reporting Realtime)",
-    "slug": "autodoc-cps-no-reporting-realtime",
+    "name": "Autodoc",
+    "slug": "autodoc-no",
     "domain": "autodoc.co",
     "description": "",
     "logo": "https://logo.debounce.com/autodoc.co",
@@ -712,7 +712,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -829,7 +829,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -860,12 +860,12 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "helseogkostno",
       "yumiland",
+      "helseogkostno",
       "foodstuffno",
       "giordanowines",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -907,7 +907,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -916,7 +915,8 @@
       "libresse",
       "lillehammerspano",
       "med24no",
-      "naturecan"
+      "naturecan",
+      "nordicmelatoninno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -954,10 +954,10 @@
       "nytelse",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "sorujewellery",
       "swiftoptics",
-      "lensway",
-      "lux-caseno"
+      "lensway"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -998,7 +998,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1082,7 +1082,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1114,7 +1114,6 @@
     "similarBrands": [
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -1126,7 +1125,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1167,7 +1167,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1208,7 +1208,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -1249,7 +1249,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1284,7 +1284,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -1333,7 +1333,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1374,7 +1374,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1407,7 +1407,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -1416,7 +1415,8 @@
       "libresse",
       "lillehammerspano",
       "med24no",
-      "naturecan"
+      "naturecan",
+      "nordicmelatoninno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1457,7 +1457,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1588,7 +1588,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1677,7 +1677,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1718,7 +1718,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1765,7 +1765,7 @@
       "myartworkplate",
       "shesaidyes",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "familiebutikkenno",
       "filterhusetno",
       "getwelcomehome",
@@ -1811,7 +1811,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1843,7 +1843,6 @@
     "similarBrands": [
       "bioticsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -1855,7 +1854,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1896,7 +1896,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1937,7 +1937,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1970,7 +1970,7 @@
     "similarBrands": [
       "appsumo",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -2015,7 +2015,7 @@
     "similarBrands": [
       "appsumo",
       "coursera",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -2068,7 +2068,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2109,7 +2109,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -2146,12 +2146,12 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
       "flixbus",
-      "hurtigruten-expeditions",
-      "radisson-hotels"
+      "hurtigruten-expeditions"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2192,7 +2192,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2233,7 +2233,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2270,7 +2270,7 @@
       "reservedeler24",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -2354,7 +2354,6 @@
     "similarBrands": [
       "bioticsno",
       "clarinsno",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -2366,7 +2365,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2407,7 +2407,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2448,7 +2448,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2516,13 +2516,13 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
       "under-armour",
-      "chicastoreno",
-      "kule-sokkerno"
+      "chicastoreno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2563,7 +2563,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2614,8 +2614,8 @@
   },
   {
     "id": "257878",
-    "name": "e-sim Bouygues Telecom 2024",
-    "slug": "e-sim-bouygues-telecom-2024",
+    "name": "e-sim Bouygues Telecom",
+    "slug": "e-sim-bouygues-telecom",
     "domain": "bouygues-telecom.simoptions.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bouygues-telecom.simoptions.com",
@@ -2732,12 +2732,12 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
       "flixbus",
-      "hurtigruten-expeditions",
-      "radisson-hotels"
+      "hurtigruten-expeditions"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2813,7 +2813,6 @@
       "caia-cosmetics",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -2822,7 +2821,8 @@
       "libresse",
       "lillehammerspano",
       "med24no",
-      "naturecan"
+      "naturecan",
+      "nordicmelatoninno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2907,7 +2907,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2945,10 +2945,10 @@
       "nytelse",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "sorujewellery",
       "swiftoptics",
-      "lensway",
-      "lux-caseno"
+      "lensway"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2989,7 +2989,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3030,7 +3030,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3071,7 +3071,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3112,7 +3112,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3193,7 +3193,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "getresponse",
       "hide",
       "hotspotshield",
@@ -3292,7 +3292,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3372,7 +3372,7 @@
       "caravanno",
       "fiskeonline",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -3421,7 +3421,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3487,10 +3487,10 @@
     "similarBrands": [
       "bar-zoneno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -3580,7 +3580,7 @@
       "holdit",
       "shesaidyes",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "bagbrokers",
       "bijoure",
       "elektroimportoren",
@@ -3627,7 +3627,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3713,7 +3713,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3754,7 +3754,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3838,7 +3838,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3872,7 +3872,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "hide",
       "hotspotshield",
@@ -3958,10 +3958,10 @@
     "similarBrands": [
       "bar-zoneno",
       "foodstuffno",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -3973,8 +3973,8 @@
   },
   {
     "id": "260698",
-    "name": "Golfsenteret (NO)",
-    "slug": "golfsenteret-no",
+    "name": "Golfsenteret",
+    "slug": "golfsenteret",
     "domain": "golfsenteret.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/golfsenteret.no",
@@ -4089,7 +4089,7 @@
       "reservedeler24",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -4137,7 +4137,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4221,58 +4221,10 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "260674",
-    "name": "helseogkost.no",
-    "slug": "helseogkostno",
-    "domain": "helseogkost.no",
-    "description": "",
-    "logo": "https://logo.debounce.com/helseogkost.no",
-    "categories": [
-      "Products",
-      "Health & Beauty",
-      "Food, Drinks & Restaurants"
-    ],
-    "tags": [
-      "products",
-      "health",
-      "beauty",
-      "food",
-      "drinks",
-      "restaurants"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.pickalink.com/click/helseogkost-no?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "bar-zoneno",
-      "yumiland",
-      "bioticsno",
-      "clarinsno",
-      "dentaworks",
-      "herbsdaily",
-      "iherb",
-      "kost1no",
-      "libresse",
-      "lillehammerspano",
-      "med24no",
-      "naturecan",
-      "nordicmelatoninno",
-      "online-therapy",
-      "optisleepno"
-    ],
-    "logoQuality": "high",
-    "logoSource": "debounce",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -4310,7 +4262,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4343,7 +4295,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "iherb",
       "kost1no",
       "libresse",
@@ -4354,7 +4305,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4388,7 +4340,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hotspotshield",
@@ -4440,10 +4392,10 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4484,7 +4436,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4569,7 +4521,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4655,7 +4607,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4689,7 +4641,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -4783,7 +4735,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -4867,7 +4819,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4908,7 +4860,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4949,7 +4901,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5026,7 +4978,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "kost1no",
       "libresse",
@@ -5037,7 +4988,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5078,7 +5030,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5112,7 +5064,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kisslove-hair",
@@ -5120,7 +5071,8 @@
       "libresse",
       "lillehammerspano",
       "med24no",
-      "naturecan"
+      "naturecan",
+      "nordicmelatoninno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5245,7 +5197,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -5297,7 +5249,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5338,7 +5290,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5423,7 +5375,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5464,7 +5416,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5505,7 +5457,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5556,6 +5508,47 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "406079",
+    "name": "Kahoy",
+    "slug": "kahoy",
+    "domain": "kahoy.no",
+    "description": "",
+    "logo": "https://logo.debounce.com/kahoy.no",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/kahoy-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [
+      "12xlwin4i",
+      "abonera",
+      "aigitime",
+      "airpaz",
+      "alamono",
+      "allectrase",
+      "alphamanno",
+      "amisolno",
+      "amorno",
+      "anjaysdesigns",
+      "antibug",
+      "aomeitech",
+      "appsumo",
+      "autodeler",
+      "autodoc-no"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "422372",
     "name": "karma.no",
     "slug": "karmano",
@@ -5590,7 +5583,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5631,7 +5624,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5672,7 +5665,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5713,7 +5706,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5749,7 +5742,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kingbullbike",
       "olka-express",
       "sportsmagasinetno",
@@ -5878,7 +5871,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -5886,7 +5878,8 @@
       "libresse",
       "lillehammerspano",
       "med24no",
-      "naturecan"
+      "naturecan",
+      "nordicmelatoninno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5927,7 +5920,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5968,7 +5961,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6009,7 +6002,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6042,7 +6035,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "libresse",
@@ -6053,7 +6045,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6094,7 +6087,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6131,7 +6124,7 @@
       "reservedeler24",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -6221,7 +6214,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6262,7 +6255,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -6303,7 +6296,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6339,7 +6332,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -6349,7 +6341,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6382,7 +6375,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -6393,7 +6385,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6434,7 +6427,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6473,7 +6466,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -6523,7 +6516,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6564,7 +6557,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6649,7 +6642,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6690,7 +6683,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -6723,7 +6716,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -6734,7 +6726,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6775,7 +6768,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6783,8 +6776,8 @@
   },
   {
     "id": "388143",
-    "name": "MeningsTorget - OW (NO)",
-    "slug": "meningstorget-ow-no",
+    "name": "MeningsTorget - OW",
+    "slug": "meningstorget-ow",
     "domain": "meningstorget.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/meningstorget.no",
@@ -6816,7 +6809,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6857,7 +6850,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6941,7 +6934,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6982,7 +6975,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7023,7 +7016,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7055,6 +7048,7 @@
       "anjaysdesigns",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
@@ -7062,7 +7056,6 @@
       "beachsissi",
       "jeanmarcjoubert",
       "qathu",
-      "sembo",
       "hugo-boss",
       "dressmykidno",
       "gentsno",
@@ -7107,7 +7100,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7140,7 +7133,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -7151,7 +7143,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7277,7 +7270,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7353,7 +7346,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -7364,7 +7356,8 @@
       "online-therapy",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7405,7 +7398,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7439,7 +7432,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -7447,7 +7439,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -7533,7 +7526,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7574,7 +7567,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7658,7 +7651,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -7669,7 +7661,8 @@
       "nordicmelatoninno",
       "optisleepno",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7704,7 +7697,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -7748,7 +7741,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -7759,7 +7751,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "pakurangapharmacy",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7800,7 +7793,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7841,7 +7834,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7875,7 +7868,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -7883,7 +7875,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7916,7 +7909,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -7927,7 +7919,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "royal-tan"
+      "royal-tan",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7968,7 +7961,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8000,6 +7993,7 @@
       "anjaysdesigns",
       "murlong-cres",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
@@ -8007,7 +8001,6 @@
       "beachsissi",
       "jeanmarcjoubert",
       "qathu",
-      "sembo",
       "hugo-boss",
       "dressmykidno",
       "gentsno",
@@ -8052,7 +8045,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8093,7 +8086,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8266,51 +8259,10 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "260424",
-    "name": "polyalkemi.no",
-    "slug": "polyalkemino",
-    "domain": "polyalkemi.no",
-    "description": "",
-    "logo": "https://logo.debounce.com/polyalkemi.no",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.pickalink.com/click/polyalkemi-no?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "12xlwin4i",
-      "abonera",
-      "aigitime",
-      "airpaz",
-      "alamono",
-      "allectrase",
-      "alphamanno",
-      "amisolno",
-      "amorno",
-      "anjaysdesigns",
-      "antibug",
-      "aomeitech",
-      "appsumo",
-      "autodeler",
-      "autodoc-cps-no-reporting-realtime"
-    ],
-    "logoQuality": "high",
-    "logoSource": "debounce",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -8341,7 +8293,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -8430,7 +8382,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -8482,7 +8434,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8514,9 +8466,9 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -8561,7 +8513,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8602,7 +8554,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8674,7 +8626,7 @@
       "kugooescooters",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -8763,12 +8715,12 @@
       "olka-express",
       "onlinebookingmanager",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
       "flixbus",
-      "hurtigruten-expeditions",
-      "radisson-hotels"
+      "hurtigruten-expeditions"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8809,7 +8761,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8842,7 +8794,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -8853,7 +8804,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "stylingagenten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8894,7 +8846,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8935,7 +8887,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8972,12 +8924,12 @@
       "olka-express",
       "onlinebookingmanager",
       "rovehotels",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
       "flixbus",
-      "hurtigruten-expeditions",
-      "radisson-hotels"
+      "hurtigruten-expeditions"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -9018,7 +8970,53 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "92267",
+    "name": "Sembo",
+    "slug": "sembo",
+    "domain": "sembo.no",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/sembo.no",
+    "categories": [
+      "Travel & Vacations",
+      "Clothing",
+      "Accessories"
+    ],
+    "tags": [
+      "travel",
+      "vacations",
+      "clothing",
+      "accessories"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/sembo-no?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sembo-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "anjaysdesigns",
+      "murlong-cres",
+      "pashminawearno",
+      "robertorossono",
+      "under-armour",
+      "chicastoreno",
+      "shein",
+      "desigual",
+      "beachsissi",
+      "jeanmarcjoubert",
+      "qathu",
+      "hugo-boss",
+      "airpaz",
+      "caravanno",
+      "db-nordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9059,7 +9057,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9138,7 +9136,7 @@
       "cdonno",
       "fotoknudsen",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "spreadshirt",
       "aliexpress-no-1",
       "evrycard",
@@ -9184,12 +9182,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
       "under-armour",
-      "chicastoreno",
-      "kule-sokkerno"
+      "chicastoreno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9276,7 +9274,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -9317,7 +9315,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9358,7 +9356,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9399,7 +9397,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9440,10 +9438,92 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "427696",
+    "name": "smartlapper.no",
+    "slug": "smartlapperno",
+    "domain": "smartlapper.no",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/smartlapper.no",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/smartlapper-no?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/smartlapper-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€15.1199",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "12xlwin4i",
+      "abonera",
+      "aigitime",
+      "airpaz",
+      "alamono",
+      "allectrase",
+      "alphamanno",
+      "amisolno",
+      "amorno",
+      "anjaysdesigns",
+      "antibug",
+      "aomeitech",
+      "appsumo",
+      "autodeler",
+      "autodoc-no"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "250244",
+    "name": "Smokespotvape",
+    "slug": "smokespotvape",
+    "domain": "smokespotvape.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/smokespotvape.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/smokespotvape-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/smokespotvape-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "12xlwin4i",
+      "abonera",
+      "aigitime",
+      "airpaz",
+      "alamono",
+      "allectrase",
+      "alphamanno",
+      "amisolno",
+      "amorno",
+      "anjaysdesigns",
+      "antibug",
+      "aomeitech",
+      "appsumo",
+      "autodeler",
+      "autodoc-no"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -9523,7 +9603,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9562,9 +9642,9 @@
       "nytelse",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "swiftoptics",
-      "lensway",
-      "lux-caseno"
+      "lensway"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9644,7 +9724,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -9687,7 +9767,7 @@
       "fotoknudsen",
       "shesaidyes",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "aliexpress-no-1",
       "evrycard",
       "euroflorist",
@@ -9732,7 +9812,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -9781,7 +9861,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -9832,7 +9912,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9873,7 +9953,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9907,7 +9987,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -9959,7 +10039,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9993,7 +10073,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -10045,7 +10125,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10086,7 +10166,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10122,7 +10202,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -10132,7 +10211,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10173,7 +10253,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10257,7 +10337,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10343,7 +10423,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10377,7 +10457,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -10429,7 +10509,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10470,7 +10550,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10511,7 +10591,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10552,7 +10632,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10673,7 +10753,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10791,7 +10871,7 @@
       "reservedeler24",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "autodo",
       "bildelerekspert",
@@ -10836,7 +10916,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10874,11 +10954,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "tripxno",
       "auto-europe",
       "flixbus",
-      "hurtigruten-expeditions",
-      "radisson-hotels"
+      "hurtigruten-expeditions"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10913,7 +10993,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -10965,10 +11045,10 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11009,7 +11089,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11046,7 +11126,7 @@
       "kugooescooters",
       "reservedeler24",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "tirendo",
       "autodo",
@@ -11087,7 +11167,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -11139,7 +11219,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11175,7 +11255,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -11223,7 +11303,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11264,7 +11344,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11349,7 +11429,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11390,7 +11470,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11506,7 +11586,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11547,7 +11627,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11588,7 +11668,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11621,7 +11701,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -11632,7 +11711,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11714,7 +11794,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -11732,8 +11812,8 @@
   },
   {
     "id": "419895",
-    "name": "Wine Store (NO)",
-    "slug": "wine-store-no",
+    "name": "Wine Store",
+    "slug": "wine-store",
     "domain": "wine-store.no",
     "description": "",
     "logo": "https://logo.debounce.com/wine-store.no",
@@ -11756,9 +11836,9 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -11847,7 +11927,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11882,7 +11962,7 @@
       "cdonno",
       "fotoknudsen",
       "shesaidyes",
-      "festmagasinet-no",
+      "festmagasinet",
       "spreadshirt",
       "aliexpress-no-1",
       "evrycard",
@@ -11928,7 +12008,7 @@
       "foodstuffno",
       "giordanowines",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "americancandystores",
       "thechefno",
       "candybis",
@@ -11978,7 +12058,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12019,7 +12099,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12066,7 +12146,7 @@
       "reservedeler24",
       "tripxno",
       "trumadelerno",
-      "autodoc-no"
+      "autodoc-no-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12074,8 +12154,8 @@
   },
   {
     "id": "180598",
-    "name": "Autodoc (NO)",
-    "slug": "autodoc-no",
+    "name": "Autodoc",
+    "slug": "autodoc-no-1",
     "domain": "autodoc.co.no",
     "description": "",
     "logo": "https://img.logo.dev/autodoc.co.no?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -12143,7 +12223,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -12154,7 +12233,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12239,7 +12319,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12272,7 +12352,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -12283,7 +12362,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12324,10 +12404,10 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12368,7 +12448,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12452,10 +12532,10 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12608,7 +12688,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -12657,11 +12737,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12749,7 +12829,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12790,7 +12870,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12831,7 +12911,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12915,10 +12995,10 @@
       "hurtigruten-expeditions",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12959,7 +13039,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13000,7 +13080,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13264,7 +13344,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13305,7 +13385,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13339,7 +13419,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -13358,8 +13438,8 @@
   },
   {
     "id": "221234",
-    "name": "Nordic Sheep (NO)",
-    "slug": "nordic-sheep-no",
+    "name": "Nordic Sheep",
+    "slug": "nordic-sheep",
     "domain": "nordicsheep.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/nordicsheep.no",
@@ -13391,7 +13471,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13432,7 +13512,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13465,7 +13545,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -13476,7 +13555,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13567,7 +13647,7 @@
       "reservedeler24",
       "tripxno",
       "trumadelerno",
-      "autodoc-no"
+      "autodoc-no-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13608,7 +13688,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13649,7 +13729,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13733,7 +13813,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13774,10 +13854,10 @@
       "hurtigruten-expeditions",
       "bravofly",
       "risskov-bilferie",
-      "hostelworld",
       "singaporeair",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -13818,7 +13898,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -13953,7 +14033,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14038,7 +14118,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14046,8 +14126,8 @@
   },
   {
     "id": "274213",
-    "name": "Billigmarkedet (NO)",
-    "slug": "billigmarkedet-no",
+    "name": "Billigmarkedet",
+    "slug": "billigmarkedet",
     "domain": "billigmarkedet.no",
     "description": "",
     "logo": "https://img.logo.dev/billigmarkedet.no?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -14079,7 +14159,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -14120,7 +14200,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14250,8 +14330,8 @@
   },
   {
     "id": "117946",
-    "name": "Festmagasinet (NO)",
-    "slug": "festmagasinet-no",
+    "name": "Festmagasinet",
+    "slug": "festmagasinet",
     "domain": "festmagasinet.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/festmagasinet.no",
@@ -14367,7 +14447,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -14480,13 +14560,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hostelworld.com",
     "categories": [
-      "Products",
-      "Travel & Vacations"
+      "Products"
     ],
     "tags": [
-      "products",
-      "travel",
-      "vacations"
+      "products"
     ],
     "country": "NO",
     "affiliateUrl": "https://www.pickalink.com/click/hostelworld-com-cpc-no?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -14496,21 +14573,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
+      "12xlwin4i",
+      "abonera",
+      "aigitime",
       "airpaz",
-      "caravanno",
-      "hideawaybeachmaldives",
-      "interhomeno",
-      "olka-express",
-      "tripxno",
-      "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions",
-      "bravofly",
-      "risskov-bilferie",
-      "tui",
-      "singaporeair",
-      "db-nordics",
-      "economybookings"
+      "alamono",
+      "allectrase",
+      "alphamanno",
+      "amisolno",
+      "amorno",
+      "anjaysdesigns",
+      "antibug",
+      "aomeitech",
+      "appsumo",
+      "autodeler",
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14551,7 +14628,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14592,7 +14669,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14845,7 +14922,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -14897,7 +14974,48 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "120509",
+    "name": "polyalkemi.no",
+    "slug": "polyalkemino",
+    "domain": "polyalkemi.no",
+    "description": "",
+    "logo": "https://logo.debounce.com/polyalkemi.no",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/polyalkemi-no-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/polyalkemi-no-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "krN0.7503",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.02",
+    "similarBrands": [
+      "12xlwin4i",
+      "abonera",
+      "aigitime",
+      "airpaz",
+      "alamono",
+      "allectrase",
+      "alphamanno",
+      "amisolno",
+      "amorno",
+      "anjaysdesigns",
+      "antibug",
+      "aomeitech",
+      "appsumo",
+      "autodeler",
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14938,7 +15056,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14972,7 +15090,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -15067,7 +15185,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15154,9 +15272,9 @@
       "bravofly",
       "risskov-bilferie",
       "tui",
-      "hostelworld",
       "db-nordics",
-      "economybookings"
+      "economybookings",
+      "onlinebookingmanager"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15197,7 +15315,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15233,7 +15351,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -15276,7 +15394,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -15316,7 +15434,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -15327,7 +15444,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15364,7 +15482,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -15372,7 +15489,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15449,7 +15567,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -15501,7 +15619,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15579,7 +15697,6 @@
       "bioticsno",
       "clarinsno",
       "dentaworks",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "kost1no",
@@ -15590,7 +15707,8 @@
       "nordicmelatoninno",
       "online-therapy",
       "optisleepno",
-      "pakurangapharmacy"
+      "pakurangapharmacy",
+      "royal-tan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15642,6 +15760,54 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "225571",
+    "name": "helseogkost.no",
+    "slug": "helseogkostno",
+    "domain": "helseogkost.no",
+    "description": "",
+    "logo": "https://logo.debounce.com/helseogkost.no",
+    "categories": [
+      "Products",
+      "Health & Beauty",
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "products",
+      "health",
+      "beauty",
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/helseogkost-no-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/helseogkost-no-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "krN0.0039",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "bar-zoneno",
+      "yumiland",
+      "bioticsno",
+      "clarinsno",
+      "dentaworks",
+      "herbsdaily",
+      "iherb",
+      "kost1no",
+      "libresse",
+      "lillehammerspano",
+      "med24no",
+      "naturecan",
+      "nordicmelatoninno",
+      "online-therapy",
+      "optisleepno"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "224263",
     "name": "modostore.no",
     "slug": "modostoreno",
@@ -15676,7 +15842,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15710,7 +15876,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -15843,7 +16009,7 @@
       "shesaidyes",
       "spreadshirt",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "evrycard",
       "euroflorist",
       "myartworkplate"
@@ -15858,7 +16024,7 @@
     "slug": "booking",
     "domain": "booking.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/bookingcom-nordics_logo.png",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
     "categories": [
       "Travel & Vacations"
     ],
@@ -15884,14 +16050,14 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Shoptastic CPA"
   },
   {
@@ -15929,7 +16095,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15961,7 +16127,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -16048,10 +16214,10 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "thechefno",
       "candybis",
       "mogumushrooms"
@@ -16131,7 +16297,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -16179,7 +16345,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16216,7 +16382,7 @@
       "tirendo",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "bildelerekspert",
       "yeswelder"
@@ -16260,7 +16426,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16293,13 +16459,13 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
       "desigual",
       "jeanmarcjoubert",
       "qathu",
-      "sembo",
       "hugo-boss",
       "dressmykidno",
       "gentsno",
@@ -16339,7 +16505,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -16383,7 +16549,7 @@
       "tirendo",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "autodo",
       "yeswelder"
@@ -16427,7 +16593,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16468,7 +16634,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16509,7 +16675,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16550,7 +16716,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16588,11 +16754,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16633,7 +16799,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16759,7 +16925,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16800,7 +16966,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16841,7 +17007,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16875,7 +17041,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -16883,7 +17048,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16919,12 +17085,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16995,7 +17161,7 @@
       "shesaidyes",
       "spreadshirt",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "aliexpress-no-1",
       "euroflorist",
       "myartworkplate"
@@ -17032,7 +17198,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -17040,7 +17205,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -17153,7 +17319,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -17201,7 +17367,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17235,7 +17401,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -17243,7 +17408,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17284,7 +17450,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17325,7 +17491,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17358,13 +17524,13 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
       "desigual",
       "beachsissi",
       "qathu",
-      "sembo",
       "hugo-boss",
       "dressmykidno",
       "gentsno",
@@ -17450,7 +17616,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17532,7 +17698,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17573,7 +17739,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17612,9 +17778,9 @@
       "nytelse",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "sorujewellery",
-      "swiftoptics",
-      "lensway"
+      "swiftoptics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17738,7 +17904,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17770,7 +17936,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -17854,7 +18020,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -17940,7 +18106,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -17948,7 +18113,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17984,7 +18150,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -18025,7 +18191,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -18033,7 +18198,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18074,7 +18240,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18115,7 +18281,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18156,7 +18322,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18190,7 +18356,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -18198,7 +18363,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18281,7 +18447,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -18319,11 +18485,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18362,13 +18528,13 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
       "desigual",
       "beachsissi",
       "jeanmarcjoubert",
-      "sembo",
       "hugo-boss"
     ],
     "logoQuality": "high",
@@ -18410,7 +18576,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18446,12 +18612,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18483,7 +18649,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -18577,53 +18743,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "92267",
-    "name": "Sembo",
-    "slug": "sembo",
-    "domain": "sembo.no",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/sembo.no",
-    "categories": [
-      "Clothing",
-      "Travel & Vacations",
-      "Accessories"
-    ],
-    "tags": [
-      "clothing",
-      "travel",
-      "vacations",
-      "accessories"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.shoptastic.io/no/store/sembo-no?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/no/store/sembo-no?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "0.24",
-    "similarBrands": [
-      "anjaysdesigns",
-      "murlong-cres",
-      "pashminawearno",
-      "robertorossono",
-      "under-armour",
-      "chicastoreno",
-      "shein",
-      "desigual",
-      "beachsissi",
-      "jeanmarcjoubert",
-      "qathu",
-      "hugo-boss",
-      "airpaz",
-      "caravanno",
-      "db-nordics"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18664,7 +18784,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18705,7 +18825,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -18785,7 +18905,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18826,7 +18946,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18862,12 +18982,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18901,7 +19021,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -18909,7 +19028,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18950,7 +19070,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18982,10 +19102,10 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "candybis",
       "mogumushrooms"
@@ -19029,7 +19149,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19070,7 +19190,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19142,7 +19262,7 @@
       "tirendo",
       "trumadelerno",
       "auto-europe",
-      "autodoc-no",
+      "autodoc-no-1",
       "risskov-bilferie",
       "autodo",
       "bildelerekspert"
@@ -19186,7 +19306,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -19221,7 +19341,7 @@
       "shesaidyes",
       "spreadshirt",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "aliexpress-no-1",
       "evrycard",
       "myartworkplate"
@@ -19265,11 +19385,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19310,7 +19430,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19392,12 +19512,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19476,11 +19596,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19518,11 +19638,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19560,11 +19680,11 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
+      "sembo",
       "travelstuffno",
       "tripxno",
       "auto-europe",
-      "flixbus",
-      "hurtigruten-expeditions"
+      "flixbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19605,7 +19725,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19637,10 +19757,10 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "mogumushrooms"
@@ -19693,8 +19813,8 @@
   },
   {
     "id": "618676",
-    "name": "Curli (NO)",
-    "slug": "curli-no",
+    "name": "Curli",
+    "slug": "curli",
     "domain": "curli.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/curli.no",
@@ -19726,7 +19846,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19767,7 +19887,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19803,7 +19923,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -19849,8 +19969,8 @@
   },
   {
     "id": "606424",
-    "name": "Dyrberg Kern (NO)",
-    "slug": "dyrberg-kern-no",
+    "name": "Dyrberg Kern",
+    "slug": "dyrberg-kern",
     "domain": "dyrbergkern.no",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/dyrbergkern.no",
@@ -19882,7 +20002,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19923,7 +20043,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19964,7 +20084,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20000,7 +20120,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -20044,7 +20164,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -20052,7 +20171,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20093,7 +20213,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20129,7 +20249,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -20177,7 +20297,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20209,7 +20329,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -20261,7 +20381,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20297,7 +20417,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -20337,6 +20457,7 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "under-armour",
       "chicastoreno",
       "shein",
@@ -20344,7 +20465,6 @@
       "beachsissi",
       "jeanmarcjoubert",
       "qathu",
-      "sembo",
       "dressmykidno",
       "gentsno",
       "hunkemollerno"
@@ -20468,7 +20588,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -20509,7 +20629,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20550,7 +20670,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20586,12 +20706,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20632,7 +20752,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20673,7 +20793,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20705,10 +20825,10 @@
       "bar-zoneno",
       "foodstuffno",
       "giordanowines",
-      "helseogkostno",
       "pyretosnackan",
-      "wine-store-no",
+      "wine-store",
       "yumiland",
+      "helseogkostno",
       "americancandystores",
       "thechefno",
       "candybis"
@@ -20749,7 +20869,7 @@
       "shesaidyes",
       "spreadshirt",
       "yoursurpriseno",
-      "festmagasinet-no",
+      "festmagasinet",
       "aliexpress-no-1",
       "evrycard",
       "euroflorist",
@@ -20832,7 +20952,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -20840,7 +20959,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20876,7 +20996,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -20924,7 +21044,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21036,7 +21156,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21044,7 +21163,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21089,47 +21209,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "620521",
-    "name": "Smokespotvape",
-    "slug": "smokespotvape",
-    "domain": "smokespotvape.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/smokespotvape.com",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.shoptastic.io/no/store/smokespotvape-com?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/no/store/smokespotvape-com?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "4.75%",
-    "commissionType": "Percentage",
-    "eCPC": "0.70",
-    "similarBrands": [
-      "12xlwin4i",
-      "abonera",
-      "aigitime",
-      "airpaz",
-      "alamono",
-      "allectrase",
-      "alphamanno",
-      "amisolno",
-      "amorno",
-      "anjaysdesigns",
-      "antibug",
-      "aomeitech",
-      "appsumo",
-      "autodeler",
-      "autodoc-cps-no-reporting-realtime"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "499361",
     "name": "sologstrand",
     "slug": "sologstrand",
@@ -21164,7 +21243,7 @@
       "aomeitech",
       "appsumo",
       "autodeler",
-      "autodoc-cps-no-reporting-realtime"
+      "autodoc-no"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21198,7 +21277,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21206,7 +21284,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21278,7 +21357,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21286,7 +21364,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21366,7 +21445,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21374,7 +21452,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21413,9 +21492,9 @@
       "nytelse",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "sorujewellery",
-      "swiftoptics",
-      "lensway"
+      "swiftoptics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21451,12 +21530,12 @@
       "murlong-cres",
       "pashminawearno",
       "robertorossono",
+      "sembo",
       "shieldapparels",
       "spreadshirt",
       "stylingagenten",
       "teeshoppenno-i-s2s",
-      "under-armour",
-      "chicastoreno"
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21490,7 +21569,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21498,7 +21576,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21530,7 +21609,7 @@
       "appsumo",
       "coursera",
       "creditrepaircloud",
-      "e-sim-bouygues-telecom-2024",
+      "e-sim-bouygues-telecom",
       "fastpictureviewer",
       "getresponse",
       "hide",
@@ -21577,7 +21656,7 @@
       "fiskeonline",
       "fjellsportno",
       "frivannslivno",
-      "golfsenteret-no",
+      "golfsenteret",
       "kepelgolf",
       "kingbullbike",
       "olka-express",
@@ -21618,7 +21697,6 @@
       "clarinsno",
       "dentaworks",
       "elitemeetsbeauty",
-      "helseogkostno",
       "herbsdaily",
       "iherb",
       "indicaskincare",
@@ -21626,7 +21704,8 @@
       "kost1no",
       "libresse",
       "lillehammerspano",
-      "med24no"
+      "med24no",
+      "naturecan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

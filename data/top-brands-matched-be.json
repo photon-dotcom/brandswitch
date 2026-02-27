@@ -32,6 +32,11 @@
       "slug": "dyson"
     },
     {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
       "rank": 18,
       "name": "KitchenAid",
       "slug": "kitchenaid"

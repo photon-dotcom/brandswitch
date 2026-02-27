@@ -102,7 +102,7 @@
   {
     "id": "278460",
     "name": "Cheap Furniture Warehouse",
-    "slug": "cheap-furniture-warehouse-gb",
+    "slug": "cheap-furniture-warehouse",
     "domain": "cheapfurniturewarehouse.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/cheapfurniturewarehouse-co-uk-1767152720.png",
@@ -745,32 +745,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "256551",
-    "name": "Sosala GB",
-    "slug": "sosala",
-    "domain": "sosala.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/sosala.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/sosala-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/sosala-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "89367",
     "name": "Stanfords",
     "slug": "stanfords",
@@ -1085,8 +1059,8 @@
   },
   {
     "id": "214745",
-    "name": "A Couvert GB",
-    "slug": "a-couvert-gb",
+    "name": "A Couvert",
+    "slug": "a-couvert",
     "domain": "a-couvert.com",
     "description": "",
     "logo": "https://logo.clearbit.com/a-couvert.com?size=200",
@@ -1195,7 +1169,7 @@
   {
     "id": "214999",
     "name": "Bargain Hardware",
-    "slug": "bargain-hardware-gb",
+    "slug": "bargain-hardware",
     "domain": "bargainhardware.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bargainhardware-co-uk-1768901642.png",
@@ -1226,7 +1200,7 @@
   {
     "id": "216776",
     "name": "Be Fibre",
-    "slug": "be-fibre-gb",
+    "slug": "be-fibre",
     "domain": "be-fibre.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/be-fibre-co-uk-gb-1712642133.png",
@@ -1256,7 +1230,7 @@
   {
     "id": "216877",
     "name": "Bristol Airport Parking Solutions",
-    "slug": "bristol-airport-parking-solutions-gb",
+    "slug": "bristol-airport-parking-solutions",
     "domain": "bristolairportparkingsolutions.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bristolairportparkingsolutions-co-uk-1719898448.png",
@@ -1284,7 +1258,7 @@
   {
     "id": "216039",
     "name": "Buy Me Once",
-    "slug": "buy-me-once-gb",
+    "slug": "buy-me-once",
     "domain": "buymeonce.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/buymeonce-co-uk-uk-1718681699.png",
@@ -1315,7 +1289,7 @@
   {
     "id": "216587",
     "name": "Buy To Give",
-    "slug": "buy-to-give-gb",
+    "slug": "buy-to-give",
     "domain": "buytogive.co.uk",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/buytogive-co-uk-1718620187.png",
@@ -1388,32 +1362,6 @@
     "deeplinkUrl": "https://www.pickalink.com/click/clearancexl-co-uk-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "3.33%",
-    "commissionType": "Percentage",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "215701",
-    "name": "Existential Thread GB",
-    "slug": "existential-thread-gb",
-    "domain": "existentialthread.clothing",
-    "description": "",
-    "logo": "https://logo.clearbit.com/existentialthread.clothing?size=200",
-    "categories": [
-      "Clothing"
-    ],
-    "tags": [
-      "clothing"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/existentialthread-clothing?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/existentialthread-clothing?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "0.00%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [],
@@ -1505,8 +1453,8 @@
   },
   {
     "id": "216818",
-    "name": "Gravity GB",
-    "slug": "gravity-gb",
+    "name": "Gravity",
+    "slug": "gravity",
     "domain": "gravity-global.com",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/gravity-global-com-1753434829.png",
@@ -1566,8 +1514,8 @@
   },
   {
     "id": "215282",
-    "name": "Logs Online GB",
-    "slug": "logs-online-gb",
+    "name": "Logs Online",
+    "slug": "logs-online",
     "domain": "logsonline.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/logsonline.co.uk?size=200",
@@ -1580,32 +1528,6 @@
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/logsonline-co-uk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/logsonline-co-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "0.00%",
-    "commissionType": "Percentage",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "218121",
-    "name": "Mobility in Motion GB",
-    "slug": "mobility-in-motion-gb",
-    "domain": "mobilityinmotion.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/mobilityinmotion.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/mobilityinmotion-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/mobilityinmotion-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "0.00%",
     "commissionType": "Percentage",
@@ -1646,35 +1568,9 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "217376",
-    "name": "Paul Johnson Coaching GB",
-    "slug": "paul-johnson-coaching-gb",
-    "domain": "pauljohnsoncoaching.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/pauljohnsoncoaching.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/pauljohnsoncoaching-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "217049",
-    "name": "Rooster Car Insurance GB",
-    "slug": "rooster-car-insurance-gb",
+    "name": "Rooster Car Insurance",
+    "slug": "rooster-car-insurance",
     "domain": "joinrooster.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/joinrooster.co.uk?size=200",
@@ -1760,8 +1656,8 @@
   },
   {
     "id": "216796",
-    "name": "Tobermory GB",
-    "slug": "tobermory-gb",
+    "name": "Tobermory",
+    "slug": "tobermory",
     "domain": "tobermorydistillery.com",
     "description": "",
     "logo": "https://logo.clearbit.com/tobermorydistillery.com?size=200",
@@ -1786,8 +1682,8 @@
   },
   {
     "id": "214751",
-    "name": "Winternational Designer Ski Wear for Women GB",
-    "slug": "winternational-designer-ski-wear-for-women-gb",
+    "name": "Winternational Designer Ski Wear for Women",
+    "slug": "winternational-designer-ski-wear-for-women",
     "domain": "winternational.co.uk",
     "description": "",
     "logo": "https://logo.clearbit.com/winternational.co.uk?size=200",
@@ -2313,32 +2209,6 @@
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/wiltshirefarmfoods-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/wiltshirefarmfoods-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "227383",
-    "name": "One.com (UK) GB",
-    "slug": "one",
-    "domain": "one.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/one.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/one-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/one-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",

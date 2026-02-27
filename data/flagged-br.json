@@ -1,8 +1,8 @@
 [
   {
     "id": "92733",
-    "name": "adidas BR",
-    "slug": "adidas-br",
+    "name": "adidas",
+    "slug": "adidas",
     "domain": "adidas.com.br",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/adidas-br-1731483562.png",
@@ -68,8 +68,8 @@
   },
   {
     "id": "275543",
-    "name": "EF English Live BR",
-    "slug": "ef-english-live-br",
+    "name": "EF English Live",
+    "slug": "ef-english-live",
     "domain": "englishlive.ef.com",
     "description": "",
     "logo": "https://logo.clearbit.com/englishlive.ef.com?size=200",
@@ -95,68 +95,6 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "245573",
-    "name": "Toluna BR",
-    "slug": "toluna-br",
-    "domain": "toluna.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/toluna.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "BR",
-    "affiliateUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "€0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "320314",
-    "name": "Air Help BR",
-    "slug": "airhelp",
-    "domain": "airhelp.com",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/airhelp-com-br-1732877677.png",
-    "categories": [
-      "Products",
-      "Travel & Vacations",
-      "Digital Services & Streaming",
-      "Subscription Boxes & Services"
-    ],
-    "tags": [
-      "products",
-      "travel",
-      "vacations",
-      "digital",
-      "services",
-      "streaming",
-      "subscription",
-      "boxes"
-    ],
-    "country": "BR",
-    "affiliateUrl": "https://www.pickalink.com/click/airhelp-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/airhelp-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
   },
   {
     "id": "296725",
@@ -190,7 +128,7 @@
   },
   {
     "id": "167585",
-    "name": "Natura BR",
+    "name": "Natura Com",
     "slug": "natura-com",
     "domain": "natura.com.br",
     "description": "",

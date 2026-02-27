@@ -1,1 +1,78 @@
-{}
+{
+  "clothing": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 9,
+      "name": "Walmart",
+      "slug": "walmart"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 16,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 4,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    },
+    {
+      "rank": 13,
+      "name": "Walmart",
+      "slug": "walmart"
+    }
+  ]
+}

@@ -792,34 +792,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "201781",
-    "name": "Denk Outdoor",
-    "slug": "denk-outdoor",
-    "domain": "denk-outdoor.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/denk-outdoor.de?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/denk-outdoor-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/denk-outdoor-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "174290",
     "name": "Fewo Direkt",
     "slug": "fewo-direkt",
@@ -1049,35 +1021,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "171068",
-    "name": "Spiele Offensive",
-    "slug": "spiele-offensive",
-    "domain": "spiele-offensive.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/spiele-offensive.de?size=200",
-    "categories": [
-      "Products",
-      "Toys & Games"
-    ],
-    "tags": [
-      "products",
-      "toys",
-      "games"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/spiele-offensive-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/spiele-offensive-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "Up to $0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "257286",
     "name": "Switch Bot",
     "slug": "switch-bot",
@@ -1213,38 +1156,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "225173",
-    "name": "Schicker Mineral",
-    "slug": "schicker-mineral",
-    "domain": "schicker-mineral.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/schicker-mineral.de?size=200",
-    "categories": [
-      "Products",
-      "Health & Beauty",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "health",
-      "beauty",
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/schicker-mineral-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/schicker-mineral-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "513895",
     "name": "TikTok Shop",
     "slug": "tiktok-shop",
@@ -1339,8 +1250,8 @@
   },
   {
     "id": "199452",
-    "name": "Spartoo CH",
-    "slug": "spartoo-ch",
+    "name": "Spartoo",
+    "slug": "spartoo",
     "domain": "de.spartoo.ch",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/de-spartoo-ch-de-1724143461.jpg",

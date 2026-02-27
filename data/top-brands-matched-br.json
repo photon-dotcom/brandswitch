@@ -1,9 +1,107 @@
 {
+  "clothing": [
+    {
+      "rank": 9,
+      "name": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 2,
+      "name": "MAC Cosmetics",
+      "slug": "mac-cosmetics"
+    },
+    {
+      "rank": 7,
+      "name": "Nars Cosmetics",
+      "slug": "nars-cosmetics"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 22,
+      "name": "Stanley",
+      "slug": "stanley"
+    }
+  ],
   "electronics": [
     {
       "rank": 15,
       "name": "ASUS",
       "slug": "asus"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 28,
+      "name": "Bluetti",
+      "slug": "bluetti"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 3,
+      "name": "New Balance",
+      "slug": "new-balance"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 17,
+      "name": "Le Creuset",
+      "slug": "le-creuset"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 3,
+      "name": "Bitdefender",
+      "slug": "bitdefender"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 14,
+      "name": "Wine",
+      "slug": "wine"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 20,
+      "name": "Hotels",
+      "slug": "hotels"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
     }
   ]
 }

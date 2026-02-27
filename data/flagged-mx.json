@@ -1,34 +1,8 @@
 [
   {
-    "id": "256691",
-    "name": "BanCoppel MX",
-    "slug": "bancoppel",
-    "domain": "bancoppel.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/bancoppel.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "MX",
-    "affiliateUrl": "https://www.pickalink.com/click/bancoppel-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/bancoppel-com-mx?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "214462",
-    "name": "Office Max MX",
-    "slug": "office-max-mx",
+    "name": "Office Max",
+    "slug": "office-max",
     "domain": "officemax.com.mx",
     "description": "",
     "logo": "https://logo.clearbit.com/officemax.com.mx?size=200",

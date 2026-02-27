@@ -5,7 +5,7 @@
     "slug": "charlotte-tilbury",
     "domain": "charlottetilbury.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/charlotte-tilbury-fr_logo.png",
+    "logo": "https://api.companyenrich.com/logo/charlottetilbury.com",
     "categories": [
       "Health & Beauty"
     ],
@@ -38,7 +38,7 @@
       "biocalma"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -90,7 +90,7 @@
     "slug": "il-duomo-novara-fr",
     "domain": "ilduomo.it",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/il-duomo-novara_logo.png",
+    "logo": "https://api.companyenrich.com/logo/ilduomo.it",
     "categories": [
       "Clothing",
       "Products"
@@ -124,7 +124,7 @@
       "cinereplicas"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -333,14 +333,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -1088,14 +1088,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -1217,14 +1217,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -1919,7 +1919,7 @@
     "slug": "agent-provocateur",
     "domain": "agentprovocateur.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/agent-provocateur-fr-_logo.png",
+    "logo": "https://api.companyenrich.com/logo/agentprovocateur.com",
     "categories": [
       "Clothing",
       "Accessories"
@@ -1953,7 +1953,7 @@
       "clinic-dress"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -1986,14 +1986,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -2217,49 +2217,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "97055",
-    "name": "airton",
-    "slug": "airton",
-    "domain": "airton.shop",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/airton.shop",
-    "categories": [
-      "Electronics",
-      "Products"
-    ],
-    "tags": [
-      "electronics",
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/airton?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/airton?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "alternate",
-      "arlo-security",
-      "atomrc",
-      "batteries-online",
-      "beatbot-fr",
-      "beem-energy",
-      "bhv",
-      "fr-bluettipower",
-      "braun-fr",
-      "cafago",
-      "cam-rowenta",
-      "conforama",
-      "conrad",
-      "dc-house",
-      "detecteurs"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "325304",
     "name": "Aktiia",
     "slug": "aktiia",
@@ -2460,14 +2417,14 @@
       "agfaphoto-print",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -2754,7 +2711,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "arlo-security",
       "atomrc",
       "batteries-online",
@@ -2768,7 +2724,8 @@
       "conforama",
       "conrad",
       "dc-house",
-      "detecteurs"
+      "detecteurs",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2888,7 +2845,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -3286,14 +3243,14 @@
       "agfaphoto-print",
       "fr-aliexpress",
       "amen",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -3347,8 +3304,8 @@
   },
   {
     "id": "409474",
-    "name": "AP- La Croix_CPS_FR",
-    "slug": "ap-la-croix_cps_fr",
+    "name": "La Croix",
+    "slug": "la-croix-fr",
     "domain": "abonnement.la-croix.com",
     "description": "",
     "logo": "https://logo.debounce.com/abonnement.la-croix.com",
@@ -3378,11 +3335,11 @@
       "anydesk",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -3462,13 +3419,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -3678,7 +3635,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "atomrc",
       "batteries-online",
@@ -3692,7 +3648,8 @@
       "conforama",
       "conrad",
       "dc-house",
-      "detecteurs"
+      "detecteurs",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4284,13 +4241,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -4299,50 +4256,9 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "307309",
-    "name": "Audible",
-    "slug": "audible-fr",
-    "domain": "c.trackmytarget.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/c.trackmytarget.com",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/c-trackmytarget-com-fr?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/c-trackmytarget-com-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "0.00",
-    "similarBrands": [
-      "il-duomo-novara-fr",
-      "zooplus",
-      "cleanmymac",
-      "maxpeedingrods",
-      "trendmicro",
-      "1001-pendules-networks",
-      "1001bijoux-bijoutier-sur-internet",
-      "123pneus",
-      "1-jour-1-vin",
-      "24bottles",
-      "2echoix",
-      "3suisses",
-      "321cbd",
-      "4kidspoint",
-      "99designs"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "128640",
     "name": "Audible",
-    "slug": "audible-fr-1",
+    "slug": "audible-fr",
     "domain": "audible.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/audible.fr",
@@ -4382,6 +4298,47 @@
       "disonsdemain",
       "fixter",
       "la-poste-mobile"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "307309",
+    "name": "Audible",
+    "slug": "audible-fr-1",
+    "domain": "c.trackmytarget.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/c.trackmytarget.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/c-trackmytarget-com-fr?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/c-trackmytarget-com-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "il-duomo-novara-fr",
+      "zooplus",
+      "cleanmymac",
+      "maxpeedingrods",
+      "trendmicro",
+      "1001-pendules-networks",
+      "1001bijoux-bijoutier-sur-internet",
+      "123pneus",
+      "1-jour-1-vin",
+      "24bottles",
+      "2echoix",
+      "3suisses",
+      "321cbd",
+      "4kidspoint",
+      "99designs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4601,7 +4558,7 @@
       "rent-a-car",
       "vipcars",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -4643,13 +4600,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -5236,13 +5193,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -5564,7 +5521,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -5578,7 +5534,8 @@
       "conforama",
       "conrad",
       "dc-house",
-      "detecteurs"
+      "detecteurs",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5817,7 +5774,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -5831,7 +5787,8 @@
       "conforama",
       "conrad",
       "dc-house",
-      "detecteurs"
+      "detecteurs",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5906,7 +5863,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "biotyfull-box",
       "boxsavourezmoi",
       "classpass",
@@ -6662,7 +6619,7 @@
       "weightwatchers",
       "minklashsubscription",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "boxsavourezmoi",
       "classpass",
@@ -7322,13 +7279,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe",
       "codeaven"
     ],
@@ -7497,7 +7454,7 @@
       "la-bote-rose",
       "cewe",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "bienmarquer",
       "biotyfull-box",
@@ -8372,7 +8329,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -8387,8 +8344,8 @@
   },
   {
     "id": "307563",
-    "name": "Cafeyn (UK)",
-    "slug": "cafeyn-uk",
+    "name": "Cafeyn",
+    "slug": "cafeyn",
     "domain": "cafeyn.co",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/cafeyn.co",
@@ -8416,10 +8373,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
@@ -9115,7 +9072,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette",
@@ -9597,10 +9554,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin"
     ],
     "logoQuality": "high",
@@ -10065,7 +10022,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -10078,7 +10034,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "conforama"
+      "conforama",
+      "conrad"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10250,7 +10207,7 @@
       "alpiniste",
       "amen",
       "arctic-pure",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "fr-bluettipower",
@@ -10603,14 +10560,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -12186,7 +12143,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -12200,7 +12156,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "detecteurs"
+      "detecteurs",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12472,7 +12429,7 @@
     "slug": "degusta-box",
     "domain": "degustabox.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/degusta-box-fr_logo.png",
+    "logo": "https://api.companyenrich.com/logo/degustabox.com",
     "categories": [
       "Health & Beauty",
       "Food, Drinks & Restaurants",
@@ -12505,7 +12462,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "weightwatchers",
@@ -12513,7 +12470,7 @@
       "natures-finest"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -12852,7 +12809,7 @@
       "deubaxxl",
       "galop-store",
       "halara",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "voghion",
       "k-swiss",
@@ -13041,7 +12998,7 @@
       "imprimencre",
       "kaiser-kraft",
       "simplycards",
-      "xp-pen",
+      "pen",
       "365-financial-analyst"
     ],
     "logoQuality": "high",
@@ -13113,7 +13070,6 @@
     "commissionType": "",
     "eCPC": "0.22",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -13127,7 +13083,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "electrolux"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13181,7 +13138,7 @@
       "des-bras-en-plus",
       "galop-store",
       "halara",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails"
     ],
     "logoQuality": "high",
@@ -13364,7 +13321,7 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "326350",
+    "id": "88219",
     "name": "Dockers",
     "slug": "dockers-fr",
     "domain": "fr.dockers.com",
@@ -13379,8 +13336,8 @@
       "clothing"
     ],
     "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/fr-dockers-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/fr-dockers-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/dockers-fr?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dockers-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "3.53%",
     "commissionType": "Percentage",
@@ -13955,11 +13912,11 @@
     "similarBrands": [
       "clickmeeting",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "hepster",
       "nebeus",
       "wondershare",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "adultere-rencontre",
       "nouslib",
@@ -14052,7 +14009,7 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom"
     ],
@@ -14356,14 +14313,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -14532,14 +14489,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -15554,7 +15511,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -15568,7 +15524,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16447,7 +16404,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -16625,14 +16582,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -16713,14 +16670,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -16810,57 +16767,13 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1"
+      "audible-fr"
     ],
     "logoQuality": "high",
     "logoSource": "api",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "416167",
-    "name": "Flaconi",
-    "slug": "flaconi",
-    "domain": "flaconi.fr",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/flaconi.fr",
-    "categories": [
-      "Products",
-      "Health & Beauty"
-    ],
-    "tags": [
-      "products",
-      "health",
-      "beauty"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/flaconi-fr?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "active-cbd",
-      "altrocare",
-      "arctic-pure",
-      "aromextrem-cbd",
-      "beautepromo",
-      "bhv",
-      "biocalma",
-      "biomedi",
-      "biophenix-standard",
-      "biotyfull-box",
-      "braun-fr",
-      "cbd",
-      "cbdsense",
-      "cbx-medical",
-      "centifolia"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -17515,8 +17428,8 @@
   },
   {
     "id": "276175",
-    "name": "FR-FITUEYES",
-    "slug": "fr-fitueyes",
+    "name": "FITUEYES",
+    "slug": "fitueyes",
     "domain": "fr.fitueyes.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/fr.fitueyes.com",
@@ -17709,7 +17622,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -17723,7 +17635,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17938,7 +17851,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -17952,7 +17864,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17989,14 +17902,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -18425,7 +18338,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -19038,7 +18951,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -19052,7 +18964,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -19351,7 +19264,7 @@
       "top-conv",
       "tp-link",
       "changegroup-fr-1",
-      "xp-pen",
+      "pen",
       "cleanmymac",
       "99designs",
       "abebooks",
@@ -19858,7 +19771,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -19994,14 +19907,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -20798,7 +20711,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -20812,7 +20724,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20900,14 +20813,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -21075,7 +20988,7 @@
       "des-bras-en-plus",
       "deubaxxl",
       "galop-store",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "voghion",
       "k-swiss",
@@ -21123,14 +21036,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -21531,7 +21444,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "nebeus",
       "wondershare",
@@ -22138,10 +22051,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin"
     ],
     "logoQuality": "high",
@@ -22215,7 +22128,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -22228,7 +22140,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22522,7 +22435,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -22536,7 +22448,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -22611,7 +22524,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -22625,7 +22537,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23390,7 +23303,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette",
@@ -23978,7 +23891,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -23992,7 +23904,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25053,7 +24966,7 @@
       "imprimencre",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette",
@@ -25181,7 +25094,7 @@
       "galop-store",
       "halara",
       "house-of-rugby",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -25738,14 +25651,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26850,7 +26763,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -26864,7 +26776,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26934,7 +26847,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -26948,7 +26860,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -27819,7 +27732,6 @@
     "commissionType": "Percentage",
     "eCPC": "0.04",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -27833,7 +27745,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27862,7 +27775,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -27876,7 +27788,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28167,14 +28080,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -28336,7 +28249,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -28350,7 +28262,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28491,8 +28404,8 @@
   },
   {
     "id": "275862",
-    "name": "Liki 24",
-    "slug": "liki-24",
+    "name": "Liki",
+    "slug": "liki",
     "domain": "liki24.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/liki24.fr",
@@ -28828,14 +28741,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -29087,7 +29000,7 @@
       "airhelp-fr-1",
       "turbopass",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -29546,8 +29459,8 @@
   },
   {
     "id": "160360",
-    "name": "Lytess - CPA",
-    "slug": "lytess-cpa",
+    "name": "Lytess",
+    "slug": "lytess-fr",
     "domain": "lytess.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lytess.com",
@@ -29593,8 +29506,8 @@
   },
   {
     "id": "388144",
-    "name": "Lytess CPS FR (Reporting Realtime)",
-    "slug": "lytess-cps-fr-reporting-realtime",
+    "name": "Lytess",
+    "slug": "lytess-fr-1",
     "domain": "en.lytess.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/en.lytess.com",
@@ -31570,14 +31483,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -32625,7 +32538,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -32639,7 +32551,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33106,14 +33019,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -33665,7 +33578,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -33756,14 +33669,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -34058,14 +33971,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -34239,14 +34152,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -34929,7 +34842,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -35121,7 +35034,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -35463,7 +35376,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -35477,7 +35389,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -35558,7 +35471,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "wondershare",
@@ -36009,7 +35922,7 @@
       "des-bras-en-plus",
       "deubaxxl",
       "halara",
-      "lytess-cpa"
+      "lytess-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36171,7 +36084,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -36295,7 +36208,6 @@
     "commissionType": "",
     "eCPC": "0.02",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -36309,7 +36221,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37018,7 +36931,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -37032,7 +36944,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37241,7 +37154,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -37254,7 +37166,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -37581,7 +37494,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -37595,7 +37507,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -38062,14 +37975,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -39039,7 +38952,6 @@
     "commissionType": "",
     "eCPC": "0.68",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -39053,7 +38965,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -39961,10 +39874,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1"
+      "audible-fr"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -39993,7 +39906,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -40007,7 +39919,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -40036,7 +39949,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -40050,7 +39962,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -40470,7 +40383,7 @@
     "eCPC": "0.20",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -40683,7 +40596,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -41998,7 +41911,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -43072,8 +42985,8 @@
   },
   {
     "id": "329748",
-    "name": "Reakiro CBD CPS FR (Reporting Realtime)",
-    "slug": "reakiro-cbd-cps-fr-reporting-realtime",
+    "name": "Reakiro CBD",
+    "slug": "reakiro-cbd-fr",
     "domain": "cbdreakiro.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/cbdreakiro.fr",
@@ -43182,7 +43095,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -43196,7 +43108,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43317,7 +43230,7 @@
     "eCPC": "0.64",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -43441,7 +43354,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -43455,7 +43367,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43673,14 +43586,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -43718,14 +43631,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -44384,7 +44297,7 @@
   {
     "id": "275252",
     "name": "Sabon",
-    "slug": "sabon",
+    "slug": "sabon-fr",
     "domain": "sabon.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sabon.fr",
@@ -45249,7 +45162,6 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -45263,7 +45175,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -45292,7 +45205,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -45306,7 +45218,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -45427,14 +45340,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -46037,8 +45950,8 @@
   },
   {
     "id": "92500",
-    "name": "ShowroomPrivé FR 2023",
-    "slug": "showroompriv-fr-2023",
+    "name": "ShowroomPrivé",
+    "slug": "showroompriv",
     "domain": "showroomprive.com",
     "description": "",
     "logo": "https://logo.debounce.com/showroomprive.com",
@@ -46279,14 +46192,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -46616,7 +46529,7 @@
     "eCPC": "0.05",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -47793,7 +47706,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -47876,7 +47789,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -47890,7 +47802,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -48097,14 +48010,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -49063,14 +48976,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -50754,6 +50667,47 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "148575",
+    "name": "Tradestation",
+    "slug": "tradestation",
+    "domain": "tradestation.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/tradestation.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/tradestation-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "il-duomo-novara-fr",
+      "zooplus",
+      "cleanmymac",
+      "maxpeedingrods",
+      "trendmicro",
+      "1001-pendules-networks",
+      "1001bijoux-bijoutier-sur-internet",
+      "123pneus",
+      "1-jour-1-vin",
+      "24bottles",
+      "2echoix",
+      "3suisses",
+      "321cbd",
+      "4kidspoint",
+      "99designs"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "420941",
     "name": "Trailchews",
     "slug": "trailchews",
@@ -50832,14 +50786,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -51115,6 +51069,50 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "425573",
+    "name": "Truayur",
+    "slug": "truayur",
+    "domain": "truayur.fr",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/truayur.fr",
+    "categories": [
+      "Products",
+      "Health & Beauty"
+    ],
+    "tags": [
+      "products",
+      "health",
+      "beauty"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/truayur-fr?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/truayur-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "active-cbd",
+      "altrocare",
+      "arctic-pure",
+      "aromextrem-cbd",
+      "beautepromo",
+      "bhv",
+      "biocalma",
+      "biomedi",
+      "biophenix-standard",
+      "biotyfull-box",
+      "braun-fr",
+      "cbd",
+      "cbdsense",
+      "cbx-medical",
+      "centifolia"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "310455",
     "name": "Trueimagetech",
     "slug": "trueimagetech",
@@ -51137,7 +51135,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -51151,7 +51148,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -51187,14 +51185,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -51768,6 +51766,47 @@
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "270150",
+    "name": "Usine Bureau",
+    "slug": "usine-bureau",
+    "domain": "usinebureau.com",
+    "description": "",
+    "logo": "https://img.logo.dev/usinebureau.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/usinebureau-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "il-duomo-novara-fr",
+      "zooplus",
+      "cleanmymac",
+      "maxpeedingrods",
+      "trendmicro",
+      "1001-pendules-networks",
+      "1001bijoux-bijoutier-sur-internet",
+      "123pneus",
+      "1-jour-1-vin",
+      "24bottles",
+      "2echoix",
+      "3suisses",
+      "321cbd",
+      "4kidspoint",
+      "99designs"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
     "affiliateSource": "Pickalink CPA"
   },
   {
@@ -52439,7 +52478,6 @@
     "commissionType": "",
     "eCPC": "0.06",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -52453,7 +52491,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -53712,14 +53751,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -53748,7 +53787,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -53762,7 +53800,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -54048,7 +54087,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -54062,7 +54100,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -54097,7 +54136,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -54366,14 +54405,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -54423,8 +54462,8 @@
   },
   {
     "id": "94640",
-    "name": "XP-Pen",
-    "slug": "xp-pen",
+    "name": "Pen",
+    "slug": "pen",
     "domain": "storexppen.fr",
     "description": "",
     "logo": "https://logo.debounce.com/storexppen.fr",
@@ -54458,7 +54497,7 @@
       "anycubic-fr",
       "fr-roborock",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -54841,14 +54880,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -55149,14 +55188,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -55189,7 +55228,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -55280,14 +55319,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -55504,8 +55543,8 @@
   },
   {
     "id": "209273",
-    "name": "1001 hobbies - CPA",
-    "slug": "1001-hobbies-cpa",
+    "name": "1001 hobbies",
+    "slug": "1001-hobbies",
     "domain": "1001hobbies.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/1001hobbies.fr",
@@ -55638,7 +55677,7 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr"
+      "la-croix-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -55770,7 +55809,7 @@
       "rencontreslocales",
       "xflirt",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "historianet-cadeaux-personnaliss",
@@ -55809,7 +55848,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -55823,7 +55861,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -55999,7 +56038,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -56125,7 +56164,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -56139,7 +56177,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56218,7 +56257,7 @@
       "vidaxl",
       "desktronic",
       "green-box",
-      "xp-pen",
+      "pen",
       "expondo",
       "fr-roborock",
       "songmics",
@@ -56732,7 +56771,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -56746,7 +56784,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56961,7 +57000,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "clickmeeting"
@@ -57133,14 +57172,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -57265,11 +57304,11 @@
     "similarBrands": [
       "easyflyer",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "hepster",
       "nebeus",
       "wondershare",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "adultere-rencontre",
       "nouslib",
@@ -57358,14 +57397,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -57452,7 +57491,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette"
@@ -57581,7 +57620,7 @@
       "xflirt",
       "turbopass",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -58147,7 +58186,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -58161,7 +58199,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -58210,8 +58249,8 @@
   },
   {
     "id": "206831",
-    "name": "Dplantes CPA",
-    "slug": "dplantes-cpa",
+    "name": "Dplantes",
+    "slug": "dplantes",
     "domain": "dplantes.com",
     "description": "",
     "logo": "https://logo.debounce.com/dplantes.com",
@@ -58644,8 +58683,8 @@
   },
   {
     "id": "210318",
-    "name": "Faubourg 54 - CPA",
-    "slug": "faubourg-54-cpa",
+    "name": "Faubourg",
+    "slug": "faubourg",
     "domain": "faubourg54.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/faubourg54.com",
@@ -58802,7 +58841,7 @@
     "eCPC": "0.17",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -58847,7 +58886,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -58974,7 +59013,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -58988,7 +59026,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -59017,7 +59056,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -59031,7 +59069,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -59103,7 +59142,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -59117,7 +59155,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -59160,10 +59199,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin"
     ],
     "logoQuality": "high",
@@ -59172,8 +59211,8 @@
   },
   {
     "id": "210397",
-    "name": "Glamellina - CPA",
-    "slug": "glamellina-cpa",
+    "name": "Glamellina",
+    "slug": "glamellina",
     "domain": "glamellinacosmetics.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/glamellinacosmetics.com",
@@ -59968,14 +60007,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -60012,14 +60051,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60223,7 +60262,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -60237,7 +60275,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -60592,7 +60631,7 @@
       "deubaxxl",
       "footjoy",
       "halara",
-      "lytess-cpa"
+      "lytess-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60642,8 +60681,8 @@
   },
   {
     "id": "210844",
-    "name": "Kaspersky FR CPS",
-    "slug": "kaspersky-fr-cps",
+    "name": "Kaspersky",
+    "slug": "kaspersky",
     "domain": "kaspersky.fr",
     "description": "",
     "logo": "https://img.logo.dev/kaspersky.fr?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -60671,14 +60710,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -60792,7 +60831,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -60806,7 +60844,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -60835,7 +60874,6 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -60849,7 +60887,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60887,7 +60926,7 @@
       "boxsavourezmoi",
       "cewe",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "bienmarquer",
       "biotyfull-box",
@@ -60952,7 +60991,7 @@
   {
     "id": "208534",
     "name": "La Croix",
-    "slug": "la-croix",
+    "slug": "la-croix-fr-1",
     "domain": "la-croix.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/la-croix.com",
@@ -61024,7 +61063,7 @@
       "24bottles",
       "acadmie-du-got",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biocoop",
       "biotyfull-box",
@@ -61041,8 +61080,8 @@
   },
   {
     "id": "198593",
-    "name": "La Belle Vie CPA",
-    "slug": "la-belle-vie-cpa",
+    "name": "La Belle Vie",
+    "slug": "la-belle-vie",
     "domain": "labellevie.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/labellevie.com",
@@ -61286,14 +61325,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -61680,14 +61719,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -61725,14 +61764,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -61856,14 +61895,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -62197,7 +62236,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -62211,7 +62249,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -62432,8 +62471,8 @@
   },
   {
     "id": "193742",
-    "name": "MonKitSolaire 2023",
-    "slug": "monkitsolaire-2023",
+    "name": "MonKitSolaire",
+    "slug": "monkitsolaire",
     "domain": "monkitsolaire.fr",
     "description": "",
     "logo": "https://logo.debounce.com/monkitsolaire.fr",
@@ -62936,7 +62975,7 @@
     "eCPC": "0.01",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -63380,8 +63419,8 @@
   },
   {
     "id": "206165",
-    "name": "Piscine Center CPA",
-    "slug": "piscine-center-cpa",
+    "name": "Piscine Center",
+    "slug": "piscine-center",
     "domain": "piscine-center.net",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/piscine-center.net",
@@ -63472,8 +63511,8 @@
   },
   {
     "id": "187959",
-    "name": "PlaceLibertine CPA 2023",
-    "slug": "placelibertine-cpa-2023",
+    "name": "PlaceLibertine",
+    "slug": "placelibertine",
     "domain": "placelibertine.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/placelibertine.com",
@@ -63665,7 +63704,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -63679,7 +63717,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -63806,7 +63845,7 @@
       "rencontreslocales",
       "xflirt",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "historianet-cadeaux-personnaliss",
@@ -63857,7 +63896,7 @@
       "rencontres-rondes",
       "xflirt",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "historianet-cadeaux-personnaliss",
@@ -63912,7 +63951,7 @@
       "airhelp-fr-1",
       "turbopass",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -64344,7 +64383,7 @@
       "am-nutrition",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -64681,7 +64720,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -64695,7 +64733,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -64703,8 +64742,8 @@
   },
   {
     "id": "192221",
-    "name": "Smiirl - CPA",
-    "slug": "smiirl-cpa",
+    "name": "Smiirl",
+    "slug": "smiirl",
     "domain": "smiirl.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/smiirl.com",
@@ -64724,7 +64763,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -64738,7 +64776,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -64906,14 +64945,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -65163,7 +65202,7 @@
       "am-nutrition",
       "sanusq-supplements-fr",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -65204,7 +65243,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "carrefour",
       "natures-finest",
       "cafe-royal",
@@ -65397,8 +65436,8 @@
   },
   {
     "id": "205001",
-    "name": "Uriage CPA 2022",
-    "slug": "uriage-cpa-2022",
+    "name": "Uriage",
+    "slug": "uriage",
     "domain": "uriage.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/uriage.fr",
@@ -65602,7 +65641,7 @@
     "eCPC": "0.00",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -66001,7 +66040,7 @@
       "rencontres-rondes",
       "rencontreslocales",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "historianet-cadeaux-personnaliss",
@@ -66450,8 +66489,8 @@
   },
   {
     "id": "214038",
-    "name": "Popsockets - CPS",
-    "slug": "popsockets-cps",
+    "name": "Popsockets",
+    "slug": "popsockets",
     "domain": "popsockets.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/popsockets.fr",
@@ -66491,8 +66530,8 @@
   },
   {
     "id": "212289",
-    "name": "Elgato - CPS",
-    "slug": "elgato-cps",
+    "name": "Elgato",
+    "slug": "elgato",
     "domain": "elgato.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/elgato.com",
@@ -66512,7 +66551,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -66526,7 +66564,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67461,8 +67500,8 @@
   },
   {
     "id": "215339",
-    "name": "Baija CPA",
-    "slug": "baija-cpa",
+    "name": "Baija",
+    "slug": "baija",
     "domain": "baija.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/baija.com",
@@ -68878,7 +68917,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -69275,7 +69314,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -69289,7 +69327,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -69321,7 +69360,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -69459,7 +69498,7 @@
     "eCPC": "0.09",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -69635,14 +69674,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -69770,14 +69809,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -70207,14 +70246,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -70772,7 +70811,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "mesbonspros",
@@ -71265,7 +71304,7 @@
       "deubaxxl",
       "galop-store",
       "halara",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "voghion",
       "k-swiss",
@@ -71714,11 +71753,11 @@
       "alpiniste",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "arctic-pure",
       "auchantelecom",
-      "audible-fr-1"
+      "audible-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -71975,14 +72014,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -73033,14 +73072,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -73246,7 +73285,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -73729,14 +73768,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -73859,7 +73898,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -73873,7 +73911,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -74871,8 +74910,8 @@
   },
   {
     "id": "218077",
-    "name": "Mobilier 1",
-    "slug": "mobilier-1",
+    "name": "Mobilier",
+    "slug": "mobilier",
     "domain": "mobilier1.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/mobilier1.fr",
@@ -75495,7 +75534,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -75509,7 +75547,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -75533,7 +75572,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/nh-hotels-com-fr?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/nh-hotels-com-fr?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "2.91%",
+    "commission": "3.53%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
@@ -75979,7 +76018,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -75993,7 +76031,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -76211,7 +76250,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette"
@@ -76290,7 +76329,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -76788,8 +76827,8 @@
   },
   {
     "id": "214725",
-    "name": "Poujoulat CPA",
-    "slug": "poujoulat-cpa",
+    "name": "Poujoulat",
+    "slug": "poujoulat",
     "domain": "boutique.poujoulat.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/boutique.poujoulat.fr",
@@ -76850,7 +76889,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.05",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -76864,7 +76902,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77262,7 +77301,7 @@
   {
     "id": "212961",
     "name": "Reakiro CBD",
-    "slug": "reakiro-cbd",
+    "slug": "reakiro-cbd-fr-1",
     "domain": "cbdreakiro.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/cbdreakiro.com",
@@ -77342,10 +77381,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "biotyfull-box",
@@ -77568,7 +77607,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette"
@@ -77654,7 +77693,7 @@
       "deubaxxl",
       "galop-store",
       "halara",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "voghion",
       "k-swiss",
@@ -77971,7 +78010,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "stc-nutrition",
       "carrefour",
       "natures-finest",
@@ -78014,14 +78053,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -78362,14 +78401,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -78451,14 +78490,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -78616,7 +78655,6 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -78630,7 +78668,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78845,7 +78884,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "carrefour",
       "natures-finest",
@@ -79207,8 +79246,8 @@
   },
   {
     "id": "220902",
-    "name": "Demo program",
-    "slug": "demo-program",
+    "name": "Test",
+    "slug": "test",
     "domain": "ext.royalcactus.com",
     "description": "",
     "logo": "https://img.logo.dev/ext.royalcactus.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -79420,7 +79459,7 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr"
+      "la-croix-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -79510,7 +79549,7 @@
       "clickmeeting",
       "top-conv",
       "changegroup-fr-1",
-      "xp-pen",
+      "pen",
       "chronopost",
       "shelly",
       "softwarehunter",
@@ -80114,7 +80153,7 @@
       "redcare-pharmacie",
       "minklashsubscription",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -80989,6 +81028,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "98131",
+    "name": "Airton",
+    "slug": "airton",
+    "domain": "airton.shop",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/airton.shop",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/airton-shop-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/airton-shop-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0112",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "il-duomo-novara-fr",
+      "zooplus",
+      "cleanmymac",
+      "maxpeedingrods",
+      "trendmicro",
+      "1001-pendules-networks",
+      "1001bijoux-bijoutier-sur-internet",
+      "123pneus",
+      "1-jour-1-vin",
+      "24bottles",
+      "2echoix",
+      "3suisses",
+      "321cbd",
+      "4kidspoint",
+      "99designs"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "182143",
     "name": "Alensa",
     "slug": "alensa",
@@ -81735,14 +81815,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -82855,7 +82935,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -82932,7 +83012,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -82946,7 +83025,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83065,7 +83145,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.02",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -83079,7 +83158,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83140,7 +83220,7 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "259451",
+    "id": "259411",
     "name": "Delonghi",
     "slug": "delonghi",
     "domain": "delonghi.com",
@@ -83785,15 +83865,59 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "259074",
+    "name": "Flaconi",
+    "slug": "flaconi",
+    "domain": "flaconi.fr",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/flaconi.fr",
+    "categories": [
+      "Products",
+      "Health & Beauty"
+    ],
+    "tags": [
+      "products",
+      "health",
+      "beauty"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/flaconi-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/flaconi-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "active-cbd",
+      "altrocare",
+      "arctic-pure",
+      "aromextrem-cbd",
+      "beautepromo",
+      "bhv",
+      "biocalma",
+      "biomedi",
+      "biophenix-standard",
+      "biotyfull-box",
+      "braun-fr",
+      "cbd",
+      "cbdsense",
+      "cbx-medical",
+      "centifolia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -84017,10 +84141,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1"
+      "audible-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -84610,7 +84734,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -84624,7 +84747,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -85029,8 +85153,8 @@
   },
   {
     "id": "259360",
-    "name": "Levi's_EU",
-    "slug": "levis_eu",
+    "name": "Levi",
+    "slug": "levi",
     "domain": "levi.com",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/levis_logo.gif",
@@ -85094,7 +85218,7 @@
     "supportsDeepLink": true,
     "commission": "€0.0004",
     "commissionType": "FixedAmount",
-    "eCPC": "",
+    "eCPC": "0.00",
     "similarBrands": [
       "animojo",
       "cultura-fr",
@@ -85151,14 +85275,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -85336,7 +85460,7 @@
       "des-bras-en-plus",
       "deubaxxl",
       "halara",
-      "lytess-cpa"
+      "lytess-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -85855,7 +85979,7 @@
     "eCPC": "",
     "similarBrands": [
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "carrefour",
       "cafe-royal",
       "degusta-box",
@@ -85985,7 +86109,6 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -85999,7 +86122,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86467,14 +86591,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -86560,7 +86684,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette"
@@ -86592,7 +86716,6 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -86606,7 +86729,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86729,7 +86853,7 @@
       "kaiser-kraft",
       "simplycards",
       "vidaxl",
-      "xp-pen",
+      "pen",
       "365-financial-analyst",
       "anycubic-fr",
       "c-monetiquette"
@@ -86769,14 +86893,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -86826,7 +86950,7 @@
       "des-bras-en-plus",
       "deubaxxl",
       "halara",
-      "lytess-cpa"
+      "lytess-fr"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -86899,7 +87023,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -86913,7 +87036,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87763,7 +87887,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -87777,7 +87900,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -88210,7 +88334,7 @@
     "supportsDeepLink": false,
     "commission": "€0.0021",
     "commissionType": "FixedAmount",
-    "eCPC": "",
+    "eCPC": "0.00",
     "similarBrands": [
       "1-jour-1-vin",
       "24bottles",
@@ -88488,14 +88612,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -89022,7 +89146,6 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -89036,7 +89159,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89048,7 +89172,7 @@
     "slug": "booking",
     "domain": "booking.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/bookingcom-france_logo.png",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
     "categories": [
       "Travel & Vacations"
     ],
@@ -89081,7 +89205,7 @@
       "brittany-ferries"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -89103,7 +89227,7 @@
     "supportsDeepLink": true,
     "commission": "€0.2328",
     "commissionType": "FixedAmount",
-    "eCPC": "",
+    "eCPC": "0.00",
     "similarBrands": [
       "il-duomo-novara-fr",
       "zooplus",
@@ -89667,7 +89791,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -89681,7 +89804,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89884,7 +90008,6 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -89898,7 +90021,8 @@
       "cam-rowenta",
       "conforama",
       "conrad",
-      "dc-house"
+      "dc-house",
+      "detecteurs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -90010,7 +90134,7 @@
     "supportsDeepLink": true,
     "commission": "N/A",
     "commissionType": "",
-    "eCPC": "0.00",
+    "eCPC": "0.02",
     "similarBrands": [
       "1001-pendules-networks",
       "24bottles",
@@ -90282,14 +90406,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -90339,7 +90463,7 @@
       "deubaxxl",
       "footjoy",
       "halara",
-      "lytess-cpa"
+      "lytess-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90420,14 +90544,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -90674,7 +90798,7 @@
     "supportsDeepLink": true,
     "commission": "N/A",
     "commissionType": "",
-    "eCPC": "0.00",
+    "eCPC": "0.01",
     "similarBrands": [
       "adoebike",
       "adidas-padel",
@@ -90902,14 +91026,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk",
+      "cafeyn",
       "cewe"
     ],
     "logoQuality": "high",
@@ -91643,14 +91767,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -91847,7 +91971,6 @@
     "eCPC": "0.03",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -91860,7 +91983,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -92140,7 +92264,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -92153,7 +92276,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -92265,7 +92389,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -92278,7 +92401,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -93073,7 +93197,7 @@
     "eCPC": "0.02",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -93119,7 +93243,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -93513,14 +93637,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -93896,7 +94020,6 @@
     "eCPC": "0.04",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -93909,7 +94032,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94450,14 +94574,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94505,7 +94629,7 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr"
+      "la-croix-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94920,14 +95044,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95336,14 +95460,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95379,14 +95503,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95714,7 +95838,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -96004,7 +96128,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -96017,7 +96140,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -96297,7 +96421,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -96310,7 +96433,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -96592,7 +96716,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -96605,7 +96728,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -96809,7 +96933,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -96822,7 +96945,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -97061,7 +97185,7 @@
     "eCPC": "15.17",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -97151,14 +97275,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -97355,7 +97479,6 @@
     "eCPC": "1.86",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -97368,7 +97491,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -98637,7 +98761,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -99019,7 +99143,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99032,7 +99155,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99102,7 +99226,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99115,7 +99238,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99227,7 +99351,6 @@
     "eCPC": "0.05",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99240,7 +99363,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99355,7 +99479,6 @@
     "eCPC": "0.00",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99368,7 +99491,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99439,7 +99563,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99452,7 +99575,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99649,7 +99773,6 @@
     "similarBrands": [
       "alibaba-fr-1",
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -99661,7 +99784,8 @@
       "braun-fr",
       "cafago",
       "cam-rowenta",
-      "chronopost"
+      "chronopost",
+      "ciarragadgets"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99740,14 +99864,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100274,7 +100398,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -100287,7 +100410,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101151,7 +101275,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -101164,7 +101287,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102378,14 +102502,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102586,14 +102710,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102796,14 +102920,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103895,14 +104019,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104401,14 +104525,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105068,7 +105192,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -105081,7 +105204,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105657,7 +105781,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -105795,7 +105919,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -105873,7 +105997,7 @@
     "eCPC": "0.78",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -105916,7 +106040,7 @@
     "eCPC": "0.05",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -106676,7 +106800,7 @@
     "eCPC": "0.01",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -107431,14 +107555,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107597,14 +107721,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107984,7 +108108,7 @@
       "weightwatchers",
       "redcare-pharmacie",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "boxsavourezmoi",
@@ -108572,7 +108696,6 @@
     "eCPC": "0.60",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -108585,7 +108708,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -109375,14 +109499,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -109839,14 +109963,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -110584,7 +110708,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1001-hobbies-cpa",
+      "1001-hobbies",
       "alibaba-fr-1",
       "rccreationsireland",
       "11teamsports",
@@ -110796,7 +110920,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -110943,10 +111067,10 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1"
+      "audible-fr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -111272,7 +111396,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -111285,7 +111408,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -112367,7 +112491,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1001-hobbies-cpa",
+      "1001-hobbies",
       "alibaba-fr-1",
       "outdoortoys",
       "11teamsports",
@@ -112491,7 +112615,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -112504,7 +112627,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -112711,7 +112835,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -112756,7 +112880,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -112853,8 +112977,8 @@
   },
   {
     "id": "792785",
-    "name": "ROXY (FR)",
-    "slug": "roxy-fr",
+    "name": "ROXY",
+    "slug": "roxy",
     "domain": "logi118.xiti.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/logi118.xiti.com",
@@ -113064,8 +113188,8 @@
   },
   {
     "id": "657378",
-    "name": "Sabon (FR)",
-    "slug": "sabon-fr",
+    "name": "Sabon",
+    "slug": "sabon-fr-1",
     "domain": "fr.sabon.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/fr.sabon.com",
@@ -113512,14 +113636,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -113724,7 +113848,7 @@
       "shelly",
       "digital-group",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "avis",
       "bergamott",
       "biotyfull-box",
@@ -113891,14 +114015,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -113975,14 +114099,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -114185,7 +114309,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -114198,7 +114321,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -114488,14 +114612,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -114523,7 +114647,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -114536,7 +114659,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -114658,7 +114782,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -114871,14 +114995,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -114947,7 +115071,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -114960,7 +115083,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -115097,7 +115221,7 @@
     "slug": "speedo",
     "domain": "speedo.com",
     "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/speedo-fr_logo.gif",
+    "logo": "https://api.companyenrich.com/logo/speedo.com",
     "categories": [
       "Clothing",
       "Sports, Outdoors & Fitness"
@@ -115125,7 +115249,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -115133,7 +115257,7 @@
       "yousporty-fr"
     ],
     "logoQuality": "high",
-    "logoSource": "api",
+    "logoSource": "companyenrich",
     "affiliateSource": "Shoptastic CPA"
   },
   {
@@ -115889,14 +116013,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -117668,48 +117792,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "805112",
-    "name": "Truayur",
-    "slug": "truayur",
-    "domain": "truayur.fr",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/truayur.fr",
-    "categories": [
-      "Health & Beauty"
-    ],
-    "tags": [
-      "health",
-      "beauty"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.shoptastic.io/fr/store/truayur-fr?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/fr/store/truayur-fr?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "charlotte-tilbury",
-      "nars-cosmetics",
-      "active-cbd",
-      "altrocare",
-      "amandahairs",
-      "arctic-pure",
-      "aromextrem-cbd",
-      "asambeauty",
-      "basler-beautyes",
-      "basler-beauty",
-      "beautepromo",
-      "beauty-coiffure",
-      "beauty-the-shop",
-      "bhv",
-      "biggreensmile"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "803832",
     "name": "Trucolour",
     "slug": "trucolour",
@@ -117949,14 +118031,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -118204,14 +118286,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -118752,7 +118834,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -118765,7 +118846,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -119244,8 +119326,8 @@
   },
   {
     "id": "772454",
-    "name": "Voissy Panel (FR)",
-    "slug": "voissy-panel-fr",
+    "name": "Voissy Panel",
+    "slug": "voissy-panel",
     "domain": "voissy.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/voissy.com",
@@ -119519,14 +119601,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -120864,14 +120946,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -121045,7 +121127,7 @@
       "kiwitaxi",
       "turbopass",
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus"
@@ -121951,7 +122033,7 @@
     "eCPC": "0.14",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "easyflyer",
       "hepster",
       "nebeus",
@@ -122078,7 +122160,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -122091,7 +122172,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -122378,14 +122460,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -122508,14 +122590,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -123219,8 +123301,8 @@
   },
   {
     "id": "190147",
-    "name": "Modivo FR CPS",
-    "slug": "modivo-fr-cps",
+    "name": "Modivo",
+    "slug": "modivo",
     "domain": "modivo.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/modivo.fr",
@@ -123456,7 +123538,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -123469,7 +123550,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -123497,7 +123579,6 @@
     "eCPC": "0.58",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -123510,7 +123591,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -123708,7 +123790,6 @@
     "eCPC": "0.00",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -123721,7 +123802,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -123887,14 +123969,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -124441,14 +124523,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -124608,7 +124690,6 @@
     "eCPC": "0.06",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -124621,7 +124702,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -124787,7 +124869,7 @@
       "sanusq-supplements-fr",
       "superset-nutrition",
       "supspace",
-      "reakiro-cbd",
+      "reakiro-cbd-fr-1",
       "sanusq-supplements-fr-1",
       "stc-nutrition",
       "carrefour",
@@ -124907,7 +124989,7 @@
     "eCPC": "",
     "similarBrands": [
       "amen",
-      "audible-fr-1",
+      "audible-fr",
       "bergamott",
       "biotyfull-box",
       "boxsavourezmoi",
@@ -125085,14 +125167,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125245,7 +125327,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -125258,7 +125339,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125372,7 +125454,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -125385,7 +125466,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125421,14 +125503,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125498,7 +125580,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -125511,7 +125592,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125672,14 +125754,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125801,14 +125883,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -125878,7 +125960,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -125891,7 +125972,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -126054,14 +126136,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -126936,14 +127018,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -127075,8 +127157,8 @@
   },
   {
     "id": "606377",
-    "name": "Erotes (FR)",
-    "slug": "erotes-fr",
+    "name": "Erotes",
+    "slug": "erotes",
     "domain": "erotes.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/erotes.fr",
@@ -127146,14 +127228,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -127474,7 +127556,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -127487,7 +127568,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -127707,8 +127789,8 @@
   },
   {
     "id": "606407",
-    "name": "Grand Jury des Téléspectateurs (FR)",
-    "slug": "grand-jury-des-tlspectateurs-fr",
+    "name": "Grand Jury des Téléspectateurs",
+    "slug": "grand-jury-des-tlspectateurs",
     "domain": "trk.thinkaction.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/trk.thinkaction.com",
@@ -127820,14 +127902,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -127904,14 +127986,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -128825,14 +128907,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -129507,8 +129589,8 @@
   },
   {
     "id": "606355",
-    "name": "Netlingeri (FR)",
-    "slug": "netlingeri-fr",
+    "name": "Netlingeri",
+    "slug": "netlingeri",
     "domain": "netlingerie.fr",
     "description": "",
     "logo": "https://img.logo.dev/netlingerie.fr?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
@@ -129700,14 +129782,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -130664,7 +130746,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -130957,14 +131039,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -131000,14 +131082,14 @@
       "fr-aliexpress",
       "amen",
       "anydesk",
-      "ap-la-croix_cps_fr",
+      "la-croix-fr",
       "app-qivio",
       "auchantelecom",
-      "audible-fr-1",
+      "audible-fr",
       "awin",
       "bax-shop",
       "bookvillage",
-      "cafeyn-uk"
+      "cafeyn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -131310,8 +131392,8 @@
   },
   {
     "id": "398217",
-    "name": "Sports Events 365",
-    "slug": "sports-events-365",
+    "name": "Sports Events",
+    "slug": "sports-events",
     "domain": "sportsevents365.com",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sportsevents365.com",
@@ -131754,7 +131836,6 @@
     "eCPC": "",
     "similarBrands": [
       "nars-cosmetics",
-      "airton",
       "alternate",
       "arlo-security",
       "atomrc",
@@ -131767,7 +131848,8 @@
       "cafago",
       "cam-rowenta",
       "chronopost",
-      "ciarragadgets"
+      "ciarragadgets",
+      "conforama"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -131892,7 +131974,7 @@
       "halara",
       "house-of-rugby",
       "kappa",
-      "lytess-cpa",
+      "lytess-fr",
       "north-sails",
       "skisport",
       "under-armour",
@@ -131948,8 +132030,8 @@
   },
   {
     "id": "606327",
-    "name": "Toluna (FR)",
-    "slug": "toluna-fr",
+    "name": "Toluna",
+    "slug": "toluna",
     "domain": "toluna.fr",
     "description": "",
     "logo": "https://api.companyenrich.com/logo/toluna.fr",
@@ -133216,7 +133298,7 @@
     "affiliateSource": "Shoptastic CPC"
   },
   {
-    "id": "699792",
+    "id": "213325",
     "name": "Isotoner",
     "slug": "isotoner",
     "domain": "isotoner.fr",
@@ -133229,7 +133311,7 @@
       "accessories"
     ],
     "country": "FR",
-    "affiliateUrl": "https://www.shoptastic.io/fr/store/isotoner-fr-cpc-fr?userId=88888890&subId={your tracking code}",
+    "affiliateUrl": "https://www.shoptastic.io/fr/store/isotoner-fr-fr-cpc?userId=88888890&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
     "commission": "€0.0063",

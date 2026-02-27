@@ -2070,6 +2070,32 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "244750",
+    "name": "Fast Capital",
+    "slug": "fast-capital",
+    "domain": "fastcapital360.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fastcapital360.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/fastcapital360-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fastcapital360-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "218811",
     "name": "Figure Mortgage",
     "slug": "figure-mortgage",
