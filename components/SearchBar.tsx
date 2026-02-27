@@ -30,10 +30,6 @@ interface SearchBarProps {
 // Small markets — fall back to US index when local results are scarce
 const SMALL_MARKETS = new Set(['fi', 'dk', 'no', 'mx', 'at', 'ch', 'be', 'se', 'nl']);
 
-const MARKET_LABELS: Record<string, string> = {
-  fi: 'Finland', dk: 'Denmark', no: 'Norway', mx: 'Mexico',
-  at: 'Austria', ch: 'Switzerland', be: 'Belgium', se: 'Sweden', nl: 'Netherlands',
-};
 
 // In-memory cache: locale → loaded index (loaded once on first keystroke)
 const indexCache = new Map<string, SearchEntry[]>();
@@ -88,7 +84,7 @@ export function SearchBar({ locale, size = 'default' }: SearchBarProps) {
           indexCache.set(locale, data);
           loadingRef.current = false;
         }
-        let entries = indexCache.get(locale);
+        const entries = indexCache.get(locale);
         if (!entries) return;
         let data = searchIndex(entries, query.trim());
 
