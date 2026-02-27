@@ -2,7 +2,7 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 2892
+    "brandCount": 3111
   },
   {
     "name": "Home & Garden",
@@ -12,42 +12,42 @@
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 840
+    "brandCount": 842
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 812
+    "brandCount": 814
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 775
+    "brandCount": 774
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 720
+    "brandCount": 724
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 619
+    "brandCount": 620
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 504
+    "brandCount": 510
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 429
+    "brandCount": 430
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 327
+    "brandCount": 334
   },
   {
     "name": "Auto & Tires",
@@ -57,7 +57,7 @@
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 215
+    "brandCount": 217
   },
   {
     "name": "Subscription Boxes & Services",
@@ -77,17 +77,17 @@
   {
     "name": "Office Supplies",
     "slug": "office-supplies",
-    "brandCount": 166
+    "brandCount": 167
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 161
   },
   {
     "name": "Pets",
     "slug": "pets",
     "brandCount": 161
-  },
-  {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 160
   },
   {
     "name": "Baby & Toddler",
@@ -97,7 +97,7 @@
   {
     "name": "Food Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 75
+    "brandCount": 76
   },
   {
     "name": "Sports Outdoors & Fitness",

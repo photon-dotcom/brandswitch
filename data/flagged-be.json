@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "181698",
+    "name": "dille-kamille.be",
+    "slug": "dille-kamillebe",
+    "domain": "dille-kamille.be",
+    "description": "",
+    "logo": "https://logo.clearbit.com/dille-kamille.be?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/dille-kamille-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dille-kamille-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  }
+]

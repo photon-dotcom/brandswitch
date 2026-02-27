@@ -138,6 +138,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "319019",
+    "name": "Emporium Italy",
+    "slug": "emporium-italy",
+    "domain": "emporium-italy.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/emporium-italy.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/emporium-italy-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/emporium-italy-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "426368",
     "name": "Fitnessfirst",
     "slug": "fitnessfirst",
@@ -155,6 +181,110 @@
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "118276",
+    "name": "gm-termoidraulica.it",
+    "slug": "gm-termoidraulicait",
+    "domain": "gm-termoidraulica.it",
+    "description": "",
+    "logo": "https://logo.clearbit.com/gm-termoidraulica.it?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/gm-termoidraulica-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/gm-termoidraulica-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "263830",
+    "name": "obi-italia.it",
+    "slug": "obi-italiait",
+    "domain": "obi-italia.it",
+    "description": "",
+    "logo": "https://logo.clearbit.com/obi-italia.it?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/obi-italia-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/obi-italia-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329427",
+    "name": "Prodomo Tech",
+    "slug": "prodomo-tech",
+    "domain": "prodomo-tech.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/prodomo-tech.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/prodomo-tech-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/prodomo-tech-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "262915",
+    "name": "Svapopiù",
+    "slug": "svapopi",
+    "domain": "svapopiu.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/svapopiu.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "IT",
+    "affiliateUrl": "https://www.pickalink.com/click/svapopiu-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/svapopiu-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",

@@ -54,6 +54,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "242762",
+    "name": "E Ville",
+    "slug": "e-ville",
+    "domain": "e-ville.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/e-ville.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "SE",
+    "affiliateUrl": "https://www.pickalink.com/click/e-ville-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/e-ville-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "647921",
     "name": "Scotch&Soda",
     "slug": "scotchandsoda",

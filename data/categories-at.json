@@ -2,7 +2,7 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 320
+    "brandCount": 333
   },
   {
     "name": "Home & Garden",
@@ -12,12 +12,12 @@
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 91
+    "brandCount": 92
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 90
+    "brandCount": 91
   },
   {
     "name": "Digital Services & Streaming",
@@ -37,7 +37,7 @@
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 62
+    "brandCount": 63
   },
   {
     "name": "Travel & Vacations",
@@ -47,12 +47,12 @@
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 39
+    "brandCount": 40
   },
   {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
-    "brandCount": 32
+    "brandCount": 33
   },
   {
     "name": "Shoes",
@@ -107,6 +107,6 @@
   {
     "name": "Food Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 4
+    "brandCount": 5
   }
 ]

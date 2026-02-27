@@ -1350,7 +1350,7 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
-      "eugrowshop"
+      "emma-mattress"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1431,12 +1431,12 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
       "greenpan",
-      "home-use",
-      "ibood"
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1586,12 +1586,12 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
       "greenpan",
-      "home-use",
-      "ibood"
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1766,7 +1766,7 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
-      "eugrowshop"
+      "emma-mattress"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1884,12 +1884,12 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
       "greenpan",
-      "home-use",
-      "ibood"
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2687,12 +2687,12 @@
       "boutique-anti-nuisibles",
       "cookinglife",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
       "greenpan",
-      "home-use",
-      "ibood"
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3404,11 +3404,13 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/emma-matelas.be",
     "categories": [
-      "Home & Garden"
+      "Home & Garden",
+      "Products"
     ],
     "tags": [
       "home",
-      "garden"
+      "garden",
+      "products"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/emma-matelas-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3425,14 +3427,14 @@
       "biopejs-shop",
       "boerenbed",
       "boutique-anti-nuisibles",
-      "brandpreventie",
-      "brasty",
-      "briantobe",
       "cookinglife",
       "deco-de-heros",
       "elpumps",
       "eugrowshop",
-      "fonqbe"
+      "fotogeschenk",
+      "gedenktegelnl",
+      "greenpan",
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3517,11 +3519,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "fotogeschenk",
       "gedenktegelnl",
       "greenpan",
-      "home-use",
-      "ibood"
+      "home-use"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6361,11 +6363,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7998,11 +8000,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -8755,11 +8757,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9320,11 +9322,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9717,11 +9719,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10460,11 +10462,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -10838,11 +10840,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11672,11 +11674,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12056,11 +12058,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13362,11 +13364,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13665,11 +13667,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14332,7 +14334,7 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
-      "eugrowshop"
+      "emma-mattress"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14882,11 +14884,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15668,11 +15670,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15712,11 +15714,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15974,11 +15976,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16197,11 +16199,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17623,11 +17625,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18587,11 +18589,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -19131,11 +19133,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20772,11 +20774,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21036,11 +21038,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21166,11 +21168,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21641,6 +21643,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "177428",
+    "name": "Brouwland",
+    "slug": "brouwland",
+    "domain": "brouwland.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/brouwland.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/brouwland-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/brouwland-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "123optic",
+      "albelli",
+      "allekabelsbe",
+      "alternate",
+      "andufit",
+      "aromextrem-cbd",
+      "atlaszanzibar",
+      "auto5",
+      "autobandenmarkt",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "axa-eauto",
+      "badjas",
+      "bedshopbe"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "326945",
     "name": "Cbd",
     "slug": "cbd",
@@ -21816,6 +21859,47 @@
       "schoonheidsschool-be",
       "shadow",
       "alamo"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "117631",
+    "name": "Edimeta",
+    "slug": "edimeta",
+    "domain": "edimeta.fr",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/edimeta.fr",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/edimeta-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/edimeta-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0629",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "123optic",
+      "albelli",
+      "allekabelsbe",
+      "alternate",
+      "andufit",
+      "aromextrem-cbd",
+      "atlaszanzibar",
+      "auto5",
+      "autobandenmarkt",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "axa-eauto",
+      "badjas",
+      "bedshopbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22115,11 +22199,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22200,11 +22284,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22340,6 +22424,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "286861",
+    "name": "Olara",
+    "slug": "olara",
+    "domain": "olara.fr",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/olara.fr",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/olara-fr-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/olara-fr-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "123optic",
+      "albelli",
+      "allekabelsbe",
+      "alternate",
+      "andufit",
+      "aromextrem-cbd",
+      "atlaszanzibar",
+      "auto5",
+      "autobandenmarkt",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "axa-eauto",
+      "badjas",
+      "bedshopbe"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "306105",
     "name": "Print24",
     "slug": "print24",
@@ -22359,8 +22484,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/print24-com-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/print24-com-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "$0.0570",
+    "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
       "e-boekhoudenbe",
@@ -22505,11 +22630,11 @@
       "cookinglife",
       "deco-de-heros",
       "elpumps",
+      "emma-mattress",
       "eugrowshop",
       "fotogeschenk",
       "gedenktegelnl",
-      "greenpan",
-      "home-use"
+      "greenpan"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22698,6 +22823,89 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "225545",
+    "name": "Espaceplaisir",
+    "slug": "espaceplaisir",
+    "domain": "espaceplaisir.fr",
+    "description": "",
+    "logo": "https://logo.debounce.com/espaceplaisir.fr",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/espaceplaisir-fr-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/espaceplaisir-fr-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0560",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "123optic",
+      "aedwinkelbe",
+      "aktiia",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "lifevac",
+      "myprotein"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "242780",
+    "name": "krefel.be",
+    "slug": "krefelbe",
+    "domain": "krefel.be",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/krefel.be",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/krefel-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/krefel-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0840",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "123optic",
+      "albelli",
+      "allekabelsbe",
+      "alternate",
+      "andufit",
+      "aromextrem-cbd",
+      "atlaszanzibar",
+      "auto5",
+      "autobandenmarkt",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "axa-eauto",
+      "badjas",
+      "bedshopbe"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "223135",
     "name": "My Jewellery",
     "slug": "my-jewellery",
@@ -22863,6 +23071,47 @@
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "227501",
+    "name": "vpharma-connect.be",
+    "slug": "vpharma-connectbe",
+    "domain": "vpharma-connect.be",
+    "description": "",
+    "logo": "https://logo.debounce.com/vpharma-connect.be",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "BE",
+    "affiliateUrl": "https://www.pickalink.com/click/vpharma-connect-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/vpharma-connect-be-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0448",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "123optic",
+      "albelli",
+      "allekabelsbe",
+      "alternate",
+      "andufit",
+      "aromextrem-cbd",
+      "atlaszanzibar",
+      "auto5",
+      "autobandenmarkt",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "axa-eauto",
+      "badjas",
+      "bedshopbe"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
     "affiliateSource": "Pickalink CPC"
   },
   {

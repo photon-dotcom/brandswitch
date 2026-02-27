@@ -2,17 +2,17 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 9745
+    "brandCount": 10082
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 4293
+    "brandCount": 4306
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 3018
+    "brandCount": 3021
   },
   {
     "name": "Digital Services & Streaming",
@@ -22,32 +22,32 @@
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 2643
+    "brandCount": 2648
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 2604
+    "brandCount": 2613
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 1646
+    "brandCount": 1647
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 1531
+    "brandCount": 1535
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 1163
+    "brandCount": 1175
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 799
+    "brandCount": 802
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -57,12 +57,12 @@
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 612
+    "brandCount": 617
   },
   {
     "name": "Toys & Games",
     "slug": "toys-and-games",
-    "brandCount": 596
+    "brandCount": 598
   },
   {
     "name": "Pets",
@@ -77,12 +77,12 @@
   {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
-    "brandCount": 457
+    "brandCount": 460
   },
   {
     "name": "Office Supplies",
     "slug": "office-supplies",
-    "brandCount": 452
+    "brandCount": 456
   },
   {
     "name": "Events & Entertainment",

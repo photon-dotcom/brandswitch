@@ -402,11 +402,13 @@
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/no-bs-skincare_logo.png",
     "categories": [
-      "Health & Beauty"
+      "Health & Beauty",
+      "Products"
     ],
     "tags": [
       "health",
-      "beauty"
+      "beauty",
+      "products"
     ],
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/no-bs-skincare?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2406,6 +2408,58 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "108456",
+    "name": "Cymax Stores",
+    "slug": "cymax-stores",
+    "domain": "cymax.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/cymax.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/cymax-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/cymax-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "100580",
+    "name": "Dawgs",
+    "slug": "dawgs",
+    "domain": "dawgsusa.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/dawgsusa.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/dawgsusa-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dawgsusa-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "308152",
     "name": "easy-peasy.ai",
     "slug": "easy-peasyai",
@@ -2517,6 +2571,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "99291",
+    "name": "Healthcare Rates",
+    "slug": "healthcare-rates",
+    "domain": "healthcare-rates.org",
+    "description": "",
+    "logo": "https://logo.clearbit.com/healthcare-rates.org?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/healthcare-rates-org-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/healthcare-rates-org-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "327696",
     "name": "Healthy Future",
     "slug": "healthy-future",
@@ -2564,6 +2644,59 @@
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/her-haus-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/her-haus-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "163635",
+    "name": "Kendo Kat Von D Beauty",
+    "slug": "kendo-kat-von-d-beauty",
+    "domain": "katvondbeauty.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/katvondbeauty.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/katvondbeauty-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/katvondbeauty-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "124721",
+    "name": "Luxuriouslook",
+    "slug": "luxuriouslook",
+    "domain": "luxuriouslook.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/luxuriouslook.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/luxuriouslook-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/luxuriouslook-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -2662,6 +2795,59 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "111143",
+    "name": "ORLY",
+    "slug": "orly",
+    "domain": "orlybeauty.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/orlybeauty.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/orlybeauty-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/orlybeauty-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "99057",
+    "name": "Pacificpearls Com",
+    "slug": "pacificpearls-com",
+    "domain": "pacificpearls.com.au",
+    "description": "",
+    "logo": "https://logo.clearbit.com/pacificpearls.com.au?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/pacificpearls-com-au-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/pacificpearls-com-au-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "308144",
     "name": "Proxy Seller",
     "slug": "proxy-seller",
@@ -2677,6 +2863,32 @@
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/proxy-seller-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/proxy-seller-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "111236",
+    "name": "Prps",
+    "slug": "prps",
+    "domain": "prpsjeans.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/prpsjeans.com?size=200",
+    "categories": [
+      "Clothing"
+    ],
+    "tags": [
+      "clothing"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/prpsjeans-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/prpsjeans-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -2743,6 +2955,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "224081",
+    "name": "Muir Way",
+    "slug": "muir-way",
+    "domain": "muir-way.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/muir-way.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/muir-way-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/muir-way-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "232574",
     "name": "Us Frankgreen",
     "slug": "us-frankgreen",
@@ -2764,6 +3002,32 @@
     "affiliateUrl": "https://www.pickalink.com/click/us-frankgreen-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "227652",
+    "name": "Zalando Lounge",
+    "slug": "zalando-lounge",
+    "domain": "zalando-lounge.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/zalando-lounge.de?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/zalando-lounge-de-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/zalando-lounge-de-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",

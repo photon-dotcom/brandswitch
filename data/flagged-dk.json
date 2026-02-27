@@ -25,5 +25,111 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "330138",
+    "name": "e-wheels.dk",
+    "slug": "e-wheelsdk",
+    "domain": "e-wheels.dk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/e-wheels.dk?size=200",
+    "categories": [
+      "Shoes"
+    ],
+    "tags": [
+      "shoes"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/e-wheels-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/e-wheels-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329672",
+    "name": "fit-fun.dk",
+    "slug": "fit-fundk",
+    "domain": "fit-fun.dk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fit-fun.dk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/fit-fun-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fit-fun-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330220",
+    "name": "nordic-case.dk",
+    "slug": "nordic-casedk",
+    "domain": "nordic-case.dk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/nordic-case.dk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/nordic-case-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/nordic-case-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330110",
+    "name": "tech-shoppen.dk",
+    "slug": "tech-shoppendk",
+    "domain": "tech-shoppen.dk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/tech-shoppen.dk?size=200",
+    "categories": [
+      "Products",
+      "Electronics"
+    ],
+    "tags": [
+      "products",
+      "electronics"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/tech-shoppen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
   }
 ]

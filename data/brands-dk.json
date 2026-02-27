@@ -973,6 +973,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
@@ -1056,10 +1057,10 @@
       "aliexpress",
       "eu-4game",
       "sharkgamingdk",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
-      "legbilligt",
       "myprotein",
       "a2interior"
     ],
@@ -2032,10 +2033,10 @@
       "min-lille-mus",
       "allectra",
       "aliexpress",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
-      "eurotoys",
-      "legbilligt"
+      "eurotoys"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2746,8 +2747,8 @@
       "stubhub",
       "eu-4game",
       "sharkgamingdk",
-      "rikki-tikki",
-      "shopping4net"
+      "legbilligt",
+      "rikki-tikki"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3522,12 +3523,12 @@
       "winefamly",
       "brewout-dk",
       "brewout-dk-1",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
       "topdrinks",
-      "euroflorist",
-      "interflora"
+      "euroflorist"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4168,12 +4169,12 @@
       "pyretosnackan",
       "wine-store",
       "winefamly",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
       "topdrinks",
-      "myprotein",
-      "a2interior"
+      "myprotein"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4500,12 +4501,12 @@
       "pyretosnackan",
       "wine-store",
       "winefamly",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
       "topdrinks",
-      "myprotein",
-      "a2interior"
+      "myprotein"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4747,10 +4748,10 @@
       "aliexpress",
       "eu-4game",
       "sharkgamingdk",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
-      "legbilligt",
       "myprotein",
       "a2interior"
     ],
@@ -4833,6 +4834,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
@@ -5135,10 +5137,10 @@
       "hobbix",
       "min-lille-mus",
       "allectra",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
-      "legbilligt",
       "acer",
       "alibaba"
     ],
@@ -6469,6 +6471,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
@@ -6678,7 +6681,6 @@
       "dinleddk",
       "alternate",
       "ankernordics",
-      "tech-shoppendk",
       "aliexpress",
       "samsung",
       "myprotein",
@@ -6686,7 +6688,8 @@
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -6930,7 +6933,6 @@
       "dinleddk",
       "alternate",
       "ankernordics",
-      "tech-shoppendk",
       "aliexpress",
       "samsung",
       "myprotein",
@@ -6938,7 +6940,8 @@
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7023,10 +7026,10 @@
       "aliexpress",
       "eu-4game",
       "sharkgamingdk",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
-      "legbilligt",
       "myprotein",
       "a2interior"
     ],
@@ -8207,10 +8210,10 @@
       "aliexpress",
       "eu-4game",
       "sharkgamingdk",
+      "legbilligt",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
-      "legbilligt",
       "myprotein",
       "a2interior"
     ],
@@ -9376,7 +9379,6 @@
       "conrad",
       "dinleddk",
       "ankernordics",
-      "tech-shoppendk",
       "aliexpress",
       "samsung",
       "myprotein",
@@ -9384,7 +9386,8 @@
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11270,6 +11273,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
@@ -11546,13 +11550,13 @@
       "nordicsneakersdk",
       "topskodk",
       "aliexpress",
+      "dancovershop",
       "nike",
       "caprice",
       "footjoy",
       "sports-direct-dk-1",
       "stadium-goods",
-      "dc-shoes",
-      "merrell"
+      "dc-shoes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11673,7 +11677,6 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "tech-shoppendk",
       "aliexpress",
       "samsung",
       "myprotein",
@@ -11681,7 +11684,8 @@
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11716,13 +11720,13 @@
       "nordicsneakersdk",
       "topskodk",
       "aliexpress",
+      "dancovershop",
       "nike",
       "caprice",
       "footjoy",
       "sports-direct-dk-1",
       "stadium-goods",
-      "dc-shoes",
-      "merrell"
+      "dc-shoes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11937,6 +11941,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "329715",
+    "name": "bokseshoppen.dk",
+    "slug": "bokseshoppendk",
+    "domain": "bokseshoppen.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/bokseshoppen.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/bokseshoppen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bokseshoppen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "279069",
     "name": "Brewout",
     "slug": "brewout-dk",
@@ -11970,12 +12015,12 @@
       "pyretosnackan",
       "wine-store",
       "winefamly",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
       "topdrinks",
-      "myprotein",
-      "a2interior"
+      "myprotein"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12015,15 +12060,97 @@
       "pyretosnackan",
       "wine-store",
       "winefamly",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat",
       "topdrinks",
-      "myprotein",
-      "a2interior"
+      "myprotein"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "184098",
+    "name": "cellbes.dk",
+    "slug": "cellbesdk",
+    "domain": "cellbes.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/cellbes.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/cellbes-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/cellbes-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330136",
+    "name": "copenhagencartel.dk",
+    "slug": "copenhagencarteldk",
+    "domain": "copenhagencartel.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/copenhagencartel.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/copenhagencartel-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/copenhagencartel-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12044,7 +12171,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/coselig-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12063,6 +12190,88 @@
       "philips-hue",
       "se-dreametech",
       "spotlessmaterials"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "283297",
+    "name": "damernesoutlet.dk",
+    "slug": "damernesoutletdk",
+    "domain": "damernesoutlet.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/damernesoutlet.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/damernesoutlet-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/damernesoutlet-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182056",
+    "name": "discoworld.dk",
+    "slug": "discoworlddk",
+    "domain": "discoworld.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/discoworld.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/discoworld-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/discoworld-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0327",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.03",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12107,6 +12316,376 @@
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "202867",
+    "name": "e-gear.dk",
+    "slug": "e-geardk",
+    "domain": "e-gear.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/e-gear.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/e-gear-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/e-gear-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330246",
+    "name": "elsalg.dk",
+    "slug": "elsalgdk",
+    "domain": "elsalg.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/elsalg.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/elsalg-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/elsalg-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330141",
+    "name": "everlastnordic.dk",
+    "slug": "everlastnordicdk",
+    "domain": "everlastnordic.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/everlastnordic.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/everlastnordic-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/everlastnordic-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329713",
+    "name": "farfromhome.dk",
+    "slug": "farfromhomedk",
+    "domain": "farfromhome.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/farfromhome.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/farfromhome-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/farfromhome-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "199140",
+    "name": "Flowlife",
+    "slug": "flowlife",
+    "domain": "flowlife.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/flowlife.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/flowlife-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/flowlife-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "278606",
+    "name": "Ginatricot",
+    "slug": "ginatricot",
+    "domain": "ginatricot.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ginatricot.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/ginatricot-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ginatricot-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330221",
+    "name": "glowiecph.dk",
+    "slug": "glowiecphdk",
+    "domain": "glowiecph.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/glowiecph.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/glowiecph-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/glowiecph-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329113",
+    "name": "Hamphi",
+    "slug": "hamphi",
+    "domain": "hamphi.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/hamphi.com",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/hamphi-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hamphi-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "alibaba",
+      "charlotte-tilbury",
+      "dr-adamsdk",
+      "iherb",
+      "iloveshampoodk",
+      "lensway",
+      "libresse",
+      "mindlydk",
+      "sephoradk",
+      "swehealth",
+      "vuxen",
+      "canavita",
+      "cbdsense",
+      "naturecan"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330140",
+    "name": "healthwell.dk",
+    "slug": "healthwelldk",
+    "domain": "healthwell.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/healthwell.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/healthwell-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/healthwell-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12168,7 +12747,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/hiddentrend-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12190,6 +12769,47 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182066",
+    "name": "hjemmeudstyr.dk",
+    "slug": "hjemmeudstyrdk",
+    "domain": "hjemmeudstyr.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/hjemmeudstyr.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/hjemmeudstyr-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hjemmeudstyr-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12235,6 +12855,129 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "329641",
+    "name": "hwl.dk",
+    "slug": "hwldk",
+    "domain": "hwl.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/hwl.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/hwl-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hwl-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330137",
+    "name": "ihero.dk",
+    "slug": "iherodk",
+    "domain": "ihero.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/ihero.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/ihero-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ihero-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "312148",
+    "name": "Indrehealing.dk",
+    "slug": "indrehealingdk",
+    "domain": "indrehealing.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/indrehealing.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/indrehealing-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/indrehealing-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "274683",
     "name": "inkpro.dk",
     "slug": "inkprodk",
@@ -12269,6 +13012,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "329971",
+    "name": "Ionicdry.dk",
+    "slug": "ionicdrydk",
+    "domain": "ionicdry.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ionicdry.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/ionicdry-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ionicdry-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "408955",
     "name": "juleby.dk",
     "slug": "julebydk",
@@ -12287,7 +13071,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/juleby-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12296,6 +13080,88 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330416",
+    "name": "kontainercopenhagen.dk",
+    "slug": "kontainercopenhagendk",
+    "domain": "kontainercopenhagen.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/kontainercopenhagen.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/kontainercopenhagen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/kontainercopenhagen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "181365",
+    "name": "lloyd-shop.dk",
+    "slug": "lloyd-shopdk",
+    "domain": "lloyd-shop.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/lloyd-shop.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/lloyd-shop-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/lloyd-shop-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.04",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12381,6 +13247,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "330210",
+    "name": "marjoe.dk",
+    "slug": "marjoedk",
+    "domain": "marjoe.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/marjoe.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/marjoe-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/marjoe-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "409411",
     "name": "Michagroup",
     "slug": "michagroup",
@@ -12397,7 +13304,89 @@
     "affiliateUrl": "https://www.pickalink.com/click/michagroup-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0107",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "319164",
+    "name": "mobike.dk",
+    "slug": "mobikedk",
+    "domain": "mobike.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/mobike.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/mobike-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/mobike-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330212",
+    "name": "musclehouse.dk",
+    "slug": "musclehousedk",
+    "domain": "musclehouse.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/musclehouse.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/musclehouse-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/musclehouse-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12464,6 +13453,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "330321",
+    "name": "Nordicfeel",
+    "slug": "nordicfeel",
+    "domain": "nordicfeel.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/nordicfeel.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/nordicfeel-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/nordicfeel-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "330327",
     "name": "nordicsneakers.dk",
     "slug": "nordicsneakersdk",
@@ -12492,13 +13522,13 @@
       "anodynedk",
       "topskodk",
       "aliexpress",
+      "dancovershop",
       "nike",
       "caprice",
       "footjoy",
       "sports-direct-dk-1",
       "stadium-goods",
-      "dc-shoes",
-      "merrell"
+      "dc-shoes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12593,6 +13623,90 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "330325",
+    "name": "outdoortid.dk",
+    "slug": "outdoortiddk",
+    "domain": "outdoortid.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/outdoortid.dk",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/outdoortid-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/outdoortid-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "11teamsports",
+      "acer",
+      "bergfreunde",
+      "fri-bikeshop-cykeltilbehr",
+      "jensencykler",
+      "myoutdoorkitchendk",
+      "pro-outdoordk",
+      "skateprodk",
+      "sportgymbutikken",
+      "under-armour",
+      "ecykelhjelmdk",
+      "hobbix",
+      "sunnycampdk",
+      "sup-worlddk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "199801",
+    "name": "outnorth.dk",
+    "slug": "outnorthdk",
+    "domain": "outnorth.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/outnorth.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/outnorth-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/outnorth-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "264571",
     "name": "plusled.dk",
     "slug": "plusleddk",
@@ -12680,6 +13794,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "283137",
+    "name": "probrush.dk",
+    "slug": "probrushdk",
+    "domain": "probrush.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/probrush.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/probrush-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/probrush-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "409449",
     "name": "promiz.dk",
     "slug": "promizdk",
@@ -12696,7 +13851,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/promiz-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12718,6 +13873,47 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "181470",
+    "name": "Saxo",
+    "slug": "saxo",
+    "domain": "saxo.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/saxo.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/saxo-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/saxo-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.01",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12788,7 +13984,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/simplyorganized-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.1.4469",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -12829,7 +14025,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/sisterspoint-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0107",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -12848,6 +14044,47 @@
       "spreadshirt-dk",
       "under-armour",
       "urbanbrandsdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "288059",
+    "name": "skyskin.dk",
+    "slug": "skyskindk",
+    "domain": "skyskin.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/skyskin.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/skyskin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/skyskin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12893,6 +14130,131 @@
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330414",
+    "name": "sportsgear.dk",
+    "slug": "sportsgeardk",
+    "domain": "sportsgear.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/sportsgear.dk",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/sportsgear-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sportsgear-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "11teamsports",
+      "acer",
+      "bergfreunde",
+      "fri-bikeshop-cykeltilbehr",
+      "jensencykler",
+      "myoutdoorkitchendk",
+      "pro-outdoordk",
+      "skateprodk",
+      "sportgymbutikken",
+      "under-armour",
+      "ecykelhjelmdk",
+      "hobbix",
+      "sunnycampdk",
+      "sup-worlddk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182086",
+    "name": "stoevsuger-dele.dk",
+    "slug": "stoevsuger-deledk",
+    "domain": "stoevsuger-dele.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/stoevsuger-dele.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/stoevsuger-dele-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/stoevsuger-dele-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0019",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330219",
+    "name": "stylemekka.dk",
+    "slug": "stylemekkadk",
+    "domain": "stylemekka.dk",
+    "description": "",
+    "logo": "https://logo.debounce.com/stylemekka.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/stylemekka-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/stylemekka-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12981,46 +14343,44 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "330110",
-    "name": "tech-shoppen.dk",
-    "slug": "tech-shoppendk",
-    "domain": "tech-shoppen.dk",
+    "id": "319015",
+    "name": "thecurve.dk",
+    "slug": "thecurvedk",
+    "domain": "thecurve.dk",
     "description": "",
-    "logo": "https://api.companyenrich.com/logo/tech-shoppen.dk",
+    "logo": "https://img.logo.dev/thecurve.dk?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products",
-      "Electronics"
+      "Products"
     ],
     "tags": [
-      "products",
-      "electronics"
+      "products"
     ],
     "country": "DK",
-    "affiliateUrl": "https://www.pickalink.com/click/tech-shoppen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "Kr.0.0080",
+    "affiliateUrl": "https://www.pickalink.com/click/thecurve-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/thecurve-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
-    "eCPC": "0.00",
+    "eCPC": "",
     "similarBrands": [
-      "mobilcoversdk",
-      "se-dreametech",
-      "batteries-onlinedk",
-      "conrad",
-      "dinleddk",
-      "alternate",
-      "ankernordics",
-      "aliexpress",
-      "samsung",
       "myprotein",
       "a2interior",
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
-    "logoSource": "companyenrich",
+    "logoSource": "logodev",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -13042,7 +14402,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/topsko-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "Kr.0.1684",
+    "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -13061,6 +14421,129 @@
       "banditten",
       "bergfreunde",
       "bildeleshop"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "328114",
+    "name": "trendhim.dk",
+    "slug": "trendhimdk",
+    "domain": "trendhim.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/trendhim.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/trendhim-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/trendhim-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182091",
+    "name": "uniggardin.dk",
+    "slug": "uniggardindk",
+    "domain": "uniggardin.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/uniggardin.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/uniggardin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/uniggardin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "263690",
+    "name": "unikure.dk",
+    "slug": "unikuredk",
+    "domain": "unikure.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/unikure.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/unikure-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/unikure-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13106,6 +14589,47 @@
       "aliexpress",
       "fitshopdk",
       "nike"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330415",
+    "name": "wowpadel.dk",
+    "slug": "wowpadeldk",
+    "domain": "wowpadel.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/wowpadel.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/wowpadel-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/wowpadel-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13317,6 +14841,47 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "223233",
+    "name": "Dancovershop",
+    "slug": "dancovershop",
+    "domain": "dancovershop.com",
+    "description": "",
+    "logo": "https://logo.debounce.com/dancovershop.com",
+    "categories": [
+      "Shoes"
+    ],
+    "tags": [
+      "shoes"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/dancovershop-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dancovershop-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "elpumpsdk",
+      "footshopdk",
+      "klodsbiksendk",
+      "allectra",
+      "alignfootweardk",
+      "anodynedk",
+      "nordicsneakersdk",
+      "topskodk",
+      "aliexpress",
+      "nike",
+      "caprice",
+      "footjoy",
+      "sports-direct-dk-1",
+      "stadium-goods",
+      "dc-shoes"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "226889",
     "name": "danguitar.dk",
     "slug": "danguitardk",
@@ -13336,8 +14901,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/danguitar-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
     "eCPC": "0.03",
     "similarBrands": [
       "gruppespildk",
@@ -13359,6 +14924,131 @@
     "logoQuality": "high",
     "logoSource": "debounce",
     "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223728",
+    "name": "designerure.dk",
+    "slug": "designeruredk",
+    "domain": "designerure.dk",
+    "description": "",
+    "logo": "https://img.logo.dev/designerure.dk?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/designerure-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/designerure-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224934",
+    "name": "ecosupplements.dk",
+    "slug": "ecosupplementsdk",
+    "domain": "ecosupplements.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ecosupplements.dk",
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/ecosupplements-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ecosupplements-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "britts-superfoods",
+      "kunstige-stearinlysdk",
+      "moccamore",
+      "nordic-bar",
+      "pyretosnackan",
+      "wine-store",
+      "winefamly",
+      "brewout-dk",
+      "brewout-dk-1",
+      "aliexpress",
+      "bornholmspirits",
+      "coffeetimedk",
+      "just-eat",
+      "topdrinks"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224440",
+    "name": "fammestore.dk",
+    "slug": "fammestoredk",
+    "domain": "fammestore.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/famme.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/fammestore-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fammestore-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "inherited",
+    "affiliateSource": "Pickalink CPC",
+    "logoInheritedFrom": "famme.fi"
   },
   {
     "id": "224198",
@@ -13406,6 +15096,129 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "242512",
+    "name": "Gourmetshoppen",
+    "slug": "gourmetshoppen",
+    "domain": "gourmetshoppen.com",
+    "description": "",
+    "logo": "https://img.logo.dev/gourmetshoppen.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/gourmetshoppen-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/gourmetshoppen-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222531",
+    "name": "greenmind.dk",
+    "slug": "greenminddk",
+    "domain": "greenmind.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/greenmind.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/greenmind-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/greenmind-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224441",
+    "name": "Haglofs",
+    "slug": "haglofs",
+    "domain": "haglofs.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/haglofs.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/haglofs-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/haglofs-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "224442",
     "name": "incover.dk",
     "slug": "incoverdk",
@@ -13441,6 +15254,122 @@
       "urvaerket",
       "vidaxl",
       "oxygen-mask"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224200",
+    "name": "Inkclub",
+    "slug": "inkclub",
+    "domain": "inkclub.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/inkclub.com",
+    "categories": [
+      "Office Supplies"
+    ],
+    "tags": [
+      "office",
+      "supplies"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/inkclub-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/inkclub-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "app-invoicesimple",
+      "flyforsinkelse",
+      "inkprodk",
+      "simplyorganizeddk",
+      "aliexpress",
+      "vistaprint",
+      "helloprint"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "225183",
+    "name": "iviskin.dk",
+    "slug": "iviskindk",
+    "domain": "iviskin.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/iviskin.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/iviskin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/iviskin-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223234",
+    "name": "jacobsenmobler.dk",
+    "slug": "jacobsenmoblerdk",
+    "domain": "jacobsenmobler.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/jacobsenmobler.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/jacobsenmobler-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/jacobsenmobler-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13486,6 +15415,76 @@
       "skateprodk",
       "sportgymbutikken",
       "ecykelhjelmdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222059",
+    "name": "Ketcherspecialisten",
+    "slug": "ketcherspecialisten",
+    "domain": "ketcherspecialisten.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ketcherspecialisten.dk",
+    "categories": [
+      "Sports Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/ketcherspecialisten-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ketcherspecialisten-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "cyklerdk",
+      "abilicaonlinedk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "227135",
+    "name": "legbilligt",
+    "slug": "legbilligt",
+    "domain": "legbilligt.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/legbilligt.dk",
+    "categories": [
+      "Toys & Games"
+    ],
+    "tags": [
+      "toys",
+      "games"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/legbilligt-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/legbilligt-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "bvssolitaire",
+      "eu-4game",
+      "gruppespildk",
+      "private-play",
+      "sharkgamingdk",
+      "droemmeland",
+      "hobbix",
+      "min-lille-mus",
+      "allectra",
+      "aliexpress",
+      "rikki-tikki",
+      "shopping4net",
+      "eurotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13541,6 +15540,48 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "222993",
+    "name": "rugvista.dk",
+    "slug": "rugvistadk",
+    "domain": "rugvista.dk",
+    "description": "",
+    "logo": "https://img.logo.dev/rugvista.dk?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/rugvista-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/rugvista-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.02",
+    "similarBrands": [
+      "a2interior",
+      "aegdk",
+      "bemz",
+      "biopejs-shop",
+      "designhomedk",
+      "designmarketnu",
+      "electrolux-brandshop",
+      "home-texdk",
+      "kunstige-stearinlysdk",
+      "lampegiganten",
+      "mobelsalg",
+      "myrangecookerdk",
+      "philips-hue",
+      "se-dreametech",
+      "spotlessmaterials"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "222060",
     "name": "Samsung",
     "slug": "samsung",
@@ -13570,14 +15611,178 @@
       "dinleddk",
       "alternate",
       "ankernordics",
-      "tech-shoppendk",
       "aliexpress",
       "myprotein",
       "a2interior",
       "aegdk",
       "airfrancedk",
       "airhelp-dk",
-      "app-invoicesimple"
+      "app-invoicesimple",
+      "banditten"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223235",
+    "name": "satana.dk",
+    "slug": "satanadk",
+    "domain": "satana.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/satana.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/satana-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/satana-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222285",
+    "name": "smartphoneshop.dk",
+    "slug": "smartphoneshopdk",
+    "domain": "smartphoneshop.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/smartphoneshop.dk",
+    "categories": [
+      "Electronics"
+    ],
+    "tags": [
+      "electronics"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/smartphoneshop-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/smartphoneshop-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "acer",
+      "alibaba",
+      "lenovo",
+      "mobilcoversdk",
+      "mshop",
+      "mytrendyphone",
+      "se-dreametech",
+      "sharkgamingdk",
+      "smartscan",
+      "tabletcoversdk",
+      "teknikproffset",
+      "teststar",
+      "vso-software",
+      "batteries-onlinedk",
+      "conrad"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224445",
+    "name": "Whiskystack",
+    "slug": "whiskystack",
+    "domain": "whiskystack.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/whiskystack.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/whiskystack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/whiskystack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "242155",
+    "name": "wolftac.dk",
+    "slug": "wolftacdk",
+    "domain": "wolftac.dk",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/wolftac.dk",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/wolftac-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/wolftac-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.02",
+    "similarBrands": [
+      "myprotein",
+      "a2interior",
+      "aegdk",
+      "airfrancedk",
+      "airhelp-dk",
+      "app-invoicesimple",
+      "banditten",
+      "bergfreunde",
+      "bildeleshop",
+      "blavandstranddk",
+      "bobw",
+      "brandshopdk",
+      "buump",
+      "bvssolitaire",
+      "capalusdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13939,6 +16144,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "coffeetimedk",
       "just-eat",
       "topdrinks"
@@ -14028,9 +16234,9 @@
       "anodynedk",
       "nordicsneakersdk",
       "topskodk",
+      "dancovershop",
       "nike",
-      "dc-shoes",
-      "merrell"
+      "dc-shoes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14101,6 +16307,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "just-eat",
       "topdrinks"
@@ -14825,40 +17032,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "234141",
-    "name": "Inkclub",
-    "slug": "inkclub",
-    "domain": "inkclub.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/inkclub.com",
-    "categories": [
-      "Office Supplies"
-    ],
-    "tags": [
-      "office",
-      "supplies"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.shoptastic.io/dk/store/inkclub-com-dk?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/dk/store/inkclub-com-dk?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "14.85%",
-    "commissionType": "Percentage",
-    "eCPC": "0.85",
-    "similarBrands": [
-      "app-invoicesimple",
-      "flyforsinkelse",
-      "inkprodk",
-      "simplyorganizeddk",
-      "aliexpress",
-      "vistaprint",
-      "helloprint"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "510972",
     "name": "Just Eat",
     "slug": "just-eat",
@@ -14895,11 +17068,11 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "topdrinks",
-      "smugglers-crate",
-      "bloomon"
+      "smugglers-crate"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16012,6 +18185,7 @@
       "brewout-dk",
       "brewout-dk-1",
       "aliexpress",
+      "ecosupplementsdk",
       "bornholmspirits",
       "coffeetimedk",
       "just-eat"
@@ -16851,9 +19025,9 @@
       "anodynedk",
       "nordicsneakersdk",
       "topskodk",
+      "dancovershop",
       "nike",
-      "dc-shoes",
-      "merrell"
+      "dc-shoes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17269,9 +19443,9 @@
       "min-lille-mus",
       "allectra",
       "aliexpress",
+      "legbilligt",
       "rikki-tikki",
-      "shopping4net",
-      "legbilligt"
+      "shopping4net"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17657,36 +19831,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "557193",
-    "name": "Ketcherspecialisten",
-    "slug": "ketcherspecialisten",
-    "domain": "ketcherspecialisten.dk",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/ketcherspecialisten.dk",
-    "categories": [
-      "Sports Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.shoptastic.io/dk/store/ketcherspecialisten-dk?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/dk/store/ketcherspecialisten-dk?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "3.33%",
-    "commissionType": "Percentage",
-    "eCPC": "0.37",
-    "similarBrands": [
-      "cyklerdk",
-      "abilicaonlinedk"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "450835",
     "name": "koulb",
     "slug": "koulb",
@@ -17725,46 +19869,6 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "266796",
-    "name": "legbilligt",
-    "slug": "legbilligt",
-    "domain": "legbilligt.dk",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/legbilligt.dk",
-    "categories": [
-      "Toys & Games"
-    ],
-    "tags": [
-      "toys",
-      "games"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.shoptastic.io/dk/store/legbilligt-dk?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/dk/store/legbilligt-dk?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "bvssolitaire",
-      "eu-4game",
-      "gruppespildk",
-      "private-play",
-      "sharkgamingdk",
-      "droemmeland",
-      "hobbix",
-      "min-lille-mus",
-      "allectra",
-      "aliexpress",
-      "rikki-tikki",
-      "shopping4net",
-      "eurotoys"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
     "affiliateSource": "Shoptastic CPA"
   },
   {
@@ -17925,12 +20029,12 @@
       "nordicsneakersdk",
       "topskodk",
       "aliexpress",
+      "dancovershop",
       "nike",
       "caprice",
       "footjoy",
       "sports-direct-dk-1",
-      "stadium-goods",
-      "dc-shoes"
+      "stadium-goods"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

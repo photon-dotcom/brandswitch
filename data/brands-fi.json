@@ -72,16 +72,16 @@
       "fitbalance",
       "jd-sports",
       "lux",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
       "aliexpress",
       "temu",
       "unisport",
       "greenfee365-finland",
       "acer",
-      "air-baltic-fi",
-      "antin-autokoulu",
-      "bigasoft",
-      "bigshocked",
-      "bookoutletfi"
+      "air-baltic-fi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1486,10 +1486,10 @@
       "partioaittafi",
       "lux",
       "fitbalance",
-      "greenfee365-finland",
-      "crocs-fi-cps-cit",
-      "pandafeetfi",
-      "marja-entrich-verkkokauppa"
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2163,16 +2163,16 @@
       "fitbalance",
       "jd-sports",
       "lux",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
       "aliexpress",
       "temu",
       "unisport",
       "greenfee365-finland",
       "acer",
-      "air-baltic-fi",
-      "antin-autokoulu",
-      "bigasoft",
-      "bigshocked",
-      "bookoutletfi"
+      "air-baltic-fi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2341,6 +2341,7 @@
       "waku-organics",
       "kokkiman",
       "slurpcoffee",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "keveedrinks",
@@ -2875,6 +2876,7 @@
       "pyretosnackan",
       "kokkiman",
       "slurpcoffee",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "keveedrinks",
@@ -3469,6 +3471,7 @@
       "pyretosnackan",
       "waku-organics",
       "slurpcoffee",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "keveedrinks",
@@ -3479,8 +3482,7 @@
       "air-baltic-fi",
       "antin-autokoulu",
       "bigasoft",
-      "bigshocked",
-      "bookoutletfi"
+      "bigshocked"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4218,6 +4220,7 @@
       "footjoy",
       "jd-sports",
       "crocs-fi-cps-cit",
+      "ewheelsfi",
       "aliexpress",
       "temu",
       "unisport",
@@ -4558,6 +4561,7 @@
       "pyretosnackan",
       "waku-organics",
       "kokkiman",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "keveedrinks",
@@ -5239,6 +5243,10 @@
       "partioaittafi",
       "pusu-skis",
       "fitbalance",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
       "aliexpress",
       "temu",
       "unisport",
@@ -5882,7 +5890,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/era24-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/era24-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "€0.0005",
+    "commission": "$0.0002",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -5941,6 +5949,82 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "329365",
+    "name": "ewheels.fi",
+    "slug": "ewheelsfi",
+    "domain": "ewheels.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ewheels.fi",
+    "categories": [
+      "Shoes"
+    ],
+    "tags": [
+      "shoes"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/ewheels-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ewheels-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "footjoy",
+      "jd-sports",
+      "crocs-fi-cps-cit",
+      "pandafeetfi",
+      "aliexpress",
+      "temu",
+      "unisport",
+      "lounge-by-zalando",
+      "michael-kors"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "276223",
+    "name": "feelvivid.fi",
+    "slug": "feelvividfi",
+    "domain": "feelvivid.fi",
+    "description": "",
+    "logo": "https://img.logo.dev/feelvivid.fi?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/feelvivid-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/feelvivid-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0020",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.03",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "274157",
     "name": "FitBalance",
     "slug": "fitbalance",
@@ -5961,8 +6045,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/fitbalance-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/fitbalance-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "$0.0020",
+    "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
       "act-tracker",
@@ -5970,16 +6054,16 @@
       "pusu-skis",
       "jd-sports",
       "lux",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
       "aliexpress",
       "temu",
       "unisport",
       "greenfee365-finland",
       "acer",
-      "air-baltic-fi",
-      "antin-autokoulu",
-      "bigasoft",
-      "bigshocked",
-      "bookoutletfi"
+      "air-baltic-fi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6021,6 +6105,88 @@
       "lysmanfi",
       "proshop",
       "fi-dyson"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182135",
+    "name": "gerdmans.fi",
+    "slug": "gerdmansfi",
+    "domain": "gerdmans.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/gerdmans.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/gerdmans-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/gerdmans-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "307449",
+    "name": "Groomerpro",
+    "slug": "groomerpro",
+    "domain": "groomerpro.eu",
+    "description": "",
+    "logo": "https://logo.debounce.com/groomerpro.eu",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/groomerpro-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/groomerpro-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6069,6 +6235,88 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "276224",
+    "name": "helgoods.fi",
+    "slug": "helgoodsfi",
+    "domain": "helgoods.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/helgoods.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/helgoods-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/helgoods-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0008",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "118544",
+    "name": "hobbybox.fi",
+    "slug": "hobbyboxfi",
+    "domain": "hobbybox.fi",
+    "description": "",
+    "logo": "https://img.logo.dev/hobbybox.fi?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/hobbybox-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hobbybox-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "125887",
     "name": "Holdit",
     "slug": "holdit",
@@ -6085,7 +6333,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/holdit-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/holdit-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "€0.0005",
+    "commission": "$0.0002",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -6110,6 +6358,371 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "330139",
+    "name": "houseoforganic.fi",
+    "slug": "houseoforganicfi",
+    "domain": "houseoforganic.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/houseoforganic.fi",
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/houseoforganic-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/houseoforganic-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "pyretosnackan",
+      "waku-organics",
+      "kokkiman",
+      "slurpcoffee",
+      "ecosupplementsfi",
+      "aliexpress",
+      "keveedrinks",
+      "quandoo",
+      "temu"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "172087",
+    "name": "Icebug",
+    "slug": "icebug",
+    "domain": "icebug.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/icebug.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/icebug-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/icebug-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "309603",
+    "name": "ilmankostutin.fi",
+    "slug": "ilmankostutinfi",
+    "domain": "ilmankostutin.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ilmankostutin.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/ilmankostutin-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ilmankostutin-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "172144",
+    "name": "kahvikaveri.fi",
+    "slug": "kahvikaverifi",
+    "domain": "kahvikaveri.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/kahvikaveri.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/kahvikaveri-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/kahvikaveri-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "258534",
+    "name": "kauniskoti.fi",
+    "slug": "kauniskotifi",
+    "domain": "kauniskoti.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/kauniskoti.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/kauniskoti-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/kauniskoti-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330211",
+    "name": "koiratarvikehaukkula.fi",
+    "slug": "koiratarvikehaukkulafi",
+    "domain": "koiratarvikehaukkula.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/koiratarvikehaukkula.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/koiratarvikehaukkula-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/koiratarvikehaukkula-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "274676",
+    "name": "ktverkkokauppa.fi",
+    "slug": "ktverkkokauppafi",
+    "domain": "ktverkkokauppa.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ktverkkokauppa.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/ktverkkokauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ktverkkokauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182139",
+    "name": "laatukoru.fi",
+    "slug": "laatukorufi",
+    "domain": "laatukoru.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/laatukoru.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/laatukoru-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/laatukoru-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0056",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "309739",
+    "name": "laturix.fi",
+    "slug": "laturixfi",
+    "domain": "laturix.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/laturix.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/laturix-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/laturix-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "274697",
     "name": "Lifeturn",
     "slug": "lifeturn",
@@ -6126,9 +6739,50 @@
     "affiliateUrl": "https://www.pickalink.com/click/lifeturn-net-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/lifeturn-net-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
+    "commission": "$0.0005",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329709",
+    "name": "Loviacollection",
+    "slug": "loviacollection",
+    "domain": "loviacollection.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/loviacollection.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/loviacollection-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/loviacollection-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
     "commission": "N/A",
     "commissionType": "",
-    "eCPC": "0.00",
+    "eCPC": "",
     "similarBrands": [
       "acer",
       "act-tracker",
@@ -6193,6 +6847,33 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "182140",
+    "name": "mailat24.fi",
+    "slug": "mailat24fi",
+    "domain": "mailat24.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/mailat24.fi",
+    "categories": [
+      "Sports Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/mailat24-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/mailat24-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "277717",
     "name": "Marimekko",
     "slug": "marimekko",
@@ -6239,6 +6920,88 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "330320",
+    "name": "maxafitness.fi",
+    "slug": "maxafitnessfi",
+    "domain": "maxafitness.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/maxafitness.fi",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/maxafitness-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/maxafitness-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "act-tracker",
+      "jd-sports",
+      "partioaittafi",
+      "pusu-skis",
+      "lux",
+      "fitbalance",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
+      "aliexpress",
+      "temu",
+      "unisport",
+      "greenfee365-finland"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "329395",
+    "name": "multitronic.fi",
+    "slug": "multitronicfi",
+    "domain": "multitronic.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/multitronic.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/multitronic-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/multitronic-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "274677",
     "name": "mustepalvelu.fi",
     "slug": "mustepalvelufi",
@@ -6256,8 +7019,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/mustepalvelu-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/mustepalvelu-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "$0.0002",
+    "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
       "finink",
@@ -6292,7 +7055,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/nettiterveysapteekki-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/nettiterveysapteekki-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "€0.0014",
+    "commission": "$0.0016",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -6314,6 +7077,293 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "274083",
+    "name": "obhnordica.fi",
+    "slug": "obhnordicafi",
+    "domain": "obhnordica.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/obhnordica.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/obhnordica-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/obhnordica-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "274109",
+    "name": "ojacet.fi",
+    "slug": "ojacetfi",
+    "domain": "ojacet.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/ojacet.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/ojacet-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ojacet-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "387388",
+    "name": "outdoorexperten.fi",
+    "slug": "outdoorexpertenfi",
+    "domain": "outdoorexperten.fi",
+    "description": "",
+    "logo": "https://img.logo.dev/outdoorexperten.fi?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/outdoorexperten-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/outdoorexperten-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "act-tracker",
+      "jd-sports",
+      "partioaittafi",
+      "pusu-skis",
+      "lux",
+      "fitbalance",
+      "maxafitnessfi",
+      "salvesports",
+      "tennisxpertfi",
+      "aliexpress",
+      "temu",
+      "unisport",
+      "greenfee365-finland"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330328",
+    "name": "padelxpert.fi",
+    "slug": "padelxpertfi",
+    "domain": "padelxpert.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/padelxpert.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/padelxpert-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/padelxpert-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "310507",
+    "name": "paintbynumbers.fi",
+    "slug": "paintbynumbersfi",
+    "domain": "paintbynumbers.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/paintbynumbers.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/paintbynumbers-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/paintbynumbers-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "309807",
+    "name": "Patinabowtie",
+    "slug": "patinabowtie",
+    "domain": "patinabowtie.com",
+    "description": "",
+    "logo": "https://logo.debounce.com/patinabowtie.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/patinabowtie-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/patinabowtie-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "274060",
+    "name": "Salvesports",
+    "slug": "salvesports",
+    "domain": "salvesports.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/salvesports.com",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/salvesports-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/salvesports-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0089",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "act-tracker",
+      "jd-sports",
+      "partioaittafi",
+      "pusu-skis",
+      "lux",
+      "fitbalance",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "tennisxpertfi",
+      "aliexpress",
+      "temu",
+      "unisport",
+      "greenfee365-finland"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -6451,6 +7501,252 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "274078",
+    "name": "sumilayi",
+    "slug": "sumilayi",
+    "domain": "sumilayi.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/sumilayi.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/sumilayi-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sumilayi-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "276228",
+    "name": "suomikauppa.fi",
+    "slug": "suomikauppafi",
+    "domain": "suomikauppa.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/suomikauppa.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/suomikauppa-fi-cpc-fi?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/suomikauppa-fi-cpc-fi?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330322",
+    "name": "tennisxpert.fi",
+    "slug": "tennisxpertfi",
+    "domain": "tennisxpert.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/tennisxpert.fi",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/tennisxpert-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/tennisxpert-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "act-tracker",
+      "jd-sports",
+      "partioaittafi",
+      "pusu-skis",
+      "lux",
+      "fitbalance",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "aliexpress",
+      "temu",
+      "unisport",
+      "greenfee365-finland"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "387389",
+    "name": "treenikauppa.fi",
+    "slug": "treenikauppafi",
+    "domain": "treenikauppa.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/treenikauppa.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/treenikauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/treenikauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "126614",
+    "name": "vpd.fi",
+    "slug": "vpdfi",
+    "domain": "vpd.fi",
+    "description": "",
+    "logo": "https://img.logo.dev/vpd.fi?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/vpd-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/vpd-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "0.00",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "logodev",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "122083",
+    "name": "Weekendbee",
+    "slug": "weekendbee",
+    "domain": "weekendbee.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/weekendbee.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/weekendbee-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/weekendbee-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "198824",
     "name": "wolmark.fi",
     "slug": "wolmarkfi",
@@ -6467,7 +7763,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/wolmark-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/wolmark-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "€0.0005",
+    "commission": "$0.0002",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -6646,6 +7942,7 @@
       "waku-organics",
       "kokkiman",
       "slurpcoffee",
+      "houseoforganicfi",
       "keveedrinks",
       "quandoo",
       "beautiikkifi",
@@ -6653,8 +7950,48 @@
       "clarins",
       "dentaworks",
       "iherb",
-      "notinofi",
-      "swehealth"
+      "notinofi"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222784",
+    "name": "famme.fi",
+    "slug": "fammefi",
+    "domain": "famme.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/famme.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/famme-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/famme-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0526",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6833,6 +8170,170 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "222291",
+    "name": "refurbed.fi",
+    "slug": "refurbedfi",
+    "domain": "refurbed.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/refurbed.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/refurbed-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/refurbed-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224687",
+    "name": "shapeit.fi",
+    "slug": "shapeitfi",
+    "domain": "shapeit.fi",
+    "description": "",
+    "logo": "https://logo.debounce.com/shapeit.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/shapeit-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/shapeit-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222292",
+    "name": "telttakauppa.fi",
+    "slug": "telttakauppafi",
+    "domain": "telttakauppa.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/telttakauppa.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/telttakauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/telttakauppa-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223955",
+    "name": "terveyskaista.fi",
+    "slug": "terveyskaistafi",
+    "domain": "terveyskaista.fi",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/terveyskaista.fi",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/terveyskaista-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/terveyskaista-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "acer",
+      "act-tracker",
+      "air-baltic-fi",
+      "antin-autokoulu",
+      "bigasoft",
+      "bigshocked",
+      "bookoutletfi",
+      "brightdata",
+      "clarins",
+      "findust",
+      "flixbus",
+      "fntcase",
+      "footjoy",
+      "hobby-hall",
+      "holidudk"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "223001",
     "name": "verkkoapteekki.fi",
     "slug": "verkkoapteekkifi",
@@ -6852,8 +8353,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/verkkoapteekki-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/verkkoapteekki-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
       "clarins",
@@ -7639,6 +9140,7 @@
       "waku-organics",
       "kokkiman",
       "slurpcoffee",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "quandoo",
@@ -7727,33 +9229,6 @@
       "nordictest",
       "quicktest"
     ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "687763",
-    "name": "mailat24.fi",
-    "slug": "mailat24fi",
-    "domain": "mailat24.fi",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/mailat24.fi",
-    "categories": [
-      "Sports Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "FI",
-    "affiliateUrl": "https://www.shoptastic.io/fi/store/mailat24-fi?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/fi/store/mailat24-fi?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "3.33%",
-    "commissionType": "Percentage",
-    "eCPC": "",
-    "similarBrands": [],
     "logoQuality": "high",
     "logoSource": "companyenrich",
     "affiliateSource": "Shoptastic CPA"
@@ -8211,6 +9686,7 @@
       "waku-organics",
       "kokkiman",
       "slurpcoffee",
+      "houseoforganicfi",
       "ecosupplementsfi",
       "aliexpress",
       "keveedrinks",
@@ -9718,6 +11194,10 @@
       "pusu-skis",
       "lux",
       "fitbalance",
+      "maxafitnessfi",
+      "outdoorexpertenfi",
+      "salvesports",
+      "tennisxpertfi",
       "aliexpress",
       "temu",
       "unisport"
@@ -10038,47 +11518,6 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "247412",
-    "name": "sumilayi",
-    "slug": "sumilayi",
-    "domain": "sumilayi.fi",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/sumilayi.fi",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FI",
-    "affiliateUrl": "https://www.shoptastic.io/fi/store/sumilayi-fi?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "8.41%",
-    "commissionType": "Percentage",
-    "eCPC": "0.74",
-    "similarBrands": [
-      "acer",
-      "act-tracker",
-      "air-baltic-fi",
-      "antin-autokoulu",
-      "bigasoft",
-      "bigshocked",
-      "bookoutletfi",
-      "brightdata",
-      "clarins",
-      "findust",
-      "flixbus",
-      "fntcase",
-      "footjoy",
-      "hobby-hall",
-      "holidudk"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
     "affiliateSource": "Shoptastic CPA"
   },
   {

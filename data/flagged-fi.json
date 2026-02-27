@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "117500",
+    "name": "Dpj Workspace",
+    "slug": "dpj-workspace",
+    "domain": "dpj-workspace.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/dpj-workspace.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/dpj-workspace-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dpj-workspace-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "170329",
+    "name": "parfyymi-klikkaus.fi",
+    "slug": "parfyymi-klikkausfi",
+    "domain": "parfyymi-klikkaus.fi",
+    "description": "",
+    "logo": "https://logo.clearbit.com/parfyymi-klikkaus.fi?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/parfyymi-klikkaus-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/parfyymi-klikkaus-fi-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  }
+]

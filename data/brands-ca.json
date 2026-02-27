@@ -557,11 +557,11 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -3264,6 +3264,7 @@
       "momcozy",
       "rebelstork",
       "mutha",
+      "lovevery",
       "patpat",
       "old-navy",
       "walmart",
@@ -3272,8 +3273,7 @@
       "bebelelo-canada-ca-1",
       "curatedhive",
       "else-nutrition",
-      "marks-and-spencer",
-      "mini-mioche"
+      "marks-and-spencer"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4025,11 +4025,11 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5924,8 +5924,8 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "walmart",
       "lovevery",
+      "walmart",
       "bebelelo-canada-ca",
       "cheapoair",
       "funnyfuzzy",
@@ -8757,6 +8757,7 @@
       "houseofspells",
       "gtracing",
       "loaded",
+      "lovevery",
       "walmart",
       "canadavetexpress",
       "healthy-bud",
@@ -8766,8 +8767,7 @@
       "lovehoney",
       "bonkerscorner",
       "lego-brand-retail",
-      "lumibricks",
-      "puzzle-master"
+      "lumibricks"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13069,11 +13069,11 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13327,11 +13327,11 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14270,6 +14270,7 @@
       "costzon",
       "rebelstork",
       "mutha",
+      "lovevery",
       "patpat",
       "old-navy",
       "walmart",
@@ -14278,8 +14279,7 @@
       "bebelelo-canada-ca-1",
       "curatedhive",
       "else-nutrition",
-      "marks-and-spencer",
-      "mini-mioche"
+      "marks-and-spencer"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -17593,11 +17593,11 @@
       "lumibricks",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17935,6 +17935,7 @@
       "costzon",
       "momcozy",
       "mutha",
+      "lovevery",
       "patpat",
       "old-navy",
       "walmart",
@@ -17943,8 +17944,7 @@
       "bebelelo-canada-ca-1",
       "curatedhive",
       "else-nutrition",
-      "marks-and-spencer",
-      "mini-mioche"
+      "marks-and-spencer"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29821,6 +29821,7 @@
       "funnyfuzzy",
       "houseofspells",
       "loaded",
+      "lovevery",
       "walmart",
       "lenovo-canada",
       "hypershell",
@@ -29830,8 +29831,7 @@
       "ca-phrozen3d",
       "coway",
       "cybeart",
-      "delonghi",
-      "dyson-canada-limited"
+      "delonghi"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -34391,6 +34391,53 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "263241",
+    "name": "Lovevery",
+    "slug": "lovevery",
+    "domain": "lovevery.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/lovevery.com",
+    "categories": [
+      "Products",
+      "Baby & Toddler",
+      "Toys & Games"
+    ],
+    "tags": [
+      "products",
+      "baby",
+      "toddler",
+      "toys",
+      "games"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/lovevery-com-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/lovevery-com-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "costzon",
+      "walmart",
+      "bebelelo-canada-ca",
+      "cheapoair",
+      "funnyfuzzy",
+      "houseofspells",
+      "momcozy",
+      "rebelstork",
+      "gtracing",
+      "mutha",
+      "loaded",
+      "patpat",
+      "old-navy",
+      "babeliobaby",
+      "bamboolittle"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "274082",
     "name": "Mavi",
     "slug": "mavi",
@@ -36560,6 +36607,7 @@
       "momcozy",
       "rebelstork",
       "mutha",
+      "lovevery",
       "old-navy",
       "walmart",
       "marks-and-spencer",
@@ -36567,8 +36615,7 @@
       "about-vintage",
       "alexander-wang",
       "allegra-k",
-      "banana-republic",
-      "bananarepublic"
+      "banana-republic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -40050,10 +40097,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "freddotoys",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -41306,10 +41353,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "gamerverse",
-      "golden-games-the-best-games-for-google-slides-and"
+      "gamerverse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -41472,10 +41519,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "golden-games-the-best-games-for-google-slides-and"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -44794,10 +44841,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -45340,10 +45387,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -45890,10 +45937,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -46430,10 +46477,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -48952,10 +48999,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -48994,10 +49041,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -57146,10 +57193,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -58421,10 +58468,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -58504,10 +58551,10 @@
       "puzzle-master",
       "gtracing",
       "loaded",
+      "lovevery",
       "entertainmentearth",
       "diamonddotart",
-      "freddotoys",
-      "gamerverse"
+      "freddotoys"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60538,51 +60585,6 @@
       "gift-cards",
       "houseofspells",
       "photobook"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPC"
-  },
-  {
-    "id": "639859",
-    "name": "Lovevery",
-    "slug": "lovevery",
-    "domain": "lovevery.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/lovevery.com",
-    "categories": [
-      "Baby & Toddler",
-      "Toys & Games"
-    ],
-    "tags": [
-      "baby",
-      "toddler",
-      "toys",
-      "games"
-    ],
-    "country": "CA",
-    "affiliateUrl": "https://www.shoptastic.io/store/lovevery-com-cpc?userId=88888890&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/store/lovevery-com-cpc?userId=88888890&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "0.01",
-    "similarBrands": [
-      "walmart",
-      "costzon",
-      "old-navy",
-      "babeliobaby",
-      "bamboolittle",
-      "bebelelo-canada-ca",
-      "bebelelo-canada-ca-1",
-      "cheapoair",
-      "curatedhive",
-      "else-nutrition",
-      "marks-and-spencer",
-      "mini-mioche",
-      "momcozy",
-      "newbornbabyitems",
-      "prenatalease"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

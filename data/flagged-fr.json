@@ -161,6 +161,110 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "182164",
+    "name": "Cbd Vital",
+    "slug": "cbd-vital",
+    "domain": "cbd-vital.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/cbd-vital.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/cbd-vital-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/cbd-vital-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "98600",
+    "name": "Cloture Discount",
+    "slug": "cloture-discount",
+    "domain": "cloture-discount.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/cloture-discount.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/cloture-discount-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/cloture-discount-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "126218",
+    "name": "cloture-electrique.expert",
+    "slug": "cloture-electriqueexpert",
+    "domain": "cloture-electrique.expert",
+    "description": "",
+    "logo": "https://logo.clearbit.com/cloture-electrique.expert?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/cloture-electrique-expert-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/cloture-electrique-expert-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "117766",
+    "name": "Erobot Piscine",
+    "slug": "erobot-piscine",
+    "domain": "erobot-piscine.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/erobot-piscine.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/erobot-piscine-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/erobot-piscine-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "426377",
     "name": "Fitnessfirst",
     "slug": "fitnessfirst",
@@ -217,6 +321,300 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "118539",
+    "name": "Hjh Office",
+    "slug": "hjh-office",
+    "domain": "hjh-office.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/hjh-office.fr?size=200",
+    "categories": [
+      "Office Supplies"
+    ],
+    "tags": [
+      "office",
+      "supplies"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/hjh-office-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hjh-office-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "118984",
+    "name": "Kalista Parfums",
+    "slug": "kalista-parfums",
+    "domain": "kalista-parfums.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/kalista-parfums.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/kalista-parfums-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/kalista-parfums-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182197",
+    "name": "Label Emmaus",
+    "slug": "label-emmaus",
+    "domain": "label-emmaus.co",
+    "description": "",
+    "logo": "https://logo.clearbit.com/label-emmaus.co?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/label-emmaus-co-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/label-emmaus-co-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "262921",
+    "name": "Mes Toilettes Seches",
+    "slug": "mes-toilettes-seches",
+    "domain": "mes-toilettes-seches.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/mes-toilettes-seches.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/mes-toilettes-seches-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/mes-toilettes-seches-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "119706",
+    "name": "Milan Jeunesse",
+    "slug": "milan-jeunesse",
+    "domain": "milan-jeunesse.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/milan-jeunesse.com?size=200",
+    "categories": [
+      "Products",
+      "Baby & Toddler"
+    ],
+    "tags": [
+      "products",
+      "baby",
+      "toddler"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/milan-jeunesse-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/milan-jeunesse-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "119879",
+    "name": "Music Privilege",
+    "slug": "music-privilege",
+    "domain": "music-privilege.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/music-privilege.fr?size=200",
+    "categories": [
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/music-privilege-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/music-privilege-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "304953",
+    "name": "Outils Vert",
+    "slug": "outils-vert",
+    "domain": "outils-vert.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/outils-vert.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/outils-vert-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/outils-vert-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "120512",
+    "name": "Pompes Direct",
+    "slug": "pompes-direct",
+    "domain": "pompes-direct.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/pompes-direct.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/pompes-direct-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/pompes-direct-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "184535",
+    "name": "Sunny Inch",
+    "slug": "sunny-inch",
+    "domain": "sunny-inch.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/sunny-inch.fr?size=200",
+    "categories": [
+      "Products",
+      "Clothing"
+    ],
+    "tags": [
+      "products",
+      "clothing"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/sunny-inch-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sunny-inch-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "121404",
+    "name": "Swap Europe",
+    "slug": "swap-europe",
+    "domain": "swap-europe.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/swap-europe.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/swap-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/swap-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "274181",
+    "name": "Tike Securite",
+    "slug": "tike-securite",
+    "domain": "tike-securite.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/tike-securite.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/tike-securite-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/tike-securite-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "330349",
     "name": "Value2read Blogspot",
     "slug": "value2read-blogspot",
@@ -236,6 +634,241 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "326103",
+    "name": "Xl Artifices",
+    "slug": "xl-artifices",
+    "domain": "xl-artifices.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/xl-artifices.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/xl-artifices-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/xl-artifices-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223243",
+    "name": "Bois Brazeco",
+    "slug": "bois-brazeco",
+    "domain": "bois-brazeco.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/bois-brazeco.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/bois-brazeco-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bois-brazeco-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224213",
+    "name": "Csj Emballages",
+    "slug": "csj-emballages",
+    "domain": "csj-emballages.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/csj-emballages.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/csj-emballages-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/csj-emballages-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "242664",
+    "name": "erresse-shop.it",
+    "slug": "erresse-shopit",
+    "domain": "erresse-shop.it",
+    "description": "",
+    "logo": "https://logo.clearbit.com/erresse-shop.it?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/erresse-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/erresse-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224218",
+    "name": "Materiel Chr Pro",
+    "slug": "materiel-chr-pro",
+    "domain": "materiel-chr-pro.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/materiel-chr-pro.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/materiel-chr-pro-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/materiel-chr-pro-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "224695",
+    "name": "Peyrouse Hair Shop",
+    "slug": "peyrouse-hair-shop",
+    "domain": "peyrouse-hair-shop.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/peyrouse-hair-shop.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/peyrouse-hair-shop-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/peyrouse-hair-shop-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "227529",
+    "name": "Retro Stage",
+    "slug": "retro-stage",
+    "domain": "retro-stage.fr",
+    "description": "",
+    "logo": "https://logo.clearbit.com/retro-stage.fr?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/retro-stage-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/retro-stage-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223008",
+    "name": "Tableau Deco",
+    "slug": "tableau-deco",
+    "domain": "tableau-deco.eu",
+    "description": "",
+    "logo": "https://logo.clearbit.com/tableau-deco.eu?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/tableau-deco-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/tableau-deco-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "227058",
+    "name": "Zago Store",
+    "slug": "zago-store",
+    "domain": "zago-store.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/zago-store.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/zago-store-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/zago-store-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",

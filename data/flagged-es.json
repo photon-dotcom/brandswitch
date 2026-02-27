@@ -54,6 +54,58 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "260416",
+    "name": "Ordenadores Portatiles",
+    "slug": "ordenadores-portatiles",
+    "domain": "ordenadores-portatiles.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/ordenadores-portatiles.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "ES",
+    "affiliateUrl": "https://www.pickalink.com/click/ordenadores-portatiles-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ordenadores-portatiles-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "176403",
+    "name": "Rs Online",
+    "slug": "rs-online",
+    "domain": "rs-online.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/rs-online.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "ES",
+    "affiliateUrl": "https://www.pickalink.com/click/rs-online-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/rs-online-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "398910",
     "name": "Value2read Blogspot",
     "slug": "value2read-blogspot",

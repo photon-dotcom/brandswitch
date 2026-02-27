@@ -98,6 +98,11 @@
       "rank": 11,
       "name": "Rossignol",
       "slug": "rossignol"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
     }
   ],
   "electronics": [
@@ -152,6 +157,11 @@
       "rank": 5,
       "name": "Reebok",
       "slug": "reebok"
+    },
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
     },
     {
       "rank": 9,

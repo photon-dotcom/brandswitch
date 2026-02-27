@@ -2,12 +2,12 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 309
+    "brandCount": 333
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 115
+    "brandCount": 116
   },
   {
     "name": "Health & Beauty",
@@ -22,7 +22,7 @@
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 90
+    "brandCount": 92
   },
   {
     "name": "Electronics",
@@ -37,7 +37,7 @@
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 54
+    "brandCount": 56
   },
   {
     "name": "Travel & Vacations",
@@ -57,7 +57,7 @@
   {
     "name": "Office Supplies",
     "slug": "office-supplies",
-    "brandCount": 25
+    "brandCount": 26
   },
   {
     "name": "Auto & Tires",
