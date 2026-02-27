@@ -344,6 +344,9 @@ function humanizeDomainName(name: string): string {
     .replace(/\.co\.[a-z]{2}$/i, '')
     .replace(/\.[a-z]{2,10}$/i, '');
 
+  // Strip affiliate/tracking prefixes embedded in domain names
+  base = base.replace(/^deeplink[-_]/i, '').replace(/^deep-link[-_]/i, '');
+
   if (/[-_.]/.test(base)) {
     return base
       .split(/[-_.]+/)
