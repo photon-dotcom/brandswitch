@@ -6,10 +6,12 @@ import {
   getCategories,
   getBrandsByCategory,
   getCategoryName,
+  getCuratedTopBrands,
   MARKETS,
 } from '@/lib/brands';
 import { translateCategory } from '@/lib/translations';
 import { BrandCard } from '@/components/BrandCard';
+import { BrandLogo } from '@/components/BrandLogo';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 
 interface Props {
@@ -52,6 +54,9 @@ export default async function CategoryPage({ params: { locale, slug } }: Props) 
   const remaining = allBrands.length - displayed.length;
   const localizedName = translateCategory(locale, categoryName);
 
+  // Curated top picks for this category (max 10)
+  const topPicks = getCuratedTopBrands(locale, slug).slice(0, 10);
+
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
       <Breadcrumbs
@@ -74,6 +79,33 @@ export default async function CategoryPage({ params: { locale, slug } }: Props) 
           {allBrands.length.toLocaleString()} {t('brands_label')} — {t('ranked_popularity')}
         </p>
       </div>
+
+      {/* Top picks chips */}
+      {topPicks.length > 0 && (
+        <div className="mb-8 p-4 bg-white rounded-2xl border border-bs-border">
+          <p className="text-xs font-semibold text-bs-gray uppercase tracking-wide mb-3">
+            Top {localizedName} brands
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {topPicks.map(({ brand }) => (
+              <a
+                key={brand.slug}
+                href={`/${locale}/brands-like/${brand.slug}`}
+                className="inline-flex items-center gap-2 bg-bs-bg hover:bg-white border border-bs-border hover:border-bs-teal/40 rounded-full px-3 py-1.5 text-sm font-medium text-bs-dark transition-colors"
+              >
+                <BrandLogo
+                  name={brand.name}
+                  logo={brand.logo ?? ''}
+                  domain={brand.domain}
+                  size={20}
+                  logoQuality={brand.logoQuality}
+                />
+                {brand.name}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Brand grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 mb-8">

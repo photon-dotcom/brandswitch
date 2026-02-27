@@ -8,6 +8,9 @@ import {
   getBrandDescription,
   getTopBrandSlugs,
   getCuratedTopBrands,
+  getRelatedBrands,
+  getBrandMarkets,
+  LOCALE_TO_HREFLANG,
   cleanDisplayName,
   catToSlug,
   MARKETS,
@@ -51,19 +54,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const displayName = cleanDisplayName(brand.name);
   const cat = brand.categories[0] ?? 'brand';
-  const altCount = brand.similarBrands?.length ?? 0;
+  const alternatives = getBrandAlternatives(params.locale, brand);
+  const altCount = alternatives.length;
 
   const title = `${altCount} Brands Like ${displayName} — Best ${cat} Alternatives | Brandswitch`;
   const description = getBrandDescription({ ...brand, name: displayName });
+
+  // Only add hreflang for markets where the brand actually exists
+  const brandMarkets = getBrandMarkets(params.slug);
+  const languages = Object.fromEntries(
+    brandMarkets.map(m => [LOCALE_TO_HREFLANG[m], `https://brandswitch.com/${m}/brands-like/${params.slug}`])
+  );
+  // x-default points to US if available, otherwise first market
+  const defaultMarket = brandMarkets.includes('us') ? 'us' : brandMarkets[0];
+  if (defaultMarket) languages['x-default'] = `https://brandswitch.com/${defaultMarket}/brands-like/${params.slug}`;
+
+  // Thin pages (< 3 real alternatives) get noindexed to preserve crawl budget
+  const shouldIndex = altCount >= 3;
 
   return {
     title,
     description,
     alternates: {
       canonical: `https://brandswitch.com/${params.locale}/brands-like/${params.slug}`,
-      languages: Object.fromEntries(
-        MARKETS.map(m => [m === 'us' ? 'en-US' : m === 'uk' ? 'en-GB' : m, `https://brandswitch.com/${m}/brands-like/${params.slug}`])
-      ),
+      languages,
     },
     openGraph: {
       title,
@@ -72,7 +86,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: 'Brandswitch',
       type: 'website',
     },
-    robots: { index: true, follow: true },
+    robots: shouldIndex
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
   };
 }
 
@@ -156,6 +172,10 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
   const categorySlug = catToSlug(primaryCategory);
   const localizedCategory = translateCategory(locale, primaryCategory);
   const topCategoryBrands = getCuratedTopBrands(locale, categorySlug).slice(0, 10);
+  // Fallback for thin pages: related brands from same category when < 3 alternatives
+  const relatedBrands = alternatives.length < 3
+    ? getRelatedBrands(locale, categorySlug, brand.slug, 10)
+    : [];
   const seoText = generateSEOText(displayName, primaryCategory);
   const faqItems = buildFAQ({ ...brand, name: displayName });
   const description = getBrandDescription({ ...brand, name: displayName });
@@ -217,7 +237,28 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
                   label={`Visit ${displayName}`}
                   variant="primary"
                   size="lg"
+                  className="w-full sm:w-auto justify-center"
+                  brandSlug={brand.slug}
+                  market={locale}
+                  affiliateSource={brand.affiliateSource}
                 />
+              )}
+
+              {/* Quick alternatives chips */}
+              {alternatives.length > 0 && (
+                <div className="flex flex-wrap gap-2 mt-3">
+                  <span className="text-xs text-bs-gray self-center mr-1">Alternatives:</span>
+                  {alternatives.slice(0, 4).map(alt => (
+                    <Link
+                      key={alt.slug}
+                      href={`/${locale}/brands-like/${alt.slug}`}
+                      className="inline-flex items-center gap-1.5 bg-bs-bg border border-bs-border hover:border-bs-teal/50 hover:bg-white rounded-full px-3 py-1 text-xs font-medium text-bs-dark transition-colors"
+                    >
+                      <BrandLogo name={alt.name} logo={alt.logo} domain={alt.domain} size={16} logoQuality={alt.logoQuality} />
+                      {cleanDisplayName(alt.name)}
+                    </Link>
+                  ))}
+                </div>
               )}
             </div>
           </div>
@@ -231,12 +272,26 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
             {/* Alternatives grid */}
             <section>
               <h2 className="text-xl font-bold text-bs-dark mb-5">
-                {t('alternatives_title', { count: alternatives.length, brand: displayName })}
+                {alternatives.length >= 3
+                  ? t('alternatives_title', { count: alternatives.length, brand: displayName })
+                  : `Related ${localizedCategory} brands you might like`}
               </h2>
 
-              {alternatives.length > 0 ? (
+              {alternatives.length >= 3 ? (
                 <div className="grid grid-cols-1 gap-3">
                   {alternatives.map(alt => (
+                    <AlternativeCard
+                      key={alt.id}
+                      alternative={alt}
+                      mainBrand={brand}
+                      locale={locale}
+                    />
+                  ))}
+                </div>
+              ) : relatedBrands.length > 0 ? (
+                /* Fallback: related brands from same category */
+                <div className="grid grid-cols-1 gap-3">
+                  {relatedBrands.map(alt => (
                     <AlternativeCard
                       key={alt.id}
                       alternative={alt}

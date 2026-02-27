@@ -424,6 +424,7 @@
       "airhelp-dk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -433,8 +434,7 @@
       "flybillet",
       "flyforsinkelse",
       "getyourguidedk",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -553,6 +553,7 @@
       "airhelp-dk",
       "alperejserdk",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -562,8 +563,7 @@
       "flybillet",
       "flyforsinkelse",
       "getyourguidedk",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -900,6 +900,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "279130",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-dk?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-dk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "airfrancedk",
+      "airhelp-dk",
+      "alperejserdk",
+      "baglionihotels",
+      "blavandstranddk",
+      "clickski",
+      "deturdk",
+      "dublinpass",
+      "esketit",
+      "feriehusudlejningdk",
+      "ferryhopper",
+      "flybillet",
+      "flyforsinkelse",
+      "getyourguidedk",
+      "hurtigruten"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "261347",
     "name": "Brandshop.dk",
     "slug": "brandshopdk",
@@ -1184,6 +1226,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "deturdk",
       "dublinpass",
       "esketit",
@@ -1192,8 +1235,7 @@
       "flybillet",
       "flyforsinkelse",
       "getyourguidedk",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1731,6 +1773,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "esketit",
@@ -1739,8 +1782,7 @@
       "flybillet",
       "flyforsinkelse",
       "getyourguidedk",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1944,6 +1986,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -1952,8 +1995,7 @@
       "flybillet",
       "flyforsinkelse",
       "getyourguidedk",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2416,9 +2458,9 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
-      "deturdk",
-      "dublinpass"
+      "deturdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2651,6 +2693,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -2659,8 +2702,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "hurtigruten",
-      "klitferie"
+      "hurtigruten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5856,6 +5898,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -5864,8 +5907,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5898,6 +5940,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -5906,8 +5949,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -7363,6 +7405,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -7371,8 +7414,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7651,6 +7693,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -7659,8 +7702,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8590,6 +8632,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -8598,8 +8641,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8765,6 +8807,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -8773,8 +8816,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8979,6 +9021,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -8987,8 +9030,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11006,7 +11048,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/sportsdirect-dk?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/sportsdirect-dk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "1.77%",
+    "commission": "1.01%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
@@ -11058,6 +11100,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -11066,8 +11109,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11982,54 +12024,9 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "279069",
-    "name": "Brewout",
-    "slug": "brewout-dk",
-    "domain": "dk.brewout.eu",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/dk.brewout.eu",
-    "categories": [
-      "Products",
-      "Food, Drinks & Restaurants"
-    ],
-    "tags": [
-      "products",
-      "food",
-      "drinks",
-      "restaurants"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.pickalink.com/click/dk-brewout-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/dk-brewout-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "Kr.0.1217",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.06",
-    "similarBrands": [
-      "moccamore",
-      "nordic-bar",
-      "brewout-dk-1",
-      "aliexpress",
-      "britts-superfoods",
-      "kunstige-stearinlysdk",
-      "pyretosnackan",
-      "wine-store",
-      "winefamly",
-      "ecosupplementsdk",
-      "bornholmspirits",
-      "coffeetimedk",
-      "just-eat",
-      "topdrinks",
-      "myprotein"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "278997",
     "name": "Brewout",
-    "slug": "brewout-dk-1",
+    "slug": "brewout-dk",
     "domain": "brewout.eu",
     "description": "",
     "logo": "https://logo.debounce.com/brewout.eu",
@@ -12053,7 +12050,7 @@
     "similarBrands": [
       "moccamore",
       "nordic-bar",
-      "brewout-dk",
+      "brewout-dk-1",
       "aliexpress",
       "britts-superfoods",
       "kunstige-stearinlysdk",
@@ -12069,6 +12066,51 @@
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "279069",
+    "name": "Brewout",
+    "slug": "brewout-dk-1",
+    "domain": "dk.brewout.eu",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/dk.brewout.eu",
+    "categories": [
+      "Products",
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "products",
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "DK",
+    "affiliateUrl": "https://www.pickalink.com/click/dk-brewout-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dk-brewout-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Kr.0.1217",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.06",
+    "similarBrands": [
+      "moccamore",
+      "nordic-bar",
+      "brewout-dk",
+      "aliexpress",
+      "britts-superfoods",
+      "kunstige-stearinlysdk",
+      "pyretosnackan",
+      "wine-store",
+      "winefamly",
+      "ecosupplementsdk",
+      "bornholmspirits",
+      "coffeetimedk",
+      "just-eat",
+      "topdrinks",
+      "myprotein"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -12820,9 +12862,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hostelworld.com",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -12836,19 +12880,19 @@
     "similarBrands": [
       "airfrancedk",
       "airhelp-dk",
-      "alperejserdk",
-      "baglionihotels",
       "blavandstranddk",
-      "clickski",
       "deturdk",
-      "dublinpass",
-      "esketit",
       "feriehusudlejningdk",
       "ferryhopper",
       "flybillet",
-      "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "hurtigruten",
+      "klitferie",
+      "miles-and-more",
+      "reethifaru",
+      "risskov",
+      "stenalinedk",
+      "tripxdk",
+      "alamodk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15815,6 +15859,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -15823,8 +15868,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16070,48 +16114,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "653001",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.shoptastic.io/dk/store/booking-com-dk?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/dk/store/booking-com-dk?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "5.94%",
-    "commissionType": "Percentage",
-    "eCPC": "0.10",
-    "similarBrands": [
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "baglionihotels",
-      "blavandstranddk",
-      "clickski",
-      "deturdk",
-      "dublinpass",
-      "esketit",
-      "feriehusudlejningdk",
-      "ferryhopper",
-      "flybillet",
-      "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "790622",
     "name": "Bornholmspirits",
     "slug": "bornholmspirits",
@@ -16343,6 +16345,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -16351,8 +16354,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16427,6 +16429,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -16435,8 +16438,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17518,6 +17520,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -17526,8 +17529,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17777,6 +17779,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -17785,8 +17788,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17819,6 +17821,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -17827,8 +17830,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18605,6 +18607,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -18613,8 +18616,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19184,6 +19186,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -19192,8 +19195,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19478,6 +19480,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -19486,8 +19489,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20149,6 +20151,7 @@
       "alperejserdk",
       "baglionihotels",
       "blavandstranddk",
+      "booking",
       "clickski",
       "deturdk",
       "dublinpass",
@@ -20157,8 +20160,7 @@
       "ferryhopper",
       "flybillet",
       "flyforsinkelse",
-      "getyourguidedk",
-      "hurtigruten"
+      "getyourguidedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

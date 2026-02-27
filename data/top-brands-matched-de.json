@@ -90,6 +90,11 @@
       "slug": "burton-snowboards"
     },
     {
+      "rank": 25,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
       "rank": 32,
       "name": "Decathlon",
       "slug": "decathlon"
@@ -107,6 +112,11 @@
       "slug": "dyson"
     },
     {
+      "rank": 10,
+      "name": "GoPro",
+      "slug": "gopro"
+    },
+    {
       "rank": 12,
       "name": "Philips",
       "slug": "philips"
@@ -122,6 +132,11 @@
       "slug": "kitchenaid"
     },
     {
+      "rank": 21,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
       "rank": 25,
       "name": "NETGEAR",
       "slug": "netgear"
@@ -130,11 +145,6 @@
       "rank": 27,
       "name": "EcoFlow",
       "slug": "ecoflow"
-    },
-    {
-      "rank": 28,
-      "name": "Bluetti",
-      "slug": "bluetti"
     },
     {
       "rank": 29,
@@ -244,9 +254,9 @@
   ],
   "accessories": [
     {
-      "rank": 2,
-      "name": "Kate Spade",
-      "slug": "kate-spade"
+      "rank": 13,
+      "name": "Bellroy",
+      "slug": "bellroy"
     }
   ],
   "baby-and-toddler": [
@@ -288,6 +298,11 @@
       "rank": 25,
       "name": "Creality",
       "slug": "creality"
+    },
+    {
+      "rank": 26,
+      "name": "Flashforge",
+      "slug": "flashforge"
     }
   ]
 }

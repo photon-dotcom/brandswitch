@@ -194,6 +194,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -207,8 +208,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1737,6 +1737,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "308945",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "AT",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-at?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-at?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "a-rosa-resorts",
+      "disney-holidays",
+      "europeesim",
+      "flixbus",
+      "heritageresortsmu",
+      "hilton-honors-mein-onlineantrag",
+      "hofer-reisen",
+      "holidu",
+      "interhome",
+      "lidl-reisen",
+      "londonpass",
+      "paulcamperat",
+      "paulcamper",
+      "rafael-hoteles",
+      "reisefuxat"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "270670",
     "name": "Booktherapy",
     "slug": "booktherapy",
@@ -3258,6 +3300,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "europeesim",
       "flixbus",
       "heritageresortsmu",
@@ -3270,8 +3313,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -4384,6 +4426,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "heritageresortsmu",
@@ -4396,8 +4439,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5332,6 +5374,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -5344,8 +5387,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5548,6 +5590,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -5560,8 +5603,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5590,6 +5632,7 @@
     "eCPC": "0.28",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -5602,8 +5645,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5632,6 +5674,7 @@
     "eCPC": "0.05",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -5644,8 +5687,7 @@
       "paulcamperat",
       "paulcamper",
       "rafael-hoteles",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9937,6 +9979,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -9949,8 +9992,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "reisefuxat",
-      "sail-with-us-dach"
+      "reisefuxat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10503,6 +10545,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -10515,8 +10558,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11015,6 +11057,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -11027,8 +11070,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12484,6 +12526,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -12496,8 +12539,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12829,6 +12871,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -12841,8 +12884,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -12960,6 +13002,7 @@
     "eCPC": "0.21",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -12972,8 +13015,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13522,6 +13564,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -13534,8 +13577,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14233,6 +14275,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -14245,8 +14288,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19814,48 +19856,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "257849",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "AT",
-    "affiliateUrl": "https://www.pickalink.com/click/booking-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "0.00",
-    "similarBrands": [
-      "a-rosa-resorts",
-      "disney-holidays",
-      "europeesim",
-      "flixbus",
-      "heritageresortsmu",
-      "hilton-honors-mein-onlineantrag",
-      "hofer-reisen",
-      "holidu",
-      "interhome",
-      "lidl-reisen",
-      "londonpass",
-      "paulcamperat",
-      "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "181641",
     "name": "Bosch Hausgeräte",
     "slug": "bosch-hausgerte",
@@ -19894,48 +19894,6 @@
       "ethanolkamin-shop",
       "gartenposter-at",
       "gartenposter-at-1"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "427315",
-    "name": "Brast24",
-    "slug": "brast24",
-    "domain": "brast24.de",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/brast24.de",
-    "categories": [
-      "Home & Garden"
-    ],
-    "tags": [
-      "home",
-      "garden"
-    ],
-    "country": "AT",
-    "affiliateUrl": "https://www.pickalink.com/click/brast24-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/brast24-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "aeg",
-      "airy",
-      "alternate",
-      "betten",
-      "braunhousehold",
-      "brigitte-salzburg",
-      "colourtreeusa",
-      "costway",
-      "create-and-wall",
-      "deubaxxl",
-      "moderne-hausfrau",
-      "dille-and-kamille",
-      "elpumps",
-      "emma-mattress",
-      "ethanolkamin-shop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20005,7 +19963,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/calvinklein-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/calvinklein-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0000",
+    "commission": "€0.0086",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -20589,9 +20547,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hostelworld.com",
     "categories": [
+      "Products",
       "Travel & Vacations"
     ],
     "tags": [
+      "products",
       "travel",
       "vacations"
     ],
@@ -20603,21 +20563,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "a-rosa-resorts",
-      "disney-holidays",
       "europeesim",
-      "flixbus",
-      "heritageresortsmu",
-      "hilton-honors-mein-onlineantrag",
-      "hofer-reisen",
-      "holidu",
       "interhome",
       "lidl-reisen",
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "reisefuxat",
+      "sail-with-us-dach",
+      "tourlane",
+      "trivagoat",
+      "wewander-com",
+      "y-hostel",
+      "radreiseprofi",
+      "spotahome-many-geos",
+      "karibik-kreuzfahrt-gewinnspiel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21782,50 +21742,9 @@
     "affiliateUrl": "https://www.pickalink.com/click/vulpesgoods-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/vulpesgoods-de-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0044",
+    "commission": "€0.0011",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [
-      "4kidspoint",
-      "after-inject",
-      "alternate",
-      "apac-suunto",
-      "apothekeat",
-      "armedangels",
-      "asics-outlet",
-      "autoersatzteile24",
-      "autoteileprofi",
-      "bader",
-      "bawag",
-      "bet-at-home",
-      "betten",
-      "bigcashweb",
-      "bikespecht"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "427178",
-    "name": "Wildlifemillions",
-    "slug": "wildlifemillions",
-    "domain": "wildlifemillions.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/wildlifemillions.com",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "AT",
-    "affiliateUrl": "https://www.pickalink.com/click/wildlifemillions-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/wildlifemillions-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0527",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.01",
     "similarBrands": [
       "4kidspoint",
       "after-inject",
@@ -22599,6 +22518,7 @@
     "eCPC": "15.91",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -22611,8 +22531,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22980,6 +22899,7 @@
       "electric-ways",
       "share-now",
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -22988,8 +22908,7 @@
       "hofer-reisen",
       "holidu",
       "interhome",
-      "lidl-reisen",
-      "londonpass"
+      "lidl-reisen"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -24713,6 +24632,7 @@
       "electric-ways",
       "share-now",
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -24721,8 +24641,7 @@
       "hofer-reisen",
       "holidu",
       "interhome",
-      "lidl-reisen",
-      "londonpass"
+      "lidl-reisen"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24908,6 +24827,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -24920,8 +24840,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25417,6 +25336,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -25429,8 +25349,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25459,6 +25378,7 @@
     "eCPC": "0.61",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -25471,8 +25391,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25501,6 +25420,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -25513,8 +25433,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26981,6 +26900,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -26993,8 +26913,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28109,6 +28028,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -28121,8 +28041,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28192,6 +28111,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -28204,8 +28124,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28943,6 +28862,7 @@
     "eCPC": "0.50",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -28955,8 +28875,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29067,6 +28986,7 @@
     "eCPC": "0.10",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -29079,8 +28999,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29384,6 +29303,7 @@
     "eCPC": "0.11",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -29396,8 +29316,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29638,6 +29557,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -29650,8 +29570,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30655,6 +30574,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -30667,8 +30587,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30903,6 +30822,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -30915,8 +30835,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30995,6 +30914,7 @@
       "free2move",
       "share-now",
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -31003,8 +30923,7 @@
       "hofer-reisen",
       "holidu",
       "interhome",
-      "lidl-reisen",
-      "londonpass"
+      "lidl-reisen"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32817,6 +32736,7 @@
     "eCPC": "",
     "similarBrands": [
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -32829,8 +32749,7 @@
       "londonpass",
       "paulcamperat",
       "paulcamper",
-      "rafael-hoteles",
-      "reisefuxat"
+      "rafael-hoteles"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33157,6 +33076,7 @@
       "free2move",
       "electric-ways",
       "a-rosa-resorts",
+      "booking",
       "disney-holidays",
       "europeesim",
       "flixbus",
@@ -33165,8 +33085,7 @@
       "hofer-reisen",
       "holidu",
       "interhome",
-      "lidl-reisen",
-      "londonpass"
+      "lidl-reisen"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -34013,5 +33932,88 @@
     "logoQuality": "high",
     "logoSource": "debounce",
     "affiliateSource": "Shoptastic CPA"
+  },
+  {
+    "id": "806011",
+    "name": "Brast24",
+    "slug": "brast24",
+    "domain": "brast24.de",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/brast24.de",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "AT",
+    "affiliateUrl": "https://www.shoptastic.io/store/brast24-de-cpc-at?userId=88888890&subId={your tracking code}",
+    "deeplinkUrl": "https://www.shoptastic.io/store/brast24-de-cpc-at?userId=88888890&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "aeg",
+      "airy",
+      "alternate",
+      "betten",
+      "braunhousehold",
+      "brigitte-salzburg",
+      "colourtreeusa",
+      "costway",
+      "create-and-wall",
+      "deubaxxl",
+      "moderne-hausfrau",
+      "dille-and-kamille",
+      "elpumps",
+      "emma-mattress",
+      "ethanolkamin-shop"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Shoptastic CPC"
+  },
+  {
+    "id": "805849",
+    "name": "Wildlifemillions",
+    "slug": "wildlifemillions",
+    "domain": "wildlifemillions.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/wildlifemillions.com",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "AT",
+    "affiliateUrl": "https://www.shoptastic.io/store/wildlifemillions-com-cpc-at?userId=88888890&subId={your tracking code}",
+    "deeplinkUrl": "https://www.shoptastic.io/store/wildlifemillions-com-cpc-at?userId=88888890&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0746",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.02",
+    "similarBrands": [
+      "4kidspoint",
+      "after-inject",
+      "alternate",
+      "apac-suunto",
+      "apothekeat",
+      "armedangels",
+      "asics-outlet",
+      "autoersatzteile24",
+      "autoteileprofi",
+      "bader",
+      "bawag",
+      "bet-at-home",
+      "betten",
+      "bigcashweb",
+      "bikespecht"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Shoptastic CPC"
   }
 ]

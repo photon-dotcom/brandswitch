@@ -16,7 +16,7 @@ function getLastMod(): string {
 
 export function buildBrandSitemap(market: string): NextResponse {
   const lastmod = getLastMod();
-  const brands = getBrands(market).filter(b => b.slug);
+  const brands = getBrands(market).filter(b => b.slug && (b.similarBrands?.length ?? 0) >= 3);
 
   const entries = brands.map(b =>
     `  <url>

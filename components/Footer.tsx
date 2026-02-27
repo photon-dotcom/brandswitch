@@ -308,7 +308,15 @@ export async function Footer({ locale }: FooterProps) {
         {/* ── Bottom bar ─────────────────────────────────────────────── */}
         <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row items-start sm:items-center gap-3 justify-between">
           <p className="text-xs text-white/20">
-            © {year} Brandswitch. All rights reserved.
+            © {year} Brandswitch. All rights reserved.{' '}
+            <a
+              href="https://logo.dev"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white/40 transition-colors"
+            >
+              Logos by Logo.dev
+            </a>
           </p>
           <p className="text-xs text-white/30 max-w-lg leading-relaxed">
             {labels.disclosure}

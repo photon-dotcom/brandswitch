@@ -6,6 +6,9 @@ interface AffiliateButtonProps {
   variant?: 'primary' | 'secondary' | 'ghost';
   size?: 'sm' | 'md' | 'lg';
   className?: string;
+  brandSlug?: string;
+  market?: string;
+  affiliateSource?: string;
 }
 
 /**
@@ -22,6 +25,9 @@ export function AffiliateButton({
   variant = 'primary',
   size = 'md',
   className = '',
+  brandSlug,
+  market,
+  affiliateSource,
 }: AffiliateButtonProps) {
   if (!href) return null;
 
@@ -31,6 +37,20 @@ export function AffiliateButton({
     const url = href.includes('?')
       ? `${href}&subId=${clickId}`
       : `${href}?subId=${clickId}`;
+
+    // Non-blocking click tracking — fires and forgets; won't delay navigation
+    if (brandSlug) {
+      const payload = JSON.stringify({
+        brandSlug, market, affiliateSource, subId: clickId,
+        timestamp: new Date().toISOString(),
+      });
+      if (typeof navigator.sendBeacon === 'function') {
+        navigator.sendBeacon('/api/track-click', new Blob([payload], { type: 'application/json' }));
+      } else {
+        fetch('/api/track-click', { method: 'POST', body: payload, keepalive: true }).catch(() => {});
+      }
+    }
+
     window.open(url, '_blank', 'noopener,noreferrer');
   }
 

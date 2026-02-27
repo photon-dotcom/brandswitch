@@ -117,9 +117,19 @@
       "slug": "razer"
     },
     {
+      "rank": 10,
+      "name": "GoPro",
+      "slug": "gopro"
+    },
+    {
       "rank": 12,
       "name": "Philips",
       "slug": "philips"
+    },
+    {
+      "rank": 15,
+      "name": "ASUS",
+      "slug": "asus"
     },
     {
       "rank": 18,
@@ -145,6 +155,11 @@
       "rank": 27,
       "name": "EcoFlow",
       "slug": "ecoflow"
+    },
+    {
+      "rank": 33,
+      "name": "GOVEE",
+      "slug": "govee"
     }
   ],
   "shoes": [
@@ -211,6 +226,11 @@
       "rank": 3,
       "name": "Bitdefender",
       "slug": "bitdefender"
+    },
+    {
+      "rank": 11,
+      "name": "Skillshare",
+      "slug": "skillshare"
     },
     {
       "rank": 14,
@@ -283,6 +303,11 @@
       "rank": 8,
       "name": "VistaPrint",
       "slug": "vistaprint"
+    },
+    {
+      "rank": 26,
+      "name": "Flashforge",
+      "slug": "flashforge"
     }
   ]
 }

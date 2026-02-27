@@ -223,6 +223,31 @@ export function getBrandAlternatives(market: string, brand: Brand): Brand[] {
     .filter((b): b is Brand => Boolean(b));
 }
 
+/**
+ * Returns related brands from the same category, excluding the given slug.
+ * Used as a fallback when a brand has fewer than 3 real alternatives.
+ */
+export function getRelatedBrands(market: string, categorySlug: string, excludeSlug: string, limit = 10): Brand[] {
+  return getBrandsByCategory(market, categorySlug)
+    .filter(b => b.slug !== excludeSlug)
+    .slice(0, limit);
+}
+
+/** Returns the list of markets that have a brand with the given slug */
+export function getBrandMarkets(slug: string): string[] {
+  return MARKETS.filter(m => Boolean(getSlugIndex(m).get(slug)));
+}
+
+/** Locale → proper hreflang language tag */
+export const LOCALE_TO_HREFLANG: Record<string, string> = {
+  us: 'en', uk: 'en-GB', au: 'en-AU', ca: 'en-CA',
+  nl: 'en', se: 'en', dk: 'en', fi: 'en', no: 'en',
+  de: 'de', at: 'de-AT', ch: 'de-CH',
+  fr: 'fr', be: 'fr-BE',
+  es: 'es', mx: 'es-MX',
+  it: 'it', br: 'pt-BR',
+};
+
 /** Slugs shared between two brands' category lists (for "Why similar") */
 export function sharedCategories(a: Brand, b: Brand): string[] {
   const setB = new Set(b.categories);

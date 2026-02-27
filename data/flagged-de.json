@@ -736,36 +736,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "174237",
-    "name": "AXA Winterthur",
-    "slug": "axa",
-    "domain": "axa.de",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/axa-de-1732520828.png",
-    "categories": [
-      "Products",
-      "Subscription Boxes & Services"
-    ],
-    "tags": [
-      "products",
-      "subscription",
-      "boxes",
-      "services"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/axa-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/axa-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "262916",
     "name": "Beurer Shop",
     "slug": "beurer-shop",
@@ -870,6 +840,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "117146",
+    "name": "Comma Store",
+    "slug": "comma-store",
+    "domain": "comma-store.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/comma-store.de?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/comma-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/comma-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "161329",
     "name": "Def Shop",
     "slug": "def-shop",
@@ -889,6 +885,32 @@
     "commission": "Up to $0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "201783",
+    "name": "Duschkabine Shop",
+    "slug": "duschkabine-shop",
+    "domain": "duschkabine-shop.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/duschkabine-shop.de?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/duschkabine-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/duschkabine-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -1303,6 +1325,35 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "120241",
+    "name": "Orchideen Klusmann",
+    "slug": "orchideen-klusmann",
+    "domain": "orchideen-klusmann.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/orchideen-klusmann.de?size=200",
+    "categories": [
+      "Products",
+      "Home & Garden"
+    ],
+    "tags": [
+      "products",
+      "home",
+      "garden"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/orchideen-klusmann-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/orchideen-klusmann-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "262995",
     "name": "Porsche Design",
     "slug": "porsche-design",
@@ -1364,6 +1415,34 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "274212",
+    "name": "rauwolf-coffee.at",
+    "slug": "rauwolf-coffeeat",
+    "domain": "rauwolf-coffee.at",
+    "description": "",
+    "logo": "https://logo.clearbit.com/rauwolf-coffee.at?size=200",
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/rauwolf-coffee-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/rauwolf-coffee-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "329706",
     "name": "Sale Cc",
     "slug": "sale-cc",
@@ -1383,6 +1462,32 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "262935",
+    "name": "Scooter Attack",
+    "slug": "scooter-attack",
+    "domain": "scooter-attack.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/scooter-attack.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/scooter-attack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/scooter-attack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -1608,6 +1713,35 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "122096",
+    "name": "Werkstatt King",
+    "slug": "werkstatt-king",
+    "domain": "werkstatt-king.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/werkstatt-king.de?size=200",
+    "categories": [
+      "Products",
+      "Auto & Tires"
+    ],
+    "tags": [
+      "products",
+      "auto",
+      "tires"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/werkstatt-king-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/werkstatt-king-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "222504",
     "name": "Baby Nova Shop",
     "slug": "baby-nova-shop",
@@ -1624,36 +1758,6 @@
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/baby-nova-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/baby-nova-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "242154",
-    "name": "Bluefin SUP",
-    "slug": "bluefinsupboards",
-    "domain": "bluefinsupboards.com",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/bluefin-sup-de.png",
-    "categories": [
-      "Products",
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "products",
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/bluefinsupboards-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/bluefinsupboards-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -2064,6 +2168,35 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "222986",
+    "name": "Viva Aqua",
+    "slug": "viva-aqua",
+    "domain": "viva-aqua.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/viva-aqua.de?size=200",
+    "categories": [
+      "Products",
+      "Home & Garden"
+    ],
+    "tags": [
+      "products",
+      "home",
+      "garden"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/viva-aqua-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/viva-aqua-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "223485",
     "name": "Vtg Tiergesundheit",
     "slug": "vtg-tiergesundheit",
@@ -2176,36 +2309,6 @@
     "commission": "€3.2373",
     "commissionType": "FixedAmount",
     "eCPC": "0.08",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "199452",
-    "name": "Spartoo",
-    "slug": "spartoo",
-    "domain": "de.spartoo.ch",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/de-spartoo-ch-de-1724143461.jpg",
-    "categories": [
-      "Clothing",
-      "Shoes",
-      "Accessories"
-    ],
-    "tags": [
-      "clothing",
-      "shoes",
-      "accessories"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.shoptastic.io/de/store/de-spartoo-ch-de?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/de/store/de-spartoo-ch-de?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "Up to €0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",

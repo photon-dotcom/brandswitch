@@ -1074,6 +1074,8 @@ function computeSimilarity(brands: Brand[], topN = 15): Brand[] {
     }
   }
 
+  let selfRefs = 0;
+
   for (let i = 0; i < brands.length; i++) {
     const brand = brands[i];
     const scoreMap = new Map<number, number>();
@@ -1094,10 +1096,25 @@ function computeSimilarity(brands: Brand[], topN = 15): Brand[] {
       }
     }
 
-    brand.similarBrands = Array.from(scoreMap.entries())
+    const candidates = Array.from(scoreMap.entries())
       .sort((a, b) => b[1] - a[1])
       .slice(0, topN)
-      .map(([j]) => brands[j].slug);
+      .map(([j]) => brands[j]);
+
+    // Filter self-references: remove alternatives with the same domain
+    const filtered = candidates.filter(other => {
+      if (brand.domain && other.domain && brand.domain === other.domain) {
+        selfRefs++;
+        return false;
+      }
+      return true;
+    });
+
+    brand.similarBrands = filtered.map(b => b.slug);
+  }
+
+  if (selfRefs > 0) {
+    console.log(`✓ Self-reference filter: ${selfRefs} self-referencing alternatives removed`);
   }
 
   return brands;

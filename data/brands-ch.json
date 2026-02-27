@@ -67,6 +67,7 @@
     "eCPC": "",
     "similarBrands": [
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -79,8 +80,7 @@
       "sbb-onlineshop",
       "sbbch",
       "swissactivities",
-      "universaltravelch",
-      "air-france-ch"
+      "universaltravelch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1419,6 +1419,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "308930",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "CH",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-ch?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-ch?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "12-travel",
+      "ayadamaldives",
+      "brussels-airlines",
+      "centralhoteles",
+      "edreams",
+      "interhomech",
+      "kuoni",
+      "lastminutech",
+      "mietwagencheck",
+      "radreiseprofi",
+      "sat-reisen",
+      "sbb-onlineshop",
+      "sbbch",
+      "swissactivities",
+      "universaltravelch"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "252926",
     "name": "briefkastendirekt.ch",
     "slug": "briefkastendirektch",
@@ -1967,6 +2009,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "edreams",
       "interhomech",
@@ -1978,8 +2021,7 @@
       "sbb-onlineshop",
       "sbbch",
       "swissactivities",
-      "universaltravelch",
-      "air-france-ch"
+      "universaltravelch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3035,6 +3077,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "interhomech",
@@ -3046,8 +3089,7 @@
       "sbb-onlineshop",
       "sbbch",
       "swissactivities",
-      "universaltravelch",
-      "air-france-ch"
+      "universaltravelch"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8618,6 +8660,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -8629,8 +8672,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "swissactivities",
-      "universaltravelch",
-      "air-france-ch"
+      "universaltravelch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10290,6 +10332,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -10301,8 +10344,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "air-france-ch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -11442,6 +11484,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -11453,8 +11496,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12530,6 +12572,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -12541,8 +12584,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16032,6 +16074,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -16043,8 +16086,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16651,48 +16693,6 @@
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "257844",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "CH",
-    "affiliateUrl": "https://www.pickalink.com/click/booking-com-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "12-travel",
-      "ayadamaldives",
-      "brussels-airlines",
-      "centralhoteles",
-      "edreams",
-      "interhomech",
-      "kuoni",
-      "lastminutech",
-      "mietwagencheck",
-      "radreiseprofi",
-      "sat-reisen",
-      "sbb-onlineshop",
-      "sbbch",
-      "swissactivities",
-      "universaltravelch"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
     "affiliateSource": "Pickalink CPC"
   },
   {
@@ -18049,6 +18049,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -18060,8 +18061,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18134,6 +18134,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -18145,8 +18146,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18726,6 +18726,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -18737,8 +18738,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18936,6 +18936,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -18947,8 +18948,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19357,6 +19357,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -19368,8 +19369,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19399,6 +19399,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -19410,8 +19411,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19694,6 +19694,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -19705,8 +19706,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19780,6 +19780,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -19791,8 +19792,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19864,6 +19864,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -19875,8 +19876,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20399,6 +20399,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -20410,8 +20411,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20718,6 +20718,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -20729,8 +20730,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20848,6 +20848,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -20859,8 +20860,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21687,6 +21687,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -21698,8 +21699,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21853,6 +21853,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -21864,8 +21865,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21895,6 +21895,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -21906,8 +21907,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22188,6 +22188,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -22199,8 +22200,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22358,6 +22358,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -22369,8 +22370,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22531,6 +22531,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -22542,8 +22543,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22657,6 +22657,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -22668,8 +22669,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -24092,6 +24092,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -24103,8 +24104,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24493,6 +24493,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -24504,8 +24505,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24747,6 +24747,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -24758,8 +24759,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24789,6 +24789,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -24800,8 +24801,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25457,6 +25457,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -25468,8 +25469,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25499,6 +25499,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -25510,8 +25511,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25541,6 +25541,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -25552,8 +25553,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25991,6 +25991,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -26002,8 +26003,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26242,6 +26242,7 @@
     "similarBrands": [
       "12-travel",
       "ayadamaldives",
+      "booking",
       "brussels-airlines",
       "centralhoteles",
       "edreams",
@@ -26253,8 +26254,7 @@
       "sat-reisen",
       "sbb-onlineshop",
       "sbbch",
-      "swissactivities",
-      "universaltravelch"
+      "swissactivities"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

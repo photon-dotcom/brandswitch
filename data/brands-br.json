@@ -806,8 +806,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro",
@@ -1055,6 +1055,7 @@
     "eCPC": "0.03",
     "similarBrands": [
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -1067,8 +1068,7 @@
       "hotels",
       "ionmajestichotel",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2368,8 +2368,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -2815,6 +2815,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "91896",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/bookingcom-br?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bookingcom-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "allianz-travel",
+      "awayz",
+      "cvc-com",
+      "deonibus",
+      "expedia",
+      "filitheyoresort",
+      "flixbus",
+      "getyourguide",
+      "gol",
+      "gulliver",
+      "hotelelpradobarranquilla",
+      "hotels",
+      "ionmajestichotel",
+      "itchotels",
+      "kurumba"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "427285",
     "name": "Bookpublishertools",
     "slug": "bookpublishertools",
@@ -2885,8 +2927,8 @@
       "bedsonlinestore",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -4131,8 +4173,8 @@
       "bedsonlinestore",
       "botanic-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -4810,8 +4852,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro",
@@ -4852,8 +4894,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro",
@@ -4898,8 +4940,8 @@
       "dentro-da-historia",
       "drogal",
       "drogaria-sao-paulo",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -5322,8 +5364,8 @@
       "decorcolors-com",
       "decowallkidspl",
       "diablochairs",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro",
@@ -5765,50 +5807,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "251362",
-    "name": "Electrolux Com",
-    "slug": "electrolux-com",
-    "domain": "electrolux.com.br",
-    "description": "",
-    "logo": "https://logo.debounce.com/electrolux.com.br",
-    "categories": [
-      "Products",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "home",
-      "garden"
-    ],
-    "country": "BR",
-    "affiliateUrl": "https://www.pickalink.com/click/electrolux-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/electrolux-com-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "bedsonlinestore",
-      "botanic-com",
-      "colchoesemma-com",
-      "decowallkidspl",
-      "electrolux-brasil",
-      "electroluxcl",
-      "etsy-row",
-      "ibbl",
-      "loftblinds",
-      "meubles",
-      "mobly-com",
-      "oster-com",
-      "positivocasainteligente-com",
-      "quadrispace",
-      "sharkninjabrasil-com"
-    ],
-    "logoQuality": "high",
-    "logoSource": "debounce",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "93125",
     "name": "Electrolux Brasil",
     "slug": "electrolux-brasil",
@@ -5853,6 +5851,50 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "251362",
+    "name": "Electrolux Com",
+    "slug": "electrolux-com",
+    "domain": "electrolux.com.br",
+    "description": "",
+    "logo": "https://logo.debounce.com/electrolux.com.br",
+    "categories": [
+      "Products",
+      "Home & Garden"
+    ],
+    "tags": [
+      "products",
+      "home",
+      "garden"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/electrolux-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/electrolux-com-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "bedsonlinestore",
+      "botanic-com",
+      "colchoesemma-com",
+      "decowallkidspl",
+      "electrolux-brasil",
+      "electroluxcl",
+      "etsy-row",
+      "ibbl",
+      "loftblinds",
+      "meubles",
+      "mobly-com",
+      "oster-com",
+      "positivocasainteligente-com",
+      "quadrispace",
+      "sharkninjabrasil-com"
+    ],
+    "logoQuality": "high",
+    "logoSource": "debounce",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "312217",
     "name": "electrolux.cl",
     "slug": "electroluxcl",
@@ -5880,8 +5922,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "etsy-row",
       "ibbl",
       "loftblinds",
@@ -6639,6 +6681,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -6650,8 +6693,7 @@
       "hotels",
       "ionmajestichotel",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6765,6 +6807,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -6776,8 +6819,7 @@
       "hotels",
       "ionmajestichotel",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7207,8 +7249,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -7961,6 +8003,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -7972,8 +8015,7 @@
       "hotels",
       "ionmajestichotel",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8003,6 +8045,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -8014,8 +8057,7 @@
       "hotelelpradobarranquilla",
       "ionmajestichotel",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8096,8 +8138,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "loftblinds",
@@ -8379,6 +8421,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -8390,8 +8433,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "itchotels",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8462,6 +8504,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -8473,8 +8516,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "kurumba",
-      "marriott"
+      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9145,8 +9187,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -9220,6 +9262,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -9231,8 +9274,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "marriott"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9677,8 +9719,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -10475,6 +10517,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -10486,8 +10529,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10593,6 +10635,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -10604,8 +10647,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10853,8 +10895,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -11203,8 +11245,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "ibbl",
       "loftblinds",
@@ -11973,8 +12015,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -12056,6 +12098,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -12067,8 +12110,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13041,8 +13083,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -13651,8 +13693,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -14467,6 +14509,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -14478,8 +14521,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14808,8 +14850,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -15443,6 +15485,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -15454,8 +15497,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15573,6 +15615,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -15584,8 +15627,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15755,8 +15797,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -15918,8 +15960,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -16094,8 +16136,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -16309,8 +16351,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -16443,8 +16485,8 @@
       "colchoesemma-com",
       "decowallkidspl",
       "dentro-da-historia",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "hype-games",
@@ -17389,6 +17431,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -17400,8 +17443,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17738,6 +17780,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -17749,8 +17792,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18251,6 +18293,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -18262,8 +18305,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18557,8 +18599,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -19219,8 +19261,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -19304,8 +19346,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -19391,8 +19433,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -19612,8 +19654,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -19787,8 +19829,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -20054,8 +20096,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -20102,8 +20144,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -20260,6 +20302,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -20271,8 +20314,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20732,6 +20774,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -20743,8 +20786,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21216,8 +21258,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "loftblinds",
@@ -21867,8 +21909,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -21911,8 +21953,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -22484,8 +22526,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -22736,8 +22778,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -22862,6 +22904,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -22873,8 +22916,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23095,8 +23137,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -24154,8 +24196,8 @@
       "botanic-com",
       "colchoesemma-com",
       "decowallkidspl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "ibbl",
@@ -24507,48 +24549,6 @@
       "kinghost-com",
       "lindyai",
       "lojaonline-claro-com"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "257845",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "BR",
-    "affiliateUrl": "https://www.pickalink.com/click/booking-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "allianz-travel",
-      "awayz",
-      "cvc-com",
-      "deonibus",
-      "expedia",
-      "filitheyoresort",
-      "flixbus",
-      "getyourguide",
-      "gol",
-      "gulliver",
-      "hotelelpradobarranquilla",
-      "hotels",
-      "ionmajestichotel",
-      "itchotels",
-      "kurumba"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25482,8 +25482,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -25630,6 +25630,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -25641,8 +25642,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25763,8 +25763,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -26991,8 +26991,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -27033,8 +27033,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -27075,8 +27075,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -27792,8 +27792,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -27834,8 +27834,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -28287,6 +28287,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -28298,8 +28299,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28380,8 +28380,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -28834,6 +28834,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -28845,8 +28846,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29047,6 +29047,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -29058,8 +29059,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29270,8 +29270,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -29893,6 +29893,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -29904,8 +29905,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29977,6 +29977,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -29988,8 +29989,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30154,8 +30154,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -30355,6 +30355,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -30366,8 +30367,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30659,8 +30659,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31077,8 +31077,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31284,8 +31284,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31326,8 +31326,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31450,8 +31450,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31701,8 +31701,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -31956,8 +31956,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -32607,6 +32607,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -32618,8 +32619,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32649,6 +32649,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -32660,8 +32661,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32909,8 +32909,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -33659,8 +33659,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -33941,6 +33941,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -33952,8 +33953,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34149,6 +34149,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -34160,8 +34161,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34492,8 +34492,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -34576,8 +34576,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -34915,8 +34915,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
-      "electrolux-brasil"
+      "electrolux-brasil",
+      "electrolux-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34954,8 +34954,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -35874,6 +35874,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -35885,8 +35886,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36010,8 +36010,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -36544,6 +36544,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -36555,8 +36556,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37013,8 +37013,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"
@@ -37259,6 +37259,7 @@
     "similarBrands": [
       "allianz-travel",
       "awayz",
+      "booking",
       "cvc-com",
       "deonibus",
       "expedia",
@@ -37270,8 +37271,7 @@
       "hotelelpradobarranquilla",
       "hotels",
       "ionmajestichotel",
-      "itchotels",
-      "kurumba"
+      "itchotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37435,8 +37435,8 @@
       "decowallkidspl",
       "diablochairs",
       "diarbopl",
-      "electrolux-com",
       "electrolux-brasil",
+      "electrolux-com",
       "electroluxcl",
       "etsy-row",
       "fotoregistro"

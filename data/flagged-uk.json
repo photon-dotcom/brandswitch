@@ -34,31 +34,31 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "73321",
+    "id": "312050",
     "name": "Burton Snowboards",
     "slug": "burton-snowboards",
     "domain": "burton.com",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/burton-snowboards-uk.png",
     "categories": [
+      "Products",
       "Clothing",
       "Accessories",
-      "Products",
       "Sports, Outdoors & Fitness"
     ],
     "tags": [
+      "products",
       "clothing",
       "accessories",
-      "products",
       "sports",
       "outdoors",
       "fitness"
     ],
     "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/burton-snowboards-uk?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/burton-snowboards-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/burton-com-uk?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/burton-com-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "Up to 0.0000%",
+    "commission": "0.00%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [],
@@ -495,6 +495,32 @@
     "supportsDeepLink": true,
     "commission": "€0.0000",
     "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "277607",
+    "name": "FREE SOUL",
+    "slug": "free-soul",
+    "domain": "herfreesoul.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/herfreesoul.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/herfreesoul-com-uk?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/herfreesoul-com-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
@@ -960,6 +986,32 @@
     "supportsDeepLink": true,
     "commission": "0.00%",
     "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "193771",
+    "name": "Buy Myzone",
+    "slug": "myzone",
+    "domain": "buy.myzone.org",
+    "description": "",
+    "logo": "https://logo.clearbit.com/buy.myzone.org?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/buy-myzone-org-uk?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/buy-myzone-org-uk?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
@@ -1845,25 +1897,21 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "298549",
-    "name": "Capsule",
-    "slug": "capsulecrm",
-    "domain": "capsulecrm.com",
+    "id": "329453",
+    "name": "Candydelivered",
+    "slug": "candydelivered",
+    "domain": "candydelivered.co.uk",
     "description": "",
-    "logo": "https://logo.clearbit.com/capsulecrm.com?size=200",
+    "logo": "https://logo.clearbit.com/candydelivered.co.uk?size=200",
     "categories": [
-      "Products",
-      "Digital Services & Streaming"
+      "Products"
     ],
     "tags": [
-      "products",
-      "digital",
-      "services",
-      "streaming"
+      "products"
     ],
     "country": "UK",
-    "affiliateUrl": "https://www.pickalink.com/click/capsulecrm-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/capsulecrm-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/candydelivered-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/candydelivered-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -1893,6 +1941,34 @@
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/dtbrownseeds-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/dtbrownseeds-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "326352",
+    "name": "Fitnessmax",
+    "slug": "fitnessmax",
+    "domain": "fitnessmax.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fitnessmax.co.uk?size=200",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/fitnessmax-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fitnessmax-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -1938,6 +2014,137 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "182286",
+    "name": "Furnwise",
+    "slug": "furnwise",
+    "domain": "furnwise.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/furnwise.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/furnwise-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/furnwise-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182288",
+    "name": "Geraldgiles",
+    "slug": "geraldgiles",
+    "domain": "geraldgiles.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/geraldgiles.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/geraldgiles-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/geraldgiles-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "167549",
+    "name": "Hifix",
+    "slug": "hifix",
+    "domain": "hifix.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/hifix.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/hifix-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hifix-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "297248",
+    "name": "Johnny Loves Rosie",
+    "slug": "johnny-loves-rosie",
+    "domain": "johnny-loves-rosie.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/johnny-loves-rosie.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/johnny-loves-rosie-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/johnny-loves-rosie-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "172199",
+    "name": "Livingsocial",
+    "slug": "livingsocial",
+    "domain": "livingsocial.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/livingsocial.co.uk?size=200",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/livingsocial-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/livingsocial-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "126017",
     "name": "Lovell Soccer",
     "slug": "lovell-soccer",
@@ -1968,6 +2175,58 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "302493",
+    "name": "Luxury Screens",
+    "slug": "luxury-screens",
+    "domain": "luxuryscreens.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/luxuryscreens.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/luxuryscreens-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/luxuryscreens-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "169377",
+    "name": "Margot Fox",
+    "slug": "margot-fox",
+    "domain": "margot-fox.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/margot-fox.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/margot-fox-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/margot-fox-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "328538",
     "name": "Morrisons",
     "slug": "morrisons",
@@ -1991,6 +2250,32 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "109099",
+    "name": "Novatech",
+    "slug": "novatech",
+    "domain": "novatech.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/novatech.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/novatech-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/novatech-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -2109,6 +2394,32 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "182350",
+    "name": "Talkhome",
+    "slug": "talkhome",
+    "domain": "talkhome.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/talkhome.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/talkhome-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/talkhome-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "109484",
     "name": "thebodyshop",
     "slug": "thebodyshop",
@@ -2155,6 +2466,58 @@
     "country": "UK",
     "affiliateUrl": "https://www.pickalink.com/click/three-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/three-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182358",
+    "name": "Tilesuperstore",
+    "slug": "tilesuperstore",
+    "domain": "tilesuperstore.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/tilesuperstore.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/tilesuperstore-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/tilesuperstore-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "121771",
+    "name": "Tubhome",
+    "slug": "tubhome",
+    "domain": "tubhome.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/tubhome.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/tubhome-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/tubhome-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -2220,12 +2583,12 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "200491",
-    "name": "Buy Myzone",
-    "slug": "buy-myzone",
-    "domain": "buy.myzone.org",
+    "id": "226087",
+    "name": "Peugeot Saveurs",
+    "slug": "peugeot-saveurs",
+    "domain": "peugeot-saveurs.com",
     "description": "",
-    "logo": "https://logo.clearbit.com/buy.myzone.org?size=200",
+    "logo": "https://logo.clearbit.com/peugeot-saveurs.com?size=200",
     "categories": [
       "Products"
     ],
@@ -2233,17 +2596,43 @@
       "products"
     ],
     "country": "UK",
-    "affiliateUrl": "https://www.shoptastic.io/uk/store/buy-myzone-org?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/uk/store/buy-myzone-org?userId=88888889&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/peugeot-saveurs-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/peugeot-saveurs-com-cpc-uk?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "5.94%",
-    "commissionType": "Percentage",
-    "eCPC": "0.01",
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
     "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "222800",
+    "name": "Sump Guard",
+    "slug": "sump-guard",
+    "domain": "sump-guard.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/sump-guard.co.uk?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "UK",
+    "affiliateUrl": "https://www.pickalink.com/click/sump-guard-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sump-guard-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
   },
   {
     "id": "791470",

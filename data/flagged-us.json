@@ -976,6 +976,61 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "414216",
+    "name": "Deals Getairphysio",
+    "slug": "deals-getairphysio",
+    "domain": "deals.getairphysio.io",
+    "description": "",
+    "logo": "https://logo.clearbit.com/deals.getairphysio.io?size=200",
+    "categories": [
+      "Products",
+      "Health & Beauty"
+    ],
+    "tags": [
+      "products",
+      "health",
+      "beauty"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/deals-getairphysio-io?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/deals-getairphysio-io?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "405372",
+    "name": "Deals Getakko",
+    "slug": "deals-getakko",
+    "domain": "deals.getakko.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/deals.getakko.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/deals-getakko-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/deals-getakko-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "322159",
     "name": "Deals Getomnidatasafe",
     "slug": "deals-getomnidatasafe",
@@ -995,6 +1050,34 @@
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/deals-getomnidatasafe-io?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/deals-getomnidatasafe-io?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "417242",
+    "name": "Deals Getphotostick",
+    "slug": "deals-getphotostick",
+    "domain": "deals.getphotostick.io",
+    "description": "",
+    "logo": "https://logo.clearbit.com/deals.getphotostick.io?size=200",
+    "categories": [
+      "Products",
+      "Electronics"
+    ],
+    "tags": [
+      "products",
+      "electronics"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/deals-getphotostick-io?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/deals-getphotostick-io?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "N/A",
     "commissionType": "",
@@ -1761,6 +1844,32 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "186372",
+    "name": "Buy Canvas Wall Art Online - FabTastic.Co",
+    "slug": "buy-canvas-wall-art-online-fabtasticco",
+    "domain": "fabtastic.co",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fabtastic.co?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/fabtastic-co-us?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fabtastic-co-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "188442",
     "name": "Clear Captions",
     "slug": "clear-captions",
@@ -1866,6 +1975,32 @@
     "affiliateUrl": "https://www.pickalink.com/click/survivallife-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "194521",
+    "name": "Wholesale To Millions",
+    "slug": "wholesale-to-millions",
+    "domain": "wholesaletomillion.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/wholesaletomillion.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/wholesaletomillion-com-us?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/wholesaletomillion-com-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
     "commission": "N/A",
     "commissionType": "",
     "eCPC": "",
@@ -2981,37 +3116,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "232574",
-    "name": "Us Frankgreen",
-    "slug": "us-frankgreen",
-    "domain": "us.frankgreen.com",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/us-frankgreen-com-1722505597.jpg",
-    "categories": [
-      "Products",
-      "Accessories",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "accessories",
-      "home",
-      "garden"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.pickalink.com/click/us-frankgreen-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "227652",
     "name": "Zalando Lounge",
     "slug": "zalando-lounge",
@@ -3057,85 +3161,6 @@
     "supportsDeepLink": true,
     "commission": "Up to 0.0000",
     "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "770920",
-    "name": "Buy Canvas Wall Art Online - FabTastic.Co",
-    "slug": "buy-canvas-wall-art-online-fabtasticco",
-    "domain": "fabtastic.co",
-    "description": "",
-    "logo": "https://logo.clearbit.com/fabtastic.co?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.shoptastic.io/us/store/fabtastic-co-us?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/us/store/fabtastic-co-us?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "685003",
-    "name": "Deals Getairphysio",
-    "slug": "deals-getairphysio",
-    "domain": "deals.getairphysio.io",
-    "description": "",
-    "logo": "https://logo.clearbit.com/deals.getairphysio.io?size=200",
-    "categories": [
-      "Health & Beauty"
-    ],
-    "tags": [
-      "health",
-      "beauty"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.shoptastic.io/us/store/deals-getairphysio-io?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/us/store/deals-getairphysio-io?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "684995",
-    "name": "Deals Getphotostick",
-    "slug": "deals-getphotostick",
-    "domain": "deals.getphotostick.io",
-    "description": "",
-    "logo": "https://logo.clearbit.com/deals.getphotostick.io?size=200",
-    "categories": [
-      "Electronics"
-    ],
-    "tags": [
-      "electronics"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.shoptastic.io/us/store/deals-getphotostick-io?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/us/store/deals-getphotostick-io?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
@@ -3246,32 +3271,6 @@
     "supportsDeepLink": true,
     "commission": "Up to 0.0000",
     "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "768684",
-    "name": "Wholesale To Millions",
-    "slug": "wholesale-to-millions",
-    "domain": "wholesaletomillion.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/wholesaletomillion.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.shoptastic.io/us/store/wholesaletomillion-com-us?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/us/store/wholesaletomillion-com-us?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",

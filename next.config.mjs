@@ -18,6 +18,8 @@ const nextConfig = {
       { protocol: 'https', hostname: 't2.gstatic.com' },
       // DuckDuckGo icon service (fallback)
       { protocol: 'https', hostname: 'icons.duckduckgo.com' },
+      // Shoptastic logo CDN
+      { protocol: 'https', hostname: 'gstatic.shoptastic.io' },
     ],
   },
 };

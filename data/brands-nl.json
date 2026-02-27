@@ -877,13 +877,13 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
       "cruise-outlet",
-      "cruisewinkel",
-      "danubius-hotels"
+      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2888,7 +2888,7 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "258050",
+    "id": "258045",
     "name": "Auto-onderdelen24",
     "slug": "auto-onderdelen24",
     "domain": "auto-onderdelen24.nl",
@@ -2904,8 +2904,8 @@
       "tires"
     ],
     "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/auto-onderdelen24-nl?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/auto-onderdelen24-nl?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "2.69%",
     "commissionType": "Percentage",
@@ -3157,7 +3157,7 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "258049",
+    "id": "258039",
     "name": "Autoonderdelen24",
     "slug": "autoonderdelen24",
     "domain": "autoonderdelen24.be",
@@ -3171,8 +3171,8 @@
       "tires"
     ],
     "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/autoonderdelen24-be?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/autoonderdelen24-be?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "€37699.1999",
     "commissionType": "FixedAmount",
@@ -4498,7 +4498,7 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "129073",
+    "id": "254888",
     "name": "Barrelkings",
     "slug": "barrelkings",
     "domain": "barrelkings.com",
@@ -4523,10 +4523,10 @@
       "fitness"
     ],
     "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/barrelkings-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/barrelkings-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/shop-barrelkings-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/shop-barrelkings-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "1.85%",
+    "commission": "2.95%",
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
@@ -6692,6 +6692,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "279910",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "NL",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-nl?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "aerosus",
+      "123helikoptervluchtennl",
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "chalets-plus",
+      "cheapcampersnl",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "410797",
     "name": "bootert.nl",
     "slug": "bootertnl",
@@ -8128,12 +8170,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
       "cruise-outlet",
-      "cruisewinkel",
-      "danubius-hotels"
+      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8257,12 +8299,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "cheapcampersnl",
       "corsica-ferries",
       "cruise-outlet",
-      "cruisewinkel",
-      "danubius-hotels"
+      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8343,12 +8385,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
-      "cruisewinkel",
-      "danubius-hotels"
+      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9273,12 +9315,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruisewinkel",
-      "danubius-hotels"
+      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9315,12 +9357,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "danubius-hotels"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9613,12 +9655,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16717,12 +16759,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17055,7 +17097,7 @@
     "slug": "herman-miller",
     "domain": "eustore.hermanmiller.com",
     "description": "",
-    "logo": "https://img.logo.dev/eu.dowinx.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "logo": "https://logo.debounce.com/eu.stuartweitzman.com",
     "categories": [
       "Products",
       "Home & Garden",
@@ -17095,7 +17137,7 @@
     "logoQuality": "high",
     "logoSource": "inherited",
     "affiliateSource": "Pickalink CPA",
-    "logoInheritedFrom": "eu.dowinx.com"
+    "logoInheritedFrom": "eu.stuartweitzman.com"
   },
   {
     "id": "309731",
@@ -17436,12 +17478,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17478,12 +17520,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17561,12 +17603,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17998,12 +18040,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19297,12 +19339,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20391,12 +20433,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25087,12 +25129,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26290,12 +26332,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26672,12 +26714,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27363,12 +27405,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28536,12 +28578,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -28801,12 +28843,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -29621,12 +29663,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31431,12 +31473,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31738,12 +31780,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33129,12 +33171,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34506,12 +34548,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35253,12 +35295,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35848,12 +35890,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35890,12 +35932,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -37150,12 +37192,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37775,12 +37817,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37817,12 +37859,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -37859,12 +37901,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -38081,12 +38123,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -38123,12 +38165,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -39535,12 +39577,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -41299,12 +41341,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43718,12 +43760,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -44017,12 +44059,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -45960,12 +46002,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -46134,12 +46176,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -48643,12 +48685,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -49482,12 +49524,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -50727,12 +50769,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -51033,12 +51075,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -55503,12 +55545,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -56772,12 +56814,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -56943,12 +56985,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56985,12 +57027,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -57380,12 +57422,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -58214,12 +58256,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -58977,12 +59019,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -61536,12 +61578,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -62673,12 +62715,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -62756,12 +62798,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -64450,12 +64492,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65234,12 +65276,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -65492,12 +65534,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65662,12 +65704,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -65704,12 +65746,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66416,12 +66458,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67115,12 +67157,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67223,7 +67265,7 @@
     "slug": "canadaplusnl",
     "domain": "canadaplus.nl",
     "description": "",
-    "logo": "https://img.logo.dev/canada.buzztvglobal.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
+    "logo": "https://api.companyenrich.com/logo/canada.bissell.com",
     "categories": [
       "Travel & Vacations"
     ],
@@ -67248,17 +67290,17 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
     "affiliateSource": "Pickalink CPA",
-    "logoInheritedFrom": "canada.buzztvglobal.com"
+    "logoInheritedFrom": "canada.bissell.com"
   },
   {
     "id": "216907",
@@ -67678,12 +67720,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67806,12 +67848,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67941,12 +67983,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -68121,12 +68163,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -69188,12 +69230,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -69805,12 +69847,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -69893,12 +69935,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70740,12 +70782,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -71143,10 +71185,10 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
-      "cheapcampersnl",
-      "corsica-ferries"
+      "cheapcampersnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -71656,12 +71698,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -72618,12 +72660,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -72660,12 +72702,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -72929,12 +72971,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -74221,12 +74263,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -76056,8 +76098,8 @@
       "alfareizennl",
       "barcelo-hotels-and-resorts",
       "bebsy",
-      "cateredskichalets",
-      "chalets-plus"
+      "booking",
+      "cateredskichalets"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -76308,12 +76350,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -76525,12 +76567,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -76834,12 +76876,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77713,12 +77755,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78490,12 +78532,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78747,12 +78789,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78789,12 +78831,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78831,12 +78873,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -79175,12 +79217,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80439,7 +80481,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/alternate-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/alternate-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0560",
+    "commission": "$0.0543",
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
@@ -80482,7 +80524,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/anwb-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/anwb-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0224",
+    "commission": "$0.0246",
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
@@ -80778,7 +80820,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/beddengoed-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/beddengoed-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0087",
+    "commission": "$0.0112",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -81073,7 +81115,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/bonprix-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/bonprix-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0112",
+    "commission": "$0.0135",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -81606,7 +81648,7 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "263706",
+    "id": "263709",
     "name": "Delicando",
     "slug": "delicando",
     "domain": "delicando.com",
@@ -81623,8 +81665,8 @@
       "restaurants"
     ],
     "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/null?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/delicando-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/delicando-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "€0.0045",
     "commissionType": "FixedAmount",
@@ -82182,7 +82224,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/foryougifts-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/foryougifts-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0056",
+    "commission": "$0.0071",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -82479,7 +82521,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/gorillasports-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/gorillasports-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "Up to $0.1120",
+    "commission": "Up to $0.1097",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
@@ -82764,11 +82806,9 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hostelworld.com",
     "categories": [
-      "Products",
       "Travel & Vacations"
     ],
     "tags": [
-      "products",
       "travel",
       "vacations"
     ],
@@ -82780,21 +82820,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
+      "aerosus",
       "123helikoptervluchtennl",
+      "333travelnl",
       "airhelpnl",
       "alamonl",
       "alfareizennl",
       "bagage24",
       "barcelo-hotels-and-resorts",
+      "bebsy",
+      "booking",
+      "cateredskichalets",
+      "chalets-plus",
+      "cheapcampersnl",
       "corsica-ferries",
-      "db-benelux",
-      "escolette",
-      "europarking-nl",
-      "fijnopvakantienl",
-      "fital",
-      "gotogate",
-      "govoltanl",
-      "greenparkingschiphol"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83202,7 +83242,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/kidooz-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/kidooz-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0391",
+    "commission": "$0.0401",
     "commissionType": "FixedAmount",
     "eCPC": "0.02",
     "similarBrands": [
@@ -83957,7 +83997,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/lookfantastic-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/lookfantastic-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0167",
+    "commission": "$0.0145",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -85664,7 +85704,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/suitableshop-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/suitableshop-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0167",
+    "commission": "$0.0153",
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
@@ -85914,8 +85954,8 @@
     "affiliateUrl": "https://www.pickalink.com/click/tracking-hu-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/tracking-hu-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
+    "commission": "€0.0683",
+    "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
       "ali-express",
@@ -86391,7 +86431,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/yogakledingonline-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/yogakledingonline-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0112",
+    "commission": "$0.0130",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -86575,12 +86615,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86622,48 +86662,6 @@
       "foot-locker",
       "haibu",
       "happybee"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "242855",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/booking-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "aerosus",
-      "123helikoptervluchtennl",
-      "333travelnl",
-      "airhelpnl",
-      "alamonl",
-      "alfareizennl",
-      "bagage24",
-      "barcelo-hotels-and-resorts",
-      "bebsy",
-      "cateredskichalets",
-      "chalets-plus",
-      "cheapcampersnl",
-      "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86856,7 +86854,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/ggmgastro-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/ggmgastro-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.3362",
+    "commission": "$0.3360",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -87027,7 +87025,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/hp-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "",
     "supportsDeepLink": false,
-    "commission": "$0.0056",
+    "commission": "$0.0072",
     "commissionType": "FixedAmount",
     "eCPC": "0.03",
     "similarBrands": [
@@ -87427,7 +87425,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/pullandbear-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/pullandbear-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0280",
+    "commission": "$0.0267",
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
@@ -87511,7 +87509,7 @@
     "affiliateUrl": "https://www.pickalink.com/click/samsung-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/samsung-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0000",
+    "commission": "$0.0017",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
@@ -89117,12 +89115,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90567,12 +90565,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90957,12 +90955,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -91851,12 +91849,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -92195,12 +92193,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -92445,12 +92443,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -92755,12 +92753,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -92970,12 +92968,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94120,12 +94118,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94244,12 +94242,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94711,12 +94709,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -94753,12 +94751,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94795,12 +94793,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95300,12 +95298,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -97068,12 +97066,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -98422,12 +98420,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -98464,12 +98462,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99406,12 +99404,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102634,12 +102632,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -103107,12 +103105,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -103319,12 +103317,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103403,12 +103401,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -103445,12 +103443,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103529,12 +103527,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103571,12 +103569,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103832,12 +103830,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103874,12 +103872,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104645,12 +104643,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105537,12 +105535,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -105670,12 +105668,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -105837,12 +105835,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105963,12 +105961,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -106175,12 +106173,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -106743,12 +106741,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -106915,12 +106913,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107097,12 +107095,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107524,12 +107522,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -108675,12 +108673,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -108964,12 +108962,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -111245,12 +111243,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -112717,8 +112715,8 @@
       "alfareizennl",
       "barcelo-hotels-and-resorts",
       "bebsy",
-      "cateredskichalets",
-      "chalets-plus"
+      "booking",
+      "cateredskichalets"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -113716,12 +113714,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -115952,12 +115950,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "booking",
       "cateredskichalets",
       "chalets-plus",
       "cheapcampersnl",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

@@ -1231,6 +1231,7 @@
     "similarBrands": [
       "airhelp-se",
       "bagasi",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -1242,8 +1243,7 @@
       "se-flightnetwork",
       "sembo",
       "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn",
-      "air-france-se"
+      "wopsa-webbhotell-hemsida-server-domn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1509,6 +1509,48 @@
       "kalenderspecialisten",
       "kontorsgiganten",
       "kuben"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "308921",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "SE",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-se?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "airhelp-se",
+      "bagasi",
+      "bikesbooking",
+      "citybox",
+      "flygforsening",
+      "hostelsclub",
+      "hurtigruten",
+      "mamma-mia-the-party",
+      "mytrip",
+      "olka-express",
+      "reseguiden",
+      "se-flightnetwork",
+      "sembo",
+      "tripxse",
+      "wopsa-webbhotell-hemsida-server-domn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1854,6 +1896,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "flygforsening",
       "hostelsclub",
       "hurtigruten",
@@ -1864,8 +1907,7 @@
       "se-flightnetwork",
       "sembo",
       "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn",
-      "air-france-se"
+      "wopsa-webbhotell-hemsida-server-domn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6345,6 +6387,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -6352,8 +6395,7 @@
       "mytrip",
       "reseguiden",
       "se-flightnetwork",
-      "sembo",
-      "tripxse"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9544,6 +9586,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -9554,8 +9597,7 @@
       "reseguiden",
       "sembo",
       "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn",
-      "air-france-se"
+      "wopsa-webbhotell-hemsida-server-domn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12752,6 +12794,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -12762,8 +12805,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13591,6 +13633,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -13601,8 +13644,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14021,6 +14063,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -14031,8 +14074,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14195,6 +14237,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -14205,8 +14248,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14500,6 +14542,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -14510,8 +14553,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15530,6 +15572,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -15540,8 +15583,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19213,6 +19255,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -19223,8 +19266,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19255,6 +19297,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -19265,8 +19308,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -19953,48 +19995,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "242866",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "SE",
-    "affiliateUrl": "https://www.pickalink.com/click/booking-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "airhelp-se",
-      "bagasi",
-      "bikesbooking",
-      "citybox",
-      "flygforsening",
-      "hostelsclub",
-      "hurtigruten",
-      "mamma-mia-the-party",
-      "mytrip",
-      "olka-express",
-      "reseguiden",
-      "se-flightnetwork",
-      "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "226314",
     "name": "frontapply.se",
     "slug": "frontapplyse",
@@ -20326,6 +20326,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -20333,8 +20334,7 @@
       "mytrip",
       "reseguiden",
       "se-flightnetwork",
-      "sembo",
-      "tripxse"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21962,6 +21962,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -21972,8 +21973,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22634,6 +22634,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -22644,8 +22645,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23811,6 +23811,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -23821,8 +23822,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25210,6 +25210,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -25220,8 +25221,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27264,6 +27264,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -27274,8 +27275,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27474,6 +27474,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -27484,8 +27485,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28031,6 +28031,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -28041,8 +28042,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28416,6 +28416,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -28426,8 +28427,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28458,6 +28458,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -28468,8 +28469,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30166,6 +30166,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -30176,8 +30177,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30763,6 +30763,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -30770,8 +30771,7 @@
       "mytrip",
       "reseguiden",
       "se-flightnetwork",
-      "sembo",
-      "tripxse"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31641,6 +31641,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -31651,8 +31652,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33061,6 +33061,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -33071,8 +33072,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33653,6 +33653,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -33663,8 +33664,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34697,6 +34697,7 @@
       "airhelp-se",
       "bagasi",
       "bikesbooking",
+      "booking",
       "citybox",
       "flygforsening",
       "hostelsclub",
@@ -34707,8 +34708,7 @@
       "reseguiden",
       "se-flightnetwork",
       "sembo",
-      "tripxse",
-      "wopsa-webbhotell-hemsida-server-domn"
+      "tripxse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36023,9 +36023,9 @@
     "affiliateUrl": "https://www.shoptastic.io/se/store/klippkungen-se-cpc?userId=88888890&subId={your tracking code}",
     "deeplinkUrl": "https://www.shoptastic.io/se/store/klippkungen-se-cpc?userId=88888890&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
-    "commission": "$0.0352",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
     "similarBrands": [
       "apotek365se",
       "brahmaki",
@@ -36042,49 +36042,6 @@
       "iherb",
       "jakobsapotek",
       "kenobloom"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPC"
-  },
-  {
-    "id": "805227",
-    "name": "snapsnap.se",
-    "slug": "snapsnapse",
-    "domain": "snapsnap.se",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/snapsnap.se",
-    "categories": [
-      "Digital Services & Streaming"
-    ],
-    "tags": [
-      "digital",
-      "services",
-      "streaming"
-    ],
-    "country": "SE",
-    "affiliateUrl": "https://www.shoptastic.io/se/store/snapsnap-se-cpc?userId=88888890&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/se/store/snapsnap-se-cpc?userId=88888890&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [
-      "a-algos",
-      "be2",
-      "bokbrsen",
-      "demo-program",
-      "dinchat",
-      "emailyoyo",
-      "extensioncoder",
-      "firstvpn",
-      "fxpro",
-      "growaffiliates",
-      "invozio",
-      "iway",
-      "learnrevision",
-      "loaris",
-      "loverevenue-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

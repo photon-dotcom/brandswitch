@@ -204,8 +204,8 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1532,8 +1532,8 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -2120,8 +2120,8 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3149,8 +3149,8 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4709,8 +4709,8 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5178,8 +5178,8 @@
       "awai",
       "backpacker-cars",
       "blue-insurance",
-      "budget-car-rentals",
-      "business-and-pleasure"
+      "booking",
+      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7526,6 +7526,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "99572",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "emirates",
+      "beginning-boutique",
+      "aat-kings",
+      "accor-plus",
+      "agoda",
+      "allcleartravel",
+      "antler",
+      "apex-australia",
+      "aunt-betty",
+      "avis-car-rentals-australia",
+      "awai",
+      "backpacker-cars",
+      "bangkok-airways",
+      "blue-insurance",
+      "budget-car-rentals"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "130031",
     "name": "Boost Com",
     "slug": "boost-com",
@@ -8307,7 +8349,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11528,7 +11570,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12226,7 +12268,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12994,7 +13036,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13648,7 +13690,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15006,7 +15048,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15439,7 +15481,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15745,7 +15787,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16138,7 +16180,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -16180,7 +16222,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20071,7 +20113,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20970,7 +21012,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21316,7 +21358,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22215,7 +22257,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25033,7 +25075,7 @@
     "slug": "linticoshop",
     "domain": "linticoshop.com",
     "description": "",
-    "logo": "https://api.companyenrich.com/logo/linticoshop.com",
+    "logo": "https://logo.debounce.com/lintico.myshopline.com",
     "categories": [
       "Clothing"
     ],
@@ -25065,8 +25107,9 @@
       "adidas-com"
     ],
     "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Pickalink CPA"
+    "logoSource": "inherited",
+    "affiliateSource": "Pickalink CPA",
+    "logoInheritedFrom": "lintico.myshopline.com"
   },
   {
     "id": "270259",
@@ -25104,7 +25147,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30309,7 +30352,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -33171,7 +33214,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33607,7 +33650,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36711,7 +36754,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -40649,7 +40692,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -42382,7 +42425,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -42763,7 +42806,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -42934,7 +42977,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43578,7 +43621,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -44278,7 +44321,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -49716,7 +49759,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -49799,7 +49842,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -50660,7 +50703,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -52782,7 +52825,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56784,7 +56827,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60913,7 +60956,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60955,7 +60998,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67368,7 +67411,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -68251,48 +68294,6 @@
       "advertstore",
       "advwin",
       "aftersell-by-rokt"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "99572",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "AU",
-    "affiliateUrl": "https://www.shoptastic.io/store/booking-com-au?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/store/booking-com-au?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "5.94%",
-    "commissionType": "Percentage",
-    "eCPC": "0.10",
-    "similarBrands": [
-      "emirates",
-      "beginning-boutique",
-      "aat-kings",
-      "accor-plus",
-      "agoda",
-      "allcleartravel",
-      "antler",
-      "apex-australia",
-      "aunt-betty",
-      "avis-car-rentals-australia",
-      "awai",
-      "backpacker-cars",
-      "bangkok-airways",
-      "blue-insurance",
-      "budget-car-rentals"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -72787,7 +72788,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75903,7 +75904,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -76407,7 +76408,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81883,7 +81884,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83240,7 +83241,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83324,7 +83325,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86289,7 +86290,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86581,7 +86582,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87306,10 +87307,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/shopeepie.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "AU",
     "affiliateUrl": "https://www.shoptastic.io/store/shopeepie-com-au?userId=88888889&subId={your tracking code}",
@@ -87319,21 +87320,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "moodytiger",
+      "saks-fifth-avenue-auasia",
+      "yoox-asia",
       "beginning-boutique",
-      "clinique-com",
+      "champion-au",
+      "city-beach-au",
       "foot-locker",
-      "mate-internet-and-mobile",
+      "mountain-warehouse",
+      "nautica",
       "prettylittlething",
-      "12xlwin5f",
-      "12xlwin6m",
-      "25n",
+      "arms-of-eve",
+      "247staywarm",
+      "above-the-clouds",
       "above-the-collar",
-      "accor-plus",
-      "adidas-com",
-      "adultshop-au",
-      "advertstore",
-      "advwin",
-      "aftersell-by-rokt"
+      "adidas-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87923,7 +87924,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88768,7 +88769,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94275,7 +94276,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -96591,7 +96592,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -96676,7 +96677,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -98605,7 +98606,7 @@
       "backpacker-cars",
       "bangkok-airways",
       "blue-insurance",
-      "budget-car-rentals"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

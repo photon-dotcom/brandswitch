@@ -169,7 +169,7 @@ export default async function TopBrandsPage({ params: { locale } }: Props) {
                       )}
                       <Link
                         href={`/${locale}/brands-like/${brand.slug}`}
-                        className="text-xs text-bs-teal hover:underline"
+                        className="text-xs text-bs-teal hover:underline hidden sm:block"
                       >
                         {t('view_alternatives')}
                       </Link>

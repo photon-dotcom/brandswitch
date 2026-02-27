@@ -2,7 +2,7 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 1233
+    "brandCount": 1240
   },
   {
     "name": "Accessories",
@@ -12,7 +12,7 @@
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 341
+    "brandCount": 342
   },
   {
     "name": "Clothing",
@@ -22,7 +22,7 @@
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 212
+    "brandCount": 213
   },
   {
     "name": "Electronics",
@@ -57,7 +57,7 @@
   {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
-    "brandCount": 65
+    "brandCount": 66
   },
   {
     "name": "Office Supplies",
@@ -75,13 +75,13 @@
     "brandCount": 48
   },
   {
-    "name": "Subscription Boxes & Services",
-    "slug": "subscription-boxes-and-services",
-    "brandCount": 39
-  },
-  {
     "name": "Pets",
     "slug": "pets",
+    "brandCount": 40
+  },
+  {
+    "name": "Subscription Boxes & Services",
+    "slug": "subscription-boxes-and-services",
     "brandCount": 39
   },
   {

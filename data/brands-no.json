@@ -205,7 +205,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -234,6 +234,7 @@
     "eCPC": "",
     "similarBrands": [
       "airpaz",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -246,8 +247,7 @@
       "rovehotels",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1250,6 +1250,48 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
+    "id": "308931",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "NO",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-no?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-no?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "airpaz",
+      "alamono",
+      "caravanno",
+      "checkvienna",
+      "db-nordics",
+      "economybookings",
+      "hideawaybeachmaldives",
+      "hurtigruten",
+      "interhomeno",
+      "olka-express",
+      "onlinebookingmanager",
+      "rovehotels",
+      "scandic",
+      "sembo",
+      "travelstuffno"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
     "id": "260498",
     "name": "braasport.no",
     "slug": "braasportno",
@@ -1785,6 +1827,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "db-nordics",
       "economybookings",
@@ -1796,8 +1839,7 @@
       "rovehotels",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2127,6 +2169,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "economybookings",
@@ -2138,8 +2181,7 @@
       "rovehotels",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2719,6 +2761,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -2730,8 +2773,7 @@
       "rovehotels",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4381,7 +4423,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4792,6 +4834,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -4803,8 +4846,7 @@
       "rovehotels",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8690,6 +8732,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -8701,8 +8744,7 @@
       "onlinebookingmanager",
       "scandic",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8900,6 +8942,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -8911,8 +8954,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "sembo",
-      "travelstuffno",
-      "tripxno"
+      "travelstuffno"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -9001,7 +9043,7 @@
       "hugo-boss",
       "airpaz",
       "alamono",
-      "caravanno"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10950,6 +10992,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -10961,8 +11004,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "tripxno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11052,7 +11094,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11082,6 +11124,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -11093,8 +11136,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11630,6 +11672,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -11641,8 +11684,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12421,7 +12463,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12550,7 +12592,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12747,6 +12789,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -12758,8 +12801,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13005,7 +13047,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13871,7 +13913,7 @@
       "hostelworld",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -14609,7 +14651,7 @@
       "tui",
       "singaporeair",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15299,7 +15341,7 @@
       "tui",
       "hostelworld",
       "alamono",
-      "checkvienna"
+      "booking"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16035,48 +16077,6 @@
     "affiliateSource": "Shoptastic CPA"
   },
   {
-    "id": "2017",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "NO",
-    "affiliateUrl": "https://www.shoptastic.io/no/store/bookingcom-nordics?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/no/store/bookingcom-nordics?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "5.94%",
-    "commissionType": "Percentage",
-    "eCPC": "0.10",
-    "similarBrands": [
-      "airpaz",
-      "alamono",
-      "caravanno",
-      "checkvienna",
-      "db-nordics",
-      "economybookings",
-      "hideawaybeachmaldives",
-      "hurtigruten",
-      "interhomeno",
-      "olka-express",
-      "onlinebookingmanager",
-      "rovehotels",
-      "scandic",
-      "sembo",
-      "travelstuffno"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
     "id": "703671",
     "name": "116777 4 Myshopify",
     "slug": "116777-4-myshopify",
@@ -16766,6 +16766,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -16777,8 +16778,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18500,6 +18500,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -18511,8 +18512,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19414,6 +19414,7 @@
       "olka-express",
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -19424,8 +19425,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19624,6 +19624,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -19635,8 +19636,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19666,6 +19666,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -19677,8 +19678,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19708,6 +19708,7 @@
     "similarBrands": [
       "airpaz",
       "alamono",
+      "booking",
       "caravanno",
       "checkvienna",
       "db-nordics",
@@ -19719,8 +19720,7 @@
       "onlinebookingmanager",
       "rovehotels",
       "scandic",
-      "sembo",
-      "travelstuffno"
+      "sembo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21007,7 +21007,7 @@
     "slug": "perfectpracticegolf",
     "domain": "perfectpracticegolf.ca",
     "description": "",
-    "logo": "https://api.companyenrich.com/logo/perfectpracticegolf.ca",
+    "logo": "https://api.companyenrich.com/logo/perfectpractice.com",
     "categories": [
       "Sports, Outdoors & Fitness"
     ],
@@ -21041,8 +21041,9 @@
       "estore-new"
     ],
     "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
+    "logoSource": "inherited",
+    "affiliateSource": "Shoptastic CPA",
+    "logoInheritedFrom": "perfectpractice.com"
   },
   {
     "id": "556673",

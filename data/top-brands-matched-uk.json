@@ -41,14 +41,14 @@
       "slug": "anthropologie"
     },
     {
+      "rank": 27,
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters"
+    },
+    {
       "rank": 28,
       "name": "AllSaints",
       "slug": "allsaints"
-    },
-    {
-      "rank": 30,
-      "name": "Superdry",
-      "slug": "superdry"
     },
     {
       "rank": 39,
@@ -59,11 +59,6 @@
       "rank": 41,
       "name": "Theory",
       "slug": "theory"
-    },
-    {
-      "rank": 44,
-      "name": "Tory Burch",
-      "slug": "tory-burch"
     },
     {
       "rank": 46,
@@ -108,6 +103,11 @@
       "slug": "clarins"
     },
     {
+      "rank": 17,
+      "name": "Armani",
+      "slug": "armani"
+    },
+    {
       "rank": 24,
       "name": "OLAPLEX",
       "slug": "olaplex"
@@ -150,6 +150,16 @@
       "slug": "amazfit"
     },
     {
+      "rank": 28,
+      "name": "Solo Stove",
+      "slug": "solo-stove"
+    },
+    {
+      "rank": 32,
+      "name": "Decathlon",
+      "slug": "decathlon"
+    },
+    {
       "rank": 37,
       "name": "Sweaty Betty",
       "slug": "sweaty-betty"
@@ -182,6 +192,11 @@
       "slug": "corsair"
     },
     {
+      "rank": 10,
+      "name": "GoPro",
+      "slug": "gopro"
+    },
+    {
       "rank": 12,
       "name": "Philips",
       "slug": "philips"
@@ -190,6 +205,11 @@
       "rank": 15,
       "name": "ASUS",
       "slug": "asus"
+    },
+    {
+      "rank": 17,
+      "name": "Breville",
+      "slug": "breville"
     },
     {
       "rank": 18,
@@ -266,6 +286,11 @@
       "slug": "kitchenaid"
     },
     {
+      "rank": 16,
+      "name": "Breville",
+      "slug": "breville"
+    },
+    {
       "rank": 17,
       "name": "Le Creuset",
       "slug": "le-creuset"
@@ -278,14 +303,14 @@
       "slug": "nordvpn"
     },
     {
-      "rank": 3,
-      "name": "Bitdefender",
-      "slug": "bitdefender"
-    },
-    {
       "rank": 10,
       "name": "Coursera",
       "slug": "coursera"
+    },
+    {
+      "rank": 13,
+      "name": "Udemy",
+      "slug": "udemy"
     },
     {
       "rank": 14,
@@ -345,6 +370,11 @@
       "rank": 17,
       "name": "Tumi",
       "slug": "tumi"
+    },
+    {
+      "rank": 18,
+      "name": "Trafalgar",
+      "slug": "trafalgar"
     }
   ],
   "accessories": [
@@ -405,6 +435,13 @@
       "slug": "mixbook"
     }
   ],
+  "subscription-boxes-and-services": [
+    {
+      "rank": 1,
+      "name": "FabFitFun",
+      "slug": "fabfitfun"
+    }
+  ],
   "toys-and-games": [
     {
       "rank": 1,
@@ -449,6 +486,11 @@
       "rank": 23,
       "name": "Sihoo",
       "slug": "sihoo"
+    },
+    {
+      "rank": 26,
+      "name": "Flashforge",
+      "slug": "flashforge"
     },
     {
       "rank": 28,

@@ -378,8 +378,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -510,6 +510,48 @@
       "creditnice-mexico",
       "credito365",
       "creditomaxmx"
+    ],
+    "logoQuality": "high",
+    "logoSource": "companyenrich",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "257658",
+    "name": "Booking",
+    "slug": "booking",
+    "domain": "booking.com",
+    "description": "",
+    "logo": "https://api.companyenrich.com/logo/booking.com",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "MX",
+    "affiliateUrl": "https://www.pickalink.com/click/booking-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/booking-com-mx?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [
+      "air-france",
+      "delphinusworld",
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "rentcars-latam",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "thrifty-mx-1",
+      "trivago",
+      "villagroupresorts-com",
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1487,6 +1529,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
@@ -1499,8 +1542,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2049,6 +2091,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "gotogate",
@@ -2061,8 +2104,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -3265,12 +3307,12 @@
       "carista",
       "identifix",
       "air-france",
+      "booking",
       "delphinusworld",
       "galeriaplazahotels-com",
       "gotogate",
       "protegetuviaje",
-      "rentcars-latam",
-      "suitescolonial"
+      "rentcars-latam"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3989,8 +4031,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4103,6 +4145,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -4115,8 +4158,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4418,6 +4460,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -4430,8 +4473,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4502,6 +4544,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -4514,8 +4557,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4633,6 +4675,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -4645,8 +4688,7 @@
       "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4719,6 +4761,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -4731,8 +4774,7 @@
       "thereefresorts",
       "trivago",
       "villagroupresorts-com",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5014,8 +5056,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5267,6 +5309,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -5279,8 +5322,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "volaris",
-      "worldpackers"
+      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5442,6 +5484,7 @@
     "eCPC": "0.81",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -5454,8 +5497,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "worldpackers"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5778,6 +5820,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -5790,8 +5833,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6348,8 +6390,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6514,6 +6556,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -6526,8 +6569,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6570,8 +6612,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6698,8 +6740,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7249,6 +7291,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -7261,8 +7304,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7395,8 +7437,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8455,8 +8497,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "delphinusworld",
-      "firefly-car-rental"
+      "booking",
+      "delphinusworld"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9190,6 +9232,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9202,8 +9245,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9328,6 +9370,7 @@
     "eCPC": "0.28",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9340,8 +9383,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9456,6 +9498,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9468,8 +9511,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9513,48 +9555,6 @@
       "crediclic",
       "creditnice-mexico",
       "credito365"
-    ],
-    "logoQuality": "high",
-    "logoSource": "companyenrich",
-    "affiliateSource": "Shoptastic CPA"
-  },
-  {
-    "id": "635019",
-    "name": "Booking",
-    "slug": "booking",
-    "domain": "booking.com",
-    "description": "",
-    "logo": "https://api.companyenrich.com/logo/booking.com",
-    "categories": [
-      "Travel & Vacations"
-    ],
-    "tags": [
-      "travel",
-      "vacations"
-    ],
-    "country": "MX",
-    "affiliateUrl": "https://www.shoptastic.io/store/booking-com-mx?userId=88888889&subId={your tracking code}",
-    "deeplinkUrl": "https://www.shoptastic.io/store/booking-com-mx?userId=88888889&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "5.94%",
-    "commissionType": "Percentage",
-    "eCPC": "0.10",
-    "similarBrands": [
-      "air-france",
-      "delphinusworld",
-      "firefly-car-rental",
-      "galeriaplazahotels-com",
-      "gotogate",
-      "mexico-car-rental",
-      "protegetuviaje",
-      "rentcars-latam",
-      "suitescolonial",
-      "tafer-hotels-and-resorts",
-      "thereefresorts",
-      "thrifty-mx-1",
-      "trivago",
-      "villagroupresorts-com",
-      "volaris"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9691,6 +9691,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9703,8 +9704,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9899,6 +9899,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9911,8 +9912,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -9982,6 +9982,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -9994,8 +9995,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10024,6 +10024,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10036,8 +10037,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10066,6 +10066,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10078,8 +10079,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10271,6 +10271,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10283,8 +10284,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10643,6 +10643,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10655,8 +10656,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10727,6 +10727,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10739,8 +10740,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10920,6 +10920,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -10932,8 +10933,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11586,6 +11586,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -11598,8 +11599,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11839,6 +11839,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -11851,8 +11852,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11967,6 +11967,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -11979,8 +11980,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12356,6 +12356,7 @@
     "eCPC": "0.00",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -12368,8 +12369,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -12481,6 +12481,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -12493,8 +12494,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12523,6 +12523,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -12535,8 +12536,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12731,6 +12731,7 @@
       "fever",
       "interactive-aquarium-cancun",
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -12740,8 +12741,7 @@
       "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
-      "thereefresorts",
-      "thrifty-mx-1"
+      "thereefresorts"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12816,6 +12816,7 @@
       "firefly-car-rental",
       "mexico-car-rental",
       "air-france",
+      "booking",
       "delphinusworld",
       "galeriaplazahotels-com",
       "gotogate",
@@ -12826,8 +12827,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12938,6 +12938,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -12950,8 +12951,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13062,6 +13062,7 @@
       "fever",
       "h10-hotels",
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -13071,8 +13072,7 @@
       "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
-      "thereefresorts",
-      "thrifty-mx-1"
+      "thereefresorts"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13269,6 +13269,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -13281,8 +13282,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13567,6 +13567,7 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "booking",
       "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
@@ -13579,8 +13580,7 @@
       "thereefresorts",
       "thrifty-mx-1",
       "trivago",
-      "villagroupresorts-com",
-      "volaris"
+      "villagroupresorts-com"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
