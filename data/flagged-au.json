@@ -1,0 +1,503 @@
+[
+  {
+    "id": "1653",
+    "name": "Deals Com",
+    "slug": "deals-com",
+    "domain": "deals.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/dealscomau_logo.png",
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/dealscomau?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dealscomau?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to 0.5889%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "166152",
+    "name": "Bargain Avenue",
+    "slug": "bargain-avenue",
+    "domain": "bargainavenue.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/bargainavenue-com-au.png",
+    "categories": [
+      "Accessories",
+      "Baby & Toddler",
+      "Home & Garden"
+    ],
+    "tags": [
+      "accessories",
+      "baby",
+      "toddler",
+      "home",
+      "garden"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/bargainavenue-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "2.95%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "4190",
+    "name": "Blue Bungalow",
+    "slug": "blue-bungalow",
+    "domain": "bluebungalow.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/blue-bungalow_logo.png",
+    "categories": [
+      "Clothing",
+      "Home & Garden"
+    ],
+    "tags": [
+      "clothing",
+      "home",
+      "garden"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/blue-bungalow?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/blue-bungalow?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "1474",
+    "name": "Bravofly Com",
+    "slug": "bravofly",
+    "domain": "bravofly.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/bravofly-au_logo.png",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/bravofly-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/bravofly-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "278311",
+    "name": "Designer Wardrobe",
+    "slug": "designerwardrobe-com",
+    "domain": "designerwardrobe.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/designerwardrobe-com-au-au-1744610640.png",
+    "categories": [
+      "Clothing",
+      "Shoes",
+      "Accessories",
+      "Home & Garden"
+    ],
+    "tags": [
+      "clothing",
+      "shoes",
+      "accessories",
+      "home",
+      "garden"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/designerwardrobe-com-au-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/designerwardrobe-com-au-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "422874",
+    "name": "Discount Pet Care",
+    "slug": "discount-pet-care",
+    "domain": "discountpetcare.com.au",
+    "description": "",
+    "logo": "https://logo.clearbit.com/discountpetcare.com.au?size=200",
+    "categories": [
+      "Pets"
+    ],
+    "tags": [
+      "pets"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/discountpetcare-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/discountpetcare-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "243284",
+    "name": "Dymocks Com",
+    "slug": "dymocks-books-and-gifts",
+    "domain": "dymocks.com.au",
+    "description": "",
+    "logo": "https://logo.clearbit.com/dymocks.com.au?size=200",
+    "categories": [],
+    "tags": [],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/dymocks-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/dymocks-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "135410",
+    "name": "GlobeTV",
+    "slug": "globetv",
+    "domain": "globetv.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/globetv-com-au.png",
+    "categories": [
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/globetv-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/globetv-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "1384",
+    "name": "Hush Puppies",
+    "slug": "hush-puppies",
+    "domain": "hushpuppies.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/hush-puppies-australia_logo.png",
+    "categories": [
+      "Shoes"
+    ],
+    "tags": [
+      "shoes"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/hush-puppies-australia?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hush-puppies-australia?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "177320",
+    "name": "Pet Parlour",
+    "slug": "pet-parlour",
+    "domain": "petparlour.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/petparlour-com-au-1696655235.jpg",
+    "categories": [
+      "Pets"
+    ],
+    "tags": [
+      "pets"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/petparlour-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/petparlour-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "166903",
+    "name": "Rivercity House and Home",
+    "slug": "rivercity-house-and-home",
+    "domain": "rivercityhouseandhome.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/rivercityhouseandhome-com-au.png",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/rivercityhouseandhome-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/rivercityhouseandhome-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "2404",
+    "name": "Ticketmaster Australia",
+    "slug": "ticketmaster",
+    "domain": "ticketmaster.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/ticketmaster-australia-1697520104.png",
+    "categories": [
+      "Sports, Outdoors & Fitness",
+      "Events & Entertainment"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness",
+      "events",
+      "entertainment"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/ticketmaster-australia?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ticketmaster-australia?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to 0.0000%",
+    "commissionType": "Percentage",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "96756",
+    "name": "UpDown Desk",
+    "slug": "updown-desk",
+    "domain": "updowndesk.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/updown-desk-au-1725341094.png",
+    "categories": [
+      "Accessories",
+      "Office Supplies"
+    ],
+    "tags": [
+      "accessories",
+      "office",
+      "supplies"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/updown-desk-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/updown-desk-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "150193",
+    "name": "Wholesale Aircon",
+    "slug": "wholesale-aircon",
+    "domain": "wholesaleaircon.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/wholesaleaircon-com-au.png",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/wholesaleaircon-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/wholesaleaircon-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "1.77%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "181122",
+    "name": "Adrift",
+    "slug": "adrift",
+    "domain": "adrift.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/adrift-com-au-au-1723707358.png",
+    "categories": [
+      "Clothing",
+      "Accessories"
+    ],
+    "tags": [
+      "clothing",
+      "accessories"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/adrift-com-au-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/adrift-com-au-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "243212",
+    "name": "Epzen Com",
+    "slug": "epzen-com",
+    "domain": "epzen.com.au",
+    "description": "",
+    "logo": "https://logo.clearbit.com/epzen.com.au?size=200",
+    "categories": [],
+    "tags": [],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/epzen-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/epzen-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "244249",
+    "name": "Rakuten Global Express",
+    "slug": "rakuten-global-express-apac",
+    "domain": "globalexpress.rakuten.co.jp",
+    "description": "",
+    "logo": "https://logo.clearbit.com/globalexpress.rakuten.co.jp?size=200",
+    "categories": [
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/globalexpress-rakuten-co-jp-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/globalexpress-rakuten-co-jp-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "213418",
+    "name": "Woolworths Supermarkets",
+    "slug": "woolworths-supermarkets",
+    "domain": "woolworths.com.au",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/woolworths-com-au-1735027727.png",
+    "categories": [
+      "Digital Services & Streaming",
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming",
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "AU",
+    "affiliateUrl": "https://www.pickalink.com/click/woolworths-com-au?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/woolworths-com-au?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  }
+]

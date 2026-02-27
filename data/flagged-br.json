@@ -1,0 +1,208 @@
+[
+  {
+    "id": "92733",
+    "name": "adidas BR",
+    "slug": "adidas-br",
+    "domain": "adidas.com.br",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/adidas-br-1731483562.png",
+    "categories": [
+      "Clothing",
+      "Shoes",
+      "Accessories",
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "clothing",
+      "shoes",
+      "accessories",
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/adidas-br?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/adidas-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "322306",
+    "name": "Buy Points",
+    "slug": "buy-points",
+    "domain": "buy.points.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/buy.points.com?size=200",
+    "categories": [
+      "Travel & Vacations",
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "travel",
+      "vacations",
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/buy-points-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/buy-points-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "275543",
+    "name": "EF English Live BR",
+    "slug": "ef-english-live-br",
+    "domain": "englishlive.ef.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/englishlive.ef.com?size=200",
+    "categories": [
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/englishlive-ef-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/englishlive-ef-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "245573",
+    "name": "Toluna BR",
+    "slug": "toluna-br",
+    "domain": "toluna.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/toluna.com?size=200",
+    "categories": [],
+    "tags": [],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/toluna-com-br?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "320314",
+    "name": "Air Help BR",
+    "slug": "airhelp",
+    "domain": "airhelp.com",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/airhelp-com-br-1732877677.png",
+    "categories": [
+      "Travel & Vacations",
+      "Digital Services & Streaming",
+      "Subscription Boxes & Services"
+    ],
+    "tags": [
+      "travel",
+      "vacations",
+      "digital",
+      "services",
+      "streaming",
+      "subscription",
+      "boxes"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/airhelp-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/airhelp-com-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "296725",
+    "name": "Folha de São Paulo",
+    "slug": "folha-de-so-paulo",
+    "domain": "uol.com.br",
+    "description": "",
+    "logo": "https://logo.clearbit.com/uol.com.br?size=200",
+    "categories": [
+      "Digital Services & Streaming"
+    ],
+    "tags": [
+      "digital",
+      "services",
+      "streaming"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/uol-com-br-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/uol-com-br-cpc-br?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "167585",
+    "name": "Natura BR",
+    "slug": "natura-com",
+    "domain": "natura.com.br",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/natura-com-br-br-1730969552.jpg",
+    "categories": [
+      "Health & Beauty",
+      "Accessories"
+    ],
+    "tags": [
+      "health",
+      "beauty",
+      "accessories"
+    ],
+    "country": "BR",
+    "affiliateUrl": "https://www.pickalink.com/click/natura-com-br-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/natura-com-br-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "244772",
+    "name": "MyMuesli",
+    "slug": "mymuesli",
+    "domain": "ch.mymuesli.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/ch.mymuesli.com?size=200",
+    "categories": [
+      "Food, Drinks & Restaurants"
+    ],
+    "tags": [
+      "food",
+      "drinks",
+      "restaurants"
+    ],
+    "country": "CH",
+    "affiliateUrl": "https://www.pickalink.com/click/ch-mymuesli-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ch-mymuesli-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "224627",
+    "name": "Fc Moto",
+    "slug": "fc-moto",
+    "domain": "fc-moto.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fc-moto.de?size=200",
+    "categories": [
+      "Auto & Tires"
+    ],
+    "tags": [
+      "auto",
+      "tires"
+    ],
+    "country": "CH",
+    "affiliateUrl": "https://www.pickalink.com/click/fc-moto-de-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fc-moto-de-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  }
+]

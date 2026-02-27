@@ -1,0 +1,298 @@
+[
+  {
+    "id": "2428",
+    "name": "eDreams",
+    "slug": "edreams",
+    "domain": "ca.edreams.com",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/edreams-ca--1698202357.png",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/edreams-ca-?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/edreams-ca-?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "89934",
+    "name": "Fairweather",
+    "slug": "fairweather",
+    "domain": "fairweatherclothing.com",
+    "description": "",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/fairweather-1736145847.png",
+    "categories": [
+      "Clothing",
+      "Accessories"
+    ],
+    "tags": [
+      "clothing",
+      "accessories"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/fairweather?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fairweather?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "193569",
+    "name": "Sleek Hair",
+    "slug": "sleek-hair",
+    "domain": "sleekshop.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/sleekshop.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/sleekshop-com-ca?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sleekshop-com-ca?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "210684",
+    "name": "SWEAT CAN",
+    "slug": "sweat-can",
+    "domain": "sweat.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/sweat.com?size=200",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/sweat-com-ca?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/sweat-com-ca?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "212864",
+    "name": "AG Care",
+    "slug": "ag-care",
+    "domain": "ag.care",
+    "description": "",
+    "logo": "https://logo.clearbit.com/ag.care?size=200",
+    "categories": [
+      "Home & Garden"
+    ],
+    "tags": [
+      "home",
+      "garden"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/ag-care-ca?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ag-care-ca?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "€0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "213948",
+    "name": "Free Spirit Points",
+    "slug": "free-spirit-points",
+    "domain": "spirit.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/spirit.com?size=200",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/spirit-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/spirit-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "N/A",
+    "commissionType": "",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "244151",
+    "name": "JustFab",
+    "slug": "justfab",
+    "domain": "style.justfab.ca",
+    "description": "",
+    "logo": "https://logo.clearbit.com/style.justfab.ca?size=200",
+    "categories": [
+      "Clothing",
+      "Accessories"
+    ],
+    "tags": [
+      "clothing",
+      "accessories"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/style-justfab-ca?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/style-justfab-ca?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "244951",
+    "name": "Loccitane",
+    "slug": "loccitane",
+    "domain": "ca.loccitane.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/ca.loccitane.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/ca-loccitane-com?pubId=88888903&pId=10735&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/ca-loccitane-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPA"
+  },
+  {
+    "id": "426370",
+    "name": "Fitnessfirst",
+    "slug": "fitnessfirst",
+    "domain": "fitnessfirst.co.uk",
+    "description": "",
+    "logo": "https://logo.clearbit.com/fitnessfirst.co.uk?size=200",
+    "categories": [
+      "Sports, Outdoors & Fitness"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "330347",
+    "name": "Value2read Blogspot",
+    "slug": "value2read-blogspot",
+    "domain": "value2read.blogspot.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/value2read.blogspot.com?size=200",
+    "categories": [],
+    "tags": [],
+    "country": "CA",
+    "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "300822",
+    "name": "Discount Surgical Stockings",
+    "slug": "discount-surgical-stockings",
+    "domain": "discountsurgical.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/discountsurgical.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "CA",
+    "affiliateUrl": "https://www.shoptastic.io/store/discountsurgical-com?userId=88888889&subId={your tracking code}",
+    "deeplinkUrl": "",
+    "supportsDeepLink": false,
+    "commission": "4.21%",
+    "commissionType": "Percentage",
+    "eCPC": "1.05",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Shoptastic CPA"
+  }
+]

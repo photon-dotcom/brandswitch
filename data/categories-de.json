@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Home & Garden",
+    "slug": "home-and-garden",
+    "brandCount": 792
+  },
+  {
+    "name": "Accessories",
+    "slug": "accessories",
+    "brandCount": 695
+  },
+  {
+    "name": "Health & Beauty",
+    "slug": "health-and-beauty",
+    "brandCount": 655
+  },
+  {
+    "name": "Clothing",
+    "slug": "clothing",
+    "brandCount": 515
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "brandCount": 484
+  },
+  {
+    "name": "Sports, Outdoors & Fitness",
+    "slug": "sports-outdoors-and-fitness",
+    "brandCount": 476
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 421
+  },
+  {
+    "name": "Travel & Vacations",
+    "slug": "travel-and-vacations",
+    "brandCount": 376
+  },
+  {
+    "name": "Food, Drinks & Restaurants",
+    "slug": "food-drinks-and-restaurants",
+    "brandCount": 296
+  },
+  {
+    "name": "Auto & Tires",
+    "slug": "auto-and-tires",
+    "brandCount": 203
+  },
+  {
+    "name": "Shoes",
+    "slug": "shoes",
+    "brandCount": 198
+  },
+  {
+    "name": "Subscription Boxes & Services",
+    "slug": "subscription-boxes-and-services",
+    "brandCount": 184
+  },
+  {
+    "name": "Gifts, Flowers & Parties",
+    "slug": "gifts-flowers-and-parties",
+    "brandCount": 163
+  },
+  {
+    "name": "Toys & Games",
+    "slug": "toys-and-games",
+    "brandCount": 156
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 147
+  },
+  {
+    "name": "Pets",
+    "slug": "pets",
+    "brandCount": 127
+  },
+  {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "brandCount": 123
+  },
+  {
+    "name": "Baby & Toddler",
+    "slug": "baby-and-toddler",
+    "brandCount": 81
+  }
+]

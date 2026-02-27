@@ -1,0 +1,51 @@
+[
+  {
+    "id": "255966",
+    "name": "Afega Anti Aging Shop",
+    "slug": "afega-anti-aging-shop",
+    "domain": "afega-anti-aging-shop.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/afega-anti-aging-shop.com?size=200",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "tags": [
+      "health",
+      "beauty"
+    ],
+    "country": "AT",
+    "affiliateUrl": "https://www.pickalink.com/click/afega-anti-aging-shop-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/afega-anti-aging-shop-com-cpc-at?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "181638",
+    "name": "akkushop-austria.at",
+    "slug": "akkushop-austriaat",
+    "domain": "akkushop-austria.at",
+    "description": "",
+    "logo": "https://logo.clearbit.com/akkushop-austria.at?size=200",
+    "categories": [],
+    "tags": [],
+    "country": "AT",
+    "affiliateUrl": "https://www.pickalink.com/click/akkushop-austria-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/akkushop-austria-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  }
+]
