@@ -1,0 +1,210 @@
+{
+  "clothing": [
+    {
+      "rank": 5,
+      "name": "ASOS",
+      "slug": "asos"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 20,
+      "name": "Brooks Brothers",
+      "slug": "brooks-brothers"
+    },
+    {
+      "rank": 21,
+      "name": "Gap",
+      "slug": "gap"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    },
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    },
+    {
+      "rank": 17,
+      "name": "Armani",
+      "slug": "armani"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 9,
+      "name": "Saucony",
+      "slug": "saucony"
+    },
+    {
+      "rank": 11,
+      "name": "Rossignol",
+      "slug": "rossignol"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 15,
+      "name": "ASUS",
+      "slug": "asus"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 27,
+      "name": "EcoFlow",
+      "slug": "ecoflow"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
+    },
+    {
+      "rank": 11,
+      "name": "Crocs",
+      "slug": "crocs"
+    },
+    {
+      "rank": 29,
+      "name": "Altra Running",
+      "slug": "altra-running"
+    },
+    {
+      "rank": 33,
+      "name": "Saucony",
+      "slug": "saucony"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 2,
+      "name": "Surfshark",
+      "slug": "surfshark"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 8,
+      "name": "SWAROVSKI",
+      "slug": "swarovski"
+    }
+  ],
+  "pets": [
+    {
+      "rank": 21,
+      "name": "BudgetPetCare",
+      "slug": "budgetpetcare"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 3,
+      "name": "Stokke",
+      "slug": "stokke"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    },
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    },
+    {
+      "rank": 5,
+      "name": "Gamestop",
+      "slug": "gamestop"
+    }
+  ],
+  "auto-and-tires": [
+    {
+      "rank": 7,
+      "name": "Sixt",
+      "slug": "sixt"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

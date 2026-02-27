@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "categories": "Categorias",
+    "popular": "Popular",
+    "top_brands": "Melhores Marcas",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Encontre alternativas para qualquer marca",
+    "subtitle": "Descubra novas alternativas às suas marcas favoritas — classificadas por similaridade.",
+    "try": "Tente:"
+  },
+  "search": {
+    "placeholder": "Buscar uma marca...",
+    "button": "Buscar"
+  },
+  "categories": {
+    "title": "Explorar por Categoria",
+    "all": "Todas",
+    "fashion": "Moda",
+    "travel": "Viagens",
+    "beauty": "Beleza",
+    "tech": "Tecnologia",
+    "home": "Casa",
+    "outdoor": "Ao ar livre",
+    "food": "Comida e Bebida"
+  },
+  "popular": {
+    "title": "Buscas Populares"
+  },
+  "brand": {
+    "visit": "Visitar {brand}",
+    "alternatives": "{count} alternativas",
+    "discover": "Ver alternativas"
+  },
+  "footer": {
+    "tagline": "Encontre sua próxima marca favorita.",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "affiliate_disclosure": "Alguns links neste site são de afiliados. Podemos ganhar uma pequena comissão sem custo adicional para você. Isso nunca influencia nossas classificações."
+  },
+  "ui": {
+    "home": "Início",
+    "all": "Todas",
+    "view_all": "Ver tudo →",
+    "view_alternatives": "Ver alternativas →",
+    "similar_label": "Similar:",
+    "brands_like_this": "Marcas como esta →",
+    "visit": "Visitar",
+    "popular_brands_title": "Marcas Populares",
+    "popular_brands_subtitle": "As melhores marcas por popularidade — clique para descobrir alternativas.",
+    "browse_by_category": "Explorar por Categoria",
+    "all_categories": "Todas as categorias →",
+    "categories_subtitle": "{cats} categorias · {total} marcas no total",
+    "category_label": "Categoria",
+    "brands_label": "marcas",
+    "similarity_updated": "Pontuações de similaridade atualizadas diariamente",
+    "alternatives_discovered": "{count} alternativas descobertas",
+    "alternatives_title": "{count} Alternativas a {brand}",
+    "no_alternatives": "Ainda estamos construindo nossa lista de alternativas para {brand}. Volte em breve.",
+    "why_alternatives_title": "Por que procurar alternativas a {brand}?",
+    "faq_title": "Perguntas Frequentes",
+    "sidebar_browse": "Explorar por Categoria",
+    "ranked_popularity": "classificadas por popularidade. Clique em qualquer marca para descobrir alternativas similares.",
+    "showing_top": "Mostrando as {shown} melhores de {total} marcas em {category}",
+    "see_best_of_link": "Veja nossa lista curada →",
+    "best_of_year": "Melhores de {year}",
+    "best_of_intro": "Nossas {count} melhores seleções em {category} — classificadas por popularidade. Clique para descobrir alternativas.",
+    "looking_for_more": "Procurando mais marcas de {category}?",
+    "browse_full_list": "Explore nossa lista completa de marcas de {category} e encontre alternativas.",
+    "all_category_brands": "Todas as marcas de {category} →",
+    "top_brands_title": "Melhores Marcas",
+    "top_brands_subtitle": "Nossas seleções em {count} categorias — as melhores marcas para comprar agora.",
+    "top_brands_all_label": "Todas as Categorias",
+    "top_brands_see_all": "Ver todas as {count} marcas de {category} →",
+    "top_brands_intro": "Nossa lista curada das melhores marcas de {category}. Clique para descobrir alternativas.",
+    "top_brands_meta_desc": "Descubra as melhores marcas de {category}. Explore nossas seleções e encontre ótimas alternativas.",
+    "top_brands_rank_in": "#{rank} em {category}",
+    "top_brands_sidebar_title": "Top Marcas de {category}",
+    "top_brands_sidebar_see_all": "Ver tudo →",
+    "featured_brands_title": "Marcas em Destaque",
+    "featured_brands_subtitle": "As marcas com melhor desempenho — clique para visitar ou descobrir alternativas."
+  }
+}

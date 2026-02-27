@@ -1,0 +1,108 @@
+{
+  "clothing": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 3,
+      "name": "UNIQLO",
+      "slug": "uniqlo"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    },
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 9,
+      "name": "Saucony",
+      "slug": "saucony"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 15,
+      "name": "Merrell",
+      "slug": "merrell"
+    },
+    {
+      "rank": 33,
+      "name": "Saucony",
+      "slug": "saucony"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 15,
+      "name": "Ninja kitchen",
+      "slug": "ninja-kitchen"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

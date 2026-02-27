@@ -1,0 +1,130 @@
+{
+  "clothing": [
+    "Nike", "Adidas", "UNIQLO", "H&M", "ASOS", "Shein", "Levi's",
+    "Calvin Klein", "Tommy Hilfiger", "Burberry", "Versace", "Dolce & Gabbana",
+    "Stella McCartney", "The North Face", "Under Armour", "Carhartt", "Dickies",
+    "Wrangler", "Banana Republic", "Brooks Brothers", "Gap", "Old Navy",
+    "Abercrombie", "Ann Taylor", "Chico's", "Anthropologie", "Urban Outfitters",
+    "AllSaints", "COS", "Superdry", "Spanx", "Bonobos", "Stitch Fix",
+    "Rent the Runway", "ThredUp", "Eddie Bauer", "Vineyard Vines", "Southern Tide",
+    "Ariat", "True Religion", "Theory", "Vince", "Rag & Bone", "Tory Burch",
+    "Alo Yoga", "Sweaty Betty", "Fabletics", "Champion"
+  ],
+  "health-and-beauty": [
+    "ULTA Beauty", "MAC Cosmetics", "Clinique", "Estee Lauder",
+    "Charlotte Tilbury", "Bobbi Brown", "NARS Cosmetics", "Benefit Cosmetics",
+    "Fenty Beauty", "Drunk Elephant", "Aveda", "Bumble and Bumble", "GNC",
+    "Anastasia Beverly Hills", "Biossance", "Clarins", "Armani", "Aesop",
+    "Caudalie", "Dermalogica", "Peter Thomas Roth", "Sunday Riley", "Moroccanoil",
+    "Olaplex", "amika", "Living Proof", "Vital Proteins", "Ancient Nutrition",
+    "Bloom Nutrition", "Bulletproof", "Hims", "Hers", "BetterHelp",
+    "1-800 Contacts", "Bluemercury", "Bergdorf Goodman", "Beauty Pie",
+    "100% PURE", "Burt's Bees", "Caswell-Massey"
+  ],
+  "sports-outdoors-and-fitness": [
+    "Nike", "Adidas", "Under Armour", "Puma", "Reebok", "The North Face",
+    "Salomon", "ASICS", "Saucony", "Burton Snowboards", "Rossignol",
+    "Callaway Golf", "TaylorMade", "Dick's Sporting Goods",
+    "Academy Sports + Outdoors", "Bass Pro Shops", "Cabela's", "Bowflex",
+    "Peloton", "Tonal", "YETI", "Stanley", "Hydro Flask", "Suunto", "Amazfit",
+    "Rad Power Bikes", "Aventon", "Solo Stove", "Camp Chef", "Traeger", "Weber",
+    "Decathlon", "Eddie Bauer", "Timberland", "Fabletics", "Athleta",
+    "Sweaty Betty", "Therabody", "Crossrope", "TRX Training",
+    "Blenders Eyewear", "RTIC Outdoors", "Brownells"
+  ],
+  "electronics": [
+    "Samsung", "Dell", "Canon", "Dyson", "Bose", "Anker", "Logitech", "Razer",
+    "Corsair", "GoPro", "DJI", "Philips", "Brother", "Seagate", "ASUS",
+    "Sonos", "Breville", "KitchenAid", "iRobot", "Roborock", "Amazfit",
+    "Renpho", "Elgato", "TP-Link", "Netgear", "Jackery", "EcoFlow", "Bluetti",
+    "Creality", "BenQ", "SteelSeries", "Nanoleaf", "Govee", "Wyze", "Ring"
+  ],
+  "shoes": [
+    "Nike", "Adidas", "New Balance", "Puma", "Reebok", "Vans", "Skechers",
+    "Timberland", "UGG", "Birkenstock", "Crocs", "ASICS", "Salomon", "HOKA",
+    "Merrell", "Cole Haan", "Stuart Weitzman", "Steve Madden", "Sam Edelman",
+    "Clarks", "ECCO", "Sperry", "Allbirds", "Allen Edmonds",
+    "Johnston & Murphy", "K-Swiss", "Teva", "Reef", "Altra Running", "Rothy's",
+    "Dansko", "Wolverine", "Saucony", "Mizuno", "Naturalizer"
+  ],
+  "home-and-garden": [
+    "Wayfair", "Pottery Barn", "Ashley Furniture", "Bed Bath & Beyond",
+    "Lowe's", "Casper", "Purple", "Nectar Sleep", "Saatva", "Tempur-Pedic",
+    "iRobot", "Roborock", "KitchenAid", "Vitamix", "Ninja", "Breville",
+    "Le Creuset", "Lodge Cast Iron", "Simplehuman", "OXO", "Philips Hue",
+    "Weber", "Traeger", "Burrow", "The Container Store", "Ring", "Nest"
+  ],
+  "digital-services-and-streaming": [
+    "NordVPN", "Surfshark", "Bitdefender", "McAfee", "LastPass", "1Password",
+    "Disney+", "Hulu", "Grammarly", "Coursera", "Skillshare", "MasterClass",
+    "Udemy", "Fiverr", "Upwork", "Constant Contact", "Bluehost", "ProtonVPN",
+    "Keeper", "LegalZoom", "QuickBooks", "HoneyBook"
+  ],
+  "food-drinks-and-restaurants": [
+    "Factor", "ButcherBox", "Goldbelly", "Daily Harvest", "Sakara Life",
+    "DoorDash", "Grubhub", "Instacart", "Walmart", "Godiva", "Lindt",
+    "Harry & David", "Keurig", "Wine.com", "Winc", "Naked Wines",
+    "Cafe Britt", "Flaviar", "Snake River Farms", "Crowd Cow",
+    "Misfits Market", "FreshDirect", "Nuts.com", "Magic Spoon", "Liquid IV",
+    "Laird Superfood", "Four Sigmatic", "Murray's Cheese"
+  ],
+  "travel-and-vacations": [
+    "Hilton", "Marriott", "Wyndham", "Viator", "GetYourGuide", "TripAdvisor",
+    "Hertz", "Avis", "Enterprise", "Southwest Airlines", "United Airlines",
+    "Skyscanner", "Contiki", "G Adventures", "Away", "Samsonite", "Tumi",
+    "Trafalgar", "Hotwire", "Hotels.com"
+  ],
+  "accessories": [
+    "Coach", "Kate Spade", "Tumi", "Samsonite", "Away", "Warby Parker",
+    "Timex", "Swarovski", "Kendra Scott", "Dooney & Bourke", "Vera Bradley",
+    "Maui Jim", "Bellroy", "Nordgreen", "Jenny Bird", "Gorjana", "BaubleBar",
+    "Missoma", "Studs", "Nixon"
+  ],
+  "pets": [
+    "Chewy", "Petco", "PetSmart", "BarkBox", "Rover", "Wisdom Panel",
+    "Nom Nom", "Ollie", "PetPlate", "Royal Canin", "Purina", "Petcube",
+    "Open Farm", "Zesty Paws", "Native Pet", "The Honest Kitchen",
+    "JustFoodForDogs", "Spot & Tango", "A Pup Above", "Kurgo",
+    "BudgetPetCare", "1800PetMeds", "Fable Pets", "Stella & Chewy's"
+  ],
+  "baby-and-toddler": [
+    "Carter's", "Hanna Andersson", "Stokke", "Ergobaby", "Munchkin",
+    "Skip Hop", "Nanit", "Owlet", "Lovevery", "Halo Sleep", "Bugaboo",
+    "Maxi-Cosi", "Evenflo", "Little Sleepies", "Little Passports", "Hiya",
+    "Little Spoon", "Cerebelly", "Serenity Kids", "Ready Set Food",
+    "Hello Bello", "Mustela", "California Baby", "Pottery Barn Kids",
+    "Happiest Baby", "Solly Baby", "Tula", "Inglesina"
+  ],
+  "gifts-flowers-and-parties": [
+    "Teleflora", "The Bouqs", "Edible Arrangements", "Harry & David",
+    "Things Remembered", "Mixbook", "Zazzle", "Build-A-Bear", "Cricut",
+    "Fruit Bouquets", "Cheryl's Cookies", "Spencer's", "Lovepop",
+    "Boy Smells", "Capri Blue", "Spirit Halloween"
+  ],
+  "subscription-boxes-and-services": [
+    "FabFitFun", "Ipsy", "Allure Beauty Box", "Book of the Month",
+    "Stitch Fix", "Wantable", "BarkBox", "Cratejoy", "Universal Yums",
+    "Bokksu", "Misfits Market", "Scentbird", "GQ Box", "Rent the Runway"
+  ],
+  "toys-and-games": [
+    "LEGO", "Melissa & Doug", "PlayStation", "Xbox", "GameStop",
+    "Build-A-Bear", "Lovevery", "tonies", "Ravensburger", "Razor",
+    "Step2", "Little Tikes", "Walmart"
+  ],
+  "events-and-entertainment": [
+    "Ticketmaster", "StubHub", "Vivid Seats", "SeatGeek", "Eventbrite",
+    "ESPN", "Topgolf", "Madame Tussauds"
+  ],
+  "auto-and-tires": [
+    "Advance Auto Parts", "Carvana", "CarGurus", "NAPA", "Covercraft",
+    "Husky Liners", "Sixt", "Enterprise"
+  ],
+  "office-supplies": [
+    "Staples", "Quill", "Avery", "Brother", "FlexiSpot", "UPLIFT Desk",
+    "Autonomous", "VistaPrint", "FedEx Office", "Smythson", "Levenger",
+    "Quartet", "Rollo", "Clever Fox", "Rocketbook", "Plum Paper",
+    "Day-Timer", "Franklin Planner", "At-A-Glance", "TomatoInk",
+    "Ink4Less", "The Container Store", "Sihoo", "Biz Chair", "Creality",
+    "Flashforge", "Foxit", "PDF Expert"
+  ]
+}

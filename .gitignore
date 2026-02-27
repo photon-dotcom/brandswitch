@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Generated data files (large, produced by npm run sync)
+/data/brands-*.json
+/data/search-index-*.json
+/data/categories-*.json
+/data/flagged-*.json
+/data/sync-summary.json
+/data/.sync-checkpoint.json

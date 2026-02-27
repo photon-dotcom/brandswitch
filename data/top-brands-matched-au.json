@@ -1,0 +1,260 @@
+{
+  "clothing": [
+    {
+      "rank": 14,
+      "name": "The North Face",
+      "slug": "the-north-face"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 19,
+      "name": "Banana Republic",
+      "slug": "banana-republic"
+    },
+    {
+      "rank": 20,
+      "name": "Brooks Brothers",
+      "slug": "brooks-brothers"
+    },
+    {
+      "rank": 21,
+      "name": "Gap",
+      "slug": "gap"
+    },
+    {
+      "rank": 30,
+      "name": "Superdry",
+      "slug": "superdry"
+    },
+    {
+      "rank": 46,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 2,
+      "name": "MAC Cosmetics",
+      "slug": "mac-cosmetics"
+    },
+    {
+      "rank": 4,
+      "name": "Estee Lauder",
+      "slug": "estee-lauder"
+    },
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 4,
+      "name": "Puma",
+      "slug": "puma"
+    },
+    {
+      "rank": 6,
+      "name": "The North Face",
+      "slug": "the-north-face"
+    },
+    {
+      "rank": 37,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 9,
+      "name": "Corsair",
+      "slug": "corsair"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 22,
+      "name": "Renpho",
+      "slug": "renpho"
+    },
+    {
+      "rank": 27,
+      "name": "EcoFlow",
+      "slug": "ecoflow"
+    },
+    {
+      "rank": 28,
+      "name": "Bluetti",
+      "slug": "bluetti"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 3,
+      "name": "New Balance",
+      "slug": "new-balance"
+    },
+    {
+      "rank": 4,
+      "name": "Puma",
+      "slug": "puma"
+    },
+    {
+      "rank": 6,
+      "name": "Vans",
+      "slug": "vans"
+    },
+    {
+      "rank": 11,
+      "name": "Crocs",
+      "slug": "crocs"
+    },
+    {
+      "rank": 27,
+      "name": "Teva",
+      "slug": "teva"
+    },
+    {
+      "rank": 30,
+      "name": "Rothy's",
+      "slug": "rothys"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 17,
+      "name": "Le Creuset",
+      "slug": "le-creuset"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 2,
+      "name": "Surfshark",
+      "slug": "surfshark"
+    },
+    {
+      "rank": 3,
+      "name": "Bitdefender",
+      "slug": "bitdefender"
+    },
+    {
+      "rank": 5,
+      "name": "LastPass",
+      "slug": "lastpass"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 17,
+      "name": "Bluehost",
+      "slug": "bluehost"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 16,
+      "name": "Naked Wines",
+      "slug": "naked-wines"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 13,
+      "name": "Contiki",
+      "slug": "contiki"
+    },
+    {
+      "rank": 16,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 2,
+      "name": "Kate Spade",
+      "slug": "kate-spade"
+    },
+    {
+      "rank": 4,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    },
+    {
+      "rank": 8,
+      "name": "SWAROVSKI",
+      "slug": "swarovski"
+    }
+  ],
+  "pets": [
+    {
+      "rank": 20,
+      "name": "Kurgo",
+      "slug": "kurgo"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

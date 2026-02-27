@@ -1,0 +1,99 @@
+{
+  "clothing": [
+    {
+      "rank": 5,
+      "name": "ASOS",
+      "slug": "asos"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 38,
+      "name": "Therabody",
+      "slug": "therabody"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 11,
+      "name": "Crocs",
+      "slug": "crocs"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 2,
+      "name": "Surfshark",
+      "slug": "surfshark"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 8,
+      "name": "Avis",
+      "slug": "avis"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    }
+  ],
+  "events-and-entertainment": [
+    {
+      "rank": 1,
+      "name": "Ticketmaster",
+      "slug": "ticketmaster"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

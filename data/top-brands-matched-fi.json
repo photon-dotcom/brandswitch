@@ -1,0 +1,23 @@
+{
+  "health-and-beauty": [
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    }
+  ]
+}

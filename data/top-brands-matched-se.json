@@ -1,0 +1,102 @@
+{
+  "clothing": [
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 10,
+      "name": "Burton Snowboards",
+      "slug": "burton-snowboards"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 28,
+      "name": "Bluetti",
+      "slug": "bluetti"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 11,
+      "name": "Crocs",
+      "slug": "crocs"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 15,
+      "name": "Ninja kitchen",
+      "slug": "ninja-kitchen"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

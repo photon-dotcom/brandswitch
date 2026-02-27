@@ -1,0 +1,198 @@
+{
+  "clothing": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    },
+    {
+      "rank": 9,
+      "name": "Corsair",
+      "slug": "corsair"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 25,
+      "name": "NETGEAR",
+      "slug": "netgear"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 9,
+      "name": "UGG",
+      "slug": "ugg"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 7,
+      "name": "Disney+",
+      "slug": "disney"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 1,
+      "name": "Factor",
+      "slug": "factor"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 8,
+      "name": "Avis",
+      "slug": "avis"
+    },
+    {
+      "rank": 16,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 4,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 9,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    },
+    {
+      "rank": 12,
+      "name": "Maxi-cosi",
+      "slug": "maxi-cosi"
+    },
+    {
+      "rank": 27,
+      "name": "Baby Tula",
+      "slug": "baby-tula"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    },
+    {
+      "rank": 7,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

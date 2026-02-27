@@ -1,0 +1,2323 @@
+{
+  "clothing": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 2,
+      "name": "Adidas",
+      "slug": "adidas-us"
+    },
+    {
+      "rank": 3,
+      "name": "UNIQLO",
+      "slug": "uniqlo"
+    },
+    {
+      "rank": 4,
+      "name": "H&M",
+      "slug": "handm"
+    },
+    {
+      "rank": 5,
+      "name": "ASOS",
+      "slug": "asos"
+    },
+    {
+      "rank": 6,
+      "name": "Shein",
+      "slug": "shein-us"
+    },
+    {
+      "rank": 7,
+      "name": "Levi's",
+      "slug": "levis"
+    },
+    {
+      "rank": 8,
+      "name": "Calvin Klein",
+      "slug": "calvin-klein-us"
+    },
+    {
+      "rank": 9,
+      "name": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger"
+    },
+    {
+      "rank": 10,
+      "name": "Burberry",
+      "slug": "burberry"
+    },
+    {
+      "rank": 11,
+      "name": "Versace",
+      "slug": "versace"
+    },
+    {
+      "rank": 12,
+      "name": "Dolce & Gabbana",
+      "slug": "dolce-and-gabbana-us"
+    },
+    {
+      "rank": 13,
+      "name": "Stella McCartney",
+      "slug": "stella-mccartney"
+    },
+    {
+      "rank": 14,
+      "name": "The North Face",
+      "slug": "the-north-face"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 16,
+      "name": "Carhartt",
+      "slug": "carhartt"
+    },
+    {
+      "rank": 17,
+      "name": "Dickies",
+      "slug": "dickies"
+    },
+    {
+      "rank": 18,
+      "name": "Wrangler",
+      "slug": "wrangler-us"
+    },
+    {
+      "rank": 19,
+      "name": "Banana Republic",
+      "slug": "banana-republic"
+    },
+    {
+      "rank": 20,
+      "name": "Brooks Brothers",
+      "slug": "brooks-brothers"
+    },
+    {
+      "rank": 21,
+      "name": "Gap",
+      "slug": "gap"
+    },
+    {
+      "rank": 22,
+      "name": "Old Navy",
+      "slug": "old-navy"
+    },
+    {
+      "rank": 23,
+      "name": "Abercrombie",
+      "slug": "abercrombie"
+    },
+    {
+      "rank": 24,
+      "name": "Ann Taylor",
+      "slug": "ann-taylor"
+    },
+    {
+      "rank": 25,
+      "name": "Chico's",
+      "slug": "chicos"
+    },
+    {
+      "rank": 26,
+      "name": "Anthropologie",
+      "slug": "anthropologie"
+    },
+    {
+      "rank": 27,
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters"
+    },
+    {
+      "rank": 28,
+      "name": "AllSaints",
+      "slug": "allsaints"
+    },
+    {
+      "rank": 29,
+      "name": "COS",
+      "slug": "cos-us"
+    },
+    {
+      "rank": 30,
+      "name": "Superdry",
+      "slug": "superdry"
+    },
+    {
+      "rank": 31,
+      "name": "Spanx",
+      "slug": "spanx"
+    },
+    {
+      "rank": 32,
+      "name": "Bonobos",
+      "slug": "bonobos"
+    },
+    {
+      "rank": 33,
+      "name": "Stitch Fix",
+      "slug": "stitch-fix"
+    },
+    {
+      "rank": 34,
+      "name": "Rent the Runway",
+      "slug": "rent-the-runway"
+    },
+    {
+      "rank": 35,
+      "name": "ThredUp",
+      "slug": "thredup"
+    },
+    {
+      "rank": 36,
+      "name": "Eddie Bauer",
+      "slug": "eddie-bauer"
+    },
+    {
+      "rank": 37,
+      "name": "Vineyard Vines",
+      "slug": "vineyard-vines"
+    },
+    {
+      "rank": 38,
+      "name": "Southern Tide",
+      "slug": "southern-tide"
+    },
+    {
+      "rank": 39,
+      "name": "Ariat",
+      "slug": "ariat"
+    },
+    {
+      "rank": 40,
+      "name": "True Religion",
+      "slug": "true-religion-us"
+    },
+    {
+      "rank": 41,
+      "name": "Theory",
+      "slug": "theory"
+    },
+    {
+      "rank": 42,
+      "name": "Vince",
+      "slug": "vince"
+    },
+    {
+      "rank": 43,
+      "name": "Rag & Bone",
+      "slug": "rag-and-bone"
+    },
+    {
+      "rank": 44,
+      "name": "Tory Burch",
+      "slug": "tory-burch"
+    },
+    {
+      "rank": 45,
+      "name": "Alo Yoga",
+      "slug": "alo-yoga"
+    },
+    {
+      "rank": 46,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    },
+    {
+      "rank": 47,
+      "name": "Fabletics",
+      "slug": "fabletics-us"
+    },
+    {
+      "rank": 48,
+      "name": "Champion.com (Hanesbrands Inc.)",
+      "slug": "championcom-hanesbrands-inc"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 1,
+      "name": "ULTA Beauty",
+      "slug": "ulta-beauty"
+    },
+    {
+      "rank": 2,
+      "name": "MAC Cosmetics",
+      "slug": "mac-cosmetics"
+    },
+    {
+      "rank": 3,
+      "name": "Clinique Online",
+      "slug": "clinique-online"
+    },
+    {
+      "rank": 4,
+      "name": "Estee Lauder",
+      "slug": "estee-lauder"
+    },
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    },
+    {
+      "rank": 6,
+      "name": "Bobbi Brown",
+      "slug": "bobbi-brown"
+    },
+    {
+      "rank": 7,
+      "name": "Nars Cosmetics",
+      "slug": "nars-cosmetics"
+    },
+    {
+      "rank": 8,
+      "name": "Benefit Cosmetics",
+      "slug": "benefit-cosmetics"
+    },
+    {
+      "rank": 9,
+      "name": "Fenty Beauty",
+      "slug": "fenty-beauty"
+    },
+    {
+      "rank": 10,
+      "name": "Drunk Elephant",
+      "slug": "drunk-elephant"
+    },
+    {
+      "rank": 11,
+      "name": "Aveda EU",
+      "slug": "aveda-eu"
+    },
+    {
+      "rank": 12,
+      "name": "Bumble and Bumble",
+      "slug": "bumble-and-bumble"
+    },
+    {
+      "rank": 13,
+      "name": "GNC",
+      "slug": "gnc"
+    },
+    {
+      "rank": 14,
+      "name": "Anastasia Beverly Hills",
+      "slug": "anastasia-beverly-hills"
+    },
+    {
+      "rank": 15,
+      "name": "Biossance",
+      "slug": "biossance"
+    },
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    },
+    {
+      "rank": 17,
+      "name": "Armani",
+      "slug": "armani"
+    },
+    {
+      "rank": 18,
+      "name": "Aesop",
+      "slug": "aesop"
+    },
+    {
+      "rank": 19,
+      "name": "Caudalie USA",
+      "slug": "caudalie-usa"
+    },
+    {
+      "rank": 20,
+      "name": "Dermalogica",
+      "slug": "dermalogica"
+    },
+    {
+      "rank": 21,
+      "name": "Peter Thomas Roth",
+      "slug": "peter-thomas-roth"
+    },
+    {
+      "rank": 22,
+      "name": "Sunday Riley",
+      "slug": "sunday-riley"
+    },
+    {
+      "rank": 23,
+      "name": "Moroccanoil",
+      "slug": "moroccanoil"
+    },
+    {
+      "rank": 24,
+      "name": "OLAPLEX",
+      "slug": "olaplex"
+    },
+    {
+      "rank": 25,
+      "name": "amika",
+      "slug": "amika"
+    },
+    {
+      "rank": 26,
+      "name": "Living Proof",
+      "slug": "living-proof"
+    },
+    {
+      "rank": 27,
+      "name": "Vital Proteins",
+      "slug": "vital-proteins"
+    },
+    {
+      "rank": 28,
+      "name": "Ancient Nutrition",
+      "slug": "ancient-nutrition"
+    },
+    {
+      "rank": 29,
+      "name": "Bloom Nutrition",
+      "slug": "bloom-nutrition"
+    },
+    {
+      "rank": 30,
+      "name": "Bulletproof",
+      "slug": "bulletproof"
+    },
+    {
+      "rank": 31,
+      "name": "hims",
+      "slug": "hims"
+    },
+    {
+      "rank": 32,
+      "name": "Best Bee Brothers",
+      "slug": "best-bee-brothers"
+    },
+    {
+      "rank": 33,
+      "name": "Betterhelp",
+      "slug": "betterhelp"
+    },
+    {
+      "rank": 34,
+      "name": "1-800 Contacts",
+      "slug": "1-800-contacts"
+    },
+    {
+      "rank": 35,
+      "name": "Bluemercury",
+      "slug": "bluemercury"
+    },
+    {
+      "rank": 36,
+      "name": "Bergdorf Goodman",
+      "slug": "bergdorf-goodman"
+    },
+    {
+      "rank": 37,
+      "name": "Beauty Pie",
+      "slug": "beauty-pie"
+    },
+    {
+      "rank": 38,
+      "name": "100% PURE",
+      "slug": "100-pure"
+    },
+    {
+      "rank": 39,
+      "name": "Burt's Bees",
+      "slug": "burts-bees"
+    },
+    {
+      "rank": 40,
+      "name": "Caswell-Massey",
+      "slug": "caswell-massey"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 2,
+      "name": "Adidas",
+      "slug": "adidas-us"
+    },
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 4,
+      "name": "Puma",
+      "slug": "puma"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 6,
+      "name": "The North Face",
+      "slug": "the-north-face"
+    },
+    {
+      "rank": 7,
+      "name": "Salomon",
+      "slug": "salomon"
+    },
+    {
+      "rank": 8,
+      "name": "ASICS America",
+      "slug": "asics-america"
+    },
+    {
+      "rank": 9,
+      "name": "Saucony",
+      "slug": "saucony"
+    },
+    {
+      "rank": 10,
+      "name": "Burton Snowboards",
+      "slug": "burton-snowboards"
+    },
+    {
+      "rank": 11,
+      "name": "Rossignol",
+      "slug": "rossignol"
+    },
+    {
+      "rank": 12,
+      "name": "Callaway Golf",
+      "slug": "callaway-golf"
+    },
+    {
+      "rank": 13,
+      "name": "Taylormadegolf",
+      "slug": "taylormadegolf"
+    },
+    {
+      "rank": 14,
+      "name": "Dick's Sporting Goods",
+      "slug": "dicks-sporting-goods"
+    },
+    {
+      "rank": 15,
+      "name": "Doors",
+      "slug": "doors"
+    },
+    {
+      "rank": 16,
+      "name": "Bass Pro Shops",
+      "slug": "bass-pro-shops"
+    },
+    {
+      "rank": 17,
+      "name": "Cabelas",
+      "slug": "cabelas-us"
+    },
+    {
+      "rank": 18,
+      "name": "Bowflex",
+      "slug": "bowflex-us"
+    },
+    {
+      "rank": 19,
+      "name": "Peloton Apparel",
+      "slug": "peloton-apparel"
+    },
+    {
+      "rank": 20,
+      "name": "Tonal",
+      "slug": "tonal"
+    },
+    {
+      "rank": 21,
+      "name": "YETI",
+      "slug": "yeti"
+    },
+    {
+      "rank": 22,
+      "name": "Stanley",
+      "slug": "stanley"
+    },
+    {
+      "rank": 23,
+      "name": "Hydro Flask",
+      "slug": "hydro-flask"
+    },
+    {
+      "rank": 24,
+      "name": "Suunto",
+      "slug": "suunto-us"
+    },
+    {
+      "rank": 25,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
+      "rank": 26,
+      "name": "Rad Power Bikes",
+      "slug": "rad-power-bikes"
+    },
+    {
+      "rank": 27,
+      "name": "Aventon",
+      "slug": "aventon"
+    },
+    {
+      "rank": 28,
+      "name": "Solo Stove",
+      "slug": "solo-stove"
+    },
+    {
+      "rank": 29,
+      "name": "Camp Chef",
+      "slug": "camp-chef"
+    },
+    {
+      "rank": 30,
+      "name": "traeger",
+      "slug": "traeger-us"
+    },
+    {
+      "rank": 31,
+      "name": "Weber Inc.",
+      "slug": "weber-inc"
+    },
+    {
+      "rank": 32,
+      "name": "Decathlon",
+      "slug": "decathlon"
+    },
+    {
+      "rank": 33,
+      "name": "Eddie Bauer",
+      "slug": "eddie-bauer"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
+    },
+    {
+      "rank": 35,
+      "name": "Fabletics",
+      "slug": "fabletics-us"
+    },
+    {
+      "rank": 36,
+      "name": "Athleta",
+      "slug": "athleta"
+    },
+    {
+      "rank": 37,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    },
+    {
+      "rank": 38,
+      "name": "Therabody",
+      "slug": "therabody"
+    },
+    {
+      "rank": 39,
+      "name": "Crossrope",
+      "slug": "crossrope"
+    },
+    {
+      "rank": 40,
+      "name": "TRX Training",
+      "slug": "trx-training"
+    },
+    {
+      "rank": 41,
+      "name": "Blenders Eyewear",
+      "slug": "blenders-eyewear"
+    },
+    {
+      "rank": 42,
+      "name": "RTIC Outdoors",
+      "slug": "rtic-outdoors"
+    },
+    {
+      "rank": 43,
+      "name": "Brownells",
+      "slug": "brownells"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 2,
+      "name": "Dell Outlet",
+      "slug": "dell-outlet"
+    },
+    {
+      "rank": 3,
+      "name": "Canon",
+      "slug": "canon"
+    },
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    },
+    {
+      "rank": 5,
+      "name": "CONSUMERSCONNECT - Bose QuietComfort Ultra Headphones - SOI (US)",
+      "slug": "consumersconnect-bose-quietcomfort-ultra-headphones-soi-us"
+    },
+    {
+      "rank": 6,
+      "name": "Anker",
+      "slug": "anker-us"
+    },
+    {
+      "rank": 7,
+      "name": "Logitech US CA MX",
+      "slug": "logitech-us-ca-mx"
+    },
+    {
+      "rank": 8,
+      "name": "Razer",
+      "slug": "razer"
+    },
+    {
+      "rank": 9,
+      "name": "Corsair",
+      "slug": "corsair"
+    },
+    {
+      "rank": 10,
+      "name": "GoPro",
+      "slug": "gopro"
+    },
+    {
+      "rank": 11,
+      "name": "DJI",
+      "slug": "dji-us"
+    },
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 13,
+      "name": "Brother",
+      "slug": "brother"
+    },
+    {
+      "rank": 14,
+      "name": "Seagate",
+      "slug": "seagate"
+    },
+    {
+      "rank": 15,
+      "name": "ASUS",
+      "slug": "asus"
+    },
+    {
+      "rank": 16,
+      "name": "CONSUMERSCONNECT - Sonos Ace Wireless Headphones - SOI (US)",
+      "slug": "consumersconnect-sonos-ace-wireless-headphones-soi-us"
+    },
+    {
+      "rank": 17,
+      "name": "Breville",
+      "slug": "breville"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 19,
+      "name": "Store Irobot",
+      "slug": "store-irobot"
+    },
+    {
+      "rank": 20,
+      "name": "Roborock",
+      "slug": "roborock-us"
+    },
+    {
+      "rank": 21,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
+      "rank": 22,
+      "name": "Renpho",
+      "slug": "renpho"
+    },
+    {
+      "rank": 23,
+      "name": "Elgato",
+      "slug": "elgato"
+    },
+    {
+      "rank": 24,
+      "name": "TP-Link",
+      "slug": "tp-link"
+    },
+    {
+      "rank": 25,
+      "name": "NETGEAR",
+      "slug": "netgear"
+    },
+    {
+      "rank": 26,
+      "name": "Jackery",
+      "slug": "jackery-us"
+    },
+    {
+      "rank": 27,
+      "name": "EcoFlow",
+      "slug": "ecoflow"
+    },
+    {
+      "rank": 28,
+      "name": "Bluetti",
+      "slug": "bluetti"
+    },
+    {
+      "rank": 29,
+      "name": "Creality",
+      "slug": "creality"
+    },
+    {
+      "rank": 30,
+      "name": "BenQ",
+      "slug": "benq"
+    },
+    {
+      "rank": 31,
+      "name": "SteelSeries",
+      "slug": "steelseries"
+    },
+    {
+      "rank": 32,
+      "name": "Nanoleaf WW",
+      "slug": "nanoleaf-ww"
+    },
+    {
+      "rank": 33,
+      "name": "GOVEE",
+      "slug": "govee"
+    },
+    {
+      "rank": 34,
+      "name": "Wyze",
+      "slug": "wyze"
+    },
+    {
+      "rank": 35,
+      "name": "Ring",
+      "slug": "ring"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 2,
+      "name": "Adidas",
+      "slug": "adidas-us"
+    },
+    {
+      "rank": 3,
+      "name": "New Balance",
+      "slug": "new-balance"
+    },
+    {
+      "rank": 4,
+      "name": "Puma",
+      "slug": "puma"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 6,
+      "name": "Vans",
+      "slug": "vans"
+    },
+    {
+      "rank": 7,
+      "name": "Skechers",
+      "slug": "skechers"
+    },
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
+    },
+    {
+      "rank": 9,
+      "name": "UGG",
+      "slug": "ugg"
+    },
+    {
+      "rank": 10,
+      "name": "Birkenstock",
+      "slug": "birkenstock"
+    },
+    {
+      "rank": 11,
+      "name": "Crocs",
+      "slug": "crocs"
+    },
+    {
+      "rank": 12,
+      "name": "ASICS America",
+      "slug": "asics-america"
+    },
+    {
+      "rank": 13,
+      "name": "Salomon",
+      "slug": "salomon"
+    },
+    {
+      "rank": 14,
+      "name": "Hoka One",
+      "slug": "hoka-one-us"
+    },
+    {
+      "rank": 15,
+      "name": "Merrell",
+      "slug": "merrell"
+    },
+    {
+      "rank": 16,
+      "name": "Cole Haan",
+      "slug": "cole-haan"
+    },
+    {
+      "rank": 17,
+      "name": "Stuart Weitzman Outlet",
+      "slug": "stuart-weitzman-outlet"
+    },
+    {
+      "rank": 18,
+      "name": "Steve Madden",
+      "slug": "steve-madden"
+    },
+    {
+      "rank": 19,
+      "name": "Sam Edelman",
+      "slug": "sam-edelman"
+    },
+    {
+      "rank": 20,
+      "name": "Clarks",
+      "slug": "clarks-us"
+    },
+    {
+      "rank": 21,
+      "name": "ECCO US and",
+      "slug": "ecco-us-and"
+    },
+    {
+      "rank": 22,
+      "name": "Sperry",
+      "slug": "sperry"
+    },
+    {
+      "rank": 23,
+      "name": "Allbirds",
+      "slug": "allbirds"
+    },
+    {
+      "rank": 24,
+      "name": "Allen Edmonds",
+      "slug": "allen-edmonds"
+    },
+    {
+      "rank": 25,
+      "name": "Johnston & Murphy",
+      "slug": "johnston-and-murphy"
+    },
+    {
+      "rank": 26,
+      "name": "K-Swiss Shoes",
+      "slug": "k-swiss-shoes"
+    },
+    {
+      "rank": 27,
+      "name": "Teva",
+      "slug": "teva"
+    },
+    {
+      "rank": 28,
+      "name": "Reef",
+      "slug": "reef"
+    },
+    {
+      "rank": 29,
+      "name": "Altra Running",
+      "slug": "altra-running"
+    },
+    {
+      "rank": 30,
+      "name": "Rothy's",
+      "slug": "rothys"
+    },
+    {
+      "rank": 31,
+      "name": "Dansko",
+      "slug": "dansko"
+    },
+    {
+      "rank": 32,
+      "name": "Wolverine",
+      "slug": "wolverine"
+    },
+    {
+      "rank": 33,
+      "name": "Saucony",
+      "slug": "saucony"
+    },
+    {
+      "rank": 34,
+      "name": "Mizuno",
+      "slug": "mizuno-us"
+    },
+    {
+      "rank": 35,
+      "name": "Naturalizer",
+      "slug": "naturalizer-us"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 1,
+      "name": "Wayfair",
+      "slug": "wayfair"
+    },
+    {
+      "rank": 2,
+      "name": "potterybarn.ae",
+      "slug": "potterybarnae"
+    },
+    {
+      "rank": 3,
+      "name": "Ashley Furniture",
+      "slug": "ashley-furniture-us"
+    },
+    {
+      "rank": 4,
+      "name": "Bed Bath & Beyond",
+      "slug": "bed-bath-and-beyond"
+    },
+    {
+      "rank": 5,
+      "name": "Lowe's",
+      "slug": "lowes"
+    },
+    {
+      "rank": 6,
+      "name": "Casper Sleep",
+      "slug": "casper-sleep"
+    },
+    {
+      "rank": 7,
+      "name": "Purple",
+      "slug": "purple"
+    },
+    {
+      "rank": 8,
+      "name": "Nectar Sleep",
+      "slug": "nectar-sleep"
+    },
+    {
+      "rank": 9,
+      "name": "Saatva",
+      "slug": "saatva"
+    },
+    {
+      "rank": 10,
+      "name": "Tempur-Pedic",
+      "slug": "tempur-pedic"
+    },
+    {
+      "rank": 11,
+      "name": "Store Irobot",
+      "slug": "store-irobot"
+    },
+    {
+      "rank": 12,
+      "name": "Roborock",
+      "slug": "roborock-us"
+    },
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 14,
+      "name": "Vitamix",
+      "slug": "vitamix"
+    },
+    {
+      "rank": 15,
+      "name": "Ninja kitchen",
+      "slug": "ninja-kitchen"
+    },
+    {
+      "rank": 16,
+      "name": "Breville",
+      "slug": "breville"
+    },
+    {
+      "rank": 17,
+      "name": "Le Creuset",
+      "slug": "le-creuset"
+    },
+    {
+      "rank": 18,
+      "name": "Lodge Cast Iron",
+      "slug": "lodge-cast-iron"
+    },
+    {
+      "rank": 19,
+      "name": "Simplehuman",
+      "slug": "simplehuman"
+    },
+    {
+      "rank": 20,
+      "name": "OXO",
+      "slug": "oxo"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    },
+    {
+      "rank": 22,
+      "name": "Weber Inc.",
+      "slug": "weber-inc"
+    },
+    {
+      "rank": 23,
+      "name": "traeger",
+      "slug": "traeger-us"
+    },
+    {
+      "rank": 24,
+      "name": "Burrow",
+      "slug": "burrow"
+    },
+    {
+      "rank": 25,
+      "name": "The Container Store",
+      "slug": "the-container-store"
+    },
+    {
+      "rank": 26,
+      "name": "Ring",
+      "slug": "ring"
+    },
+    {
+      "rank": 27,
+      "name": "NEST New York",
+      "slug": "nest-new-york"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 2,
+      "name": "Surfshark",
+      "slug": "surfshark"
+    },
+    {
+      "rank": 3,
+      "name": "Bitdefender",
+      "slug": "bitdefender"
+    },
+    {
+      "rank": 4,
+      "name": "McAfee",
+      "slug": "mcafee-us"
+    },
+    {
+      "rank": 5,
+      "name": "LastPass",
+      "slug": "lastpass"
+    },
+    {
+      "rank": 6,
+      "name": "1Password Global",
+      "slug": "1password-global"
+    },
+    {
+      "rank": 7,
+      "name": "Disney+",
+      "slug": "disney"
+    },
+    {
+      "rank": 8,
+      "name": "Hulu",
+      "slug": "hulu"
+    },
+    {
+      "rank": 9,
+      "name": "Grammarly",
+      "slug": "grammarly"
+    },
+    {
+      "rank": 10,
+      "name": "Coursera",
+      "slug": "coursera"
+    },
+    {
+      "rank": 11,
+      "name": "Skillshare",
+      "slug": "skillshare"
+    },
+    {
+      "rank": 12,
+      "name": "MasterClass",
+      "slug": "masterclass-us"
+    },
+    {
+      "rank": 13,
+      "name": "Udemy",
+      "slug": "udemy"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 15,
+      "name": "Upwork",
+      "slug": "upwork"
+    },
+    {
+      "rank": 16,
+      "name": "Constant Contact",
+      "slug": "constant-contact"
+    },
+    {
+      "rank": 17,
+      "name": "Bluehost",
+      "slug": "bluehost"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    },
+    {
+      "rank": 19,
+      "name": "Keeper Security",
+      "slug": "keeper-security"
+    },
+    {
+      "rank": 20,
+      "name": "LegalZoom",
+      "slug": "legalzoom"
+    },
+    {
+      "rank": 21,
+      "name": "Books",
+      "slug": "books"
+    },
+    {
+      "rank": 22,
+      "name": "Honeybook",
+      "slug": "honeybook"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 1,
+      "name": "Factor",
+      "slug": "factor"
+    },
+    {
+      "rank": 2,
+      "name": "ButcherBox",
+      "slug": "butcherbox"
+    },
+    {
+      "rank": 3,
+      "name": "Goldbelly",
+      "slug": "goldbelly"
+    },
+    {
+      "rank": 4,
+      "name": "Daily Harvest",
+      "slug": "daily-harvest"
+    },
+    {
+      "rank": 5,
+      "name": "Sakara Life",
+      "slug": "sakara-life"
+    },
+    {
+      "rank": 6,
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "rank": 7,
+      "name": "Grubhub",
+      "slug": "grubhub"
+    },
+    {
+      "rank": 8,
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "rank": 9,
+      "name": "Walmart",
+      "slug": "walmart"
+    },
+    {
+      "rank": 10,
+      "name": "Godiva",
+      "slug": "godiva"
+    },
+    {
+      "rank": 11,
+      "name": "Lindt Chocolate",
+      "slug": "lindt-chocolate"
+    },
+    {
+      "rank": 12,
+      "name": "Harry & David",
+      "slug": "harry-and-david"
+    },
+    {
+      "rank": 13,
+      "name": "Keurig",
+      "slug": "keurig"
+    },
+    {
+      "rank": 14,
+      "name": "Wine",
+      "slug": "wine"
+    },
+    {
+      "rank": 15,
+      "name": "Winc",
+      "slug": "winc"
+    },
+    {
+      "rank": 16,
+      "name": "Naked Wines",
+      "slug": "naked-wines"
+    },
+    {
+      "rank": 17,
+      "name": "Cafe Britt",
+      "slug": "cafe-britt"
+    },
+    {
+      "rank": 18,
+      "name": "Flaviar - A Whiskey Club for Explorers at Heart",
+      "slug": "flaviar-a-whiskey-club-for-explorers-at-heart"
+    },
+    {
+      "rank": 19,
+      "name": "Snake River Farms",
+      "slug": "snake-river-farms"
+    },
+    {
+      "rank": 20,
+      "name": "Crowd Cow",
+      "slug": "crowd-cow"
+    },
+    {
+      "rank": 21,
+      "name": "Misfits Market",
+      "slug": "misfits-market-us"
+    },
+    {
+      "rank": 22,
+      "name": "FreshDirect",
+      "slug": "freshdirect"
+    },
+    {
+      "rank": 23,
+      "name": "Nuts",
+      "slug": "nuts"
+    },
+    {
+      "rank": 24,
+      "name": "Magic Spoon",
+      "slug": "magic-spoon"
+    },
+    {
+      "rank": 25,
+      "name": "Liquid IV",
+      "slug": "liquid-iv"
+    },
+    {
+      "rank": 26,
+      "name": "Laird Superfood",
+      "slug": "laird-superfood"
+    },
+    {
+      "rank": 27,
+      "name": "Four Sigmatic US/CA Program",
+      "slug": "four-sigmatic-usca-program"
+    },
+    {
+      "rank": 28,
+      "name": "Murray's Cheese",
+      "slug": "murrays-cheese"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 1,
+      "name": "Hilton",
+      "slug": "hilton"
+    },
+    {
+      "rank": 2,
+      "name": "Shop Marriott",
+      "slug": "shop-marriott"
+    },
+    {
+      "rank": 3,
+      "name": "Wyndhamhotels Points",
+      "slug": "wyndhamhotels-points"
+    },
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 6,
+      "name": "Trip",
+      "slug": "trip-us"
+    },
+    {
+      "rank": 7,
+      "name": "Hertz Iceland",
+      "slug": "hertz-iceland"
+    },
+    {
+      "rank": 8,
+      "name": "Avis",
+      "slug": "avis"
+    },
+    {
+      "rank": 9,
+      "name": "Enterprise Rent A Car",
+      "slug": "enterprise-rent-a-car"
+    },
+    {
+      "rank": 10,
+      "name": "Southwest Airlines Rapid Rewards",
+      "slug": "southwest-airlines-rapid-rewards"
+    },
+    {
+      "rank": 11,
+      "name": "United Airlines",
+      "slug": "united-airlines"
+    },
+    {
+      "rank": 12,
+      "name": "Skyscanner",
+      "slug": "skyscanner"
+    },
+    {
+      "rank": 13,
+      "name": "Contiki",
+      "slug": "contiki"
+    },
+    {
+      "rank": 14,
+      "name": "G Adventures",
+      "slug": "g-adventures"
+    },
+    {
+      "rank": 15,
+      "name": "Away Travel",
+      "slug": "away-travel"
+    },
+    {
+      "rank": 16,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    },
+    {
+      "rank": 17,
+      "name": "Tumi",
+      "slug": "tumi"
+    },
+    {
+      "rank": 18,
+      "name": "Trafalgar",
+      "slug": "trafalgar"
+    },
+    {
+      "rank": 19,
+      "name": "Hotwire",
+      "slug": "hotwire"
+    },
+    {
+      "rank": 20,
+      "name": "Hotels",
+      "slug": "hotels"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 1,
+      "name": "Coach",
+      "slug": "coach"
+    },
+    {
+      "rank": 2,
+      "name": "Kate Spade",
+      "slug": "kate-spade"
+    },
+    {
+      "rank": 3,
+      "name": "Tumi",
+      "slug": "tumi"
+    },
+    {
+      "rank": 4,
+      "name": "Samsonite",
+      "slug": "samsonite"
+    },
+    {
+      "rank": 5,
+      "name": "Away Travel",
+      "slug": "away-travel"
+    },
+    {
+      "rank": 6,
+      "name": "Warby Parker",
+      "slug": "warby-parker"
+    },
+    {
+      "rank": 7,
+      "name": "Timex",
+      "slug": "timex"
+    },
+    {
+      "rank": 8,
+      "name": "SWAROVSKI",
+      "slug": "swarovski"
+    },
+    {
+      "rank": 9,
+      "name": "Kendra Scott",
+      "slug": "kendra-scott"
+    },
+    {
+      "rank": 10,
+      "name": "Dooney & Bourke",
+      "slug": "dooney-and-bourke"
+    },
+    {
+      "rank": 11,
+      "name": "Vera Bradley",
+      "slug": "vera-bradley"
+    },
+    {
+      "rank": 12,
+      "name": "Maui Jim",
+      "slug": "maui-jim"
+    },
+    {
+      "rank": 13,
+      "name": "Bellroy",
+      "slug": "bellroy"
+    },
+    {
+      "rank": 14,
+      "name": "Nordgreen",
+      "slug": "nordgreen"
+    },
+    {
+      "rank": 15,
+      "name": "Jenny Bird",
+      "slug": "jenny-bird"
+    },
+    {
+      "rank": 16,
+      "name": "Gorjana",
+      "slug": "gorjana"
+    },
+    {
+      "rank": 17,
+      "name": "BaubleBar",
+      "slug": "baublebar"
+    },
+    {
+      "rank": 18,
+      "name": "Missoma",
+      "slug": "missoma"
+    },
+    {
+      "rank": 19,
+      "name": "Studs",
+      "slug": "studs"
+    },
+    {
+      "rank": 20,
+      "name": "Nixon (US & Canada)",
+      "slug": "nixon-us-and-canada"
+    }
+  ],
+  "pets": [
+    {
+      "rank": 1,
+      "name": "Chewy",
+      "slug": "chewy"
+    },
+    {
+      "rank": 2,
+      "name": "PETCO",
+      "slug": "petco"
+    },
+    {
+      "rank": 3,
+      "name": "PetSmart",
+      "slug": "petsmart"
+    },
+    {
+      "rank": 4,
+      "name": "Super Chewer",
+      "slug": "super-chewer"
+    },
+    {
+      "rank": 5,
+      "name": "Rover Pet SITTERS",
+      "slug": "rover-pet-sitters"
+    },
+    {
+      "rank": 6,
+      "name": "Wisdom Panel",
+      "slug": "wisdom-panel"
+    },
+    {
+      "rank": 7,
+      "name": "Nom Nom",
+      "slug": "nom-nom"
+    },
+    {
+      "rank": 8,
+      "name": "Ollie",
+      "slug": "ollie"
+    },
+    {
+      "rank": 9,
+      "name": "PetPlate",
+      "slug": "petplate"
+    },
+    {
+      "rank": 10,
+      "name": "Royal Canin",
+      "slug": "royal-canin"
+    },
+    {
+      "rank": 11,
+      "name": "myPurina",
+      "slug": "mypurina"
+    },
+    {
+      "rank": 12,
+      "name": "Petcube",
+      "slug": "petcube"
+    },
+    {
+      "rank": 13,
+      "name": "Open Farm",
+      "slug": "open-farm"
+    },
+    {
+      "rank": 14,
+      "name": "Zesty Paws",
+      "slug": "zesty-paws"
+    },
+    {
+      "rank": 15,
+      "name": "Native Pet",
+      "slug": "native-pet"
+    },
+    {
+      "rank": 16,
+      "name": "The Honest Kitchen",
+      "slug": "the-honest-kitchen"
+    },
+    {
+      "rank": 17,
+      "name": "JustFoodForDogs",
+      "slug": "justfoodfordogs"
+    },
+    {
+      "rank": 18,
+      "name": "Spot & Tango",
+      "slug": "spot-and-tango"
+    },
+    {
+      "rank": 19,
+      "name": "A Pup Above",
+      "slug": "a-pup-above"
+    },
+    {
+      "rank": 20,
+      "name": "Kurgo",
+      "slug": "kurgo"
+    },
+    {
+      "rank": 21,
+      "name": "BudgetPetCare",
+      "slug": "budgetpetcare"
+    },
+    {
+      "rank": 22,
+      "name": "1800PetMeds",
+      "slug": "1800petmeds"
+    },
+    {
+      "rank": 23,
+      "name": "Fable Pets",
+      "slug": "fable-pets"
+    },
+    {
+      "rank": 24,
+      "name": "Stella & Chewy's",
+      "slug": "stella-and-chewys"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 1,
+      "name": "Carters",
+      "slug": "carters"
+    },
+    {
+      "rank": 2,
+      "name": "Hanna Andersson",
+      "slug": "hanna-andersson"
+    },
+    {
+      "rank": 3,
+      "name": "Stokke",
+      "slug": "stokke"
+    },
+    {
+      "rank": 4,
+      "name": "ERGO Baby",
+      "slug": "ergo-baby"
+    },
+    {
+      "rank": 5,
+      "name": "Munchkin",
+      "slug": "munchkin"
+    },
+    {
+      "rank": 6,
+      "name": "Skip Hop",
+      "slug": "skip-hop"
+    },
+    {
+      "rank": 7,
+      "name": "Nanit",
+      "slug": "nanit"
+    },
+    {
+      "rank": 8,
+      "name": "Owlet",
+      "slug": "owlet-us"
+    },
+    {
+      "rank": 9,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
+    {
+      "rank": 10,
+      "name": "Halo Sleep",
+      "slug": "halo-sleep"
+    },
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    },
+    {
+      "rank": 12,
+      "name": "Maxi-cosi",
+      "slug": "maxi-cosi"
+    },
+    {
+      "rank": 13,
+      "name": "Evenflo",
+      "slug": "evenflo"
+    },
+    {
+      "rank": 14,
+      "name": "Little Sleepies",
+      "slug": "little-sleepies"
+    },
+    {
+      "rank": 15,
+      "name": "Little Passports",
+      "slug": "little-passports"
+    },
+    {
+      "rank": 16,
+      "name": "Hiya",
+      "slug": "hiya-us"
+    },
+    {
+      "rank": 17,
+      "name": "Little Spoon",
+      "slug": "little-spoon"
+    },
+    {
+      "rank": 18,
+      "name": "Cerebelly",
+      "slug": "cerebelly"
+    },
+    {
+      "rank": 19,
+      "name": "Serenity Kids",
+      "slug": "serenity-kids"
+    },
+    {
+      "rank": 20,
+      "name": "Ready, Set, Food!",
+      "slug": "ready-set-food"
+    },
+    {
+      "rank": 21,
+      "name": "Hello Bello",
+      "slug": "hello-bello"
+    },
+    {
+      "rank": 22,
+      "name": "Mustela",
+      "slug": "mustela"
+    },
+    {
+      "rank": 23,
+      "name": "California Baby",
+      "slug": "california-baby"
+    },
+    {
+      "rank": 24,
+      "name": "Pottery Barn Kids AE",
+      "slug": "pottery-barn-kids-ae"
+    },
+    {
+      "rank": 25,
+      "name": "Happiest Baby",
+      "slug": "happiest-baby"
+    },
+    {
+      "rank": 26,
+      "name": "Solly Baby",
+      "slug": "solly-baby"
+    },
+    {
+      "rank": 27,
+      "name": "Baby Tula",
+      "slug": "baby-tula"
+    },
+    {
+      "rank": 28,
+      "name": "Inglesina",
+      "slug": "inglesina"
+    }
+  ],
+  "gifts-flowers-and-parties": [
+    {
+      "rank": 1,
+      "name": "Teleflora - CPC",
+      "slug": "teleflora-cpc"
+    },
+    {
+      "rank": 2,
+      "name": "The Bouqs",
+      "slug": "the-bouqs-us"
+    },
+    {
+      "rank": 3,
+      "name": "Edible Arrangements",
+      "slug": "edible-arrangements"
+    },
+    {
+      "rank": 4,
+      "name": "Harry & David",
+      "slug": "harry-and-david"
+    },
+    {
+      "rank": 5,
+      "name": "Things Remembered",
+      "slug": "things-remembered"
+    },
+    {
+      "rank": 6,
+      "name": "Mixbook",
+      "slug": "mixbook"
+    },
+    {
+      "rank": 7,
+      "name": "Zazzle",
+      "slug": "zazzle-us"
+    },
+    {
+      "rank": 8,
+      "name": "Build-A-Bear Workshop",
+      "slug": "build-a-bear-workshop"
+    },
+    {
+      "rank": 9,
+      "name": "Cricut US &",
+      "slug": "cricut-us-and"
+    },
+    {
+      "rank": 10,
+      "name": "Fruit Bouquets",
+      "slug": "fruit-bouquets"
+    },
+    {
+      "rank": 11,
+      "name": "Cheryl's",
+      "slug": "cheryls"
+    },
+    {
+      "rank": 12,
+      "name": "Spencer's",
+      "slug": "spencers"
+    },
+    {
+      "rank": 13,
+      "name": "Lovepop",
+      "slug": "lovepop"
+    },
+    {
+      "rank": 14,
+      "name": "Boy Smells",
+      "slug": "boy-smells"
+    },
+    {
+      "rank": 15,
+      "name": "Capri-Blue",
+      "slug": "capri-blue"
+    },
+    {
+      "rank": 16,
+      "name": "Spirit Halloween",
+      "slug": "spirit-halloween"
+    }
+  ],
+  "subscription-boxes-and-services": [
+    {
+      "rank": 1,
+      "name": "FabFitFun",
+      "slug": "fabfitfun"
+    },
+    {
+      "rank": 2,
+      "name": "Ipsy",
+      "slug": "ipsy"
+    },
+    {
+      "rank": 3,
+      "name": "Allure Beauty Box",
+      "slug": "allure-beauty-box"
+    },
+    {
+      "rank": 4,
+      "name": "Book of the Month",
+      "slug": "book-of-the-month"
+    },
+    {
+      "rank": 5,
+      "name": "Stitch Fix",
+      "slug": "stitch-fix"
+    },
+    {
+      "rank": 6,
+      "name": "Wantable",
+      "slug": "wantable-us"
+    },
+    {
+      "rank": 7,
+      "name": "Super Chewer",
+      "slug": "super-chewer"
+    },
+    {
+      "rank": 8,
+      "name": "Cratejoy",
+      "slug": "cratejoy"
+    },
+    {
+      "rank": 9,
+      "name": "Universal Yums",
+      "slug": "universal-yums"
+    },
+    {
+      "rank": 10,
+      "name": "Bokksu",
+      "slug": "bokksu"
+    },
+    {
+      "rank": 11,
+      "name": "Misfits Market",
+      "slug": "misfits-market-us"
+    },
+    {
+      "rank": 12,
+      "name": "Scentbird USA",
+      "slug": "scentbird-usa"
+    },
+    {
+      "rank": 13,
+      "name": "GQ Box",
+      "slug": "gq-box"
+    },
+    {
+      "rank": 14,
+      "name": "Rent the Runway",
+      "slug": "rent-the-runway"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    },
+    {
+      "rank": 2,
+      "name": "Melissa & Doug",
+      "slug": "melissa-and-doug"
+    },
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    },
+    {
+      "rank": 4,
+      "name": "Win a Free XBox with Game Pass",
+      "slug": "win-a-free-xbox-with-game-pass"
+    },
+    {
+      "rank": 5,
+      "name": "Gamestop",
+      "slug": "gamestop"
+    },
+    {
+      "rank": 6,
+      "name": "Build-A-Bear Workshop",
+      "slug": "build-a-bear-workshop"
+    },
+    {
+      "rank": 7,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
+    {
+      "rank": 8,
+      "name": "Tonies",
+      "slug": "tonies-us"
+    },
+    {
+      "rank": 9,
+      "name": "Ravensburger",
+      "slug": "ravensburger-us"
+    },
+    {
+      "rank": 10,
+      "name": "Razor",
+      "slug": "razor"
+    },
+    {
+      "rank": 11,
+      "name": "Step2",
+      "slug": "step2"
+    },
+    {
+      "rank": 12,
+      "name": "Little Tikes",
+      "slug": "little-tikes"
+    },
+    {
+      "rank": 13,
+      "name": "Walmart",
+      "slug": "walmart"
+    }
+  ],
+  "events-and-entertainment": [
+    {
+      "rank": 1,
+      "name": "Ticketmaster",
+      "slug": "ticketmaster"
+    },
+    {
+      "rank": 2,
+      "name": "StubHub",
+      "slug": "stubhub-us"
+    },
+    {
+      "rank": 3,
+      "name": "Vivid Seats",
+      "slug": "vivid-seats"
+    },
+    {
+      "rank": 4,
+      "name": "SeatGeek",
+      "slug": "seatgeek"
+    },
+    {
+      "rank": 5,
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "rank": 6,
+      "name": "ESPN",
+      "slug": "espn"
+    },
+    {
+      "rank": 7,
+      "name": "Topgolf Shop",
+      "slug": "topgolf-shop"
+    },
+    {
+      "rank": 8,
+      "name": "Madame Tussauds New York",
+      "slug": "madame-tussauds-new-york"
+    }
+  ],
+  "auto-and-tires": [
+    {
+      "rank": 1,
+      "name": "Advance Auto Parts",
+      "slug": "advance-auto-parts"
+    },
+    {
+      "rank": 2,
+      "name": "Carvana",
+      "slug": "carvana"
+    },
+    {
+      "rank": 3,
+      "name": "CarGurus",
+      "slug": "cargurus"
+    },
+    {
+      "rank": 4,
+      "name": "NAPA",
+      "slug": "napa"
+    },
+    {
+      "rank": 5,
+      "name": "Covercraft",
+      "slug": "covercraft"
+    },
+    {
+      "rank": 6,
+      "name": "Husky Liners",
+      "slug": "husky-liners"
+    },
+    {
+      "rank": 7,
+      "name": "Sixt",
+      "slug": "sixt"
+    },
+    {
+      "rank": 8,
+      "name": "Enterprise Rent A Car",
+      "slug": "enterprise-rent-a-car"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 1,
+      "name": "Staples Promo",
+      "slug": "staples-promo"
+    },
+    {
+      "rank": 2,
+      "name": "Quill",
+      "slug": "quill"
+    },
+    {
+      "rank": 3,
+      "name": "Avery",
+      "slug": "avery"
+    },
+    {
+      "rank": 4,
+      "name": "Brother",
+      "slug": "brother"
+    },
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 6,
+      "name": "UPLIFT Desk",
+      "slug": "uplift-desk"
+    },
+    {
+      "rank": 7,
+      "name": "Autonomous Inc",
+      "slug": "autonomous-inc"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    },
+    {
+      "rank": 9,
+      "name": "FedEx Office",
+      "slug": "fedex-office"
+    },
+    {
+      "rank": 10,
+      "name": "Smythson",
+      "slug": "smythson-us"
+    },
+    {
+      "rank": 11,
+      "name": "Levenger",
+      "slug": "levenger"
+    },
+    {
+      "rank": 12,
+      "name": "Quartet",
+      "slug": "quartet"
+    },
+    {
+      "rank": 13,
+      "name": "Rollo",
+      "slug": "rollo"
+    },
+    {
+      "rank": 14,
+      "name": "Clever Fox",
+      "slug": "clever-fox"
+    },
+    {
+      "rank": 15,
+      "name": "Getrocketbook",
+      "slug": "getrocketbook"
+    },
+    {
+      "rank": 16,
+      "name": "Plum Paper",
+      "slug": "plum-paper"
+    },
+    {
+      "rank": 17,
+      "name": "Day-Timer",
+      "slug": "day-timer"
+    },
+    {
+      "rank": 18,
+      "name": "Franklin Planner",
+      "slug": "franklin-planner"
+    },
+    {
+      "rank": 19,
+      "name": "At-A-Glance",
+      "slug": "at-a-glance"
+    },
+    {
+      "rank": 20,
+      "name": "TomatoInk",
+      "slug": "tomatoink"
+    },
+    {
+      "rank": 21,
+      "name": "Ink4Less",
+      "slug": "ink4less"
+    },
+    {
+      "rank": 22,
+      "name": "The Container Store",
+      "slug": "the-container-store"
+    },
+    {
+      "rank": 23,
+      "name": "Sihoo",
+      "slug": "sihoo"
+    },
+    {
+      "rank": 24,
+      "name": "Biz Chair",
+      "slug": "biz-chair"
+    },
+    {
+      "rank": 25,
+      "name": "Creality",
+      "slug": "creality"
+    },
+    {
+      "rank": 26,
+      "name": "Flashforge",
+      "slug": "flashforge"
+    },
+    {
+      "rank": 27,
+      "name": "Foxit",
+      "slug": "foxit"
+    },
+    {
+      "rank": 28,
+      "name": "PDF Expert",
+      "slug": "pdf-expert"
+    }
+  ]
+}

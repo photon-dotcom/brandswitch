@@ -1,0 +1,90 @@
+{
+  "clothing": [
+    {
+      "rank": 7,
+      "name": "Levi's",
+      "slug": "levis"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 4,
+      "name": "Estee Lauder",
+      "slug": "estee-lauder"
+    },
+    {
+      "rank": 6,
+      "name": "Bobbi Brown",
+      "slug": "bobbi-brown"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 28,
+      "name": "Bluetti",
+      "slug": "bluetti"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 3,
+      "name": "New Balance",
+      "slug": "new-balance"
+    },
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

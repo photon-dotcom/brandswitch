@@ -1,0 +1,71 @@
+{
+  "clothing": [
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 10,
+      "name": "Coursera",
+      "slug": "coursera"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 4,
+      "name": "Viator",
+      "slug": "viator"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

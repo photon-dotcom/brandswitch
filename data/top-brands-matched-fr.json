@@ -1,0 +1,283 @@
+{
+  "clothing": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 5,
+      "name": "ASOS",
+      "slug": "asos"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 26,
+      "name": "Anthropologie",
+      "slug": "anthropologie"
+    },
+    {
+      "rank": 27,
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters"
+    },
+    {
+      "rank": 30,
+      "name": "Superdry",
+      "slug": "superdry"
+    },
+    {
+      "rank": 37,
+      "name": "Vineyard Vines",
+      "slug": "vineyard-vines"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 2,
+      "name": "MAC Cosmetics",
+      "slug": "mac-cosmetics"
+    },
+    {
+      "rank": 4,
+      "name": "Estee Lauder",
+      "slug": "estee-lauder"
+    },
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    },
+    {
+      "rank": 6,
+      "name": "Bobbi Brown",
+      "slug": "bobbi-brown"
+    },
+    {
+      "rank": 7,
+      "name": "Nars Cosmetics",
+      "slug": "nars-cosmetics"
+    },
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 9,
+      "name": "Saucony",
+      "slug": "saucony"
+    },
+    {
+      "rank": 10,
+      "name": "Burton Snowboards",
+      "slug": "burton-snowboards"
+    },
+    {
+      "rank": 11,
+      "name": "Rossignol",
+      "slug": "rossignol"
+    },
+    {
+      "rank": 34,
+      "name": "Timberland",
+      "slug": "timberland"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    },
+    {
+      "rank": 8,
+      "name": "Razer",
+      "slug": "razer"
+    },
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 24,
+      "name": "TP-Link",
+      "slug": "tp-link"
+    },
+    {
+      "rank": 25,
+      "name": "NETGEAR",
+      "slug": "netgear"
+    },
+    {
+      "rank": 27,
+      "name": "EcoFlow",
+      "slug": "ecoflow"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 8,
+      "name": "Timberland",
+      "slug": "timberland"
+    },
+    {
+      "rank": 9,
+      "name": "UGG",
+      "slug": "ugg"
+    },
+    {
+      "rank": 15,
+      "name": "Merrell",
+      "slug": "merrell"
+    },
+    {
+      "rank": 18,
+      "name": "Steve Madden",
+      "slug": "steve-madden"
+    },
+    {
+      "rank": 33,
+      "name": "Saucony",
+      "slug": "saucony"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 15,
+      "name": "Ninja kitchen",
+      "slug": "ninja-kitchen"
+    },
+    {
+      "rank": 21,
+      "name": "Philips Hue",
+      "slug": "philips-hue"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 3,
+      "name": "Bitdefender",
+      "slug": "bitdefender"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 8,
+      "name": "Avis",
+      "slug": "avis"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 8,
+      "name": "SWAROVSKI",
+      "slug": "swarovski"
+    },
+    {
+      "rank": 14,
+      "name": "Nordgreen",
+      "slug": "nordgreen"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    },
+    {
+      "rank": 12,
+      "name": "Maxi-cosi",
+      "slug": "maxi-cosi"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    },
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    }
+  ],
+  "auto-and-tires": [
+    {
+      "rank": 7,
+      "name": "Sixt",
+      "slug": "sixt"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    }
+  ]
+}

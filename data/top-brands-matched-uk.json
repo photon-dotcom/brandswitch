@@ -1,0 +1,454 @@
+{
+  "clothing": [
+    {
+      "rank": 5,
+      "name": "ASOS",
+      "slug": "asos"
+    },
+    {
+      "rank": 7,
+      "name": "Levi's",
+      "slug": "levis"
+    },
+    {
+      "rank": 13,
+      "name": "Stella McCartney",
+      "slug": "stella-mccartney"
+    },
+    {
+      "rank": 15,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 16,
+      "name": "Carhartt",
+      "slug": "carhartt"
+    },
+    {
+      "rank": 20,
+      "name": "Brooks Brothers",
+      "slug": "brooks-brothers"
+    },
+    {
+      "rank": 21,
+      "name": "Gap",
+      "slug": "gap"
+    },
+    {
+      "rank": 26,
+      "name": "Anthropologie",
+      "slug": "anthropologie"
+    },
+    {
+      "rank": 28,
+      "name": "AllSaints",
+      "slug": "allsaints"
+    },
+    {
+      "rank": 30,
+      "name": "Superdry",
+      "slug": "superdry"
+    },
+    {
+      "rank": 39,
+      "name": "Ariat",
+      "slug": "ariat"
+    },
+    {
+      "rank": 41,
+      "name": "Theory",
+      "slug": "theory"
+    },
+    {
+      "rank": 44,
+      "name": "Tory Burch",
+      "slug": "tory-burch"
+    },
+    {
+      "rank": 46,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    }
+  ],
+  "health-and-beauty": [
+    {
+      "rank": 4,
+      "name": "Estee Lauder",
+      "slug": "estee-lauder"
+    },
+    {
+      "rank": 5,
+      "name": "Charlotte Tilbury",
+      "slug": "charlotte-tilbury"
+    },
+    {
+      "rank": 7,
+      "name": "Nars Cosmetics",
+      "slug": "nars-cosmetics"
+    },
+    {
+      "rank": 8,
+      "name": "Benefit Cosmetics",
+      "slug": "benefit-cosmetics"
+    },
+    {
+      "rank": 9,
+      "name": "Fenty Beauty",
+      "slug": "fenty-beauty"
+    },
+    {
+      "rank": 12,
+      "name": "Bumble and Bumble",
+      "slug": "bumble-and-bumble"
+    },
+    {
+      "rank": 16,
+      "name": "Clarins",
+      "slug": "clarins"
+    },
+    {
+      "rank": 24,
+      "name": "OLAPLEX",
+      "slug": "olaplex"
+    },
+    {
+      "rank": 31,
+      "name": "hims",
+      "slug": "hims"
+    },
+    {
+      "rank": 37,
+      "name": "Beauty Pie",
+      "slug": "beauty-pie"
+    }
+  ],
+  "sports-outdoors-and-fitness": [
+    {
+      "rank": 3,
+      "name": "Under Armour",
+      "slug": "under-armour"
+    },
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 9,
+      "name": "Saucony",
+      "slug": "saucony"
+    },
+    {
+      "rank": 25,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
+      "rank": 37,
+      "name": "Sweaty Betty",
+      "slug": "sweaty-betty"
+    },
+    {
+      "rank": 38,
+      "name": "Therabody",
+      "slug": "therabody"
+    },
+    {
+      "rank": 40,
+      "name": "TRX Training",
+      "slug": "trx-training"
+    }
+  ],
+  "electronics": [
+    {
+      "rank": 1,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "rank": 4,
+      "name": "Dyson",
+      "slug": "dyson"
+    },
+    {
+      "rank": 9,
+      "name": "Corsair",
+      "slug": "corsair"
+    },
+    {
+      "rank": 12,
+      "name": "Philips",
+      "slug": "philips"
+    },
+    {
+      "rank": 15,
+      "name": "ASUS",
+      "slug": "asus"
+    },
+    {
+      "rank": 18,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 21,
+      "name": "Amazfit",
+      "slug": "amazfit"
+    },
+    {
+      "rank": 25,
+      "name": "NETGEAR",
+      "slug": "netgear"
+    },
+    {
+      "rank": 27,
+      "name": "EcoFlow",
+      "slug": "ecoflow"
+    },
+    {
+      "rank": 31,
+      "name": "SteelSeries",
+      "slug": "steelseries"
+    }
+  ],
+  "shoes": [
+    {
+      "rank": 5,
+      "name": "Reebok",
+      "slug": "reebok"
+    },
+    {
+      "rank": 9,
+      "name": "UGG",
+      "slug": "ugg"
+    },
+    {
+      "rank": 15,
+      "name": "Merrell",
+      "slug": "merrell"
+    },
+    {
+      "rank": 18,
+      "name": "Steve Madden",
+      "slug": "steve-madden"
+    },
+    {
+      "rank": 23,
+      "name": "Allbirds",
+      "slug": "allbirds"
+    },
+    {
+      "rank": 30,
+      "name": "Rothy's",
+      "slug": "rothys"
+    },
+    {
+      "rank": 33,
+      "name": "Saucony",
+      "slug": "saucony"
+    }
+  ],
+  "home-and-garden": [
+    {
+      "rank": 8,
+      "name": "Nectar Sleep",
+      "slug": "nectar-sleep"
+    },
+    {
+      "rank": 13,
+      "name": "KitchenAid",
+      "slug": "kitchenaid"
+    },
+    {
+      "rank": 17,
+      "name": "Le Creuset",
+      "slug": "le-creuset"
+    }
+  ],
+  "digital-services-and-streaming": [
+    {
+      "rank": 1,
+      "name": "NordVPN",
+      "slug": "nordvpn"
+    },
+    {
+      "rank": 3,
+      "name": "Bitdefender",
+      "slug": "bitdefender"
+    },
+    {
+      "rank": 10,
+      "name": "Coursera",
+      "slug": "coursera"
+    },
+    {
+      "rank": 14,
+      "name": "Fiverr",
+      "slug": "fiverr"
+    },
+    {
+      "rank": 15,
+      "name": "Upwork",
+      "slug": "upwork"
+    },
+    {
+      "rank": 17,
+      "name": "Bluehost",
+      "slug": "bluehost"
+    },
+    {
+      "rank": 18,
+      "name": "Protonvpn",
+      "slug": "protonvpn"
+    }
+  ],
+  "food-drinks-and-restaurants": [
+    {
+      "rank": 16,
+      "name": "Naked Wines",
+      "slug": "naked-wines"
+    }
+  ],
+  "travel-and-vacations": [
+    {
+      "rank": 1,
+      "name": "Hilton",
+      "slug": "hilton"
+    },
+    {
+      "rank": 5,
+      "name": "GetYourGuide",
+      "slug": "getyourguide"
+    },
+    {
+      "rank": 8,
+      "name": "Avis",
+      "slug": "avis"
+    },
+    {
+      "rank": 13,
+      "name": "Contiki",
+      "slug": "contiki"
+    },
+    {
+      "rank": 14,
+      "name": "G Adventures",
+      "slug": "g-adventures"
+    },
+    {
+      "rank": 17,
+      "name": "Tumi",
+      "slug": "tumi"
+    }
+  ],
+  "accessories": [
+    {
+      "rank": 1,
+      "name": "Coach",
+      "slug": "coach"
+    },
+    {
+      "rank": 2,
+      "name": "Kate Spade",
+      "slug": "kate-spade"
+    },
+    {
+      "rank": 3,
+      "name": "Tumi",
+      "slug": "tumi"
+    },
+    {
+      "rank": 8,
+      "name": "SWAROVSKI",
+      "slug": "swarovski"
+    }
+  ],
+  "pets": [
+    {
+      "rank": 6,
+      "name": "Wisdom Panel",
+      "slug": "wisdom-panel"
+    }
+  ],
+  "baby-and-toddler": [
+    {
+      "rank": 3,
+      "name": "Stokke",
+      "slug": "stokke"
+    },
+    {
+      "rank": 9,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
+    {
+      "rank": 11,
+      "name": "BugaBoo",
+      "slug": "bugaboo"
+    },
+    {
+      "rank": 12,
+      "name": "Maxi-cosi",
+      "slug": "maxi-cosi"
+    }
+  ],
+  "gifts-flowers-and-parties": [
+    {
+      "rank": 6,
+      "name": "Mixbook",
+      "slug": "mixbook"
+    }
+  ],
+  "toys-and-games": [
+    {
+      "rank": 1,
+      "name": "LEGO",
+      "slug": "lego"
+    },
+    {
+      "rank": 3,
+      "name": "PlayStation Direct",
+      "slug": "playstation-direct"
+    },
+    {
+      "rank": 7,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    }
+  ],
+  "auto-and-tires": [
+    {
+      "rank": 3,
+      "name": "CarGurus",
+      "slug": "cargurus"
+    },
+    {
+      "rank": 7,
+      "name": "Sixt",
+      "slug": "sixt"
+    }
+  ],
+  "office-supplies": [
+    {
+      "rank": 5,
+      "name": "FlexiSpot",
+      "slug": "flexispot"
+    },
+    {
+      "rank": 8,
+      "name": "VistaPrint",
+      "slug": "vistaprint"
+    },
+    {
+      "rank": 23,
+      "name": "Sihoo",
+      "slug": "sihoo"
+    },
+    {
+      "rank": 28,
+      "name": "PDF Expert",
+      "slug": "pdf-expert"
+    }
+  ]
+}
