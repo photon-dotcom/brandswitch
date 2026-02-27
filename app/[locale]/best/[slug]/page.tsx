@@ -6,7 +6,6 @@ import {
   getBrandsByCategory,
   catToSlug,
   BEST_OF_MAP,
-  MARKETS,
 } from '@/lib/brands';
 import { translateCategory } from '@/lib/translations';
 import { BrandLogo } from '@/components/BrandLogo';

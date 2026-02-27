@@ -48,6 +48,7 @@ export function GET(request: NextRequest) {
 
   const results = [...prefix, ...contains]
     .slice(0, 8)
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     .map(({ eCPC: _eCPC, ...r }): SearchResult => r);
 
   return NextResponse.json(results);

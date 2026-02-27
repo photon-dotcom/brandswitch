@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import {
-  getCategories,
   getCuratedTopBrands,
   getCuratedCategorySlugs,
   getCategoryName,

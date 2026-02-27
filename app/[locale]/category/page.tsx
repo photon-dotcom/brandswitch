@@ -8,7 +8,7 @@ interface Props {
   params: { locale: string };
 }
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+export async function generateMetadata(): Promise<Metadata> {
   return {
     title: 'Browse Brand Categories | Brandswitch',
     description: 'Explore brands by category. Find alternatives to your favourite fashion, travel, beauty, tech brands and more.',
