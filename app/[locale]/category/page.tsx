@@ -4,17 +4,18 @@ import { getTranslations } from 'next-intl/server';
 import { getCategories, MARKETS } from '@/lib/brands';
 import { translateCategory } from '@/lib/translations';
 
-export async function generateMetadata(): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: { locale: string } }): Promise<Metadata> {
   return {
     title: 'Browse Brand Categories | Brandswitch',
     description: 'Explore brands by category. Find alternatives to your favourite fashion, travel, beauty, tech brands and more.',
+    alternates: { canonical: `https://brandswitch.com/${params.locale}/category` },
   };
 }
 
 export async function generateStaticParams() {
   return MARKETS.map(locale => ({ locale }));
 }
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 // Geometric icon map for category visual identity
 const CAT_ICONS: Record<string, string> = {

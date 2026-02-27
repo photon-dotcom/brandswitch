@@ -37,7 +37,7 @@ export async function generateStaticParams() {
 // Serve pages for brands not in the pre-rendered top-200 (dynamic fallback)
 export const dynamicParams = true;
 // Cache for 24h then revalidate in background (ISR)
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 // ── SEO ───────────────────────────────────────────────────────────────────
 
@@ -53,14 +53,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = brand.categories[0] ?? 'brand';
   const altCount = brand.similarBrands?.length ?? 0;
 
+  const title = `${altCount} Brands Like ${displayName} — Best ${cat} Alternatives | Brandswitch`;
+  const description = getBrandDescription({ ...brand, name: displayName });
+
   return {
-    title: `${altCount} Brands Like ${displayName} — Best ${cat} Alternatives | Brandswitch`,
-    description: getBrandDescription({ ...brand, name: displayName }),
+    title,
+    description,
     alternates: {
       canonical: `https://brandswitch.com/${params.locale}/brands-like/${params.slug}`,
       languages: Object.fromEntries(
         MARKETS.map(m => [m === 'us' ? 'en-US' : m === 'uk' ? 'en-GB' : m, `https://brandswitch.com/${m}/brands-like/${params.slug}`])
       ),
+    },
+    openGraph: {
+      title,
+      description,
+      url: `https://brandswitch.com/${params.locale}/brands-like/${params.slug}`,
+      siteName: 'Brandswitch',
+      type: 'website',
     },
     robots: { index: true, follow: true },
   };

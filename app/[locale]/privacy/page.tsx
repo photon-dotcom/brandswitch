@@ -5,7 +5,7 @@ interface Props {
   params: { locale: string };
 }
 
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 export async function generateMetadata(): Promise<Metadata> {
   return {

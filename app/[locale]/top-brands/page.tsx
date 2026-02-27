@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export async function generateStaticParams() {
   return MARKETS.map(locale => ({ locale }));
 }
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 // Category display order (matches categories-us.json order)
 const CAT_ICONS: Record<string, string> = {

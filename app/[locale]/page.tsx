@@ -20,6 +20,14 @@ interface PageProps {
   params: { locale: string };
 }
 
+export async function generateMetadata({ params }: PageProps): Promise<import('next').Metadata> {
+  return {
+    alternates: {
+      canonical: `https://brandswitch.com/${params.locale}`,
+    },
+  };
+}
+
 export const revalidate = 86400;
 
 export default async function HomePage({ params: { locale } }: PageProps) {

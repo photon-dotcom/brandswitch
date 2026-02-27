@@ -24,7 +24,7 @@ export async function generateStaticParams() {
   return params;
 }
 export const dynamicParams = false;
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const categoryName = BEST_OF_MAP[params.slug];

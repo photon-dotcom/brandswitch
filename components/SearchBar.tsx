@@ -1,8 +1,18 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { useRouter } from 'next/navigation';
+
+interface SearchEntry {
+  name: string;
+  slug: string;
+  logo: string;
+  domain: string;
+  cat: string;
+  eCPC: string;
+}
 
 interface SearchResult {
   name: string;
@@ -17,6 +27,28 @@ interface SearchBarProps {
   size?: 'default' | 'large';
 }
 
+// In-memory cache: locale → loaded index (loaded once on first keystroke)
+const indexCache = new Map<string, SearchEntry[]>();
+
+function searchIndex(entries: SearchEntry[], q: string): SearchResult[] {
+  const lower = q.toLowerCase();
+  const prefix: (SearchEntry & { eCPC_n: number })[] = [];
+  const contains: (SearchEntry & { eCPC_n: number })[] = [];
+  for (const e of entries) {
+    if (!e.slug || !e.name) continue;
+    const name = e.name.toLowerCase();
+    const item = { ...e, eCPC_n: parseFloat(e.eCPC) || 0 };
+    if (name.startsWith(lower)) prefix.push(item);
+    else if (name.includes(lower)) contains.push(item);
+  }
+  prefix.sort((a, b) => b.eCPC_n - a.eCPC_n);
+  contains.sort((a, b) => b.eCPC_n - a.eCPC_n);
+  return [...prefix, ...contains].slice(0, 8).map(e => ({
+    name: e.name, slug: e.slug, logo: e.logo, domain: e.domain,
+    categories: e.cat ? [e.cat] : [],
+  }));
+}
+
 export function SearchBar({ locale, size = 'default' }: SearchBarProps) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
@@ -26,8 +58,9 @@ export function SearchBar({ locale, size = 'default' }: SearchBarProps) {
   const t = useTranslations('search');
   const containerRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const loadingRef = useRef(false);
 
-  // Debounced fetch — fires 250ms after the user stops typing
+  // Lazy-load the search index on first keystroke, then search in-memory
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
 
@@ -39,15 +72,22 @@ export function SearchBar({ locale, size = 'default' }: SearchBarProps) {
 
     debounceRef.current = setTimeout(async () => {
       try {
-        const res = await fetch(
-          `/api/search?q=${encodeURIComponent(query.trim())}&locale=${locale}`
-        );
-        const data: SearchResult[] = await res.json();
+        // Load index once per locale, cache in memory
+        if (!indexCache.has(locale) && !loadingRef.current) {
+          loadingRef.current = true;
+          const res = await fetch(`/search-index-${locale}.json`);
+          const data: SearchEntry[] = await res.json();
+          indexCache.set(locale, data);
+          loadingRef.current = false;
+        }
+        const entries = indexCache.get(locale);
+        if (!entries) return;
+        const data = searchIndex(entries, query.trim());
         setResults(data);
         setOpen(data.length > 0);
         setActiveIndex(-1);
       } catch {
-        // Network errors silently ignored — search just won't show results
+        // Network errors silently ignored
       }
     }, 250);
 
@@ -180,14 +220,16 @@ export function SearchBar({ locale, size = 'default' }: SearchBarProps) {
                   {result.name[0]?.toUpperCase()}
                 </span>
                 {result.logo && (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
+                  <Image
                     src={result.logo}
                     alt=""
-                    className="absolute inset-0 w-full h-full object-contain p-0.5 bg-white"
+                    fill
+                    sizes="36px"
+                    className="object-contain p-0.5 bg-white"
                     onError={e => {
                       (e.currentTarget as HTMLImageElement).style.display = 'none';
                     }}
+                    unoptimized
                   />
                 )}
               </div>

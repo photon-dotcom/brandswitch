@@ -11,16 +11,37 @@
  *   npx tsx scripts/sync-brands.ts --resume       # continue from checkpoint
  *   npx tsx scripts/sync-brands.ts --classify     # also run LLM classification (costs money)
  *
- * Env vars (override CLI defaults):
+ * Env vars:
+ *   PICKALINK_CPA_KEY  Pickalink CPA authorization key (required)
+ *   PICKALINK_CPC_KEY  Pickalink CPC authorization key (required)
+ *   SHOPTASTIC_CPA_KEY Shoptastic CPA authorization key (required)
+ *   SHOPTASTIC_CPC_KEY Shoptastic CPC authorization key (required)
+ *   LOGODEV_TOKEN      Logo.dev API token (required)
+ *   ANTHROPIC_API_KEY  required when using --classify
  *   PAGE_DELAY_MS      ms to wait between pages  (default: 0 for local, set high in CI)
  *   MAX_PAGES          max pages to fetch this run (default: all)
- *   ANTHROPIC_API_KEY  required when using --classify
+ *
+ * Copy .env.example → .env and fill in values before running.
  */
 
 import fs from 'fs';
 import https from 'https';
 import path from 'path';
 import { fileURLToPath } from 'url';
+
+// Load .env file if present (tsx/node doesn't auto-load it)
+const envPath = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../.env');
+if (fs.existsSync(envPath)) {
+  for (const line of fs.readFileSync(envPath, 'utf-8').split('\n')) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('#')) continue;
+    const eq = trimmed.indexOf('=');
+    if (eq < 0) continue;
+    const key = trimmed.slice(0, eq).trim();
+    const val = trimmed.slice(eq + 1).trim();
+    if (key && !(key in process.env)) process.env[key] = val;
+  }
+}
 
 // ── Types ────────────────────────────────────────────────────────────────────
 
@@ -124,28 +145,28 @@ const FEEDS: FeedConfig[] = [
     name: 'Pickalink CPA',
     type: 'cpa',
     baseUrl: 'https://api.pickalink.com/publisher/advertiserSearch?pubId=88888903&programId=10735',
-    apiKey: 'e4583785a34d6d33690e9ced6882e0c0',
+    apiKey: process.env.PICKALINK_CPA_KEY ?? '',
     priority: 1,
   },
   {
     name: 'Pickalink CPC',
     type: 'cpc',
     baseUrl: 'https://api.pickalink.com/publisher/advertiserSearch?pubId=88888903&programId=10736',
-    apiKey: 'e4583785a34d6d33690e9ced6882e0c0',
+    apiKey: process.env.PICKALINK_CPC_KEY ?? '',
     priority: 2,
   },
   {
     name: 'Shoptastic CPA',
     type: 'cpa',
     baseUrl: 'https://api.shoptastic.io/publisher/advertiserSearch?pubId=88888889',
-    apiKey: 'e38e4e41c440048556d28b54e82f888b',
+    apiKey: process.env.SHOPTASTIC_CPA_KEY ?? '',
     priority: 3,
   },
   {
     name: 'Shoptastic CPC',
     type: 'cpc',
     baseUrl: 'https://api.shoptastic.io/publisher/advertiserSearch?pubId=88888890',
-    apiKey: 'ef9cbd0c06a019eb49d011652684050b',
+    apiKey: process.env.SHOPTASTIC_CPC_KEY ?? '',
     priority: 4,
   },
 ];
@@ -753,7 +774,8 @@ async function resolveLogoQuality(brand: Brand): Promise<LogoResolution> {
   }
 
   // 4. Logo.dev — lower priority due to occasional incorrect logos; GET required
-  const logoDevUrl = `https://img.logo.dev/${domain}?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png`;
+  const logoDevToken = process.env.LOGODEV_TOKEN ?? '';
+  const logoDevUrl = `https://img.logo.dev/${domain}?token=${logoDevToken}&size=200&format=png`;
   const ld = await checkUrl(logoDevUrl, 'GET');
   await sleep(100);
   if (ld.ok && ld.isImage && ld.size > LOGO_MIN_SIZE) {
@@ -1604,10 +1626,13 @@ async function main() {
       cat: b.categories?.[0] ?? '',
       eCPC: b.eCPC ?? '0',
     }));
-    fs.writeFileSync(
-      path.join(DATA_DIR, `search-index-${key}.json`),
-      JSON.stringify(searchIndex)
-    );
+    const searchIndexJson = JSON.stringify(searchIndex);
+    fs.writeFileSync(path.join(DATA_DIR, `search-index-${key}.json`), searchIndexJson);
+    // Also write to public/ so it can be fetched client-side (bypasses /api/search)
+    const publicDir = path.join(ROOT, 'public');
+    if (fs.existsSync(publicDir)) {
+      fs.writeFileSync(path.join(publicDir, `search-index-${key}.json`), searchIndexJson);
+    }
 
     // categories-{market}.json
     const categories = buildCategories(brands);

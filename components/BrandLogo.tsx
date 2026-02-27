@@ -46,7 +46,8 @@ export function BrandLogo({ name, logo, domain, size = 48, className = '', logoQ
     const clearbit = `https://logo.clearbit.com/${domain}?size=200`;
     if (!sources.includes(clearbit)) sources.push(clearbit);
     // Logo.dev: broad coverage, 200px
-    sources.push(`https://img.logo.dev/${domain}?token=pk_a]VaSaF5SQqihDsg7a8dKw&size=200`);
+    const logoDevToken = process.env.NEXT_PUBLIC_LOGODEV_TOKEN ?? '';
+    sources.push(`https://img.logo.dev/${domain}?token=${logoDevToken}&size=200`);
     // Google high-res favicon service (better than the old /s2/favicons endpoint)
     sources.push(`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`);
     // DuckDuckGo icon service (good coverage for non-US brands)
@@ -86,7 +87,6 @@ export function BrandLogo({ name, logo, domain, size = 48, className = '', logoQ
             setSrcIndex(i => i + 1);
           }
         }}
-        unoptimized
       />
     </div>
   );

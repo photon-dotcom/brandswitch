@@ -3,17 +3,18 @@ import { getTranslations } from 'next-intl/server';
 import { getTopBrands, MARKETS } from '@/lib/brands';
 import { BrandCard } from '@/components/BrandCard';
 
-export async function generateMetadata(): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: { locale: string } }): Promise<Metadata> {
   return {
     title: `Popular Brands — Find Alternatives | Brandswitch`,
     description: `Browse thousands of brands and discover alternatives. Search for any brand to find similar options ranked by similarity.`,
+    alternates: { canonical: `https://brandswitch.com/${params.locale}/brands-like` },
   };
 }
 
 export async function generateStaticParams() {
   return MARKETS.map(locale => ({ locale }));
 }
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 export default async function BrandsIndexPage({ params: { locale } }: { params: { locale: string } }) {
   const t = await getTranslations('ui');
