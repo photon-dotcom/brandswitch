@@ -17,4 +17,5 @@ export interface Brand {
   eCPC: string;
   similarBrands: string[]; // slugs of precomputed similar brands
   logoQuality: 'high' | 'medium' | 'low' | 'none';
+  affiliateSource: string; // "Pickalink CPA" | "Pickalink CPC" | "Shoptastic CPA" | etc.
 }

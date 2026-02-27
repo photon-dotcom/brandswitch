@@ -25,7 +25,7 @@ function loadEvents(): ClickEvent[] {
 function top<T extends string>(arr: T[], n = 20): [T, number][] {
   const counts = new Map<T, number>();
   for (const v of arr) counts.set(v, (counts.get(v) ?? 0) + 1);
-  return [...counts.entries()]
+  return Array.from(counts.entries())
     .sort((a, b) => b[1] - a[1])
     .slice(0, n) as [T, number][];
 }
@@ -44,7 +44,7 @@ export default function AdminClicksPage() {
     const day = e.timestamp?.slice(0, 10) ?? 'unknown';
     dayMap.set(day, (dayMap.get(day) ?? 0) + 1);
   }
-  const byDay = [...dayMap.entries()].sort((a, b) => b[0].localeCompare(a[0])).slice(0, 14);
+  const byDay = Array.from(dayMap.entries()).sort((a, b) => b[0].localeCompare(a[0])).slice(0, 14);
 
   return (
     <div className="min-h-screen bg-bs-bg">
