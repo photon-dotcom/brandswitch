@@ -167,8 +167,14 @@ const args = process.argv.slice(2);
 const argMap: Record<string, string> = {};
 for (let i = 0; i < args.length; i++) {
   if (args[i].startsWith('--')) {
-    argMap[args[i].slice(2)] = args[i + 1] ?? 'true';
-    i++;
+    const nextArg = args[i + 1];
+    // Only consume the next arg as a value if it doesn't look like a flag itself
+    if (nextArg !== undefined && !nextArg.startsWith('--')) {
+      argMap[args[i].slice(2)] = nextArg;
+      i++;
+    } else {
+      argMap[args[i].slice(2)] = 'true';
+    }
   }
 }
 

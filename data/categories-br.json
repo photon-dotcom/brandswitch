@@ -2,37 +2,47 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 630
+    "brandCount": 370
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 75
+    "brandCount": 178
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 65
+    "brandCount": 86
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 65
-  },
-  {
-    "name": "Electronics",
-    "slug": "electronics",
-    "brandCount": 51
+    "brandCount": 82
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 45
+    "brandCount": 73
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "brandCount": 70
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 54
+  },
+  {
+    "name": "Travel & Vacations",
+    "slug": "travel-and-vacations",
+    "brandCount": 51
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 42
+    "brandCount": 49
   },
   {
     "name": "Food, Drinks & Restaurants",
@@ -40,19 +50,14 @@
     "brandCount": 41
   },
   {
-    "name": "Travel & Vacations",
-    "slug": "travel-and-vacations",
-    "brandCount": 38
-  },
-  {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
     "brandCount": 35
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 31
+    "name": "Shoes",
+    "slug": "shoes",
+    "brandCount": 26
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -60,18 +65,18 @@
     "brandCount": 22
   },
   {
-    "name": "Shoes",
-    "slug": "shoes",
-    "brandCount": 22
-  },
-  {
     "name": "Baby & Toddler",
     "slug": "baby-and-toddler",
-    "brandCount": 14
+    "brandCount": 18
   },
   {
     "name": "Toys & Games",
     "slug": "toys-and-games",
+    "brandCount": 18
+  },
+  {
+    "name": "Auto & Tires",
+    "slug": "auto-and-tires",
     "brandCount": 14
   },
   {
@@ -82,7 +87,7 @@
   {
     "name": "Pets",
     "slug": "pets",
-    "brandCount": 9
+    "brandCount": 10
   },
   {
     "name": "Office Supplies",
@@ -90,8 +95,13 @@
     "brandCount": 9
   },
   {
-    "name": "Auto & Tires",
-    "slug": "auto-and-tires",
-    "brandCount": 7
+    "name": "Food Drinks & Restaurants",
+    "slug": "food-drinks-and-restaurants",
+    "brandCount": 6
+  },
+  {
+    "name": "Gifts Flowers & Parties",
+    "slug": "gifts-flowers-and-parties",
+    "brandCount": 3
   }
 ]
