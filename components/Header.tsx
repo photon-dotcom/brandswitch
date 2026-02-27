@@ -84,9 +84,6 @@ export function Header({ locale }: HeaderProps) {
           <Link href={`/${locale}/top-brands`} className="text-sm font-medium text-bs-gray hover:text-bs-dark transition-colors">
             {t('top_brands')}
           </Link>
-          <Link href={`/${locale}/blog`} className="text-sm font-medium text-bs-gray hover:text-bs-dark transition-colors">
-            {t('blog')}
-          </Link>
         </nav>
 
         {/* ── Right side ───────────────────────── */}
@@ -177,9 +174,6 @@ export function Header({ locale }: HeaderProps) {
             </Link>
             <Link href={`/${locale}/top-brands`} className="text-sm font-medium text-bs-dark" onClick={() => setMobileOpen(false)}>
               {t('top_brands')}
-            </Link>
-            <Link href={`/${locale}/blog`} className="text-sm font-medium text-bs-dark" onClick={() => setMobileOpen(false)}>
-              {t('blog')}
             </Link>
 
             {/* Mobile market switcher */}

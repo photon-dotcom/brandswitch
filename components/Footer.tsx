@@ -264,11 +264,6 @@ export async function Footer({ locale }: FooterProps) {
                   {labels.categories}
                 </Link>
               </li>
-              <li>
-                <Link href={`/${locale}/blog`} className="text-sm text-white/50 hover:text-white transition-colors">
-                  {labels.blog}
-                </Link>
-              </li>
             </ul>
           </div>
 
