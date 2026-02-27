@@ -21,19 +21,20 @@ import { FAQ, type FAQItem } from '@/components/FAQ';
 
 // ── Static generation ──────────────────────────────────────────────────────
 
-// Pre-render top 1000 brands per market at build time.
-// All other brand pages are rendered on first request and cached.
+// Pre-render top 200 brands per market at build time with explicit locale+slug pairs.
+// Without explicit locale, Next.js would multiply all slugs × all locales → ~200k pages.
+// All other brand pages are rendered on first request and cached (ISR).
 export async function generateStaticParams() {
-  const params: { slug: string }[] = [];
+  const params: { locale: string; slug: string }[] = [];
   for (const locale of MARKETS) {
-    for (const slug of getTopBrandSlugs(locale, 1000)) {
-      params.push({ slug });
+    for (const slug of getTopBrandSlugs(locale, 200)) {
+      params.push({ locale, slug });
     }
   }
   return params;
 }
 
-// Serve pages for brands not in the pre-rendered top-1000 (dynamic fallback)
+// Serve pages for brands not in the pre-rendered top-200 (dynamic fallback)
 export const dynamicParams = true;
 // Cache for 24h then revalidate in background (ISR)
 export const revalidate = 86400;
