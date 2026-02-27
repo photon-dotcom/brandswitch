@@ -148,16 +148,16 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
       "droogmolenstore",
-      "dyson",
-      "e-styleaudionl",
-      "ecomputernl"
+      "dyson"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -457,11 +457,11 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
       "highgoogle",
-      "hostnet",
-      "iamacademy"
+      "hostnet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -871,12 +871,12 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
       "danubius-hotels",
-      "db-benelux",
-      "duinrell"
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1249,16 +1249,16 @@
       "123ledspots",
       "store-acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
       "droogmolenstore",
-      "dyson",
-      "e-styleaudionl",
-      "ecomputernl"
+      "dyson"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -2444,10 +2444,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/aovo.de",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/aovostore-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2458,20 +2458,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore",
+      "dyson"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -2717,15 +2717,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
       "droogmolenstore",
-      "dyson",
-      "e-styleaudionl",
-      "ecomputernl"
+      "dyson"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -3135,10 +3135,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/autoonderdelen24.be",
     "categories": [
-      "Products"
+      "Auto & Tires"
     ],
     "tags": [
-      "products"
+      "auto",
+      "tires"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/autoonderdelen24-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3148,21 +3149,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "7.53",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "aerosus",
+      "auto-onderdelen24",
+      "auto-onderdelenexpert",
+      "autobandenmarkt",
+      "autodoc",
+      "auto-europe",
+      "autovendinl",
+      "banden",
+      "pneus-online",
+      "bettertires",
+      "carcarenederlandnl",
+      "cargoodsnl",
+      "donrox",
+      "freesoo-auto",
+      "hertz-netherlands"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3534,16 +3535,16 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
       "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer",
-      "online-voordeelactiesnl"
+      "maxi-cosi"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -3576,16 +3577,16 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
       "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer",
-      "online-voordeelactiesnl"
+      "maxi-cosi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3618,16 +3619,16 @@
       "babydrogist",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
       "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer",
-      "online-voordeelactiesnl"
+      "maxi-cosi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4234,6 +4235,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "pneus-online",
       "bettertires",
@@ -4241,8 +4243,7 @@
       "cargoodsnl",
       "donrox",
       "freesoo-auto",
-      "hertz-netherlands",
-      "ikwileengoedkopebushurennl"
+      "hertz-netherlands"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5507,6 +5508,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -5514,8 +5516,7 @@
       "cargoodsnl",
       "donrox",
       "freesoo-auto",
-      "hertz-netherlands",
-      "ikwileengoedkopebushurennl"
+      "hertz-netherlands"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7880,10 +7881,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/case2go.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/case2go-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7894,20 +7895,20 @@
     "eCPC": "0.23",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore",
+      "dyson"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8023,6 +8024,7 @@
       "ali-express",
       "aosom",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -8033,8 +8035,7 @@
       "proaudioeducationnl",
       "schecker",
       "zooplus",
-      "animals-giftshopnl",
-      "aquariumonderdelennl"
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8073,12 +8074,12 @@
       "bagage24",
       "barcelo-hotels-and-resorts",
       "bebsy",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
       "danubius-hotels",
-      "db-benelux",
-      "duinrell"
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8177,10 +8178,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/chaletsplus.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/chaletspluscom?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -8190,21 +8192,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
+      "aerosus",
       "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel",
+      "danubius-hotels",
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9205,11 +9207,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruisewinkel",
       "danubius-hotels",
-      "db-benelux",
-      "duinrell"
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9247,11 +9249,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "danubius-hotels",
-      "db-benelux",
-      "duinrell"
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9475,10 +9477,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/us.danielwellington.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/us-danielwellington-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9489,20 +9491,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9540,11 +9542,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "db-benelux",
-      "duinrell"
+      "db-benelux"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10830,10 +10832,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/divoza.com",
     "categories": [
-      "Products"
+      "Pets"
     ],
     "tags": [
-      "products"
+      "pets"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/divoza-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10844,20 +10846,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "aosom",
+      "catalister",
+      "cateredskichalets",
+      "dogginl",
+      "duifhuizen",
+      "ezydognl",
+      "hapjescateraarnl",
+      "just-russel",
+      "megagadgets",
+      "onlinehondenspeciaalzaaknl",
+      "proaudioeducationnl",
+      "schecker",
+      "zooplus",
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10931,6 +10933,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "duifhuizen",
       "ezydognl",
       "hapjescateraarnl",
@@ -10940,8 +10943,7 @@
       "proaudioeducationnl",
       "schecker",
       "zooplus",
-      "animals-giftshopnl",
-      "aquariumonderdelennl"
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11129,10 +11131,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/dreame.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/dreame-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -11143,20 +11145,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11389,10 +11391,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/dryly.com",
     "categories": [
-      "Products"
+      "Baby & Toddler"
     ],
     "tags": [
-      "products"
+      "baby",
+      "toddler"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/drylycom?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -11403,20 +11406,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "baby-tula",
+      "babydrogist",
+      "babymaan",
+      "bamboo-basics",
+      "bellabambinanl",
+      "feminin-maternel",
+      "fr-fanshop",
+      "happybee",
+      "joolz",
+      "kidzstore",
+      "kinderkleding-tekoop",
+      "little-dreamers",
+      "mamaloesnl",
+      "maxi-cosi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12050,15 +12053,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12900,6 +12903,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "hapjescateraarnl",
@@ -12909,8 +12913,7 @@
       "proaudioeducationnl",
       "schecker",
       "zooplus",
-      "animals-giftshopnl",
-      "aquariumonderdelennl"
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12965,10 +12968,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/falke.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/falke-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12979,20 +12982,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13523,10 +13526,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/firstvpn.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/firstvpn-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13536,21 +13541,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "groupdeal",
+      "grover",
+      "highgoogle",
+      "hostnet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16580,11 +16585,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17296,11 +17301,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17338,11 +17343,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17854,11 +17859,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19640,10 +19645,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/joolz.com",
     "categories": [
-      "Products"
+      "Baby & Toddler"
     ],
     "tags": [
-      "products"
+      "baby",
+      "toddler"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/joolz-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -19654,20 +19660,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "baby-tula",
+      "babydrogist",
+      "babymaan",
+      "bamboo-basics",
+      "bellabambinanl",
+      "dryly",
+      "feminin-maternel",
+      "fr-fanshop",
+      "happybee",
+      "kidzstore",
+      "kinderkleding-tekoop",
+      "little-dreamers",
+      "mamaloesnl",
+      "maxi-cosi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21419,10 +21425,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lankeleisi-store.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/lankeleisi-store-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -21433,20 +21439,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22234,10 +22240,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lifespaneurope.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/lifespaneurope-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -22248,20 +22255,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24896,11 +24903,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25103,6 +25110,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -25110,8 +25118,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25217,10 +25224,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/muc-off.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/muc-off-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -25231,20 +25240,20 @@
     "eCPC": "0.01",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "actievewinternl",
+      "all4golf",
+      "aosom",
+      "avh-tuinmeubelen",
+      "barrelkings",
+      "basket-center",
+      "beastpadel",
+      "bella-fitnl",
+      "bikesonweb",
+      "bulk-powders",
+      "burnhard",
+      "campingbertrixbe",
+      "db-benelux",
+      "direct-volley"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26187,10 +26196,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/new-rebels.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/new-rebelscom-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -26201,20 +26210,20 @@
     "eCPC": "0.02",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26465,11 +26474,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28163,10 +28172,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/otticasm.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/otticasm-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -28177,20 +28186,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28314,11 +28323,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -29199,10 +29208,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/philips.ch",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/philips-ch?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -29213,20 +29222,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29392,11 +29401,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29821,15 +29830,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -29973,10 +29982,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preisvergleich.de",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/preisvergleich-de?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -29986,21 +29997,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30205,6 +30216,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -30214,8 +30226,7 @@
       "onlinehondenspeciaalzaaknl",
       "schecker",
       "zooplus",
-      "animals-giftshopnl",
-      "aquariumonderdelennl"
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -31489,11 +31500,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32480,6 +32491,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -32489,8 +32501,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "zooplus",
-      "animals-giftshopnl",
-      "aquariumonderdelennl"
+      "animals-giftshopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32764,10 +32775,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sellbymell.nl",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/sellbymell-nl-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -32778,20 +32790,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "aalderszwembaden",
+      "aosom",
+      "applamp",
+      "backjoy-europe",
+      "badkamerexclusiefnl",
+      "badkranenwinkel",
+      "bamboo-stories",
+      "barokspiegelnl",
+      "barrelkings",
+      "bbqkopennl",
+      "bedderie",
+      "bedshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32870,11 +32882,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32907,15 +32919,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32948,15 +32960,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33888,15 +33900,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35570,11 +35582,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35612,11 +35624,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -35856,10 +35868,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tameson.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/tameson-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -35870,20 +35882,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36868,11 +36880,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36998,6 +37010,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -37005,8 +37018,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -37491,11 +37503,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37533,11 +37545,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -37575,11 +37587,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -39236,11 +39248,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -41288,13 +41300,13 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
       "bettertires",
       "carcarenederlandnl",
-      "cargoodsnl",
-      "donrox"
+      "cargoodsnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -41896,10 +41908,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -42755,7 +42767,7 @@
       "verenadierenartikelen",
       "catalister",
       "cateredskichalets",
-      "dogginl"
+      "divoza"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43399,11 +43411,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43605,6 +43617,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -43614,8 +43627,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -43697,11 +43709,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -43823,15 +43835,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -43865,15 +43877,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -43907,15 +43919,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -44686,10 +44698,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/binance.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/binance-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -44699,21 +44713,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.01",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "actieabonnementnl",
+      "albelli",
+      "automatisch-overstappen",
+      "box-brownies",
+      "budgetthuis",
+      "designpickle",
+      "directwonen",
+      "escolette",
+      "greenparkingschiphol",
+      "greetz",
+      "gwk-travelex",
+      "huurstunt",
+      "iamacademy",
+      "iamyourpresent",
+      "keuzenl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -45630,11 +45644,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -46034,10 +46048,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/coolsound.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/coolsound-nl-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -46048,20 +46062,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -47742,10 +47756,10 @@
     "description": "",
     "logo": "https://img.logo.dev/eibmarkt.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/eibmarkt-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -47756,20 +47770,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -48142,10 +48156,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/expondo.be",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/expondo-be-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -48156,20 +48171,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -48293,11 +48308,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -49126,11 +49141,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -49527,15 +49542,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -52120,10 +52135,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -52841,10 +52856,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/kipling.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/kipling-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -52855,20 +52870,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -54164,15 +54179,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -54828,10 +54843,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/mooideurbeslag.nl",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/mooideurbeslag-nl-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -54842,20 +54858,20 @@
     "eCPC": "1.06",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "aalderszwembaden",
+      "aosom",
+      "applamp",
+      "backjoy-europe",
+      "badkamerexclusiefnl",
+      "badkranenwinkel",
+      "bamboo-stories",
+      "barokspiegelnl",
+      "barrelkings",
+      "bbqkopennl",
+      "bedderie",
+      "bedshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -55113,11 +55129,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -56380,11 +56396,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -56527,10 +56543,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/parclesetoiles.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/parclesetoiles-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -56540,21 +56557,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
+      "aerosus",
       "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "chalets-plus",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel",
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56568,10 +56585,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/parispass.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/parispass-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -56581,21 +56599,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
+      "aerosus",
       "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "chalets-plus",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel",
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -56804,6 +56822,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -56813,8 +56832,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56986,11 +57004,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -57433,10 +57451,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -57537,10 +57555,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rad.eu",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/rad-eu-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -57551,20 +57569,20 @@
     "eCPC": "0.06",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -57686,15 +57704,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -57819,11 +57837,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -61453,10 +61471,10 @@
     "description": "",
     "logo": "https://img.logo.dev/tv.apple.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/tvoutlet-tv-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -61467,20 +61485,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -61712,10 +61730,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vanarendonk.be",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/vanarendonk-be-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -61726,20 +61744,20 @@
     "eCPC": "0.07",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "bader",
+      "basket-center",
+      "bk-footwear",
+      "nl-boohoo",
+      "bootertnl",
+      "brax",
+      "crocs-nl",
+      "crocs-nl-1",
+      "fashionize",
+      "foot-locker",
+      "happybee",
+      "house-of-rugby",
+      "i-run"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -62243,10 +62261,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vialuxury.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/vialuxury-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -62256,21 +62275,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
+      "aerosus",
       "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "chalets-plus",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel",
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -62349,11 +62368,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -64888,15 +64907,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -65973,11 +65992,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66258,10 +66277,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/boerenbed.nl",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/boerenbed-nl-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -66272,20 +66292,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "aalderszwembaden",
+      "aosom",
+      "applamp",
+      "backjoy-europe",
+      "badkamerexclusiefnl",
+      "badkranenwinkel",
+      "bamboo-stories",
+      "barokspiegelnl",
+      "barrelkings",
+      "bbqkopennl",
+      "bedderie",
+      "bedshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66432,10 +66452,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/buff.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/buff-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -66446,20 +66466,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66665,11 +66685,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67483,11 +67503,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -69336,11 +69356,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -69424,11 +69444,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70303,15 +70323,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70668,9 +70688,9 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
-      "cruise-outlet",
-      "cruisewinkel"
+      "cruise-outlet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -72446,11 +72466,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -74979,6 +74999,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -74988,8 +75009,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75024,6 +75044,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -75031,8 +75052,7 @@
       "just-russel",
       "megagadgets",
       "onlinehondenspeciaalzaaknl",
-      "proaudioeducationnl",
-      "schecker"
+      "proaudioeducationnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -75540,7 +75560,7 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
-      "corsica-ferries"
+      "chalets-plus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75791,11 +75811,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77031,10 +77051,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/techniparts-online.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/techniparts-online-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -77045,20 +77065,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "lenovo-netherlands-paused",
+      "123ledspots",
+      "store-acer",
+      "acer",
+      "allekabelsnl",
+      "aovostore",
+      "applamp",
+      "asbascomputers",
+      "b2ctelecomnl",
+      "batterijenhuis",
+      "case2gonl",
+      "dealdonkey",
+      "donrox",
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77310,6 +77330,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -77319,8 +77340,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77551,10 +77571,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tradetracker.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/tradetracker-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -77564,21 +77586,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77970,10 +77992,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/store.ubisoft.com",
     "categories": [
-      "Products"
+      "Events & Entertainment"
     ],
     "tags": [
-      "products"
+      "events",
+      "entertainment"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/store-ubisoft-com-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -77983,21 +78006,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "bebsy",
+      "bodyworlds",
+      "buitenplaatsdehildenbergnl",
+      "captain-hook",
+      "duinrell",
+      "football-ticketshopcom-befr",
+      "huopenair",
+      "huurstunt",
+      "leukstetickets",
+      "plopsa",
+      "quandoo",
+      "spartan",
+      "sportsbreaks",
+      "surprosenl",
+      "tiqets"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80420,10 +80443,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bobshop.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/bobshop-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -80434,20 +80457,20 @@
     "eCPC": "0.00",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -82375,10 +82398,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preply.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/preply-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -82388,21 +82413,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -82651,15 +82676,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -82819,6 +82844,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -82828,8 +82854,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83197,10 +83222,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/aliexpress.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.pickalink.com/click/aliexpress-com-cpc-nl?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -83211,20 +83236,20 @@
     "eCPC": "0.00",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83261,13 +83286,13 @@
       "banggood",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
       "hapjescateraarnl",
       "just-russel",
-      "onlinehondenspeciaalzaaknl",
-      "proaudioeducationnl"
+      "onlinehondenspeciaalzaaknl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -83387,11 +83412,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -84395,10 +84420,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -84438,10 +84463,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -85130,15 +85155,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -85218,11 +85243,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -85764,10 +85789,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -85973,10 +85998,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86220,6 +86245,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -86229,8 +86255,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86270,10 +86295,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86445,10 +86470,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86617,10 +86642,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86661,11 +86686,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -86782,15 +86807,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87051,11 +87076,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87306,10 +87331,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -87859,10 +87884,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -87893,6 +87918,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -87902,8 +87928,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88104,6 +88129,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -88113,8 +88139,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88237,10 +88262,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88278,11 +88303,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88296,10 +88321,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/esdemarca.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/esdemarca-com-nl?userId=88888889&subId={your tracking code}",
@@ -88310,20 +88335,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88356,15 +88381,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88528,11 +88553,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -88838,11 +88863,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -88882,10 +88907,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89098,11 +89123,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89190,9 +89215,9 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
-      "grover",
-      "highgoogle"
+      "grover"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -89460,10 +89485,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/gisou.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/gisou-com-nl?userId=88888889&subId={your tracking code}",
@@ -89474,20 +89500,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89617,9 +89643,9 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
-      "grover",
-      "highgoogle"
+      "grover"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89659,10 +89685,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -89872,10 +89898,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90197,6 +90223,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -90206,8 +90233,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90245,11 +90271,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90282,15 +90308,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -90834,11 +90860,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -90876,11 +90902,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -91147,10 +91173,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/joyoshare.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/joyoshare-com-nl?userId=88888889&subId={your tracking code}",
@@ -91160,21 +91188,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -91465,11 +91493,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -91712,15 +91740,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -92428,15 +92456,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -93013,6 +93041,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -93022,8 +93051,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -93231,11 +93259,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94094,10 +94122,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/olymp.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/olymp-nl?userId=88888889&subId={your tracking code}",
@@ -94108,20 +94136,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94154,15 +94182,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94666,11 +94694,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -94710,10 +94738,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -94727,10 +94755,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/papique-com-nl?userId=88888889&subId={your tracking code}",
@@ -94741,20 +94770,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -95002,6 +95031,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -95011,8 +95041,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -95314,10 +95343,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95606,11 +95635,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95670,10 +95699,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/qonto.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/qonto-com?userId=88888889&subId={your tracking code}",
@@ -95683,21 +95714,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -95948,15 +95979,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -96037,10 +96068,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -96074,6 +96105,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -96081,8 +96113,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -96116,6 +96147,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -96123,8 +96155,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -96500,15 +96531,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -97179,10 +97210,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -97889,15 +97920,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -98314,10 +98345,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -98816,6 +98847,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -98825,8 +98857,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -98905,11 +98936,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -99247,15 +99278,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99378,11 +99409,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -99590,11 +99621,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99674,11 +99705,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -99716,11 +99747,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99800,11 +99831,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99842,11 +99873,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -99931,6 +99962,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -99938,8 +99970,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100103,11 +100134,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100145,11 +100176,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100360,10 +100391,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100403,10 +100434,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100483,6 +100514,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -100490,8 +100522,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100505,10 +100536,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/wunderwerk.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/wunderwerk-com-nl?userId=88888889&subId={your tracking code}",
@@ -100519,20 +100550,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100786,15 +100817,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -100827,15 +100858,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -100955,11 +100986,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101038,15 +101069,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101328,15 +101359,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101585,15 +101616,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101782,10 +101813,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/golden-high.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/golden-high-com-nl?userId=88888889&subId={your tracking code}",
@@ -101796,20 +101828,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "aalderszwembaden",
+      "aosom",
+      "applamp",
+      "backjoy-europe",
+      "badkamerexclusiefnl",
+      "badkranenwinkel",
+      "bamboo-stories",
+      "barokspiegelnl",
+      "barrelkings",
+      "bbqkopennl",
+      "bedderie",
+      "bedshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -101892,11 +101924,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -102001,10 +102033,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/jucy.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/jucy-com-nl?userId=88888889&subId={your tracking code}",
@@ -102014,21 +102047,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
+      "aerosus",
       "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "333travelnl",
+      "airhelpnl",
+      "alamonl",
+      "alfareizennl",
+      "bagage24",
+      "barcelo-hotels-and-resorts",
+      "bebsy",
+      "cateredskichalets",
+      "chalets-plus",
+      "corsica-ferries",
+      "cruise-outlet",
+      "cruisewinkel",
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -102104,15 +102137,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102232,11 +102265,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102250,10 +102283,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lusini.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/lusini-com-nl?userId=88888889&subId={your tracking code}",
@@ -102264,20 +102298,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "aalderszwembaden",
+      "aosom",
+      "applamp",
+      "backjoy-europe",
+      "badkamerexclusiefnl",
+      "badkranenwinkel",
+      "bamboo-stories",
+      "barokspiegelnl",
+      "barrelkings",
+      "bbqkopennl",
+      "bedderie",
+      "bedshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102357,11 +102391,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102375,10 +102409,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/najell.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/najell-com-nl?userId=88888889&subId={your tracking code}",
@@ -102389,20 +102423,20 @@
     "eCPC": "0.01",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102436,15 +102470,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102477,15 +102511,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -102569,11 +102603,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102700,10 +102734,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -102923,10 +102957,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -102959,15 +102993,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103137,11 +103171,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103309,11 +103343,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103491,11 +103525,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103667,10 +103701,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103766,10 +103800,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/zumub.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/zumub-com-nl?userId=88888889&subId={your tracking code}",
@@ -103780,20 +103815,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103956,11 +103991,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -103974,10 +104009,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/afewvibe.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/afewvibe-com?userId=88888889&subId={your tracking code}",
@@ -103988,20 +104023,20 @@
     "eCPC": "0.14",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -104190,10 +104225,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/angles90.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/angles90-com-nl?userId=88888889&subId={your tracking code}",
@@ -104204,20 +104239,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104300,10 +104335,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104389,10 +104424,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104447,10 +104482,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/banwood.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/banwood-com-nl?userId=88888889&subId={your tracking code}",
@@ -104461,20 +104496,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
       "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123ledspots",
+      "123watchesnl",
+      "247jeans",
+      "about-you",
+      "aosom",
+      "applamp",
+      "auto-onderdelenexpert",
+      "autodoc",
+      "aviatorwallet",
+      "bader",
+      "badkranenwinkel",
+      "bagage24",
+      "bamboo-basics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104723,10 +104758,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -104760,6 +104795,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -104767,8 +104803,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -105020,10 +105055,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105102,11 +105137,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105139,15 +105174,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105345,15 +105380,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105391,11 +105426,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105476,10 +105511,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105709,10 +105744,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/drestige.com",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/drestige-com-nl?userId=88888889&subId={your tracking code}",
@@ -105723,20 +105758,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "bader",
+      "basket-center",
+      "bk-footwear",
+      "nl-boohoo",
+      "bootertnl",
+      "brax",
+      "crocs-nl",
+      "crocs-nl-1",
+      "fashionize",
+      "foot-locker",
+      "happybee",
+      "house-of-rugby",
+      "i-run"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -105900,10 +105935,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -106143,6 +106178,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -106150,8 +106186,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -106185,6 +106220,7 @@
       "autobandenmarkt",
       "autodoc",
       "auto-europe",
+      "autoonderdelen24",
       "autovendinl",
       "banden",
       "pneus-online",
@@ -106192,8 +106228,7 @@
       "carcarenederlandnl",
       "cargoodsnl",
       "donrox",
-      "freesoo-auto",
-      "hertz-netherlands"
+      "freesoo-auto"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -106824,10 +106859,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107192,6 +107227,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -107201,8 +107237,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107698,11 +107733,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107840,10 +107875,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/ipsosisay.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/ipsosisay-com-nl?userId=88888889&subId={your tracking code}",
@@ -107853,21 +107890,21 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "123opzeggen",
+      "allekabelsnl",
+      "amplitude",
+      "ashley-madison",
+      "awin-netherlands",
+      "bedrijfappsnl",
+      "biercheque",
+      "budgetthuis",
+      "cinemembernl",
+      "d-ict-solutions",
+      "dustin",
+      "firstvpn",
+      "groupdeal",
+      "grover",
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -107941,15 +107978,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -108867,10 +108904,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -108951,10 +108988,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -109026,6 +109063,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -109035,8 +109073,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -109165,7 +109202,7 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
-      "corsica-ferries"
+      "chalets-plus"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -109179,10 +109216,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/malo.it",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/malo-it-nl?userId=88888889&subId={your tracking code}",
@@ -109193,20 +109230,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "zalando-lounge",
+      "247jeans",
+      "about-you",
+      "bader",
+      "badjas",
+      "badjasparadijs",
+      "bamboo-basics",
+      "basket-center",
+      "nl-boohoo",
+      "boohooman",
+      "bos-men-shop",
+      "brax",
+      "bukserjeans",
+      "captain-hook"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -109907,15 +109944,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -110162,11 +110199,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -110247,10 +110284,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -110414,10 +110451,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -110450,15 +110487,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -110535,15 +110572,15 @@
       "store-acer",
       "acer",
       "allekabelsnl",
+      "aovostore",
       "applamp",
       "asbascomputers",
       "b2ctelecomnl",
       "batterijenhuis",
+      "case2gonl",
       "dealdonkey",
       "donrox",
-      "droogmolenstore",
-      "dyson",
-      "e-styleaudionl"
+      "droogmolenstore"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -110797,10 +110834,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -111041,6 +111078,7 @@
       "aosom",
       "catalister",
       "cateredskichalets",
+      "divoza",
       "dogginl",
       "duifhuizen",
       "ezydognl",
@@ -111050,8 +111088,7 @@
       "onlinehondenspeciaalzaaknl",
       "proaudioeducationnl",
       "schecker",
-      "zooplus",
-      "animals-giftshopnl"
+      "zooplus"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -111215,10 +111252,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -111672,15 +111709,15 @@
       "babymaan",
       "bamboo-basics",
       "bellabambinanl",
+      "dryly",
       "feminin-maternel",
       "fr-fanshop",
       "happybee",
+      "joolz",
       "kidzstore",
       "kinderkleding-tekoop",
       "little-dreamers",
-      "mamaloesnl",
-      "maxi-cosi",
-      "meneerkoekepeer"
+      "mamaloesnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -112353,10 +112390,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -112394,11 +112431,11 @@
       "barcelo-hotels-and-resorts",
       "bebsy",
       "cateredskichalets",
+      "chalets-plus",
       "corsica-ferries",
       "cruise-outlet",
       "cruisewinkel",
-      "danubius-hotels",
-      "db-benelux"
+      "danubius-hotels"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -112454,10 +112491,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/totwoo.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "NL",
     "affiliateUrl": "https://www.shoptastic.io/nl/store/totwooglobal-store-nl?userId=88888889&subId={your tracking code}",
@@ -112468,20 +112506,20 @@
     "eCPC": "",
     "similarBrands": [
       "ali-express",
-      "120pixels",
-      "123-lens",
-      "123helikoptervluchtennl",
-      "123jaloezie",
-      "123waldonl",
-      "1dagactienl",
-      "24pharmabe",
-      "24pharmanl",
-      "24uurfinancieringnl",
-      "2dekansje",
-      "50liefde",
-      "60datingnl",
-      "60plusplazanl",
-      "7choco"
+      "adb-check-my-body-health-nl-realtime-rtg",
+      "amicicosmetics",
+      "backjoy-europe",
+      "beautyguidesnl",
+      "beautyplaza",
+      "big-green-smile",
+      "biocare-online",
+      "bodylab",
+      "bulk-powders",
+      "careplus-shopnl",
+      "cbdolie",
+      "charlotte-tilbury",
+      "shavita-bv",
+      "degezondewereldnl"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -112650,10 +112688,10 @@
       "cinemembernl",
       "d-ict-solutions",
       "dustin",
+      "firstvpn",
       "groupdeal",
       "grover",
-      "highgoogle",
-      "hostnet"
+      "highgoogle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

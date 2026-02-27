@@ -372,8 +372,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -983,10 +983,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/cozyearth.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/cozyearth-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -996,21 +997,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "dyson",
+      "emma-mattress",
+      "emma-sleep",
+      "home-depot",
+      "lasgootools",
+      "luuna",
+      "vevor",
+      "all-botanical-things",
+      "avera-mx-1",
+      "whirlpool",
+      "dormimundo",
+      "elektra-mx-1",
+      "store-creality",
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1298,9 +1299,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -1437,10 +1438,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/delphinusworld.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/delphinusworld-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1450,21 +1452,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
       "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "rentcars-latam",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "thrifty-mx-1",
+      "trivago",
+      "villagroupresorts-com",
+      "aeromexico",
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1763,11 +1765,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1781,10 +1783,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/enterprise.mx",
     "categories": [
-      "Products"
+      "Auto & Tires"
     ],
     "tags": [
-      "products"
+      "auto",
+      "tires"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/enterprise-mx?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1794,21 +1797,13 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "firefly-car-rental",
+      "mexico-car-rental",
+      "thrifty-mx",
+      "carista",
+      "hertz",
+      "identifix"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1885,6 +1880,7 @@
       "clickbus",
       "sol-crdito",
       "fidea",
+      "mrfinan",
       "coderemx",
       "foldermarker",
       "gotogate",
@@ -1893,8 +1889,7 @@
       "tienda-eset",
       "virginmobilemx",
       "vix",
-      "lumos-vpn-ios",
-      "dollarmexico-com"
+      "lumos-vpn-ios"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2017,20 +2012,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
       "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2064,6 +2059,7 @@
       "miniso-com",
       "enviaflores",
       "alibaba-latam",
+      "newchic",
       "unelefante",
       "party-patch-mexico",
       "flower",
@@ -2074,8 +2070,7 @@
       "credityes",
       "mercadopeso",
       "ad-olymptrade",
-      "air-france",
-      "american-eagle"
+      "air-france"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2160,10 +2155,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/global.redmagic.gg",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/global-redmagic-gg-mx?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2173,21 +2168,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "dyson",
+      "huawei",
+      "id-store-asus",
+      "lenovo",
+      "lg",
+      "red-magic",
+      "taskautomationsoftware",
+      "tienda-eset",
+      "elektra-mx-1",
+      "hp-mx",
+      "motorola",
+      "waldos",
+      "mi",
+      "nillkincc"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2452,11 +2447,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2584,9 +2579,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2842,11 +2837,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2875,6 +2870,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lg",
@@ -2886,8 +2882,7 @@
       "motorola",
       "waldos",
       "mi",
-      "nillkincc",
-      "omteches"
+      "nillkincc"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3014,9 +3009,9 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -3221,18 +3216,18 @@
       "firefly-car-rental",
       "hertz",
       "coppel",
+      "enterprisemx",
       "thrifty-mx",
       "carista",
       "identifix",
       "air-france",
+      "delphinusworld",
       "galeriaplazahotels-com",
       "gotogate",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
-      "tafer-hotels-and-resorts",
-      "thereefresorts",
-      "trivago",
-      "villagroupresorts-com"
+      "tafer-hotels-and-resorts"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3376,7 +3371,7 @@
       "sol-crdito",
       "ticketmaster-mexico",
       "lumos-vpn-ios",
-      "dollarmexico-com"
+      "chegg-study"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3513,10 +3508,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/newchic.com",
     "categories": [
-      "Products"
+      "Gifts, Flowers & Parties"
     ],
     "tags": [
-      "products"
+      "gifts",
+      "flowers",
+      "parties"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/newchic-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3526,21 +3523,13 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "galeras-el-triunfo",
+      "miniso-com",
+      "unelefante",
+      "enviaflores",
+      "alibaba-latam",
+      "party-patch-mexico",
+      "flower"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3956,8 +3945,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4055,10 +4044,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rentcars.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/rentcars-latam?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -4068,21 +4058,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
       "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "delphinusworld",
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "thrifty-mx-1",
+      "trivago",
+      "villagroupresorts-com",
+      "aeromexico",
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4214,9 +4204,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4350,10 +4340,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4384,20 +4374,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
       "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4467,20 +4457,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
       "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4567,9 +4557,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4598,20 +4588,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
       "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4642,6 +4632,7 @@
     "eCPC": "",
     "similarBrands": [
       "coppel",
+      "enterprisemx",
       "firefly-car-rental",
       "mexico-car-rental",
       "carista",
@@ -4654,8 +4645,7 @@
       "credityes",
       "mercadopeso",
       "ad-olymptrade",
-      "air-france",
-      "american-eagle"
+      "air-france"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4669,10 +4659,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/thrifty.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/thrifty-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -4682,21 +4673,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
       "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "delphinusworld",
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "rentcars-latam",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "trivago",
+      "villagroupresorts-com",
+      "aeromexico",
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4998,8 +4989,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5118,6 +5109,7 @@
     "similarBrands": [
       "miniso-com",
       "galeras-el-triunfo",
+      "newchic",
       "enviaflores",
       "alibaba-latam",
       "party-patch-mexico",
@@ -5170,9 +5162,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5245,20 +5237,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "clickbus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5471,11 +5463,11 @@
       "coppel",
       "sportium-mx",
       "innovasport",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
       "nordictrack-mx-1",
-      "halara-mx-1",
-      "americanfighter"
+      "halara-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6016,6 +6008,7 @@
       "clickbus",
       "sol-crdito",
       "fidea",
+      "mrfinan",
       "coderemx",
       "foldermarker",
       "gotogate",
@@ -6024,8 +6017,7 @@
       "tienda-eset",
       "virginmobilemx",
       "vix",
-      "lumos-vpn-ios",
-      "dollarmexico-com"
+      "lumos-vpn-ios"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6147,11 +6139,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6232,11 +6224,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6320,8 +6312,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6484,20 +6476,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "destinia",
-      "edestinos-mx-affiliate-campaign-mxn"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6540,8 +6532,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6666,8 +6658,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6943,10 +6935,12 @@
     "description": "",
     "logo": "https://logo.debounce.com/mrfinan.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/mrfinan-com-mx?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -6956,21 +6950,12 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "fiesta-credito",
+      "kaspersky",
+      "kueski",
+      "clickbus",
+      "sol-crdito",
+      "fidea"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7217,20 +7202,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7318,9 +7303,9 @@
       "luuna",
       "perfumes-club",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7363,8 +7348,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7445,11 +7430,11 @@
       "dormimundo",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -7877,10 +7862,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/chegg.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/chegg-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7890,21 +7877,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coderemx",
+      "firefly-car-rental",
+      "foldermarker",
+      "gotogate",
+      "kaspersky",
+      "movistar-com",
+      "musicworkcenter",
+      "retouch4me-me",
+      "taskautomationsoftware",
+      "tienda-eset",
+      "virginmobilemx",
+      "vix",
+      "sol-crdito",
+      "ticketmaster-mexico",
+      "lumos-vpn-ios"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8121,11 +8108,11 @@
       "whirlpool",
       "elektra-mx-1",
       "coppel",
+      "cozy-earth",
       "emma-mattress",
       "luuna",
       "store-creality",
-      "temu",
-      "cura-deuda"
+      "temu"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8211,6 +8198,7 @@
       "galeras-el-triunfo",
       "miniso-com",
       "alibaba-latam",
+      "newchic",
       "unelefante",
       "party-patch-mexico",
       "flower",
@@ -8221,8 +8209,7 @@
       "credityes",
       "mercadopeso",
       "ad-olymptrade",
-      "air-france",
-      "american-eagle"
+      "air-france"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8397,8 +8384,8 @@
       "samsonite",
       "xcaret",
       "fever",
-      "firefly-car-rental",
-      "galeriaplazahotels-com"
+      "delphinusworld",
+      "firefly-car-rental"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8590,10 +8577,12 @@
     "description": "",
     "logo": "https://logo.debounce.com/nordictrack.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/nordictrack-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -8603,21 +8592,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "adidas",
+      "coppel",
+      "nike",
+      "somoswim",
+      "sportium-mx",
+      "timberland",
+      "warriors-shop",
+      "vevor",
+      "innovasport",
+      "columbia",
+      "elektra-mx-1",
+      "mlb-shop",
+      "puma-mexico",
+      "nordictrack-mx-1",
+      "halara-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8657,9 +8646,9 @@
       "vapeelf",
       "tiendasoptima",
       "onebioshop",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9027,10 +9016,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preply.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.pickalink.com/click/preply-com-cpc-mx?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -9040,21 +9031,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coderemx",
+      "firefly-car-rental",
+      "foldermarker",
+      "gotogate",
+      "kaspersky",
+      "movistar-com",
+      "musicworkcenter",
+      "retouch4me-me",
+      "taskautomationsoftware",
+      "tienda-eset",
+      "virginmobilemx",
+      "vix",
+      "sol-crdito",
+      "ticketmaster-mexico",
+      "lumos-vpn-ios"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9124,20 +9115,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9262,20 +9253,20 @@
     "eCPC": "0.28",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9350,6 +9341,7 @@
       "galeras-el-triunfo",
       "miniso-com",
       "enviaflores",
+      "newchic",
       "unelefante",
       "party-patch-mexico",
       "flower",
@@ -9360,8 +9352,7 @@
       "credityes",
       "mercadopeso",
       "ad-olymptrade",
-      "air-france",
-      "american-eagle"
+      "air-france"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9390,20 +9381,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9475,20 +9466,20 @@
     "eCPC": "0.10",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9547,6 +9538,7 @@
     "eCPC": "",
     "similarBrands": [
       "coppel",
+      "enterprisemx",
       "firefly-car-rental",
       "mexico-car-rental",
       "thrifty-mx",
@@ -9621,20 +9613,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9829,20 +9821,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -9912,20 +9904,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9954,20 +9946,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9996,20 +9988,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10198,20 +10190,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10281,6 +10273,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -10292,8 +10285,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "nillkincc",
-      "omteches"
+      "nillkincc"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10333,10 +10325,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "puma-mexico",
       "nordictrack-mx-1",
-      "halara-mx-1",
-      "americanfighter"
+      "halara-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -10407,6 +10399,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -10418,8 +10411,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "omteches"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10448,6 +10440,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -10459,8 +10452,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10538,9 +10530,9 @@
       "vapeelf",
       "tiendasoptima",
       "perfumes-club",
+      "papique",
       "prolifeblend",
-      "promescent",
-      "qathu"
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10569,20 +10561,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10596,10 +10588,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/papique-com-mx?userId=88888889&subId={your tracking code}",
@@ -10609,21 +10602,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "crigenetics",
+      "emma-mattress",
+      "guaapa",
+      "iherb",
+      "luuna",
+      "masvision",
+      "miniso-com",
+      "sephora",
+      "theayurvedaexperiencemx",
+      "vapeelf",
+      "tiendasoptima",
+      "perfumes-club",
+      "onebioshop",
+      "prolifeblend",
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10652,20 +10645,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10696,6 +10689,7 @@
     "similarBrands": [
       "galeras-el-triunfo",
       "miniso-com",
+      "newchic",
       "unelefante",
       "enviaflores",
       "alibaba-latam",
@@ -10854,20 +10848,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10908,8 +10902,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "promescent",
-      "qathu"
+      "papique",
+      "promescent"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10950,8 +10944,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "qathu"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11036,10 +11030,10 @@
       "vevor",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "nordictrack-mx-1",
-      "halara-mx-1",
-      "americanfighter"
+      "halara-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11114,6 +11108,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -11125,8 +11120,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11237,6 +11231,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -11248,8 +11243,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11283,6 +11277,7 @@
       "dyson",
       "elektra-mx-1",
       "temu",
+      "cozy-earth",
       "emma-mattress",
       "emma-sleep",
       "home-depot",
@@ -11292,8 +11287,7 @@
       "all-botanical-things",
       "avera-mx-1",
       "whirlpool",
-      "dormimundo",
-      "huawei"
+      "dormimundo"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11377,8 +11371,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11530,20 +11524,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11600,10 +11594,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/walmart.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/walmart-com?userId=88888889&subId={your tracking code}",
@@ -11613,21 +11607,21 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
+      "adidas",
       "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "guaapa",
+      "halara-mx",
+      "high-street",
+      "mango",
+      "nflshop",
+      "nike",
+      "somoswim",
+      "suitescolonial",
+      "innovasport",
+      "innvictus",
+      "palacio-de-hierro",
+      "columbia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11740,6 +11734,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -11751,8 +11746,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11781,20 +11775,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11834,10 +11828,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "halara-mx-1",
-      "americanfighter"
+      "halara-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11909,20 +11903,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11958,6 +11952,7 @@
       "dyson",
       "elektra-mx-1",
       "store-creality",
+      "cozy-earth",
       "emma-mattress",
       "emma-sleep",
       "home-depot",
@@ -11967,8 +11962,7 @@
       "all-botanical-things",
       "avera-mx-1",
       "whirlpool",
-      "dormimundo",
-      "adidas"
+      "dormimundo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12101,7 +12095,7 @@
       "warriors-shop",
       "vevor",
       "elektra-mx-1",
-      "mlb-shop"
+      "nordictrack-mx"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12197,10 +12191,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/blackandcreme.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/blackandcreme-com-mx?userId=88888889&subId={your tracking code}",
@@ -12210,21 +12204,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
+      "adidas",
       "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "eagleeyes-com",
+      "emma-mattress",
+      "guaapa",
+      "halara-mx",
+      "hawkers-mx",
+      "high-street",
+      "kurt-geiger",
+      "masvision",
+      "miniso-com",
+      "nflshop",
+      "nike",
+      "pandora"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12264,10 +12258,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12296,20 +12290,20 @@
     "eCPC": "0.00",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -12350,8 +12344,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12406,10 +12400,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/ad.doubleclick.net",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/ad-doubleclick-net-mx?userId=88888889&subId={your tracking code}",
@@ -12419,21 +12414,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
       "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "delphinusworld",
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "rentcars-latam",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "thrifty-mx-1",
+      "trivago",
+      "villagroupresorts-com",
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12462,20 +12457,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12561,10 +12556,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12595,6 +12590,7 @@
     "similarBrands": [
       "galeras-el-triunfo",
       "miniso-com",
+      "newchic",
       "unelefante",
       "enviaflores",
       "alibaba-latam",
@@ -12668,17 +12664,17 @@
       "fever",
       "interactive-aquarium-cancun",
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
-      "trivago",
-      "villagroupresorts-com",
-      "aeromexico"
+      "thrifty-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12753,18 +12749,18 @@
       "firefly-car-rental",
       "mexico-car-rental",
       "air-france",
+      "delphinusworld",
       "galeriaplazahotels-com",
       "gotogate",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12834,6 +12830,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -12845,8 +12842,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12875,20 +12871,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12917,6 +12913,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -12928,8 +12925,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12958,6 +12954,7 @@
     "eCPC": "",
     "similarBrands": [
       "coppel",
+      "enterprisemx",
       "firefly-car-rental",
       "mexico-car-rental",
       "thrifty-mx",
@@ -12997,17 +12994,17 @@
       "fever",
       "h10-hotels",
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
-      "trivago",
-      "villagroupresorts-com",
-      "aeromexico"
+      "thrifty-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13079,6 +13076,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -13090,8 +13088,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13132,8 +13129,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13174,8 +13171,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13204,20 +13201,20 @@
     "eCPC": "",
     "similarBrands": [
       "air-france",
+      "delphinusworld",
       "firefly-car-rental",
       "galeriaplazahotels-com",
       "gotogate",
       "mexico-car-rental",
       "protegetuviaje",
+      "rentcars-latam",
       "suitescolonial",
       "tafer-hotels-and-resorts",
       "thereefresorts",
+      "thrifty-mx-1",
       "trivago",
       "villagroupresorts-com",
-      "aeromexico",
-      "clickbus",
-      "desire-riviera-maya-resort",
-      "destinia"
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13274,10 +13271,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/mlsstore.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/mlsstore-com?userId=88888889&subId={your tracking code}",
@@ -13287,21 +13284,21 @@
     "commissionType": "",
     "eCPC": "0.40",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
+      "adidas",
       "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "guaapa",
+      "halara-mx",
+      "high-street",
+      "mango",
+      "nflshop",
+      "nike",
+      "somoswim",
+      "suitescolonial",
+      "innovasport",
+      "innvictus",
+      "palacio-de-hierro",
+      "columbia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13346,7 +13343,7 @@
       "warriors-shop",
       "vevor",
       "elektra-mx-1",
-      "mlb-shop"
+      "nordictrack-mx"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13429,10 +13426,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13461,6 +13458,7 @@
     "similarBrands": [
       "coppel",
       "dyson",
+      "globalredmagicgg",
       "huawei",
       "id-store-asus",
       "lenovo",
@@ -13472,8 +13470,7 @@
       "hp-mx",
       "motorola",
       "waldos",
-      "mi",
-      "nillkincc"
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13487,10 +13484,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/onshorekare.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/onshorekare-com-mx?userId=88888889&subId={your tracking code}",
@@ -13500,21 +13498,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
       "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "delphinusworld",
+      "firefly-car-rental",
+      "galeriaplazahotels-com",
+      "gotogate",
+      "mexico-car-rental",
+      "protegetuviaje",
+      "rentcars-latam",
+      "suitescolonial",
+      "tafer-hotels-and-resorts",
+      "thereefresorts",
+      "thrifty-mx-1",
+      "trivago",
+      "villagroupresorts-com",
+      "aeromexico"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13528,10 +13526,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/oroa.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/oroa-com-mx?userId=88888889&subId={your tracking code}",
@@ -13541,21 +13540,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "crigenetics",
+      "emma-mattress",
+      "guaapa",
+      "iherb",
+      "luuna",
+      "masvision",
+      "miniso-com",
+      "sephora",
+      "theayurvedaexperiencemx",
+      "vapeelf",
+      "tiendasoptima",
+      "perfumes-club",
+      "onebioshop",
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13596,8 +13595,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13611,10 +13610,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rayneo.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "MX",
     "affiliateUrl": "https://www.shoptastic.io/store/rayneo-com?userId=88888889&subId={your tracking code}",
@@ -13624,21 +13623,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "cura-deuda",
-      "ibancar",
-      "lendio",
-      "shopee",
-      "credityes",
-      "mercadopeso",
-      "ad-olymptrade",
-      "air-france",
-      "american-eagle",
-      "avera-mx",
-      "bancoppel",
-      "borderxlab",
-      "cam-mejoraburo",
-      "cashrush-com",
-      "chapur"
+      "coppel",
+      "dyson",
+      "globalredmagicgg",
+      "huawei",
+      "id-store-asus",
+      "lenovo",
+      "lg",
+      "red-magic",
+      "taskautomationsoftware",
+      "tienda-eset",
+      "elektra-mx-1",
+      "hp-mx",
+      "motorola",
+      "waldos",
+      "mi"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13679,8 +13678,8 @@
       "tiendasoptima",
       "perfumes-club",
       "onebioshop",
-      "prolifeblend",
-      "promescent"
+      "papique",
+      "prolifeblend"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -13725,7 +13724,7 @@
       "warriors-shop",
       "vevor",
       "elektra-mx-1",
-      "mlb-shop"
+      "nordictrack-mx"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13765,10 +13764,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13808,10 +13807,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13930,10 +13929,10 @@
       "innovasport",
       "columbia",
       "elektra-mx-1",
+      "nordictrack-mx",
       "mlb-shop",
       "puma-mexico",
-      "nordictrack-mx-1",
-      "halara-mx-1"
+      "nordictrack-mx-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

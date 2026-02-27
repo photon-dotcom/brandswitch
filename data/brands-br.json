@@ -120,12 +120,12 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -161,12 +161,12 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -246,12 +246,12 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -421,12 +421,12 @@
       "uol-bate-papo-dating",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -462,12 +462,12 @@
       "uol-bate-papo-dating",
       "1gowv02",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -527,10 +527,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/accio.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/accio-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -540,21 +542,18 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
-      "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
-      "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "assineclube-com",
+      "assinecoquetel-com",
+      "quero-passagem",
+      "iplace",
+      "portal-educacao",
+      "air-help",
+      "bitdefender",
+      "cervejabox-com",
+      "china-in-box",
+      "clube-netshoes-com",
+      "editora-abril-br-1",
+      "mypal"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -635,11 +634,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "adultscriptpro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -676,11 +675,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "aerow",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -717,11 +716,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "afiliados-galcia-educao-escola-de-direito"
+      "afiliados-galcia-educao-escola-de-direito",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -758,11 +757,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "ahs"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -799,11 +798,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -840,11 +839,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -926,11 +925,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -967,11 +966,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -1097,11 +1096,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1138,11 +1137,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1179,11 +1178,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1222,11 +1221,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1263,11 +1262,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1339,11 +1338,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1380,11 +1379,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1417,6 +1416,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -1425,8 +1425,7 @@
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1507,6 +1506,7 @@
       "iplace",
       "portal-educacao",
       "air-help",
+      "accio",
       "bitdefender",
       "cervejabox-com",
       "china-in-box",
@@ -1515,8 +1515,7 @@
       "mypal",
       "pollpronto-doi-profiler",
       "uol-bate-papo-dating",
-      "aiseesoftjp",
-      "aspireapp"
+      "aiseesoftjp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1645,11 +1644,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1729,11 +1728,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1815,11 +1814,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1900,11 +1899,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1985,11 +1984,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2066,11 +2065,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2107,11 +2106,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2148,11 +2147,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2189,11 +2188,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2230,11 +2229,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2271,11 +2270,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2442,11 +2441,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2483,11 +2482,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2705,11 +2704,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2746,11 +2745,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2787,11 +2786,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -3036,11 +3035,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3212,11 +3211,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3253,11 +3252,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3383,13 +3382,13 @@
       "super-interessante-br-grupo-abril",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3511,11 +3510,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3552,11 +3551,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3593,11 +3592,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3677,11 +3676,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3718,11 +3717,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3759,11 +3758,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3887,11 +3886,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4017,11 +4016,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4190,11 +4189,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4231,11 +4230,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4272,11 +4271,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4313,11 +4312,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4354,11 +4353,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4395,11 +4394,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4481,11 +4480,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4522,11 +4521,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4563,11 +4562,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4604,11 +4603,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4689,11 +4688,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4730,11 +4729,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4902,11 +4901,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4943,11 +4942,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5123,11 +5122,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5164,11 +5163,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5205,11 +5204,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5291,11 +5290,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5332,11 +5331,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5416,11 +5415,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5457,11 +5456,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5682,11 +5681,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5899,11 +5898,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5983,11 +5982,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6024,11 +6023,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6065,11 +6064,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6198,11 +6197,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6283,11 +6282,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6410,11 +6409,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6495,11 +6494,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6536,11 +6535,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6664,11 +6663,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6705,11 +6704,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -6831,11 +6830,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6872,11 +6871,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7006,11 +7005,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7133,11 +7132,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7174,11 +7173,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7260,11 +7259,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -7301,11 +7300,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7562,11 +7561,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7603,11 +7602,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7731,11 +7730,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7772,11 +7771,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7813,11 +7812,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7854,11 +7853,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7895,11 +7894,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8110,11 +8109,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8195,11 +8194,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8236,11 +8235,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8277,11 +8276,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8318,11 +8317,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8401,11 +8400,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8484,11 +8483,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8568,11 +8567,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8609,11 +8608,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8650,11 +8649,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8691,11 +8690,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8778,11 +8777,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8819,11 +8818,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8860,11 +8859,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8901,11 +8900,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8987,11 +8986,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9156,11 +9155,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9197,11 +9196,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9238,11 +9237,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9279,11 +9278,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9320,11 +9319,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9361,11 +9360,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9402,11 +9401,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9443,11 +9442,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9572,11 +9571,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9613,11 +9612,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9698,11 +9697,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9782,11 +9781,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9866,11 +9865,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9907,11 +9906,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10084,11 +10083,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10125,11 +10124,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10206,11 +10205,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10247,11 +10246,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10288,11 +10287,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10329,11 +10328,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10370,11 +10369,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10411,11 +10410,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10452,11 +10451,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10493,11 +10492,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10534,11 +10533,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10575,11 +10574,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10616,11 +10615,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10657,11 +10656,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10788,11 +10787,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10873,11 +10872,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -10914,11 +10913,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10955,11 +10954,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -11089,13 +11088,13 @@
       "super-interessante-br-grupo-abril",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11132,11 +11131,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11219,11 +11218,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11260,11 +11259,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -11301,11 +11300,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11342,11 +11341,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11644,11 +11643,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11773,11 +11772,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11862,13 +11861,13 @@
       "super-interessante-br-grupo-abril",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11905,11 +11904,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12033,11 +12032,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12118,11 +12117,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12159,11 +12158,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12333,11 +12332,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12621,14 +12620,14 @@
       "dentro-da-historia",
       "moana-cassino",
       "one-world-observatory-new-york",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
       "sportsbetbr",
       "super-interessante-br-grupo-abril",
       "betfuryis",
-      "betssonbetbr",
-      "casinoloots"
+      "betssonbetbr"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12665,11 +12664,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12706,11 +12705,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12747,11 +12746,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12876,11 +12875,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12917,11 +12916,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12958,11 +12957,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13089,11 +13088,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13130,11 +13129,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13304,11 +13303,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13345,11 +13344,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13451,10 +13450,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/qcy.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/qcy-com-br?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13464,21 +13463,21 @@
     "commissionType": "Percentage",
     "eCPC": "0.17",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
-      "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
-      "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "girafa",
+      "asus",
+      "brastemp",
+      "canon-com",
+      "casaevideo-com",
+      "dji-drones",
+      "emania-com",
+      "gigantec-com",
+      "ibbl",
+      "kaspersky-lab-latam",
+      "loja-iplace",
+      "loja-meupositivo-com",
+      "lojaonline-claro-com",
+      "lojascertel-com",
+      "philco"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13697,11 +13696,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13738,11 +13737,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13822,11 +13821,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -13952,11 +13951,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -14036,11 +14035,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14117,11 +14116,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14135,10 +14134,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rustclash.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/rustclash-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -14148,21 +14149,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
       "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
       "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "aiseesoftjp",
+      "aspireapp",
+      "bebopai",
+      "bit2me",
+      "blackboxai",
+      "picpay-abertura-de-contas",
+      "bytedance",
+      "descomplica-com",
+      "fotoregistro",
+      "gamma",
+      "juvocredito-com",
+      "kinghost-com",
+      "lindyai"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14199,11 +14200,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14327,11 +14328,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14413,11 +14414,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14454,11 +14455,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14495,11 +14496,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14536,11 +14537,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14577,11 +14578,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14789,11 +14790,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14874,11 +14875,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14915,11 +14916,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14933,10 +14934,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sites.fastspring.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/sites-fastspring-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -14946,21 +14949,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
       "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
       "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "aiseesoftjp",
+      "aspireapp",
+      "bebopai",
+      "bit2me",
+      "blackboxai",
+      "picpay-abertura-de-contas",
+      "bytedance",
+      "descomplica-com",
+      "fotoregistro",
+      "gamma",
+      "juvocredito-com",
+      "kinghost-com",
+      "lindyai"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15106,10 +15109,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/skyviewsdubai.com",
     "categories": [
-      "Products"
+      "Events & Entertainment"
     ],
     "tags": [
-      "products"
+      "events",
+      "entertainment"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/skyviewsdubai-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -15119,21 +15123,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
-      "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
-      "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "arteventipl",
+      "campeonbet24",
+      "dentro-da-historia",
+      "moana-cassino",
+      "one-world-observatory-new-york",
+      "phooto",
+      "universal-music-store",
+      "view-boston-observation-deck",
+      "lottoland",
+      "sportsbetbr",
+      "super-interessante-br-grupo-abril",
+      "betfuryis",
+      "betssonbetbr",
+      "casinoloots",
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15294,11 +15298,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15335,11 +15339,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15418,11 +15422,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15720,11 +15724,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15761,11 +15765,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16189,11 +16193,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16274,11 +16278,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16315,11 +16319,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16403,11 +16407,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16444,11 +16448,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16485,11 +16489,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16796,11 +16800,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16837,11 +16841,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16923,11 +16927,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17005,11 +17009,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17046,11 +17050,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17087,11 +17091,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17128,11 +17132,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17169,11 +17173,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17211,13 +17215,13 @@
       "super-interessante-br-grupo-abril",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17342,11 +17346,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17383,11 +17387,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -17424,11 +17428,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17691,11 +17695,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17732,11 +17736,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17773,11 +17777,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17947,11 +17951,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17988,11 +17992,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18074,11 +18078,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18115,11 +18119,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18156,11 +18160,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18197,11 +18201,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18238,11 +18242,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18279,11 +18283,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18495,11 +18499,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18536,11 +18540,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18577,11 +18581,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18848,11 +18852,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18932,11 +18936,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18973,11 +18977,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -19103,11 +19107,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19320,11 +19324,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19407,13 +19411,13 @@
       "super-interessante-br-grupo-abril",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19493,11 +19497,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19630,11 +19634,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19982,11 +19986,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20023,11 +20027,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20064,11 +20068,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20105,11 +20109,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20146,11 +20150,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20231,11 +20235,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20382,10 +20386,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tena.com.br",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/tena-com-br-br?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -20395,21 +20400,21 @@
     "commissionType": "",
     "eCPC": "0.02",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
+      "puravida",
       "libresse",
-      "moncloa-com",
-      "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
-      "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
       "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "avon",
+      "beyoung",
+      "boticario",
+      "care-beauty",
+      "ciganabeleza",
+      "diablochairs",
+      "drgo-com",
+      "drogal",
+      "drogaria-sao-paulo",
+      "drogerienaturapl",
+      "eudora",
+      "extrafarma"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20446,11 +20451,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20487,11 +20492,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20571,11 +20576,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -20612,11 +20617,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20872,11 +20877,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21002,11 +21007,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21263,11 +21268,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21349,11 +21354,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21435,11 +21440,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21476,11 +21481,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21517,11 +21522,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -21957,11 +21962,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22044,11 +22049,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22130,11 +22135,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -22259,11 +22264,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22386,11 +22391,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22470,11 +22475,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22511,11 +22516,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22686,11 +22691,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22727,11 +22732,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22908,11 +22913,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22949,11 +22954,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23038,11 +23043,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23255,11 +23260,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23296,11 +23301,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -23337,11 +23342,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23567,13 +23572,13 @@
       "lottoland",
       "arteventipl",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "sportsbetbr",
       "betfuryis",
       "betssonbetbr",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23587,10 +23592,12 @@
     "description": "",
     "logo": "https://img.logo.dev/surveypronto.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/surveypronto-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -23600,21 +23607,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
       "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
       "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "aiseesoftjp",
+      "aspireapp",
+      "bebopai",
+      "bit2me",
+      "blackboxai",
+      "picpay-abertura-de-contas",
+      "bytedance",
+      "descomplica-com",
+      "fotoregistro",
+      "gamma",
+      "juvocredito-com",
+      "kinghost-com",
+      "lindyai"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -23694,11 +23701,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -23735,11 +23742,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23958,11 +23965,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -24043,11 +24050,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24084,11 +24091,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24168,11 +24175,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24271,10 +24278,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/amazon.com.br",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.pickalink.com/click/amazon-com-br-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -24284,21 +24293,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
       "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
       "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "aiseesoftjp",
+      "aspireapp",
+      "bebopai",
+      "bit2me",
+      "blackboxai",
+      "picpay-abertura-de-contas",
+      "bytedance",
+      "descomplica-com",
+      "fotoregistro",
+      "gamma",
+      "juvocredito-com",
+      "kinghost-com",
+      "lindyai"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24731,11 +24740,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24772,11 +24781,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24813,11 +24822,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24854,11 +24863,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24936,11 +24945,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25109,11 +25118,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25150,11 +25159,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25191,11 +25200,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25275,11 +25284,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25316,11 +25325,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25357,11 +25366,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25398,11 +25407,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25524,11 +25533,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25605,11 +25614,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25646,11 +25655,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25819,11 +25828,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25857,6 +25866,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -25864,8 +25874,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "casinoloots",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25902,11 +25911,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25943,11 +25952,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25984,11 +25993,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26155,11 +26164,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26196,11 +26205,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26284,11 +26293,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26325,11 +26334,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26448,11 +26457,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26660,11 +26669,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26701,11 +26710,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -26788,11 +26797,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26871,11 +26880,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26912,11 +26921,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -26953,11 +26962,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26991,6 +27000,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -26998,8 +27008,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "gamesesportesbet",
-      "izzicasino198"
+      "gamesesportesbet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27036,11 +27045,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -27077,11 +27086,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27118,11 +27127,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27333,6 +27342,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "accio",
       "assineclube-com",
       "assinecoquetel-com",
       "quero-passagem",
@@ -27422,11 +27432,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27541,6 +27551,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "accio",
       "assineclube-com",
       "assinecoquetel-com",
       "quero-passagem",
@@ -27554,8 +27565,7 @@
       "mypal",
       "fila",
       "havaianas-com",
-      "lojas-renner",
-      "netshoes"
+      "lojas-renner"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -27668,11 +27678,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27750,11 +27760,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27835,11 +27845,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27876,11 +27886,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27959,11 +27969,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28000,11 +28010,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -28212,11 +28222,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28295,11 +28305,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28336,11 +28346,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28420,11 +28430,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28546,11 +28556,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -28633,11 +28643,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28674,11 +28684,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28761,11 +28771,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28843,11 +28853,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28969,11 +28979,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29185,11 +29195,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29226,11 +29236,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -29267,11 +29277,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29308,11 +29318,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29393,6 +29403,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -29400,8 +29411,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "izzicasino198"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29438,11 +29448,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29479,11 +29489,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29520,11 +29530,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29645,11 +29655,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29686,11 +29696,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29769,11 +29779,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29852,11 +29862,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29893,11 +29903,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30104,11 +30114,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30228,11 +30238,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -30310,11 +30320,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30348,6 +30358,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -30355,8 +30366,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30390,6 +30400,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -30397,8 +30408,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30478,11 +30488,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30519,11 +30529,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30682,11 +30692,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30723,11 +30733,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30764,11 +30774,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30928,11 +30938,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30969,11 +30979,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31010,11 +31020,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31051,11 +31061,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31092,11 +31102,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31133,11 +31143,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31174,11 +31184,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -31295,6 +31305,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -31302,8 +31313,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31340,11 +31350,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31424,11 +31434,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31465,11 +31475,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31594,11 +31604,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31635,11 +31645,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31673,6 +31683,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -31680,8 +31691,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31718,11 +31728,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31801,11 +31811,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31839,6 +31849,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -31846,8 +31857,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31919,6 +31929,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "accio",
       "assineclube-com",
       "assinecoquetel-com",
       "quero-passagem",
@@ -32052,11 +32063,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32214,11 +32225,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32290,11 +32301,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32331,11 +32342,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32369,6 +32380,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -32376,8 +32388,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32456,11 +32467,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32540,11 +32551,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32581,11 +32592,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32619,6 +32630,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -32626,8 +32638,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32875,11 +32886,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32992,11 +33003,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33033,11 +33044,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33074,11 +33085,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33157,11 +33168,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33239,11 +33250,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33322,11 +33333,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33404,11 +33415,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33487,11 +33498,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33528,11 +33539,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33569,11 +33580,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33610,11 +33621,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33692,11 +33703,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33859,11 +33870,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33900,11 +33911,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33980,6 +33991,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -33987,8 +33999,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34025,11 +34036,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34066,11 +34077,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34107,11 +34118,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34148,11 +34159,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34189,11 +34200,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34227,6 +34238,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -34234,8 +34246,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34434,6 +34445,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -34441,8 +34453,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34476,6 +34487,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -34483,8 +34495,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34518,6 +34529,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -34525,8 +34537,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34563,11 +34574,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34604,11 +34615,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34645,11 +34656,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34769,6 +34780,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -34776,8 +34788,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34857,11 +34868,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35024,11 +35035,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -35147,11 +35158,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35230,11 +35241,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35359,11 +35370,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35400,11 +35411,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35438,6 +35449,7 @@
       "moana-cassino",
       "one-world-observatory-new-york",
       "phooto",
+      "skyviewsdubai",
       "universal-music-store",
       "view-boston-observation-deck",
       "lottoland",
@@ -35445,8 +35457,7 @@
       "super-interessante-br-grupo-abril",
       "betfuryis",
       "betssonbetbr",
-      "casinoloots",
-      "gamesesportesbet"
+      "casinoloots"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -35567,11 +35578,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35652,11 +35663,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35949,11 +35960,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36073,11 +36084,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36114,11 +36125,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36189,11 +36200,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -36273,11 +36284,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36314,11 +36325,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36627,10 +36638,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hototools.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BR",
     "affiliateUrl": "https://www.shoptastic.io/store/hototools-com-br?userId=88888889&subId={your tracking code}",
@@ -36640,21 +36651,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "cartes-de-crdito",
-      "democrata-ecommerce",
-      "libresse",
-      "moncloa-com",
-      "pollpronto-doi-profiler",
-      "super-seguro-auto-br",
-      "uol-bate-papo-dating",
-      "1gowv02",
-      "2ndsprings",
-      "a-fabula",
-      "accio",
-      "accounts-natura-avon",
-      "acreditro",
-      "adultscriptpro",
-      "aerow"
+      "girafa",
+      "asus",
+      "brastemp",
+      "canon-com",
+      "casaevideo-com",
+      "dji-drones",
+      "emania-com",
+      "gigantec-com",
+      "ibbl",
+      "kaspersky-lab-latam",
+      "loja-iplace",
+      "loja-meupositivo-com",
+      "lojaonline-claro-com",
+      "lojascertel-com",
+      "philco"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36901,11 +36912,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37070,11 +37081,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37194,11 +37205,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37281,11 +37292,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37322,11 +37333,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37363,11 +37374,11 @@
       "1gowv02",
       "2ndsprings",
       "a-fabula",
-      "accio",
       "accounts-natura-avon",
       "acreditro",
       "adultscriptpro",
-      "aerow"
+      "aerow",
+      "afiliados-galcia-educao-escola-de-direito"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

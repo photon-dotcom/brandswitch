@@ -25,16 +25,16 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
       "media-markt",
-      "memorypcbe",
-      "philips",
-      "refurbed-nlbe"
+      "memorypcbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1675,10 +1675,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/blokees.com",
     "categories": [
-      "Products"
+      "Toys & Games"
     ],
     "tags": [
-      "products"
+      "toys",
+      "games"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/blokees-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1688,21 +1689,21 @@
     "commissionType": "Percentage",
     "eCPC": "0.08",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "bellatio",
+      "direct-playstation",
+      "hrkgame",
+      "magnetenspeelgoednl",
+      "nedgamenl",
+      "kinderkraft",
+      "out-at-home",
+      "puzzle-befr",
+      "hema",
+      "megagadgets",
+      "regency-chess",
+      "vbs-hobby",
+      "aliexpress",
+      "easytoys",
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3167,10 +3168,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/droogmolenstore.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/droogmolenstore-nl-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3180,21 +3181,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "energyknights",
+      "fanatec",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt",
+      "memorypcbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3253,10 +3254,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/dyucycle.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/dyucycle-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3266,21 +3269,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
       "andufit",
-      "app-storylane",
-      "appelhoes"
+      "bellatio",
+      "muc-off",
+      "myprotein",
+      "neapharma",
+      "netski",
+      "skateshopbe",
+      "skiset-be-1",
+      "skisportbe",
+      "snowleaderbe",
+      "soccerfanshop",
+      "sportsdirect",
+      "tommyteleshopping",
+      "under-armour-be",
+      "bajabikes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3644,10 +3647,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/exclusivexitems.nl",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/exclusivexitems-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3657,21 +3660,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "berca",
+      "havaianas",
+      "hogan",
+      "liu-jo",
+      "manfield",
+      "sneaqs",
+      "spartoo",
+      "under-armour-be",
+      "vertbaudet",
+      "sacha",
+      "van-arendonk",
+      "dc-shoes",
+      "sarenza-be",
+      "geox",
+      "sarenza-be-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3727,10 +3730,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/fanatec.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/fanatec-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3740,21 +3743,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "droogmolenstorenl",
+      "energyknights",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt",
+      "memorypcbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5015,7 +5018,8 @@
       "aliexpress",
       "grotekadoshop",
       "jbc",
-      "little-crevette"
+      "little-crevette",
+      "noukies"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5278,13 +5282,13 @@
       "hema",
       "regency-chess",
       "vbs-hobby",
+      "blokees",
+      "nedgamenl",
       "puzzle-befr",
       "megagadgets",
       "aliexpress",
       "easytoys",
-      "grotekadoshop",
-      "nedgame",
-      "redmagic"
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6314,15 +6318,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "media-markt",
-      "memorypcbe",
-      "philips",
-      "refurbed-nlbe"
+      "memorypcbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6786,13 +6790,13 @@
       "hema",
       "regency-chess",
       "vbs-hobby",
+      "blokees",
+      "nedgamenl",
       "puzzle-befr",
       "megagadgets",
       "aliexpress",
       "easytoys",
-      "grotekadoshop",
-      "nedgame",
-      "redmagic"
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7563,10 +7567,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/muc-off.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/muc-off-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7576,21 +7582,21 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
       "andufit",
-      "app-storylane",
-      "appelhoes"
+      "bellatio",
+      "dyucycle",
+      "myprotein",
+      "neapharma",
+      "netski",
+      "skateshopbe",
+      "skiset-be-1",
+      "skisportbe",
+      "snowleaderbe",
+      "soccerfanshop",
+      "sportsdirect",
+      "tommyteleshopping",
+      "under-armour-be",
+      "bajabikes"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7826,10 +7832,11 @@
     "description": "",
     "logo": "https://img.logo.dev/nedgame.nl?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Toys & Games"
     ],
     "tags": [
-      "products"
+      "toys",
+      "games"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/nedgame-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7839,21 +7846,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "bellatio",
+      "blokees",
+      "direct-playstation",
+      "hrkgame",
+      "magnetenspeelgoednl",
+      "kinderkraft",
+      "out-at-home",
+      "puzzle-befr",
+      "hema",
+      "megagadgets",
+      "regency-chess",
+      "vbs-hobby",
+      "aliexpress",
+      "easytoys",
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -8003,10 +8010,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/nl.pleafs.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/nl-pleafs-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -8016,21 +8023,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "droogmolenstorenl",
+      "energyknights",
+      "fanatec",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9323,10 +9330,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/qonto.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/qonto-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9336,21 +9345,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "cd-keysbe",
+      "cewe",
+      "fotogeschenk",
+      "gezondheidsschool",
+      "gotogate",
+      "home-use",
+      "ikwilvanmijnautoaf",
+      "4-weken-6-euro-kranten",
+      "lycamobilebe",
+      "media-school",
+      "printaboutbe",
+      "residentie-lumeo",
+      "schoonheidsschool-be",
+      "shadow",
+      "ticketmaster"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9496,10 +9505,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/retourkoop.nl",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/retourkoop-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9510,20 +9520,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "schoonheidsschool-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10070,10 +10080,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/skiset.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/skiset-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10083,21 +10094,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "333travel",
+      "addresshotels",
+      "atlaszanzibar",
+      "boerenbed",
+      "brusselsairlines",
+      "cheaptickets",
+      "connections",
+      "eveniahotels",
+      "familyholidaysnl",
+      "flibco",
+      "flixbus",
+      "gotogate",
+      "msc-cruises-benl",
+      "msccroisieresbe",
+      "mytrip"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10176,6 +10187,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -10186,9 +10199,7 @@
       "sportsdirect",
       "tommyteleshopping",
       "under-armour-be",
-      "bajabikes",
-      "gorilla-sports",
-      "i-runbe"
+      "bajabikes"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -10203,10 +10214,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sneaqs.com",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/sneaqs-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10216,21 +10227,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "berca",
+      "exclusivexitems",
+      "havaianas",
+      "hogan",
+      "liu-jo",
+      "manfield",
+      "spartoo",
+      "under-armour-be",
+      "vertbaudet",
+      "sacha",
+      "van-arendonk",
+      "dc-shoes",
+      "sarenza-be",
+      "geox",
+      "sarenza-be-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10564,6 +10575,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -10574,9 +10587,7 @@
       "soccerfanshop",
       "tommyteleshopping",
       "under-armour-be",
-      "bajabikes",
-      "gorilla-sports",
-      "i-runbe"
+      "bajabikes"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -10715,10 +10726,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/svensson.club",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/svensson-club?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10729,20 +10741,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11250,10 +11262,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "alamo"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12286,10 +12298,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/villaforyou.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/villaforyou-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12299,21 +12312,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "333travel",
+      "addresshotels",
+      "atlaszanzibar",
+      "boerenbed",
+      "brusselsairlines",
+      "cheaptickets",
+      "connections",
+      "eveniahotels",
+      "familyholidaysnl",
+      "flibco",
+      "flixbus",
+      "gotogate",
+      "msc-cruises-benl",
+      "msccroisieresbe",
+      "mytrip"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12458,10 +12471,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/vivadonna.nl",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/vivadonna-nl?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12472,20 +12486,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12499,10 +12513,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vogels.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/vogels-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12513,20 +12527,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12540,10 +12554,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/business.wallester.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/business-wallester-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12553,21 +12569,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "cd-keysbe",
+      "cewe",
+      "fotogeschenk",
+      "gezondheidsschool",
+      "gotogate",
+      "home-use",
+      "ikwilvanmijnautoaf",
+      "4-weken-6-euro-kranten",
+      "lycamobilebe",
+      "media-school",
+      "printaboutbe",
+      "qonto",
+      "residentie-lumeo",
+      "schoonheidsschool-be",
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14173,9 +14189,9 @@
       "grotekadoshop",
       "jbc",
       "little-crevette",
+      "noukies",
       "123optic",
-      "accountable",
-      "advalorem"
+      "accountable"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14897,6 +14913,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -14907,9 +14925,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "i-runbe"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15011,10 +15027,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hennepolie.nl",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/hennepolie-nl-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -15025,20 +15042,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15511,9 +15528,9 @@
       "grotekadoshop",
       "jbc",
       "little-crevette",
+      "noukies",
       "123optic",
-      "accountable",
-      "advalorem"
+      "accountable"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15782,11 +15799,11 @@
       "mojogear",
       "tennis-point",
       "andufit",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
-      "netski",
-      "skateshopbe",
-      "skiset-be-1"
+      "netski"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16108,10 +16125,10 @@
     "description": "",
     "logo": "https://img.logo.dev/morethanhip.nl?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/morethanhip-nl-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -16122,20 +16139,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -16523,9 +16540,11 @@
     "eCPC": "",
     "similarBrands": [
       "bellatio",
+      "blokees",
       "direct-playstation",
       "hrkgame",
       "magnetenspeelgoednl",
+      "nedgamenl",
       "kinderkraft",
       "out-at-home",
       "hema",
@@ -16534,9 +16553,7 @@
       "vbs-hobby",
       "aliexpress",
       "easytoys",
-      "grotekadoshop",
-      "nedgame",
-      "redmagic"
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16601,10 +16618,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rad.eu",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/rad-eu-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -16615,20 +16632,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16903,10 +16920,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/straightmyteeth.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/straightmyteeth-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -16917,20 +16935,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17191,10 +17209,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17553,10 +17571,10 @@
       "tennis-point",
       "under-armour-be-1",
       "andufit",
+      "dyucycle",
+      "muc-off",
       "myprotein",
-      "neapharma",
-      "netski",
-      "skateshopbe"
+      "neapharma"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17972,10 +17990,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/zumub.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/zumub-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -17986,20 +18005,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18125,7 +18144,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18139,10 +18158,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eu.baobabcollection.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/eu-baobabcollection-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -18153,20 +18173,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18510,10 +18530,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -18521,9 +18543,7 @@
       "van-arendonk",
       "sarenza-be",
       "geox",
-      "sarenza-be-1",
-      "aliexpress",
-      "about-you"
+      "sarenza-be-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19390,10 +19410,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lifespaneurope.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/lifespaneurope-com-be?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -19404,20 +19425,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20936,10 +20957,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/underarmour.ch",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/underarmour-ch?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -20949,21 +20970,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "addresshotels",
+      "badjas",
+      "bellatio",
+      "berca",
+      "caroll",
+      "geluidshuis",
+      "happy-sizebe",
+      "hunkemller",
+      "nextdirect",
+      "oilily",
+      "ondergoedbasic",
+      "sissy-boy",
+      "spartoo",
+      "thecoatingshopnl",
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21045,13 +21066,13 @@
       "out-at-home",
       "hema",
       "regency-chess",
+      "blokees",
+      "nedgamenl",
       "puzzle-befr",
       "megagadgets",
       "aliexpress",
       "easytoys",
-      "grotekadoshop",
-      "nedgame",
-      "redmagic"
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22104,10 +22125,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/infowerk.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/infowerk-com-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -22118,20 +22139,20 @@
     "eCPC": "0.00",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22635,10 +22656,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/buybestgear.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.pickalink.com/click/buybestgear-com-cpc-be?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -22648,21 +22669,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "droogmolenstorenl",
+      "energyknights",
+      "fanatec",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23383,10 +23404,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/b2ctelecom.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/b2ctelecom-nl-be?userId=88888889&subId={your tracking code}",
@@ -23396,21 +23417,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "droogmolenstorenl",
+      "energyknights",
+      "fanatec",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23452,7 +23473,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23535,7 +23556,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23623,7 +23644,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23787,13 +23808,13 @@
       "grotekadoshop",
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "netski",
       "skateshopbe",
       "skiset-be-1",
       "skisportbe",
-      "snowleaderbe",
-      "soccerfanshop",
-      "sportsdirect"
+      "snowleaderbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23807,10 +23828,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bodyworlds.nl",
     "categories": [
-      "Products"
+      "Events & Entertainment"
     ],
     "tags": [
-      "products"
+      "events",
+      "entertainment"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/bodyworlds-nl-be?userId=88888889&subId={your tracking code}",
@@ -23820,21 +23842,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "brandpreventie",
+      "cheaptickets",
+      "geluidshuis",
+      "the-park-playground",
+      "aqualibi",
+      "flyer",
+      "fun-en-feest",
+      "meetic-be",
+      "the-stage",
+      "vandemoer",
+      "walibi",
+      "dobber-life",
+      "ladbrokes-casino",
+      "mondial-tv-belgique",
+      "ondeugend-datenbe"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23848,10 +23870,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/boekenwereld.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/boekenwereld-com-be?userId=88888889&subId={your tracking code}",
@@ -23862,20 +23884,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24056,10 +24078,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bymax.nl",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/bymax-nl?userId=88888889&subId={your tracking code}",
@@ -24070,20 +24092,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
       "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "auto5",
+      "autodoc-be",
+      "autodoc-be-1",
+      "autoonderdelen24",
+      "bellatio",
+      "berca",
+      "blackshark",
+      "brandpreventie",
+      "casecompanyparis",
+      "cewe",
+      "cookinglife",
+      "elpumps",
+      "energyknights"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24520,7 +24542,7 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
-      "residentie-lumeo"
+      "qonto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24686,10 +24708,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24771,10 +24793,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24932,15 +24954,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -24969,9 +24991,11 @@
     "eCPC": "0.16",
     "similarBrands": [
       "bellatio",
+      "blokees",
       "direct-playstation",
       "hrkgame",
       "magnetenspeelgoednl",
+      "nedgamenl",
       "kinderkraft",
       "out-at-home",
       "puzzle-befr",
@@ -24980,9 +25004,7 @@
       "regency-chess",
       "vbs-hobby",
       "aliexpress",
-      "grotekadoshop",
-      "nedgame",
-      "redmagic"
+      "grotekadoshop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25037,10 +25059,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/esdemarca.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/esdemarca-com-be?userId=88888889&subId={your tracking code}",
@@ -25050,21 +25072,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "addresshotels",
+      "badjas",
+      "bellatio",
+      "berca",
+      "caroll",
+      "geluidshuis",
+      "happy-sizebe",
+      "hunkemller",
+      "nextdirect",
+      "oilily",
+      "ondergoedbasic",
+      "sissy-boy",
+      "spartoo",
+      "thecoatingshopnl",
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25162,10 +25184,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/farmrio.eu",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/farmrio-eu-be?userId=88888889&subId={your tracking code}",
@@ -25175,21 +25197,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "addresshotels",
+      "badjas",
+      "bellatio",
+      "berca",
+      "caroll",
+      "geluidshuis",
+      "happy-sizebe",
+      "hunkemller",
+      "nextdirect",
+      "oilily",
+      "ondergoedbasic",
+      "sissy-boy",
+      "spartoo",
+      "thecoatingshopnl",
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25283,7 +25305,7 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
-      "residentie-lumeo"
+      "qonto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25323,10 +25345,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25569,15 +25591,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25651,6 +25673,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -25661,9 +25685,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -25859,6 +25881,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -25869,9 +25893,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -25904,15 +25926,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25968,10 +25990,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hln.be",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/shop-hln-be-be?userId=88888889&subId={your tracking code}",
@@ -25981,21 +26003,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "addresshotels",
+      "badjas",
+      "bellatio",
+      "berca",
+      "caroll",
+      "geluidshuis",
+      "happy-sizebe",
+      "hunkemller",
+      "nextdirect",
+      "oilily",
+      "ondergoedbasic",
+      "sissy-boy",
+      "spartoo",
+      "thecoatingshopnl",
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26337,7 +26359,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26519,10 +26541,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lerobert.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/lerobert-com-be?userId=88888889&subId={your tracking code}",
@@ -26532,21 +26556,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "cd-keysbe",
+      "cewe",
+      "fotogeschenk",
+      "gezondheidsschool",
+      "gotogate",
+      "home-use",
+      "ikwilvanmijnautoaf",
+      "4-weken-6-euro-kranten",
+      "lycamobilebe",
+      "media-school",
+      "printaboutbe",
+      "qonto",
+      "residentie-lumeo",
+      "schoonheidsschool-be",
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26671,7 +26695,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -26713,9 +26737,9 @@
       "kidsaround-be-standard",
       "kinderkraft",
       "milk-bar-babystore",
+      "noukies",
       "addresshotels",
-      "badjas",
-      "berca"
+      "badjas"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26799,7 +26823,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26943,10 +26967,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/maevenart.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/maevenart-com-be?userId=88888889&subId={your tracking code}",
@@ -26956,21 +26981,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
       "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "badjas",
+      "bedshopbe",
+      "bellatio",
+      "biopejs-shop",
+      "boerenbed",
+      "boutique-anti-nuisibles",
+      "brandpreventie",
+      "cookinglife",
+      "deco-de-heros",
+      "elpumps",
+      "emma-mattress",
+      "eugrowshop",
+      "fotogeschenk",
+      "gedenktegelnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27304,11 +27329,11 @@
       "grotekadoshop",
       "tennis-point",
       "andufit",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
-      "netski",
-      "skateshopbe",
-      "skiset-be-1"
+      "netski"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27604,15 +27629,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27696,7 +27721,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27833,10 +27858,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/papique-com-be?userId=88888889&subId={your tracking code}",
@@ -27847,20 +27873,20 @@
     "eCPC": "",
     "similarBrands": [
       "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "aedwinkelbe",
+      "aromextrem-cbd",
+      "condooms",
+      "creamhigh",
+      "douglas",
+      "farmaline",
+      "feel-good-contacts",
+      "gezondheidsschool",
+      "gimmyvitamins",
+      "iciparisxlbe",
+      "iherb",
+      "myprotein",
+      "neapharma",
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28059,6 +28085,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -28069,9 +28097,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28453,7 +28479,7 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
-      "residentie-lumeo"
+      "qonto"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28576,10 +28602,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28663,7 +28689,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28747,7 +28773,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28911,10 +28937,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28942,10 +28968,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -28953,9 +28981,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28992,6 +29018,8 @@
       "bajabikes",
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "skateshopbe",
@@ -28999,9 +29027,7 @@
       "snowleaderbe",
       "soccerfanshop",
       "sportsdirect",
-      "tommyteleshopping",
-      "under-armour-be",
-      "gorilla-sports"
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29073,6 +29099,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -29083,9 +29111,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29243,15 +29269,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29626,6 +29652,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -29636,9 +29664,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29680,7 +29706,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29713,15 +29739,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29754,15 +29780,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -29805,10 +29831,10 @@
       "nike",
       "tennis-point",
       "andufit",
+      "dyucycle",
+      "muc-off",
       "myprotein",
-      "neapharma",
-      "netski",
-      "skateshopbe"
+      "neapharma"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29919,10 +29945,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -29930,9 +29958,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30139,7 +30165,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30153,10 +30179,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/voordeelvanger.nl",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/voordeelvanger-nl?userId=88888889&subId={your tracking code}",
@@ -30166,21 +30192,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
+      "lenovo-be-paused",
       "allekabelsbe",
       "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "blackshark",
+      "conrad",
+      "direct-playstation",
+      "droogmolenstorenl",
+      "energyknights",
+      "fanatec",
+      "ibood",
+      "inktkenners",
+      "inktwereld",
+      "lampenlicht",
+      "lautsprecher-teufel",
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30220,10 +30246,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30395,10 +30421,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30440,7 +30466,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30473,15 +30499,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30520,14 +30546,14 @@
       "aliexpress",
       "grotekadoshop",
       "andufit",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
       "skateshopbe",
       "skiset-be-1",
-      "skisportbe",
-      "snowleaderbe",
-      "soccerfanshop"
+      "skisportbe"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -30602,15 +30628,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -30652,7 +30678,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31160,7 +31186,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31202,7 +31228,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31273,9 +31299,11 @@
     "eCPC": "",
     "similarBrands": [
       "bellatio",
+      "blokees",
       "direct-playstation",
       "hrkgame",
       "magnetenspeelgoednl",
+      "nedgamenl",
       "kinderkraft",
       "out-at-home",
       "puzzle-befr",
@@ -31284,9 +31312,7 @@
       "regency-chess",
       "vbs-hobby",
       "aliexpress",
-      "easytoys",
-      "grotekadoshop",
-      "redmagic"
+      "easytoys"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -31300,10 +31326,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/noukies.com",
     "categories": [
-      "Products"
+      "Baby & Toddler"
     ],
     "tags": [
-      "products"
+      "baby",
+      "toddler"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/noukies-com-be?userId=88888889&subId={your tracking code}",
@@ -31313,21 +31340,19 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "bellatio",
+      "happybeardiapersbe",
+      "vertbaudet",
+      "dryly",
+      "fun-en-feest",
+      "kidsaround-be-standard",
+      "kinderkraft",
+      "milk-bar-babystore",
+      "hema",
+      "aliexpress",
+      "grotekadoshop",
+      "jbc",
+      "little-crevette"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31360,15 +31385,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31444,16 +31469,16 @@
       "aliexpress",
       "grotekadoshop",
       "bellatio",
+      "blokees",
       "hrkgame",
       "magnetenspeelgoednl",
+      "nedgamenl",
       "kinderkraft",
       "out-at-home",
       "puzzle-befr",
       "hema",
       "regency-chess",
-      "vbs-hobby",
-      "easytoys",
-      "nedgame"
+      "vbs-hobby"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31572,10 +31597,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -31583,9 +31610,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31656,10 +31681,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -31667,9 +31694,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31959,7 +31984,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -32032,6 +32057,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -32042,9 +32069,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32209,10 +32234,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32240,10 +32265,12 @@
     "eCPC": "3.02",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -32251,9 +32278,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32293,10 +32318,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32310,10 +32335,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/drestige.com",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/drestige-com-be?userId=88888889&subId={your tracking code}",
@@ -32323,21 +32348,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "berca",
+      "exclusivexitems",
+      "havaianas",
+      "hogan",
+      "liu-jo",
+      "manfield",
+      "sneaqs",
+      "spartoo",
+      "under-armour-be",
+      "vertbaudet",
+      "sacha",
+      "van-arendonk",
+      "dc-shoes",
+      "sarenza-be",
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32602,10 +32627,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/heatsupply.nl",
     "categories": [
-      "Products"
+      "Food, Drinks & Restaurants"
     ],
     "tags": [
-      "products"
+      "food",
+      "drinks",
+      "restaurants"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/heatsupply-nl-be?userId=88888889&subId={your tracking code}",
@@ -32615,21 +32642,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
-      "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "8wines-be-nl",
+      "8wines-frbe-fr",
+      "bourseduvin",
+      "cookinglife",
+      "crowdcooks",
+      "daretodrinkdifferentnl",
+      "dekruidenbaronnl",
+      "denotenshop",
+      "dunkin-donuts",
+      "gimmyvitamins",
+      "greenpan",
+      "laboitedufromager",
+      "ode-to-the-wine-bottle",
+      "sissy-boy",
+      "tommyteleshopping"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32753,10 +32780,10 @@
       "lycamobilebe",
       "media-school",
       "printaboutbe",
+      "qonto",
       "residentie-lumeo",
       "schoonheidsschool-be",
-      "shadow",
-      "ticketmaster"
+      "shadow"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32784,10 +32811,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -32795,9 +32824,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32911,6 +32938,8 @@
     "similarBrands": [
       "andufit",
       "bellatio",
+      "dyucycle",
+      "muc-off",
       "myprotein",
       "neapharma",
       "netski",
@@ -32921,9 +32950,7 @@
       "soccerfanshop",
       "sportsdirect",
       "tommyteleshopping",
-      "under-armour-be",
-      "bajabikes",
-      "gorilla-sports"
+      "under-armour-be"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33021,10 +33048,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lusini.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "BE",
     "affiliateUrl": "https://www.shoptastic.io/be/store/lusini-com-be?userId=88888889&subId={your tracking code}",
@@ -33034,21 +33062,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "123optic",
-      "accountable",
-      "advalorem",
-      "airfranceit",
-      "aktiia",
       "albelli",
-      "alidrop",
-      "alleenstaande-mamasbe",
-      "alleenstaande-papasbe",
-      "allekabelsbe",
-      "alternate",
-      "alyseebe",
-      "andufit",
-      "app-storylane",
-      "appelhoes"
+      "badjas",
+      "bedshopbe",
+      "bellatio",
+      "biopejs-shop",
+      "boerenbed",
+      "boutique-anti-nuisibles",
+      "brandpreventie",
+      "cookinglife",
+      "deco-de-heros",
+      "elpumps",
+      "emma-mattress",
+      "eugrowshop",
+      "fotogeschenk",
+      "gedenktegelnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33425,7 +33453,7 @@
       "iherb",
       "myprotein",
       "neapharma",
-      "schoonheidsschool-be"
+      "retourkoopnl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33666,15 +33694,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33702,10 +33730,12 @@
     "eCPC": "",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -33713,9 +33743,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -33743,10 +33771,12 @@
     "eCPC": "1.38",
     "similarBrands": [
       "berca",
+      "exclusivexitems",
       "havaianas",
       "hogan",
       "liu-jo",
       "manfield",
+      "sneaqs",
       "spartoo",
       "under-armour-be",
       "vertbaudet",
@@ -33754,9 +33784,7 @@
       "van-arendonk",
       "dc-shoes",
       "sarenza-be",
-      "geox",
-      "sarenza-be-1",
-      "aliexpress"
+      "geox"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34041,15 +34069,15 @@
       "blackshark",
       "conrad",
       "direct-playstation",
+      "droogmolenstorenl",
       "energyknights",
+      "fanatec",
       "ibood",
       "inktkenners",
       "inktwereld",
       "lampenlicht",
       "lautsprecher-teufel",
-      "media-markt",
-      "memorypcbe",
-      "philips"
+      "media-markt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

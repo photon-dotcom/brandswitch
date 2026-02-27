@@ -9,7 +9,8 @@
     "lint": "next lint",
     "sync": "tsx scripts/sync-brands.ts",
     "sync:test": "tsx scripts/sync-brands.ts --max-pages 3",
-    "sync:resume": "tsx scripts/sync-brands.ts --resume"
+    "sync:resume": "tsx scripts/sync-brands.ts --resume",
+    "sync:classify": "tsx scripts/sync-brands.ts --resume --classify"
   },
   "dependencies": {
     "next": "14.2.35",

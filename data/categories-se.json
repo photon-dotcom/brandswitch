@@ -2,36 +2,41 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 519
-  },
-  {
-    "name": "Home & Garden",
-    "slug": "home-and-garden",
-    "brandCount": 84
+    "brandCount": 483
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 82
+    "brandCount": 87
   },
   {
-    "name": "Accessories",
-    "slug": "accessories",
-    "brandCount": 65
+    "name": "Home & Garden",
+    "slug": "home-and-garden",
+    "brandCount": 85
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 64
+    "brandCount": 70
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 62
+    "brandCount": 69
+  },
+  {
+    "name": "Accessories",
+    "slug": "accessories",
+    "brandCount": 69
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
+    "brandCount": 54
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
     "brandCount": 53
   },
   {
@@ -40,14 +45,9 @@
     "brandCount": 51
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 45
-  },
-  {
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
-    "brandCount": 27
+    "brandCount": 28
   },
   {
     "name": "Toys & Games",
@@ -60,19 +60,19 @@
     "brandCount": 24
   },
   {
+    "name": "Food, Drinks & Restaurants",
+    "slug": "food-drinks-and-restaurants",
+    "brandCount": 23
+  },
+  {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
     "brandCount": 22
   },
   {
-    "name": "Food, Drinks & Restaurants",
-    "slug": "food-drinks-and-restaurants",
-    "brandCount": 22
-  },
-  {
     "name": "Pets",
     "slug": "pets",
-    "brandCount": 19
+    "brandCount": 20
   },
   {
     "name": "Shoes",
@@ -92,6 +92,6 @@
   {
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
-    "brandCount": 8
+    "brandCount": 9
   }
 ]

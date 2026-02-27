@@ -164,12 +164,12 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
       "biopejs-shop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -426,12 +426,12 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
       "biopejs-shop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -467,12 +467,12 @@
       "alperejserdk",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
       "biopejs-shop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -594,12 +594,12 @@
       "alperejserdk",
       "any-video-converter",
       "app-invoicesimple",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
       "biopejs-shop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -613,10 +613,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bemz.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/bemz-dk?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -626,21 +627,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
       "a2interior",
-      "abrosoft",
       "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop",
-      "blavandstranddk"
+      "designhomedk",
+      "designmarketnu",
+      "electrolux-brandshop",
+      "home-texdk",
+      "kunstige-stearinlysdk",
+      "lampegiganten",
+      "mobelsalg",
+      "philips-hue",
+      "se-dreametech",
+      "spotlessmaterials",
+      "stovsugerposerdk",
+      "unikplakat",
+      "vidaxl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -722,11 +723,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "bildeleshop",
       "biopejs-shop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -807,11 +808,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "blavandstranddk"
+      "blavandstranddk",
+      "bobw"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -892,11 +893,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -933,11 +934,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -1016,11 +1017,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1057,14 +1058,14 @@
       "min-lille-mus",
       "allectra",
       "aliexpress",
+      "eu-4game",
       "sharkgamingdk",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
       "myprotein",
       "a2interior",
-      "abrosoft",
-      "aegdk"
+      "abrosoft"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1190,11 +1191,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1231,11 +1232,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -1272,11 +1273,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1313,11 +1314,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -1398,11 +1399,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1440,14 +1441,14 @@
       "holdit",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1484,11 +1485,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1701,11 +1702,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1742,11 +1743,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1913,11 +1914,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1954,11 +1955,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2015,10 +2016,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/eu.4game.com",
     "categories": [
-      "Products"
+      "Toys & Games"
     ],
     "tags": [
-      "products"
+      "toys",
+      "games"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/eu-4game-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2028,21 +2030,18 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "bvssolitaire",
+      "gruppespildk",
+      "private-play",
+      "sharkgamingdk",
+      "droemmeland",
+      "hobbix",
+      "min-lille-mus",
+      "allectra",
+      "aliexpress",
+      "rikki-tikki",
+      "shopping4net",
+      "eurotoys"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -2092,10 +2091,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/falke.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/falke-com-dk?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2105,21 +2104,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1",
+      "allectra"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2244,11 +2243,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2329,11 +2328,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2502,11 +2501,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2588,11 +2587,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2629,11 +2628,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2670,11 +2669,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2711,11 +2710,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2759,10 +2758,10 @@
       "aliexpress",
       "danguitardk",
       "stubhub",
+      "eu-4game",
       "sharkgamingdk",
       "rikki-tikki",
-      "shopping4net",
-      "eurotoys"
+      "shopping4net"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2843,14 +2842,14 @@
       "holdit",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2908,10 +2907,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/housecallpro.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/housecallpro-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2921,21 +2922,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "democreator-wondershare",
+      "higgsfield",
+      "mindlydk",
+      "nextory",
+      "tune4mac",
+      "vso-software",
+      "one",
+      "webdock",
+      "holdit",
+      "lycamobile",
+      "preply",
+      "adobe",
+      "enkl-sound-copenhagen",
+      "nordvpn",
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2972,11 +2973,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -3145,11 +3146,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3385,10 +3386,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/kalisa.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/kalisa-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3398,21 +3399,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1",
+      "allectra"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3586,11 +3587,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3620,6 +3621,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -3631,8 +3633,7 @@
       "spotlessmaterials",
       "stovsugerposerdk",
       "unikplakat",
-      "vidaxl",
-      "oxygen-mask"
+      "vidaxl"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3669,11 +3670,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3712,9 +3713,9 @@
       "conrad",
       "dinleddk",
       "alternate",
+      "eu-laifentech",
       "ankernordics",
-      "tech-shoppendk",
-      "aliexpress"
+      "tech-shoppendk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3841,11 +3842,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3943,10 +3944,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/mickiofsweden.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/mickiofsweden-com-dk?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3956,21 +3957,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1",
+      "allectra"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4048,19 +4049,19 @@
     "similarBrands": [
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "nextory",
       "tune4mac",
       "vso-software",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "myprotein"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4231,11 +4232,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4316,11 +4317,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4400,11 +4401,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4443,9 +4444,9 @@
       "conrad",
       "dinleddk",
       "alternate",
+      "eu-laifentech",
       "ankernordics",
-      "tech-shoppendk",
-      "aliexpress"
+      "tech-shoppendk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4483,14 +4484,14 @@
       "holdit",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4572,11 +4573,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4613,11 +4614,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4657,10 +4658,10 @@
       "sports-direct-dk-1",
       "uniqlo",
       "wish",
+      "falke",
       "moto",
       "hunkemller",
-      "libresse",
-      "motoin"
+      "kalisa"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4772,14 +4773,14 @@
       "min-lille-mus",
       "allectra",
       "aliexpress",
+      "eu-4game",
       "sharkgamingdk",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
       "myprotein",
       "a2interior",
-      "abrosoft",
-      "aegdk"
+      "abrosoft"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -4900,11 +4901,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5119,11 +5120,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5155,6 +5156,7 @@
     "similarBrands": [
       "aliexpress",
       "bvssolitaire",
+      "eu-4game",
       "gruppespildk",
       "private-play",
       "droemmeland",
@@ -5166,8 +5168,7 @@
       "eurotoys",
       "acer",
       "alibaba",
-      "lenovo",
-      "mobilcoversdk"
+      "lenovo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5204,11 +5205,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5290,11 +5291,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5376,11 +5377,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5417,11 +5418,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5536,20 +5537,20 @@
     "eCPC": "0.01",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "under-armour",
+      "eterna",
       "robell",
       "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s",
-      "shein"
+      "allectra"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5724,7 +5725,7 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics"
+      "eu-laifentech"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5761,11 +5762,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -5802,11 +5803,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6013,14 +6014,14 @@
       "holdit",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -6148,11 +6149,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6189,11 +6190,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6319,18 +6320,18 @@
       "enkl-sound-copenhagen",
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "acer"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6367,11 +6368,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6408,11 +6409,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6449,11 +6450,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6531,11 +6532,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6577,8 +6578,8 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
-      "bergfreunde"
+      "bergfreunde",
+      "betterfeastdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6664,8 +6665,8 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
-      "bergfreunde"
+      "bergfreunde",
+      "betterfeastdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6745,11 +6746,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6786,11 +6787,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6827,11 +6828,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6912,11 +6913,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7042,14 +7043,14 @@
       "min-lille-mus",
       "allectra",
       "aliexpress",
+      "eu-4game",
       "sharkgamingdk",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
       "myprotein",
       "a2interior",
-      "abrosoft",
-      "aegdk"
+      "abrosoft"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7086,11 +7087,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7193,10 +7194,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eterna.de",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/eterna-de-dk?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7206,21 +7207,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "robell",
+      "spreadshirt-dk-1",
+      "allectra"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7257,11 +7258,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7305,7 +7306,7 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz"
+      "bergfreunde"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7342,11 +7343,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7425,11 +7426,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7466,11 +7467,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7551,11 +7552,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7592,11 +7593,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7852,11 +7853,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7893,11 +7894,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7934,11 +7935,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7975,11 +7976,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -8009,6 +8010,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -8020,8 +8022,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -8058,11 +8059,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8230,14 +8231,14 @@
       "hobbix",
       "allectra",
       "aliexpress",
+      "eu-4game",
       "sharkgamingdk",
       "rikki-tikki",
       "shopping4net",
       "eurotoys",
       "myprotein",
       "a2interior",
-      "abrosoft",
-      "aegdk"
+      "abrosoft"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8318,11 +8319,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8366,7 +8367,7 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz"
+      "bergfreunde"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8424,10 +8425,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/one.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/one-com-dk?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -8437,21 +8440,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "democreator-wondershare",
+      "higgsfield",
+      "housecallpro",
+      "mindlydk",
+      "nextory",
+      "tune4mac",
+      "vso-software",
+      "webdock",
+      "holdit",
+      "lycamobile",
+      "preply",
+      "adobe",
+      "enkl-sound-copenhagen",
+      "nordvpn",
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8488,11 +8491,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8529,11 +8532,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8570,11 +8573,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8699,12 +8702,12 @@
       "light-in-the-box",
       "vistaprint",
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
-      "libresse",
-      "motoin",
-      "pashminawear"
+      "kalisa",
+      "libresse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8786,11 +8789,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8872,11 +8875,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8913,11 +8916,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -8959,8 +8962,8 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
-      "bergfreunde"
+      "bergfreunde",
+      "betterfeastdk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9039,11 +9042,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9080,11 +9083,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -9122,14 +9125,14 @@
       "holdit",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9166,11 +9169,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9207,11 +9210,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9435,11 +9438,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9476,11 +9479,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9605,11 +9608,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9739,11 +9742,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9861,6 +9864,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -9872,8 +9876,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10021,10 +10024,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/eu.laifentech.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/eu-laifentech-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10034,21 +10037,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "acer",
+      "alibaba",
+      "lenovo",
+      "mobilcoversdk",
+      "mytrendyphone",
+      "se-dreametech",
+      "sharkgamingdk",
+      "tabletcoversdk",
+      "vso-software",
+      "batteries-onlinedk",
+      "conrad",
+      "dinleddk",
+      "alternate",
+      "ankernordics",
+      "tech-shoppendk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10219,11 +10222,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10261,14 +10264,14 @@
       "webdock",
       "lycamobile",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10305,11 +10308,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10339,6 +10342,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -10350,8 +10354,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10381,6 +10384,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -10392,8 +10396,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10481,11 +10484,11 @@
       "bloomon",
       "holdit",
       "adobe",
+      "housecallpro",
       "mindlydk",
       "vso-software",
-      "enkl-sound-copenhagen",
-      "nordvpn",
-      "lastminute"
+      "one",
+      "preply"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10522,11 +10525,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10600,6 +10603,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -10611,8 +10615,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10693,11 +10696,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10734,11 +10737,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10775,11 +10778,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -10908,11 +10911,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10993,11 +10996,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11078,11 +11081,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11119,11 +11122,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -11203,11 +11206,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11244,11 +11247,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -11326,11 +11329,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11411,11 +11414,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11452,11 +11455,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11493,11 +11496,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11534,11 +11537,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11616,11 +11619,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11744,11 +11747,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11785,11 +11788,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11826,11 +11829,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11867,11 +11870,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -11908,11 +11911,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11949,11 +11952,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12080,11 +12083,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12121,11 +12124,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -12139,10 +12142,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/herbsbysonja.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/herbsbysonja-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -12153,20 +12157,20 @@
     "eCPC": "",
     "similarBrands": [
       "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "alibaba",
+      "charlotte-tilbury",
+      "iherb",
+      "iloveshampoodk",
+      "lensway",
+      "libresse",
+      "mindlydk",
+      "sephoradk",
+      "swehealth",
+      "cbdsense",
+      "naturecan",
+      "nordic-test",
+      "allectra",
+      "clarins"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12203,11 +12207,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12221,11 +12225,9 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/hostelworld.com",
     "categories": [
-      "Products",
       "Travel & Vacations"
     ],
     "tags": [
-      "products",
       "travel",
       "vacations"
     ],
@@ -12239,19 +12241,19 @@
     "similarBrands": [
       "airfrancedk",
       "airhelp-dk",
+      "baglionihotels",
       "blavandstranddk",
       "deturdk",
       "feriehusudlejningdk",
       "ferryhopper",
       "flybillet",
+      "flyforsinkelse",
       "hurtigruten",
       "klitferie",
       "miles-and-more",
       "reethifaru",
       "risskov",
-      "stenalinedk",
-      "tripxdk",
-      "alamodk"
+      "stenalinedk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12322,11 +12324,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12363,11 +12365,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12404,11 +12406,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12445,11 +12447,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12678,10 +12680,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preply.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/preply-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -12691,21 +12695,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "democreator-wondershare",
+      "higgsfield",
+      "housecallpro",
+      "mindlydk",
+      "nextory",
+      "tune4mac",
+      "vso-software",
+      "one",
+      "webdock",
+      "holdit",
+      "lycamobile",
+      "adobe",
+      "enkl-sound-copenhagen",
+      "nordvpn",
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12742,11 +12746,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12875,11 +12879,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12916,11 +12920,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12934,10 +12938,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/stylingagenten.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.pickalink.com/click/stylingagenten-com-cpc-dk?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -12947,21 +12951,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13174,14 +13178,14 @@
       "webdock",
       "holdit",
       "lycamobile",
+      "housecallpro",
       "mindlydk",
       "vso-software",
+      "one",
+      "preply",
       "enkl-sound-copenhagen",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13296,11 +13300,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13337,11 +13341,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13385,7 +13389,7 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz"
+      "bergfreunde"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13467,11 +13471,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13748,20 +13752,20 @@
     "eCPC": "",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "spreadshirt-dk",
       "under-armour",
+      "eterna",
       "robell",
-      "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s"
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14293,11 +14297,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14334,11 +14338,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14375,14 +14379,14 @@
       "kabeltromlen",
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
       "home-texdk",
       "kunstige-stearinlysdk",
       "lampegiganten",
-      "mobelsalg",
-      "philips-hue"
+      "mobelsalg"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -14416,18 +14420,18 @@
       "vso-software",
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "nordvpn",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto",
-      "acer"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14441,10 +14445,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/esdemarca.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/esdemarca-com-dk?userId=88888889&subId={your tracking code}",
@@ -14454,21 +14458,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14508,8 +14512,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14546,11 +14550,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14595,7 +14599,7 @@
       "wish",
       "caprice",
       "stadium-goods",
-      "moto"
+      "falke"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14609,10 +14613,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/garvee.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/garvee-com?userId=88888889&subId={your tracking code}",
@@ -14622,21 +14626,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "dinsolbrille",
+      "dyrberg-kern",
+      "estore-new",
+      "hattebutikken",
+      "hugo-boss",
+      "lilu-studio-smukke-hndlavede-and-vandfaste-smykker",
+      "mobilcoversdk",
+      "pashminawear",
+      "tabletcoversdk",
+      "vidaxl",
+      "oxygen-mask",
+      "jewels-of-taste",
+      "lux-case",
+      "yoursurprise"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14758,11 +14762,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14799,11 +14803,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14962,11 +14966,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15072,20 +15076,20 @@
     "eCPC": "",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "spreadshirt-dk",
       "under-armour",
+      "eterna",
       "robell",
-      "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s"
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15158,18 +15162,19 @@
     "similarBrands": [
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
       "vso-software",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "enkl-sound-copenhagen",
-      "sky-showtime",
-      "lastminute",
-      "surveypronto"
+      "sky-showtime"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15252,8 +15257,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15309,10 +15314,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/papique-com-dk?userId=88888889&subId={your tracking code}",
@@ -15323,20 +15329,20 @@
     "eCPC": "",
     "similarBrands": [
       "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "alibaba",
+      "charlotte-tilbury",
+      "iherb",
+      "iloveshampoodk",
+      "lensway",
+      "libresse",
+      "mindlydk",
+      "sephoradk",
+      "swehealth",
+      "cbdsense",
+      "naturecan",
+      "nordic-test",
+      "allectra",
+      "clarins"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15452,20 +15458,20 @@
     "eCPC": "",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "spreadshirt-dk",
       "under-armour",
+      "eterna",
       "robell",
-      "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s"
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15540,6 +15546,7 @@
       "aliexpress",
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -15550,8 +15557,7 @@
       "philips-hue",
       "se-dreametech",
       "spotlessmaterials",
-      "stovsugerposerdk",
-      "unikplakat"
+      "stovsugerposerdk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15588,11 +15594,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15713,11 +15719,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15754,11 +15760,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15841,18 +15847,18 @@
       "lycamobile",
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
       "vso-software",
+      "one",
       "webdock",
       "holdit",
+      "preply",
       "adobe",
       "enkl-sound-copenhagen",
-      "nordvpn",
-      "lastminute",
-      "surveypronto",
-      "smugglers-crate"
+      "nordvpn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15988,13 +15994,13 @@
       "wish",
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
       "home-texdk",
       "kunstige-stearinlysdk",
-      "lampegiganten",
-      "mobelsalg"
+      "lampegiganten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16158,6 +16164,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -16169,8 +16176,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16207,11 +16213,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16239,20 +16245,20 @@
     "eCPC": "0.11",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "spreadshirt-dk",
       "under-armour",
+      "eterna",
       "robell",
-      "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s"
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16289,11 +16295,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16365,6 +16371,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -16376,8 +16383,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16498,11 +16504,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16542,8 +16548,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16607,6 +16613,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -16618,8 +16625,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16653,19 +16659,19 @@
     "similarBrands": [
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
       "vso-software",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "enkl-sound-copenhagen",
-      "nordvpn",
-      "sky-showtime",
-      "surveypronto",
-      "airfrancedk"
+      "nordvpn"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16735,20 +16741,20 @@
     "eCPC": "0.10",
     "similarBrands": [
       "capalusdk",
+      "falke",
       "moto",
       "hugo-boss",
       "hunkemller",
+      "kalisa",
       "libresse",
+      "mickiofsweden",
       "motoin",
       "pashminawear",
       "spreadshirt-dk",
       "under-armour",
+      "eterna",
       "robell",
-      "spreadshirt-dk-1",
-      "allectra",
-      "emp",
-      "femiletdk",
-      "teeshoppendk-i-s2s"
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16788,8 +16794,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16826,11 +16832,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16887,10 +16893,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/timarco.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/timarco-com-dk?userId=88888889&subId={your tracking code}",
@@ -16900,21 +16906,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16928,10 +16934,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/banwood.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/banwood-com-dk?userId=88888889&subId={your tracking code}",
@@ -16941,21 +16947,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "dinsolbrille",
+      "dyrberg-kern",
+      "estore-new",
+      "hattebutikken",
+      "hugo-boss",
+      "lilu-studio-smukke-hndlavede-and-vandfaste-smykker",
+      "mobilcoversdk",
+      "pashminawear",
+      "tabletcoversdk",
+      "vidaxl",
+      "oxygen-mask",
+      "jewels-of-taste",
+      "lux-case",
+      "yoursurprise"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16969,10 +16975,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/charlemagne-premium.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/charlemagne-premium-com-dk?userId=88888889&subId={your tracking code}",
@@ -16983,20 +16990,20 @@
     "eCPC": "",
     "similarBrands": [
       "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "alibaba",
+      "charlotte-tilbury",
+      "iherb",
+      "iloveshampoodk",
+      "lensway",
+      "libresse",
+      "mindlydk",
+      "sephoradk",
+      "swehealth",
+      "cbdsense",
+      "naturecan",
+      "nordic-test",
+      "allectra",
+      "clarins"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17033,11 +17040,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17160,11 +17167,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17201,11 +17208,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17277,6 +17284,7 @@
     "eCPC": "",
     "similarBrands": [
       "bvssolitaire",
+      "eu-4game",
       "gruppespildk",
       "private-play",
       "sharkgamingdk",
@@ -17365,11 +17373,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17442,6 +17450,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -17453,8 +17462,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17484,6 +17492,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -17495,8 +17504,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17533,11 +17541,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17551,10 +17559,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/iubenda.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/iubenda-com-dk?userId=88888889&subId={your tracking code}",
@@ -17564,21 +17574,21 @@
     "commissionType": "",
     "eCPC": "1.80",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "democreator-wondershare",
+      "higgsfield",
+      "housecallpro",
+      "mindlydk",
+      "nextory",
+      "tune4mac",
+      "vso-software",
+      "one",
+      "webdock",
+      "holdit",
+      "lycamobile",
+      "preply",
+      "adobe",
+      "enkl-sound-copenhagen",
+      "nordvpn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17615,14 +17625,14 @@
       "temu",
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
       "home-texdk",
       "kunstige-stearinlysdk",
       "lampegiganten",
-      "mobelsalg",
-      "philips-hue"
+      "mobelsalg"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17659,11 +17669,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17700,11 +17710,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17718,10 +17728,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/koulb.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/koulb-com-dk?userId=88888889&subId={your tracking code}",
@@ -17731,21 +17741,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17782,11 +17792,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17845,10 +17855,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lusini.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/lusini-com-dk?userId=88888889&subId={your tracking code}",
@@ -17858,21 +17869,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
       "a2interior",
-      "abrosoft",
       "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
       "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "designhomedk",
+      "designmarketnu",
+      "electrolux-brandshop",
+      "home-texdk",
+      "kunstige-stearinlysdk",
+      "lampegiganten",
+      "mobelsalg",
+      "philips-hue",
+      "se-dreametech",
+      "spotlessmaterials",
+      "stovsugerposerdk",
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17909,11 +17920,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -17994,8 +18005,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18035,8 +18046,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18194,6 +18205,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -18205,8 +18217,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18220,10 +18231,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/punktrendy.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/punktrendy-com-dk?userId=88888889&subId={your tracking code}",
@@ -18233,21 +18244,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18261,10 +18272,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/rogoman.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/rogoman-com-dk?userId=88888889&subId={your tracking code}",
@@ -18274,21 +18285,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18318,6 +18329,7 @@
     "similarBrands": [
       "a2interior",
       "aegdk",
+      "bemz",
       "designhomedk",
       "designmarketnu",
       "electrolux-brandshop",
@@ -18329,8 +18341,7 @@
       "se-dreametech",
       "spotlessmaterials",
       "stovsugerposerdk",
-      "unikplakat",
-      "vidaxl"
+      "unikplakat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18389,10 +18400,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/scaleshe.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/scaleshe-com-dk?userId=88888889&subId={your tracking code}",
@@ -18402,21 +18413,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "capalusdk",
+      "falke",
+      "moto",
+      "hugo-boss",
+      "hunkemller",
+      "kalisa",
+      "libresse",
+      "mickiofsweden",
+      "motoin",
+      "pashminawear",
+      "spreadshirt-dk",
+      "under-armour",
+      "eterna",
+      "robell",
+      "spreadshirt-dk-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18538,11 +18549,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18579,11 +18590,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18663,11 +18674,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18729,18 +18740,19 @@
     "similarBrands": [
       "democreator-wondershare",
       "higgsfield",
+      "housecallpro",
       "mindlydk",
       "nextory",
       "tune4mac",
       "vso-software",
+      "one",
       "webdock",
       "holdit",
       "lycamobile",
+      "preply",
       "adobe",
       "enkl-sound-copenhagen",
-      "nordvpn",
-      "sky-showtime",
-      "lastminute"
+      "nordvpn"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -18777,11 +18789,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18861,11 +18873,11 @@
       "any-video-converter",
       "app-invoicesimple",
       "banditten",
-      "bemz",
       "bergfreunde",
       "betterfeastdk",
       "bildeleshop",
-      "biopejs-shop"
+      "biopejs-shop",
+      "blavandstranddk"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18879,10 +18891,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tradetracker.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "DK",
     "affiliateUrl": "https://www.shoptastic.io/dk/store/tradetracker-com-dk?userId=88888889&subId={your tracking code}",
@@ -18892,21 +18906,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "myprotein",
-      "a2interior",
-      "abrosoft",
-      "aegdk",
-      "airfrancedk",
-      "airhelp-dk",
-      "alperejserdk",
-      "any-video-converter",
-      "app-invoicesimple",
-      "banditten",
-      "bemz",
-      "bergfreunde",
-      "betterfeastdk",
-      "bildeleshop",
-      "biopejs-shop"
+      "democreator-wondershare",
+      "higgsfield",
+      "housecallpro",
+      "mindlydk",
+      "nextory",
+      "tune4mac",
+      "vso-software",
+      "one",
+      "webdock",
+      "holdit",
+      "lycamobile",
+      "preply",
+      "adobe",
+      "enkl-sound-copenhagen",
+      "nordvpn"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18946,8 +18960,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18987,8 +19001,8 @@
       "conrad",
       "dinleddk",
       "alternate",
-      "ankernordics",
-      "tech-shoppendk"
+      "eu-laifentech",
+      "ankernordics"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19028,10 +19042,10 @@
       "qathu-da",
       "sports-direct-dk-1",
       "wish",
+      "falke",
       "moto",
       "hunkemller",
-      "libresse",
-      "motoin"
+      "kalisa"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19119,7 +19133,7 @@
       "uniqlo",
       "mobilcoversdk",
       "tabletcoversdk",
-      "moto"
+      "falke"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

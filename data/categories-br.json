@@ -2,12 +2,17 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 639
+    "brandCount": 630
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 71
+    "brandCount": 75
+  },
+  {
+    "name": "Health & Beauty",
+    "slug": "health-and-beauty",
+    "brandCount": 65
   },
   {
     "name": "Home & Garden",
@@ -15,14 +20,9 @@
     "brandCount": 65
   },
   {
-    "name": "Health & Beauty",
-    "slug": "health-and-beauty",
-    "brandCount": 64
-  },
-  {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 49
+    "brandCount": 51
   },
   {
     "name": "Clothing",
@@ -52,7 +52,7 @@
   {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
-    "brandCount": 30
+    "brandCount": 31
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -77,7 +77,7 @@
   {
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
-    "brandCount": 12
+    "brandCount": 13
   },
   {
     "name": "Pets",

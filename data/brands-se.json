@@ -26,6 +26,7 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
@@ -33,8 +34,7 @@
       "lg",
       "ljudfrontse",
       "mobilmarketse",
-      "se-roborock",
-      "sealight-led"
+      "novaalab"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1124,10 +1124,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/bemz.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/bemz-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1137,21 +1138,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
+      "bygg-din-framgng-med-rtt-kunskap",
+      "care-of-posters-se",
+      "care-of-posters-se-1",
+      "careofbedsse",
+      "elektrisk-kaminse",
+      "etanolkamin-shop",
+      "fairwindfasteners",
+      "fi-roborock",
+      "fonstershopse",
+      "ginzase",
+      "glashusetmalmose",
+      "hembiobutikense",
+      "jd-sports",
+      "kalenderspecialisten"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1401,7 +1402,9 @@
       "a-algos",
       "be2",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -1410,9 +1413,7 @@
       "sembo",
       "senetic",
       "simbutikense",
-      "tabulizer",
-      "tidningskungense",
-      "videostormse"
+      "tabulizer"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2284,9 +2285,9 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
+      "naturescollectionse",
       "nordicnaturalbeauty",
-      "nordicnaturalbeautyse",
-      "nordictest"
+      "nordicnaturalbeautyse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2417,8 +2418,8 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket",
-      "estore-new"
+      "strumpbudet-se-1",
+      "blombruket"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2724,10 +2725,12 @@
     "description": "",
     "logo": "https://img.logo.dev/emailyoyo.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/emailyoyo-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2737,21 +2740,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense",
+      "tabulizer"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -3048,6 +3051,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -3056,8 +3060,7 @@
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -3284,10 +3287,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/firstvpn.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/firstvpn-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3297,21 +3302,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense",
+      "tabulizer"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3400,8 +3405,8 @@
       "dreamflowerlashes",
       "partylagret-allt-fr-fest-brllop-kalas-and-party",
       "yoursurprise",
-      "blombruket",
-      "estore-new"
+      "strumpbudet-se-1",
+      "blombruket"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4211,14 +4216,14 @@
       "cdon",
       "hellofresh-se-1",
       "factormealsse",
+      "cask-cartel",
       "pyretosnackan",
       "jshealth-vitamins",
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5102,10 +5107,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/joyor-escooter.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/joyor-escooter-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -5115,21 +5120,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse",
+      "novaalab"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5245,6 +5250,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -5258,8 +5264,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5638,6 +5643,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -5651,8 +5657,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5693,10 +5698,10 @@
       "banggood",
       "obh-nordica",
       "eufy",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
-      "care-of-posters-se",
-      "care-of-posters-se-1"
+      "care-of-posters-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6798,6 +6803,7 @@
     "eCPC": "",
     "similarBrands": [
       "javawhiskersse",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -6810,8 +6816,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -6989,9 +6994,9 @@
       "luxplus",
       "mindlyse",
       "myprotein",
+      "naturescollectionse",
       "nordicnaturalbeauty",
-      "nordicnaturalbeautyse",
-      "nordictest"
+      "nordicnaturalbeautyse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7046,10 +7051,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/naturescollection.se",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/naturescollection-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7059,21 +7065,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
       "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "clarins",
+      "colonbroom",
+      "confidentsmilenu",
+      "dentaworks",
+      "diamond-smile",
+      "iherb",
+      "jakobsapotek",
+      "luxplus",
+      "mindlyse",
+      "myprotein",
+      "naturecan-se",
+      "nordicnaturalbeauty",
+      "nordicnaturalbeautyse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7193,14 +7199,14 @@
       "cdon",
       "hellofresh-se-1",
       "factormealsse",
+      "cask-cartel",
       "pyretosnackan",
       "jshealth-vitamins",
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7241,8 +7247,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeautyse",
-      "nordictest"
+      "naturescollectionse",
+      "nordicnaturalbeautyse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7283,8 +7289,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordictest"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -7509,10 +7515,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/novaalab.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/novaalab-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7522,21 +7528,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "joyor-escooter",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -7940,10 +7946,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/orbitly.io",
     "categories": [
-      "Products"
+      "Pets"
     ],
     "tags": [
-      "products"
+      "pets"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/orbitly-io?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -7953,21 +7959,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "javawhiskersse",
+      "mukkpetbike",
+      "vetzoose",
+      "zooplus",
+      "animigose",
+      "petsterse",
+      "doglovedesign",
+      "hunterpetshop",
+      "petzealpl",
+      "tostarp",
+      "vivara",
+      "aliexpress",
+      "banggood",
+      "bestpet",
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8180,8 +8186,8 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket",
-      "estore-new"
+      "strumpbudet-se-1",
+      "blombruket"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9446,10 +9452,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sammcknight.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/sammcknight-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9459,21 +9466,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
       "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "clarins",
+      "colonbroom",
+      "confidentsmilenu",
+      "dentaworks",
+      "diamond-smile",
+      "iherb",
+      "jakobsapotek",
+      "luxplus",
+      "mindlyse",
+      "myprotein",
+      "naturecan-se",
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9641,16 +9648,16 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
       "readly-se",
       "robocash",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10035,10 +10042,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/sifjakobs.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/sifjakobs-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10048,21 +10055,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bagasi",
+      "baron-collection",
+      "dack-online",
+      "elpumps",
+      "fint-och-billigt",
+      "hattshoppense",
+      "hobby365",
+      "inkclub",
+      "itsbagse",
+      "lux-case",
+      "mbeljtten",
+      "namebubbles",
+      "pricenet",
+      "royal-straps"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10148,8 +10155,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10394,6 +10401,7 @@
       "boxfox",
       "samtrygg",
       "sky-showtime",
+      "wallester",
       "weightwatchers",
       "a-algos",
       "be2",
@@ -10401,8 +10409,7 @@
       "extensioncoder",
       "invozio",
       "lycamobile",
-      "misshosting",
-      "readly-se"
+      "misshosting"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11252,14 +11259,14 @@
       "cdon",
       "hellofresh-se-1",
       "factormealsse",
+      "cask-cartel",
       "pyretosnackan",
       "jshealth-vitamins",
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11636,6 +11643,7 @@
       "boxfox",
       "samtrygg",
       "sky-showtime",
+      "wallester",
       "weightwatchers"
     ],
     "logoQuality": "high",
@@ -11953,10 +11961,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/victoriamilan.de",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/victoriamilan-de?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -11966,21 +11976,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12206,10 +12216,10 @@
     "description": "",
     "logo": "https://img.logo.dev/we-vibe.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/we-vibe-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -12219,21 +12229,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "joyor-escooter",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -12484,16 +12494,16 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
       "readly-se",
       "robocash",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -12613,6 +12623,7 @@
       "vetzoose",
       "animigose",
       "mukkpetbike",
+      "orbitly",
       "petsterse",
       "doglovedesign",
       "hunterpetshop",
@@ -12622,8 +12633,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13039,10 +13049,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/caskcartel.com",
     "categories": [
-      "Products"
+      "Food, Drinks & Restaurants"
     ],
     "tags": [
-      "products"
+      "food",
+      "drinks",
+      "restaurants"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/caskcartel-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13052,21 +13064,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "factormealsse",
+      "hellofresh-se",
+      "nordic-bar",
+      "pricenet",
+      "tee2greense",
+      "bazta-se-1",
+      "pyretosnackan",
+      "cdon",
+      "hellofresh-se-1",
+      "jshealth-vitamins",
+      "coffeetimese",
+      "maxigastrose",
+      "mobila-presentkort",
+      "nespresso-nordic",
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13252,10 +13264,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/gearbest.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/gearbest-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13265,21 +13277,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "joyor-escooter",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13798,8 +13810,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -13881,12 +13893,12 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "hellofresh-se-1",
       "jshealth-vitamins",
       "coffeetimese",
       "maxigastrose",
-      "mobila-presentkort",
-      "nespresso-nordic"
+      "mobila-presentkort"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13986,10 +13998,12 @@
     "description": "",
     "logo": "https://img.logo.dev/gb.readly.com?token=pk_ALDKBzSVR1Oa2g3d4yZaYw&size=200&format=png",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/gb-readly-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13999,21 +14013,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -14312,11 +14326,11 @@
       "prettypegs",
       "banggood",
       "variadesign",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
-      "care-of-posters-se-1",
-      "careofbedsse"
+      "care-of-posters-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14504,10 +14518,12 @@
     "description": "",
     "logo": "https://logo.debounce.com/eu.vakole.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/eu-vakole-com-se?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -14517,21 +14533,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
+      "11teamsports",
       "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
       "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "dackonline",
+      "generalprepperse",
+      "gorillasportsse",
+      "jd-sports",
+      "myprotein",
+      "olka-express",
+      "padelpointse",
+      "racketspecialisten",
+      "supworldse",
+      "tacticalstorese",
+      "under-armour"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -14703,8 +14719,8 @@
       "saintartnewyork",
       "shopping4net",
       "cdon",
-      "blombruket",
-      "estore-new"
+      "strumpbudet-se-1",
+      "blombruket"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -15000,14 +15016,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15384,14 +15400,14 @@
       "bazta-se-1",
       "cdon",
       "factormealsse",
+      "cask-cartel",
       "pyretosnackan",
       "jshealth-vitamins",
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15509,6 +15525,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -15516,8 +15533,7 @@
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16042,7 +16058,7 @@
       "be2",
       "bokbrsen",
       "dinchat",
-      "extensioncoder"
+      "emailyoyo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16070,6 +16086,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -16083,8 +16100,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -16541,10 +16557,12 @@
     "description": "",
     "logo": "",
     "categories": [
-      "Products"
+      "Gifts, Flowers & Parties"
     ],
     "tags": [
-      "products"
+      "gifts",
+      "flowers",
+      "parties"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/https?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -16554,21 +16572,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "care-of-posters-se",
+      "care-of-posters-se-1",
+      "dreamflowerlashes",
+      "emp",
+      "floristerisverigese",
+      "kuvert-sverige",
+      "mapiful",
+      "onskefoto",
+      "partylagret-allt-fr-fest-brllop-kalas-and-party",
+      "pricenet",
+      "saintartnewyork",
+      "shopping4net",
+      "yoursurprise",
+      "cdon",
+      "blombruket"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -16762,10 +16780,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vrai.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/vrai-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -16775,21 +16793,21 @@
     "commissionType": "",
     "eCPC": "17.46",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bagasi",
+      "baron-collection",
+      "dack-online",
+      "elpumps",
+      "fint-och-billigt",
+      "hattshoppense",
+      "hobby365",
+      "inkclub",
+      "itsbagse",
+      "lux-case",
+      "mbeljtten",
+      "namebubbles",
+      "pricenet",
+      "royal-straps"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17391,14 +17409,14 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
       "readly-se",
-      "robocash",
-      "sembo",
-      "simbutikense"
+      "robocash"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17976,10 +17994,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preply.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.pickalink.com/click/preply-com-cpc-se?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17989,21 +18009,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18395,8 +18415,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18817,6 +18837,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -18828,8 +18849,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18862,7 +18882,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -18870,9 +18892,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18972,10 +18992,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/acasis.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/acasis-com-se?userId=88888889&subId={your tracking code}",
@@ -18985,21 +19005,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "joyor-escooter",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19033,14 +19053,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -19074,14 +19094,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19115,14 +19135,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19155,7 +19175,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -19163,9 +19185,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19199,14 +19219,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19220,10 +19240,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/aliexpress.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/aliexpress-com-se?userId=88888889&subId={your tracking code}",
@@ -19233,21 +19253,21 @@
     "commissionType": "Percentage",
     "eCPC": "0.03",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19320,6 +19340,7 @@
     "commissionType": "Percentage",
     "eCPC": "0.51",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -19333,8 +19354,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19416,8 +19436,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19458,8 +19478,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19534,7 +19554,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -19542,9 +19564,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19585,8 +19605,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19752,7 +19772,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "estore-new"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19836,8 +19856,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19872,6 +19892,7 @@
       "victoria-milan",
       "samtrygg",
       "sky-showtime",
+      "wallester",
       "weightwatchers"
     ],
     "logoQuality": "high",
@@ -19913,8 +19934,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20124,8 +20145,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20287,6 +20308,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -20294,8 +20316,7 @@
       "maxigastrose",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20417,8 +20438,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -20617,6 +20638,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -20628,8 +20650,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20684,10 +20705,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/esdemarca.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/esdemarca-com-se?userId=88888889&subId={your tracking code}",
@@ -20697,21 +20718,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20869,6 +20890,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -20882,8 +20904,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20996,6 +21017,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -21009,8 +21031,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21161,6 +21182,7 @@
     "commissionType": "",
     "eCPC": "0.16",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -21174,8 +21196,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21296,7 +21317,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -21304,9 +21327,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21382,14 +21403,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21430,8 +21451,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21589,7 +21610,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -21597,9 +21620,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21640,8 +21661,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21670,6 +21691,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -21681,8 +21703,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21778,10 +21799,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/innovv.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/innovv-com-se?userId=88888889&subId={your tracking code}",
@@ -21791,21 +21812,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
+      "lenovo-sweden",
       "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
       "av-in",
-      "bagasi"
+      "batteries-onlinese",
+      "ginzase",
+      "store-hp",
+      "inkclub",
+      "joyor-escooter",
+      "kjell",
+      "kuben",
+      "lamporochljus",
+      "lazadavn",
+      "lg",
+      "ljudfrontse",
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21838,7 +21859,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -21846,9 +21869,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22095,8 +22116,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22170,7 +22191,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -22178,9 +22201,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22221,8 +22242,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -22304,8 +22325,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22464,6 +22485,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -22471,8 +22493,7 @@
       "coffeetimese",
       "mobila-presentkort",
       "nespresso-nordic",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22911,10 +22932,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/najell.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/najell-com?userId=88888889&subId={your tracking code}",
@@ -22924,21 +22945,21 @@
     "commissionType": "",
     "eCPC": "0.10",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23099,6 +23120,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -23106,8 +23128,7 @@
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
-      "tostarp",
-      "aliexpress"
+      "tostarp"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23223,14 +23244,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23374,10 +23395,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/onthatass.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/onthatass-com-se?userId=88888889&subId={your tracking code}",
@@ -23387,21 +23408,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23442,8 +23463,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23484,8 +23505,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23519,14 +23540,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23540,10 +23561,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/papique-com-se?userId=88888889&subId={your tracking code}",
@@ -23553,21 +23575,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
       "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "clarins",
+      "colonbroom",
+      "confidentsmilenu",
+      "dentaworks",
+      "diamond-smile",
+      "iherb",
+      "jakobsapotek",
+      "luxplus",
+      "mindlyse",
+      "myprotein",
+      "naturecan-se",
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -23651,8 +23673,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23681,6 +23703,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -23692,8 +23715,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -24113,14 +24135,14 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
       "readly-se",
-      "robocash",
-      "sembo",
-      "senetic"
+      "robocash"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24451,8 +24473,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24491,14 +24513,14 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
       "readly-se",
-      "robocash",
-      "sembo",
-      "senetic"
+      "robocash"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24532,14 +24554,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24624,7 +24646,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24789,8 +24811,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24836,7 +24858,7 @@
       "obh-nordica",
       "eufy",
       "lazadavn",
-      "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar"
+      "bemz"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24870,14 +24892,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -25144,7 +25166,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -25152,9 +25176,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -25223,6 +25245,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -25236,8 +25259,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25390,6 +25412,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -25401,8 +25424,7 @@
       "aliexpress",
       "banggood",
       "bestpet",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25416,10 +25438,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/wallester.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/wallester-com-se?userId=88888889&subId={your tracking code}",
@@ -25429,21 +25453,14 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "onskefoto",
+      "smugglers-crate",
+      "ubuy",
+      "victoria-milan",
+      "boxfox",
+      "samtrygg",
+      "sky-showtime",
+      "weightwatchers"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25484,8 +25501,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -25951,8 +25968,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25986,14 +26003,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26034,8 +26051,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -26078,7 +26095,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -26153,7 +26170,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -26161,9 +26180,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26286,10 +26303,10 @@
       "tostarp",
       "banggood",
       "eufy",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
-      "care-of-posters-se",
-      "care-of-posters-se-1"
+      "care-of-posters-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26452,14 +26469,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26492,7 +26509,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -26500,9 +26519,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26757,13 +26774,13 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
-      "readly-se",
-      "robocash",
-      "sembo"
+      "readly-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26843,14 +26860,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26891,8 +26908,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -26961,6 +26978,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -26974,8 +26992,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27050,14 +27067,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27344,6 +27361,7 @@
       "kontorsgiganten",
       "banggood",
       "garrett-wade",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -27353,8 +27371,7 @@
       "etanolkamin-shop",
       "fairwindfasteners",
       "fi-roborock",
-      "fonstershopse",
-      "ginzase"
+      "fonstershopse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27428,6 +27445,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -27441,8 +27459,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27518,6 +27535,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -27525,8 +27543,7 @@
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
-      "nespresso-nordic",
-      "tostarp"
+      "nespresso-nordic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27596,6 +27613,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -27607,8 +27625,7 @@
       "vivara",
       "aliexpress",
       "banggood",
-      "dogman",
-      "fairhorsecare"
+      "dogman"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27724,14 +27741,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27848,6 +27865,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -27855,8 +27873,7 @@
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
-      "nespresso-nordic",
-      "tostarp"
+      "nespresso-nordic"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -27897,8 +27914,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27953,10 +27970,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/charlemagne-premium.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/charlemagne-premium-com-se?userId=88888889&subId={your tracking code}",
@@ -27966,21 +27984,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
       "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "clarins",
+      "colonbroom",
+      "confidentsmilenu",
+      "dentaworks",
+      "diamond-smile",
+      "iherb",
+      "jakobsapotek",
+      "luxplus",
+      "mindlyse",
+      "myprotein",
+      "naturecan-se",
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28035,10 +28053,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/cherley.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/cherley-com-se?userId=88888889&subId={your tracking code}",
@@ -28048,21 +28066,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -28138,6 +28156,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -28145,8 +28164,7 @@
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
-      "nespresso-nordic",
-      "tostarp"
+      "nespresso-nordic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28269,8 +28287,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28352,8 +28370,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -28381,6 +28399,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -28394,8 +28413,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28423,6 +28441,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -28436,8 +28455,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -28550,6 +28568,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -28561,8 +28580,7 @@
       "vivara",
       "aliexpress",
       "banggood",
-      "bestpet",
-      "fairhorsecare"
+      "bestpet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -28960,6 +28978,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -28973,8 +28992,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29015,8 +29033,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29099,10 +29117,10 @@
       "tostarp",
       "banggood",
       "obh-nordica",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
-      "care-of-posters-se",
-      "care-of-posters-se-1"
+      "care-of-posters-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29184,8 +29202,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -29306,6 +29324,7 @@
       "pricenet",
       "tee2greense",
       "bazta-se-1",
+      "cask-cartel",
       "pyretosnackan",
       "cdon",
       "hellofresh-se-1",
@@ -29313,8 +29332,7 @@
       "coffeetimese",
       "maxigastrose",
       "mobila-presentkort",
-      "nespresso-nordic",
-      "tostarp"
+      "nespresso-nordic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29484,8 +29502,8 @@
       "batteries-onlinese",
       "ginzase",
       "store-hp",
-      "kjell",
-      "kuben"
+      "joyor-escooter",
+      "kjell"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29636,6 +29654,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -29649,8 +29668,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29692,8 +29710,8 @@
       "batteries-onlinese",
       "ginzase",
       "store-hp",
-      "kjell",
-      "kuben"
+      "joyor-escooter",
+      "kjell"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29770,6 +29788,7 @@
       "kontorsgiganten",
       "banggood",
       "art-discount",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -29779,8 +29798,7 @@
       "etanolkamin-shop",
       "fairwindfasteners",
       "fi-roborock",
-      "fonstershopse",
-      "ginzase"
+      "fonstershopse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29814,14 +29832,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -29849,6 +29867,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -29862,8 +29881,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30266,6 +30284,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -30277,8 +30296,7 @@
       "vivara",
       "aliexpress",
       "banggood",
-      "bestpet",
-      "dogman"
+      "bestpet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30334,10 +30352,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/ipsosisay.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/ipsosisay-com-se?userId=88888889&subId={your tracking code}",
@@ -30347,21 +30367,21 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30610,7 +30630,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30838,10 +30858,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lamaisonvalmont.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/lamaisonvalmont-com-se?userId=88888889&subId={your tracking code}",
@@ -30851,21 +30872,21 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
       "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bulkpowdersse",
+      "clarins",
+      "colonbroom",
+      "confidentsmilenu",
+      "dentaworks",
+      "diamond-smile",
+      "iherb",
+      "jakobsapotek",
+      "luxplus",
+      "mindlyse",
+      "myprotein",
+      "naturecan-se",
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31058,6 +31079,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -31071,8 +31093,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31266,6 +31287,7 @@
     "commissionType": "",
     "eCPC": "7.62",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -31279,8 +31301,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31308,6 +31329,7 @@
     "commissionType": "FixedAmount",
     "eCPC": "4.21",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -31321,8 +31343,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31377,10 +31398,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/meepoboard.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/meepoboard-com-se?userId=88888889&subId={your tracking code}",
@@ -31390,21 +31411,21 @@
     "commissionType": "",
     "eCPC": "0.98",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bagasi",
+      "baron-collection",
+      "dack-online",
+      "elpumps",
+      "fint-och-billigt",
+      "hattshoppense",
+      "hobby365",
+      "inkclub",
+      "itsbagse",
+      "lux-case",
+      "mbeljtten",
+      "namebubbles",
+      "pricenet",
+      "royal-straps"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -31459,10 +31480,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/musso.co",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/musso-co-se?userId=88888889&subId={your tracking code}",
@@ -31472,21 +31493,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "bagasi",
+      "baron-collection",
+      "dack-online",
+      "elpumps",
+      "fint-och-billigt",
+      "hattshoppense",
+      "hobby365",
+      "inkclub",
+      "itsbagse",
+      "lux-case",
+      "mbeljtten",
+      "namebubbles",
+      "pricenet",
+      "royal-straps"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -31559,7 +31580,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -31567,9 +31590,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31751,10 +31772,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/one.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/one-com?userId=88888889&subId={your tracking code}",
@@ -31764,21 +31787,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31862,7 +31885,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31891,6 +31914,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -31902,8 +31926,7 @@
       "vivara",
       "aliexpress",
       "banggood",
-      "bestpet",
-      "dogman"
+      "bestpet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -31944,8 +31967,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32398,7 +32421,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -32406,9 +32431,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -32442,14 +32465,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32518,6 +32541,7 @@
     "commissionType": "Percentage",
     "eCPC": "0.73",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -32531,8 +32555,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32601,6 +32624,7 @@
     "commissionType": "Percentage",
     "eCPC": "0.44",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -32614,8 +32638,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -32752,10 +32775,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/savannahs.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/savannahs-com-se?userId=88888889&subId={your tracking code}",
@@ -32765,21 +32788,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32896,7 +32919,9 @@
       "be2",
       "bokbrsen",
       "dinchat",
+      "emailyoyo",
       "extensioncoder",
+      "firstvpn",
       "invozio",
       "lycamobile",
       "misshosting",
@@ -32904,9 +32929,7 @@
       "robocash",
       "sembo",
       "senetic",
-      "simbutikense",
-      "tabulizer",
-      "tidningskungense"
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32989,8 +33012,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33059,6 +33082,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -33072,8 +33096,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33142,6 +33165,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -33155,8 +33179,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33488,7 +33511,7 @@
       "shopping4net",
       "yoursurprise",
       "cdon",
-      "blombruket"
+      "strumpbudet-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33570,8 +33593,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33605,14 +33628,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33698,8 +33721,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33728,6 +33751,7 @@
     "similarBrands": [
       "javawhiskersse",
       "mukkpetbike",
+      "orbitly",
       "vetzoose",
       "zooplus",
       "animigose",
@@ -33739,8 +33763,7 @@
       "vivara",
       "aliexpress",
       "banggood",
-      "bestpet",
-      "dogman"
+      "bestpet"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33961,10 +33984,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tradetracker.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/tradetracker-com-ch?userId=88888889&subId={your tracking code}",
@@ -33974,21 +33999,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
       "a-algos",
-      "adoebike",
-      "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "be2",
+      "bokbrsen",
+      "dinchat",
+      "emailyoyo",
+      "extensioncoder",
+      "firstvpn",
+      "invozio",
+      "lycamobile",
+      "misshosting",
+      "readly-se",
+      "robocash",
+      "sembo",
+      "senetic",
+      "simbutikense"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34065,14 +34090,14 @@
       "ginzase",
       "store-hp",
       "inkclub",
+      "joyor-escooter",
       "kjell",
       "kuben",
       "lamporochljus",
       "lazadavn",
       "lg",
       "ljudfrontse",
-      "mobilmarketse",
-      "se-roborock"
+      "mobilmarketse"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34142,6 +34167,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
@@ -34155,8 +34181,7 @@
       "ginzase",
       "glashusetmalmose",
       "hembiobutikense",
-      "jd-sports",
-      "kalenderspecialisten"
+      "jd-sports"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34170,10 +34195,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vanessabruno.fr",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "SE",
     "affiliateUrl": "https://www.shoptastic.io/se/store/vanessabruno-fr-se?userId=88888889&subId={your tracking code}",
@@ -34183,21 +34208,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "12xlwin1n",
-      "3dprima",
-      "a-algos",
-      "adoebike",
       "afound",
-      "airhelp-se",
-      "amari",
-      "anker-nordics",
-      "apotek365se",
-      "aquagustus",
-      "atletbutiken",
-      "autodoc-se",
-      "autodoc-se-1",
-      "av-in",
-      "bagasi"
+      "baron-collection",
+      "bonprix",
+      "cloudstyle",
+      "emp",
+      "flattered",
+      "hunkemller",
+      "lazadavn",
+      "pashminawear",
+      "pricenet",
+      "shein",
+      "shopping4net",
+      "spartoo",
+      "spreadshirt",
+      "strumpbudet-se"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34237,11 +34262,11 @@
       "cdon",
       "prettypegs",
       "banggood",
+      "bemz",
       "bonzaz-handtag-beslag-and-knoppar-fr-alla-stilar",
       "bygg-din-framgng-med-rtt-kunskap",
       "care-of-posters-se",
-      "care-of-posters-se-1",
-      "careofbedsse"
+      "care-of-posters-se-1"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -34612,8 +34637,8 @@
       "mindlyse",
       "myprotein",
       "naturecan-se",
-      "nordicnaturalbeauty",
-      "nordicnaturalbeautyse"
+      "naturescollectionse",
+      "nordicnaturalbeauty"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

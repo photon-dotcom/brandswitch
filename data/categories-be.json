@@ -2,47 +2,52 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 501
+    "brandCount": 459
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 112
+    "brandCount": 114
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 87
+    "brandCount": 93
   },
   {
     "name": "Travel & Vacations",
     "slug": "travel-and-vacations",
-    "brandCount": 71
+    "brandCount": 73
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 65
+    "brandCount": 69
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 65
+    "brandCount": 68
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 56
+    "brandCount": 65
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 51
+    "brandCount": 57
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 45
+    "brandCount": 46
+  },
+  {
+    "name": "Sports, Outdoors & Fitness",
+    "slug": "sports-outdoors-and-fitness",
+    "brandCount": 43
   },
   {
     "name": "Office Supplies",
@@ -50,19 +55,14 @@
     "brandCount": 42
   },
   {
-    "name": "Sports, Outdoors & Fitness",
-    "slug": "sports-outdoors-and-fitness",
-    "brandCount": 41
-  },
-  {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
-    "brandCount": 35
+    "brandCount": 36
   },
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 32
+    "brandCount": 35
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -75,14 +75,14 @@
     "brandCount": 21
   },
   {
-    "name": "Subscription Boxes & Services",
-    "slug": "subscription-boxes-and-services",
+    "name": "Toys & Games",
+    "slug": "toys-and-games",
     "brandCount": 18
   },
   {
-    "name": "Toys & Games",
-    "slug": "toys-and-games",
-    "brandCount": 16
+    "name": "Subscription Boxes & Services",
+    "slug": "subscription-boxes-and-services",
+    "brandCount": 18
   },
   {
     "name": "Pets",
@@ -92,6 +92,6 @@
   {
     "name": "Baby & Toddler",
     "slug": "baby-and-toddler",
-    "brandCount": 13
+    "brandCount": 14
   }
 ]

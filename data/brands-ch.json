@@ -1572,6 +1572,7 @@
       "bloomingloftch",
       "bluuwash",
       "brigitte-st-gallen",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -1581,8 +1582,7 @@
       "lichtbox",
       "logo-matten",
       "lumimartch",
-      "manor",
-      "matratzen-concord"
+      "manor"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -2452,10 +2452,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/delife.de",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/delife-de?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -2465,21 +2466,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "binsandboxesch",
+      "bloomingloftch",
+      "bluuwash",
+      "brigitte-st-gallen",
+      "bruno-wickart",
+      "die-moderne-hausfrau",
+      "franoise-saget",
+      "hauptner",
+      "jvmoebel",
+      "lampenwelt",
+      "laurastar",
+      "lichtbox",
+      "logo-matten",
+      "lumimartch",
+      "manor"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3223,10 +3224,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/falke.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/falke-com-ch?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3236,21 +3237,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia",
+      "tchibo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -4852,7 +4853,7 @@
       "myprotein",
       "notinoch",
       "ranavat",
-      "shaveclickch"
+      "samarali"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -5184,6 +5185,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -5192,8 +5194,7 @@
       "lichtbox",
       "logo-matten",
       "lumimartch",
-      "manor",
-      "matratzen-concord"
+      "manor"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -6388,10 +6389,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/modetalente.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/modetalente-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -6401,21 +6402,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia",
+      "tchibo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8413,10 +8414,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/samarali.eu",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/samarali-eu?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -8426,21 +8428,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
       "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "biovea",
+      "bn-nutrition",
+      "cbd-balancech",
+      "checkyourhealthch",
+      "coopvitalitych",
+      "discountlens",
+      "drsturm",
+      "iherb",
+      "kiehls",
+      "linsenklick",
+      "maykosmetik4youch",
+      "myprotein",
+      "notinoch",
+      "ranavat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9201,6 +9203,7 @@
       "mingle-respondi",
       "wingoch",
       "buchhaus",
+      "startselect",
       "aldi-suisse-mobile",
       "americanexpressch",
       "cashback-cardsch",
@@ -9209,8 +9212,7 @@
       "swizzonic",
       "visioforge",
       "fibersaltch-standard",
-      "bookbeat",
-      "hoststar"
+      "bookbeat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -11043,10 +11045,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/berrylook.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/berrylook-com-ch?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -11056,21 +11058,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -12441,12 +12443,12 @@
       "schfer-shop",
       "viking",
       "buchhaus",
+      "startselect",
       "aldi-suisse-mobile",
       "americanexpressch",
       "cashback-cardsch",
       "meinungsplatz-ch-de",
-      "profesionalhosting",
-      "swizzonic"
+      "profesionalhosting"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -13029,10 +13031,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/woolrich.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/woolrich-com-ch?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13042,21 +13044,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13663,18 +13665,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14808,6 +14810,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -14816,8 +14819,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14850,6 +14852,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -14858,8 +14861,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -15429,11 +15431,11 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
-      "hunkemoller",
-      "klubtrikotch"
+      "hunkemoller"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17284,10 +17286,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/medimops.de",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/medimops-de-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17297,21 +17299,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.04",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "bijouteriach",
+      "candyjewelsch",
+      "dancingqueensch",
+      "dillysocks",
+      "fashionette",
+      "havetimech",
+      "lensvision",
+      "linsenklick",
+      "mrlensch",
+      "noflystore",
+      "party",
+      "polo-motorrad",
+      "rohner-socks",
+      "schfer-shop",
+      "schiesser"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -17460,10 +17462,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/schaefer-shop.de",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/schaefer-shop-de-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17473,21 +17475,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "bijouteriach",
+      "candyjewelsch",
+      "dancingqueensch",
+      "dillysocks",
+      "fashionette",
+      "havetimech",
+      "lensvision",
+      "linsenklick",
+      "mrlensch",
+      "noflystore",
+      "party",
+      "polo-motorrad",
+      "rohner-socks",
+      "schfer-shop",
+      "schiesser"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17638,10 +17640,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/aliexpress.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/aliexpress-com-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17651,21 +17653,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17679,10 +17681,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/amazon.de",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/amazon-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17692,21 +17694,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "acer",
+      "axpel-oneforallch",
+      "roborock-ch",
+      "lenovo",
+      "lichtbox",
+      "manor",
+      "mrlensch",
+      "rupteurch",
+      "teufel",
+      "mobilezone",
+      "soundmedia",
+      "alternate",
+      "conrad",
+      "electrolux",
+      "elv"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17852,10 +17854,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lusini.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.pickalink.com/click/lusini-com-cpc-ch?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -17865,21 +17868,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "binsandboxesch",
+      "bloomingloftch",
+      "bluuwash",
+      "brigitte-st-gallen",
+      "bruno-wickart",
+      "delife",
+      "die-moderne-hausfrau",
+      "franoise-saget",
+      "hauptner",
+      "jvmoebel",
+      "lampenwelt",
+      "laurastar",
+      "lichtbox",
+      "logo-matten",
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18164,6 +18167,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -18172,8 +18176,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18502,6 +18505,7 @@
       "pixartprintingch-standard",
       "mingle-respondi",
       "wingoch",
+      "startselect",
       "audible",
       "spitfire-audio",
       "bijouteriach",
@@ -18510,8 +18514,7 @@
       "dillysocks",
       "fashionette",
       "havetimech",
-      "lensvision",
-      "linsenklick"
+      "lensvision"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18671,6 +18674,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -18679,8 +18683,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -18797,6 +18800,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -18805,8 +18809,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -18965,6 +18968,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -18973,8 +18977,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -19424,18 +19427,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -19935,6 +19938,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -19943,8 +19947,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20010,6 +20013,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -20018,8 +20022,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -20800,6 +20803,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -20808,8 +20812,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21241,10 +21244,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/sweetv.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/sweetv-com?userId=88888889&subId={your tracking code}",
@@ -21254,21 +21257,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "bijouteriach",
+      "candyjewelsch",
+      "dancingqueensch",
+      "dillysocks",
+      "fashionette",
+      "havetimech",
+      "lensvision",
+      "linsenklick",
+      "mrlensch",
+      "noflystore",
+      "party",
+      "polo-motorrad",
+      "rohner-socks",
+      "schfer-shop",
+      "schiesser"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -21301,6 +21304,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -21309,8 +21313,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21408,10 +21411,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tradetracker.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/tradetracker-com-ch-ch?userId=88888889&subId={your tracking code}",
@@ -21421,21 +21426,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
       "aldi-suisse-mobile",
       "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "cashback-cardsch",
+      "meinungsplatz-ch-de",
+      "profesionalhosting",
+      "swizzonic",
+      "visioforge",
+      "fibersaltch-standard",
+      "lycamobile",
+      "bookbeat",
+      "hoststar",
+      "lebara",
+      "mingle-respondi",
+      "parshipch",
+      "yallo"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21787,10 +21792,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/zumub.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/zumub-com-ch?userId=88888889&subId={your tracking code}",
@@ -21800,21 +21806,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
       "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "biovea",
+      "bn-nutrition",
+      "cbd-balancech",
+      "checkyourhealthch",
+      "coopvitalitych",
+      "discountlens",
+      "drsturm",
+      "iherb",
+      "kiehls",
+      "linsenklick",
+      "maykosmetik4youch",
+      "myprotein",
+      "notinoch",
+      "ranavat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -21969,18 +21975,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -22010,18 +22016,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22094,18 +22100,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -22245,10 +22251,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eterna.de",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/eterna-de-ch?userId=88888889&subId={your tracking code}",
@@ -22258,21 +22264,21 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22406,8 +22412,8 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
-      "die-moderne-hausfrau",
-      "franoise-saget"
+      "delife",
+      "die-moderne-hausfrau"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22629,10 +22635,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/jucy.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/jucy-com-ch?userId=88888889&subId={your tracking code}",
@@ -22642,21 +22649,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "12-travel",
+      "ayadamaldives",
+      "brussels-airlines",
+      "centralhoteles",
+      "edreams",
+      "interhomech",
+      "kuoni",
+      "lastminutech",
+      "mietwagencheck",
+      "radreiseprofi",
+      "sat-reisen",
+      "sbb-onlineshop",
+      "swissactivities",
+      "universaltravelch",
+      "air-france-ch"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -22984,6 +22991,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -22992,8 +23000,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23227,10 +23234,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/startselect.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/startselect-com-ch?userId=88888889&subId={your tracking code}",
@@ -23240,21 +23249,12 @@
     "commissionType": "",
     "eCPC": "0.02",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "smugglers-crate",
+      "lycamobile",
+      "pixartprintingch-standard",
+      "mingle-respondi",
+      "wingoch",
+      "buchhaus"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23343,7 +23343,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
-      "die-moderne-hausfrau"
+      "delife"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23611,10 +23611,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/acmejoy.de",
     "categories": [
-      "Products"
+      "Events & Entertainment"
     ],
     "tags": [
-      "products"
+      "events",
+      "entertainment"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/acmejoy-de-ch?userId=88888889&subId={your tracking code}",
@@ -23624,21 +23625,21 @@
     "commissionType": "",
     "eCPC": "0.03",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dancingqueensch",
+      "loveiuch",
+      "onlineswisscasinosch",
+      "party",
+      "swissactivities",
+      "ticketmaster-schweiz",
+      "center-parcs",
+      "fnacch",
+      "gayrencontrech",
+      "kostenlos-zur-fashion-week",
+      "mondial-tv-suisse",
+      "smartbox",
+      "snapdatech",
+      "snaprencontrech",
+      "fallschirmspringen"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23726,10 +23727,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eu.baobabcollection.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/eu-baobabcollection-com-ch?userId=88888889&subId={your tracking code}",
@@ -23739,21 +23741,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
       "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "biovea",
+      "bn-nutrition",
+      "cbd-balancech",
+      "checkyourhealthch",
+      "coopvitalitych",
+      "discountlens",
+      "drsturm",
+      "iherb",
+      "kiehls",
+      "linsenklick",
+      "maykosmetik4youch",
+      "myprotein",
+      "notinoch",
+      "ranavat"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23851,10 +23853,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/boerner.ch",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/boerner-ch?userId=88888889&subId={your tracking code}",
@@ -23864,21 +23867,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "binsandboxesch",
+      "bloomingloftch",
+      "bluuwash",
+      "brigitte-st-gallen",
+      "bruno-wickart",
+      "delife",
+      "die-moderne-hausfrau",
+      "franoise-saget",
+      "hauptner",
+      "jvmoebel",
+      "lampenwelt",
+      "laurastar",
+      "lichtbox",
+      "logo-matten",
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -23892,10 +23895,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/brokenhead.shop",
     "categories": [
-      "Products"
+      "Auto & Tires"
     ],
     "tags": [
-      "products"
+      "auto",
+      "tires"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/brokenhead-shop-ch?userId=88888889&subId={your tracking code}",
@@ -23905,21 +23909,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
       "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
       "autodoc-ch-french",
-      "autoteileprofi"
+      "autoteileprofi",
+      "derdealerch",
+      "jungheinrich-profishop",
+      "motorradreifendirekt",
+      "pkwteile",
+      "polo-motorrad",
+      "reifendirekt",
+      "teile-direkt",
+      "tirendoch",
+      "migrol",
+      "tradetrackerreifenpneusonlinech",
+      "autoscout24",
+      "motoscout24"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24326,6 +24330,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -24334,8 +24339,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24447,18 +24451,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24724,10 +24728,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/ad.doubleclick.net",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/ad-doubleclick-net-ch?userId=88888889&subId={your tracking code}",
@@ -24737,21 +24742,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "12-travel",
+      "ayadamaldives",
+      "brussels-airlines",
+      "centralhoteles",
+      "edreams",
+      "interhomech",
+      "kuoni",
+      "lastminutech",
+      "mietwagencheck",
+      "radreiseprofi",
+      "sat-reisen",
+      "sbb-onlineshop",
+      "swissactivities",
+      "universaltravelch",
+      "air-france-ch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24864,18 +24869,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -24889,10 +24894,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/en.currex.de",
     "categories": [
-      "Products"
+      "Shoes"
     ],
     "tags": [
-      "products"
+      "shoes"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/en-currex-de-ch?userId=88888889&subId={your tracking code}",
@@ -24902,21 +24907,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "mizunoshop",
+      "new-balance",
+      "sneakzmarketch",
+      "spartoo-ch",
+      "tchibo",
+      "tods",
+      "bader",
+      "ecco",
+      "gigasport",
+      "kastner-oehler",
+      "sarenza",
+      "spartoo-ch-1",
+      "sport-is-good",
+      "adidas",
+      "burlington"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25056,10 +25061,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/expondo.de",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/expondo-de?userId=88888889&subId={your tracking code}",
@@ -25069,21 +25075,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
-      "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "binsandboxesch",
+      "bloomingloftch",
+      "bluuwash",
+      "brigitte-st-gallen",
+      "bruno-wickart",
+      "delife",
+      "die-moderne-hausfrau",
+      "franoise-saget",
+      "hauptner",
+      "jvmoebel",
+      "lampenwelt",
+      "laurastar",
+      "lichtbox",
+      "logo-matten",
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25198,6 +25204,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -25206,8 +25213,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25221,10 +25227,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/ganni.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/ganni-com?userId=88888889&subId={your tracking code}",
@@ -25234,21 +25240,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25574,18 +25580,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -25659,6 +25665,7 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
@@ -25667,8 +25674,7 @@
       "laurastar",
       "lichtbox",
       "logo-matten",
-      "lumimartch",
-      "manor"
+      "lumimartch"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25782,18 +25788,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -25807,10 +25813,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/lovebrand.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "CH",
     "affiliateUrl": "https://www.shoptastic.io/ch/store/lovebrand-com-ch?userId=88888889&subId={your tracking code}",
@@ -25820,21 +25826,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1burger",
-      "123pneus",
-      "3ppp3",
-      "ackermann",
-      "adb-check-my-body-health-ch-realtime-rtg",
-      "adcocktail",
-      "aktivwinterch",
-      "aldi-suisse-mobile",
-      "americanexpressch",
-      "amoranach",
-      "andersign",
-      "anodynech",
       "atlasformench",
-      "autodoc-ch-french",
-      "autoteileprofi"
+      "dillysocks",
+      "drippycustom",
+      "falke",
+      "fashionette",
+      "fit-und-warmch",
+      "hessnatur",
+      "hunkemoller",
+      "klubtrikotch",
+      "manor",
+      "modetalente",
+      "party",
+      "polo-motorrad",
+      "schiesser",
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25906,18 +25912,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -26408,18 +26414,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -26993,18 +26999,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -27120,18 +27126,18 @@
       "atlasformench",
       "dillysocks",
       "drippycustom",
+      "falke",
       "fashionette",
       "fit-und-warmch",
       "hessnatur",
       "hunkemoller",
       "klubtrikotch",
       "manor",
+      "modetalente",
       "party",
       "polo-motorrad",
       "schiesser",
-      "sedusia",
-      "tchibo",
-      "tods"
+      "sedusia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -27262,12 +27268,12 @@
       "bluuwash",
       "brigitte-st-gallen",
       "bruno-wickart",
+      "delife",
       "die-moderne-hausfrau",
       "franoise-saget",
       "hauptner",
       "jvmoebel",
-      "lampenwelt",
-      "laurastar"
+      "lampenwelt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",

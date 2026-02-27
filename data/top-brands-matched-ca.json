@@ -293,6 +293,11 @@
   ],
   "baby-and-toddler": [
     {
+      "rank": 9,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
+    {
       "rank": 10,
       "name": "Halo Sleep",
       "slug": "halo-sleep"
@@ -311,6 +316,11 @@
     }
   ],
   "toys-and-games": [
+    {
+      "rank": 7,
+      "name": "Lovevery",
+      "slug": "lovevery"
+    },
     {
       "rank": 13,
       "name": "Walmart",

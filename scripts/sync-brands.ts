@@ -9,13 +9,16 @@
  *   npx tsx scripts/sync-brands.ts              # full run
  *   npx tsx scripts/sync-brands.ts --max-pages 5  # quick test (5 pages)
  *   npx tsx scripts/sync-brands.ts --resume       # continue from checkpoint
+ *   npx tsx scripts/sync-brands.ts --classify     # also run LLM classification (costs money)
  *
  * Env vars (override CLI defaults):
- *   PAGE_DELAY_MS   ms to wait between pages  (default: 0 for local, set high in CI)
- *   MAX_PAGES       max pages to fetch this run (default: all)
+ *   PAGE_DELAY_MS      ms to wait between pages  (default: 0 for local, set high in CI)
+ *   MAX_PAGES          max pages to fetch this run (default: all)
+ *   ANTHROPIC_API_KEY  required when using --classify
  */
 
 import fs from 'fs';
+import https from 'https';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -178,6 +181,7 @@ const MAX_PAGES = parseInt(
   10
 );
 const RESUME = argMap['resume'] === 'true' || !!argMap['resume'];
+const CLASSIFY = argMap['classify'] === 'true' || !!argMap['classify'];
 
 // ── Utilities ────────────────────────────────────────────────────────────────
 
@@ -1140,6 +1144,223 @@ function assignMissingCategories(brands: Brand[]): {
   return { assigned, stillMissing, noCategoryBrands };
 }
 
+// ── Strategy 1: Cross-market category inheritance ─────────────────────────────
+
+const GENERIC_CATS_SET = new Set(['Products', 'products', '']);
+
+/**
+ * For each brand that only has a generic "Products" category, check whether
+ * the same domain has a real category in any other market and inherit it.
+ * Returns the count of brands that received an inherited category.
+ */
+function crossMarketInheritance(byMarket: Record<string, Brand[]>): number {
+  // Pass 1: build domain → best category from brands that have a real category
+  const domainCategory = new Map<string, string>();
+  for (const brands of Object.values(byMarket)) {
+    for (const brand of brands) {
+      if (!brand.domain) continue;
+      const realCat = brand.categories.find(c => c && !GENERIC_CATS_SET.has(c));
+      if (realCat && !domainCategory.has(brand.domain)) {
+        domainCategory.set(brand.domain, realCat);
+      }
+    }
+  }
+
+  // Pass 2: apply inherited categories to brands that only have "Products"
+  let inherited = 0;
+  for (const brands of Object.values(byMarket)) {
+    for (const brand of brands) {
+      if (!brand.domain) continue;
+      const hasReal = brand.categories.some(c => c && !GENERIC_CATS_SET.has(c));
+      if (hasReal) continue;
+      const inheritedCat = domainCategory.get(brand.domain);
+      if (inheritedCat) {
+        brand.categories = [inheritedCat];
+        brand.tags = deriveTags([inheritedCat]);
+        inherited++;
+      }
+    }
+  }
+
+  return inherited;
+}
+
+// ── Strategy 2: LLM batch classification ──────────────────────────────────────
+
+const LLM_CACHE_FILE = path.join(DATA_DIR, 'llm-categories.json');
+
+const VALID_LLM_CATEGORIES = new Set([
+  'Health & Beauty', 'Accessories', 'Home & Garden', 'Clothing',
+  'Sports Outdoors & Fitness', 'Digital Services & Streaming', 'Electronics',
+  'Food Drinks & Restaurants', 'Travel & Vacations', 'Gifts Flowers & Parties',
+  'Shoes', 'Subscription Boxes & Services', 'Toys & Games',
+  'Events & Entertainment', 'Auto & Tires', 'Pets', 'Baby & Toddler', 'Office Supplies',
+]);
+
+function loadLLMCache(): Record<string, string> {
+  if (fs.existsSync(LLM_CACHE_FILE)) {
+    return JSON.parse(fs.readFileSync(LLM_CACHE_FILE, 'utf-8'));
+  }
+  return {};
+}
+
+function saveLLMCache(cache: Record<string, string>): void {
+  fs.writeFileSync(LLM_CACHE_FILE, JSON.stringify(cache, null, 2));
+}
+
+/** POST to the Anthropic Messages API. Returns raw response text. */
+async function callClaudeAPI(prompt: string, apiKey: string): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const body = JSON.stringify({
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 2048,
+      messages: [{ role: 'user', content: prompt }],
+    });
+
+    const req = https.request({
+      hostname: 'api.anthropic.com',
+      path: '/v1/messages',
+      method: 'POST',
+      headers: {
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+        'content-type': 'application/json',
+        'content-length': Buffer.byteLength(body),
+      },
+    }, (res) => {
+      let data = '';
+      res.on('data', (chunk: Buffer) => { data += chunk; });
+      res.on('end', () => {
+        if (res.statusCode && res.statusCode >= 200 && res.statusCode < 300) {
+          resolve(data);
+        } else {
+          reject(new Error(`Anthropic API ${res.statusCode}: ${data}`));
+        }
+      });
+    });
+
+    req.on('error', reject);
+    req.write(body);
+    req.end();
+  });
+}
+
+/** Apply the LLM cache to brands that still have "Products" only. Returns count applied. */
+function applyLLMCache(byMarket: Record<string, Brand[]>, cache: Record<string, string>): number {
+  let applied = 0;
+  for (const brands of Object.values(byMarket)) {
+    for (const brand of brands) {
+      if (!brand.domain) continue;
+      const hasReal = brand.categories.some(c => c && !GENERIC_CATS_SET.has(c));
+      if (hasReal) continue;
+      const llmCat = cache[brand.domain];
+      if (llmCat && VALID_LLM_CATEGORIES.has(llmCat)) {
+        brand.categories = [llmCat];
+        brand.tags = deriveTags([llmCat]);
+        applied++;
+      }
+    }
+  }
+  return applied;
+}
+
+/**
+ * Uses the Claude API to classify brands that still have "Products" as their
+ * only category. Results are cached in data/llm-categories.json so subsequent
+ * syncs reuse classifications without calling the API again.
+ *
+ * Only runs when --classify flag is passed (costs money).
+ */
+async function classifyWithLLM(byMarket: Record<string, Brand[]>): Promise<number> {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    console.error('  ✗ ANTHROPIC_API_KEY not set — skipping LLM classification');
+    return 0;
+  }
+
+  const cache = loadLLMCache();
+
+  // Collect unique domains still on "Products" that aren't yet in cache
+  const toClassify: Array<{ name: string; domain: string }> = [];
+  const seen = new Set<string>();
+  for (const brands of Object.values(byMarket)) {
+    for (const brand of brands) {
+      if (!brand.domain || seen.has(brand.domain)) continue;
+      seen.add(brand.domain);
+      const hasReal = brand.categories.some(c => c && !GENERIC_CATS_SET.has(c));
+      if (hasReal || cache[brand.domain] !== undefined) continue;
+      toClassify.push({ name: brand.name, domain: brand.domain });
+    }
+  }
+
+  const cachedCount = Object.keys(cache).length;
+  console.log(`  Domains to classify: ${toClassify.length.toLocaleString()} new  (${cachedCount.toLocaleString()} already cached)`);
+
+  if (toClassify.length === 0) {
+    const applied = applyLLMCache(byMarket, cache);
+    console.log(`  ✓ Applied ${applied} cached LLM classifications`);
+    return applied;
+  }
+
+  // Process in batches of 50
+  const BATCH_SIZE = 50;
+  let newlyClassified = 0;
+  const totalBatches = Math.ceil(toClassify.length / BATCH_SIZE);
+
+  for (let i = 0; i < toClassify.length; i += BATCH_SIZE) {
+    const batch = toClassify.slice(i, i + BATCH_SIZE);
+    const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+    process.stdout.write(`  Batch ${batchNum}/${totalBatches} (${batch.length} brands)...`);
+
+    const brandList = batch.map(b => `${b.name} (${b.domain})`).join('\n');
+    const prompt = `Classify each brand into exactly ONE of these categories based on the brand name and domain:
+Health & Beauty, Accessories, Home & Garden, Clothing, Sports Outdoors & Fitness, Digital Services & Streaming, Electronics, Food Drinks & Restaurants, Travel & Vacations, Gifts Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies
+
+If you cannot determine the category with reasonable confidence, respond with "Unknown".
+
+Respond ONLY in JSON format (no other text): {"domain1.com": "Category", "domain2.com": "Category", ...}
+
+Brands to classify:
+${brandList}`;
+
+    try {
+      const rawResponse = await callClaudeAPI(prompt, apiKey);
+      const parsed = JSON.parse(rawResponse) as { content?: Array<{ text?: string }> };
+      const text = parsed.content?.[0]?.text ?? '';
+
+      const jsonMatch = text.match(/\{[\s\S]*\}/);
+      if (!jsonMatch) {
+        console.log(' ✗ no JSON in response');
+        continue;
+      }
+
+      const classifications = JSON.parse(jsonMatch[0]) as Record<string, string>;
+      let batchNew = 0;
+      for (const [domain, category] of Object.entries(classifications)) {
+        if (VALID_LLM_CATEGORIES.has(category)) {
+          cache[domain] = category;
+          batchNew++;
+        } else if (category === 'Unknown') {
+          cache[domain] = 'Unknown'; // mark as checked so we don't retry
+        }
+      }
+      newlyClassified += batchNew;
+      console.log(` ✓ ${batchNew}/${batch.length} classified`);
+
+      // Save after every batch so progress survives interruption
+      saveLLMCache(cache);
+
+      if (i + BATCH_SIZE < toClassify.length) await sleep(500);
+    } catch (err) {
+      console.log(` ✗ ${err}`);
+    }
+  }
+
+  const applied = applyLLMCache(byMarket, cache);
+  console.log(`  ✓ LLM total: ${newlyClassified} newly classified, ${applied} brands updated across all markets`);
+  return applied;
+}
+
 // ── Category Summaries ────────────────────────────────────────────────────────
 
 function buildCategories(brands: Brand[]): CategorySummary[] {
@@ -1322,6 +1543,23 @@ async function main() {
   }
   console.log(`✓ Domain dedup: ${totalDupesRemoved.toLocaleString()} duplicates removed, ${totalEnriched} brands enriched`);
 
+  // ── Step 7.5: Cross-market category inheritance ──────────────────────────
+  const crossMarketInherited = crossMarketInheritance(byMarket);
+  console.log(`✓ Cross-market inheritance: ${crossMarketInherited.toLocaleString()} brands got a category from another market`);
+
+  // ── Step 7.6: LLM classification (only with --classify flag) ─────────────
+  let llmApplied = 0;
+  if (CLASSIFY) {
+    console.log('✓ LLM classification (--classify flag detected)...');
+    llmApplied = await classifyWithLLM(byMarket);
+  } else {
+    // Always apply cached LLM results from previous --classify runs
+    llmApplied = applyLLMCache(byMarket, loadLLMCache());
+    if (llmApplied > 0) {
+      console.log(`✓ Applied ${llmApplied} cached LLM classifications (run with --classify to update cache)`);
+    }
+  }
+
   // ── Step 8: Assign clean slugs ───────────────────────────────────────────
   for (const market of Object.keys(byMarket)) {
     assignSlugs(byMarket[market]);
@@ -1441,7 +1679,10 @@ async function main() {
   console.log('\n  Pipeline summary:');
   console.log(`    Raw records across all feeds: ${allRawBrands.length.toLocaleString()}`);
   console.log(`    SOI brands removed:           ${soiRemoved}`);
-  console.log(`    Category-inferred:            ${catAssigned} (${catMissing} still uncategorised → see no-category-brands.json)`);
+  console.log(`    Category-inferred:            ${catAssigned} (keyword patterns)`);
+  console.log(`    Category cross-market:        ${crossMarketInherited.toLocaleString()} (inherited from other markets)`);
+  console.log(`    Category LLM:                 ${llmApplied.toLocaleString()} (from llm-categories.json cache)`);
+  console.log(`    Still uncategorised:          ${catMissing} → no-category-brands.json`);
   console.log(`    Non-target market:            ${filteredOut.toLocaleString()}`);
   console.log(`    Cross-feed conflicts:         ${conflicts} (lower priority brands dropped)`);
   console.log(`    Junk brands flagged:          ${totalFlagged}`);

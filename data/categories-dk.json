@@ -2,12 +2,12 @@
   {
     "name": "Products",
     "slug": "products",
-    "brandCount": 310
+    "brandCount": 284
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 46
+    "brandCount": 48
   },
   {
     "name": "Travel & Vacations",
@@ -20,24 +20,29 @@
     "brandCount": 41
   },
   {
-    "name": "Health & Beauty",
-    "slug": "health-and-beauty",
-    "brandCount": 32
+    "name": "Clothing",
+    "slug": "clothing",
+    "brandCount": 41
   },
   {
-    "name": "Electronics",
-    "slug": "electronics",
-    "brandCount": 31
+    "name": "Health & Beauty",
+    "slug": "health-and-beauty",
+    "brandCount": 35
   },
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 31
+    "brandCount": 33
   },
   {
-    "name": "Clothing",
-    "slug": "clothing",
-    "brandCount": 30
+    "name": "Electronics",
+    "slug": "electronics",
+    "brandCount": 32
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 20
   },
   {
     "name": "Shoes",
@@ -50,11 +55,6 @@
     "brandCount": 15
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 15
-  },
-  {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
     "brandCount": 14
@@ -62,7 +62,7 @@
   {
     "name": "Toys & Games",
     "slug": "toys-and-games",
-    "brandCount": 12
+    "brandCount": 13
   },
   {
     "name": "Gifts, Flowers & Parties",

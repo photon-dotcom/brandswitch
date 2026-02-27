@@ -1189,10 +1189,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/airslate.com",
     "categories": [
-      "Products"
+      "Office Supplies"
     ],
     "tags": [
-      "products"
+      "office",
+      "supplies"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/airslate-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1202,21 +1203,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "alphaink",
+      "app-mrpeasy",
+      "bins-and-boxes",
+      "bruneau",
+      "euroffice",
+      "fasterprint",
+      "finson",
+      "flexispot",
+      "imballaggi-2000",
+      "kaitinklt",
+      "legami",
+      "malinka",
+      "mclabels",
+      "mondoffice",
+      "offertecartucce"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1507,6 +1508,7 @@
       "imballaggi",
       "pinko",
       "unilibro",
+      "airslate",
       "app-mrpeasy",
       "bins-and-boxes",
       "bruneau",
@@ -1516,8 +1518,7 @@
       "flexispot",
       "imballaggi-2000",
       "kaitinklt",
-      "malinka",
-      "mclabels"
+      "malinka"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -1575,10 +1576,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eu.alpinestars.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/eu-alpinestars-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -1588,21 +1589,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei",
+      "cingolani-bike-shop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -3715,10 +3716,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/begood.store",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/begood-store?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -3728,21 +3729,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei",
+      "cingolani-bike-shop"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -8576,8 +8577,8 @@
       "fruugo-italy",
       "lelo-it",
       "it-aliexpress",
-      "stopuzzle",
-      "yestoysit"
+      "keycense",
+      "stopuzzle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9764,10 +9765,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/engwe-bikes.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/engwe-bikes-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9777,21 +9780,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "aosom-it",
+      "asics-it-outlet",
+      "berger-campingit",
+      "bikestickers",
+      "it-bluettipower",
+      "bulkpowdersit",
+      "caddys",
+      "cingolani-bike-shop",
+      "cisalfasportit",
+      "collect-fifa",
+      "corrieredellosportit",
+      "deporvillage",
+      "detectorshop",
+      "diadorafitnessit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -9938,10 +9941,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/eryone3d.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/eryone3d-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -9951,21 +9954,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
+      "lenovo-italy",
       "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "ankersolix",
+      "aruba-cloud",
+      "avilia-home",
+      "banggood",
+      "beatbot",
+      "beps",
+      "it-bluettipower",
+      "business-shop",
+      "buytecit",
+      "comet",
+      "detectorshop",
+      "dysonit"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -10022,10 +10025,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/esdemarca.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/esdemarca-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -10035,21 +10038,21 @@
     "commissionType": "Percentage",
     "eCPC": "0.00",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -10298,6 +10301,7 @@
     "commissionType": "",
     "eCPC": "0.77",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -10311,8 +10315,7 @@
       "malinka",
       "mclabels",
       "mondoffice",
-      "offertecartucce",
-      "pixartprintingit"
+      "offertecartucce"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13249,10 +13252,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/frankbros.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/frankbros-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -13262,21 +13266,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
       "abc-meubles",
-      "abd-shop",
-      "abiby",
       "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "aosom-it",
+      "assperrit",
+      "avilia-home",
+      "bennet",
+      "bestway-shop",
+      "bins-and-boxes",
+      "it-bluettipower",
+      "bottegaverdeit",
+      "brikumit",
+      "business-shop",
+      "camino-bioetanoloit",
+      "carrefour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -13825,9 +13829,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -13836,9 +13842,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -14059,10 +14063,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/get.mydash.report",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/get-mydash-report?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -14072,21 +14078,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -16128,9 +16134,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -16139,9 +16147,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -17580,9 +17586,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -17591,9 +17599,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -17663,6 +17669,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -17676,8 +17683,7 @@
       "malinka",
       "mclabels",
       "mondoffice",
-      "offertecartucce",
-      "pixartprintingit"
+      "offertecartucce"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -18095,10 +18101,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/keycense.com",
     "categories": [
-      "Products"
+      "Toys & Games"
     ],
     "tags": [
-      "products"
+      "toys",
+      "games"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/keycense-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -18108,21 +18115,21 @@
     "commissionType": "Percentage",
     "eCPC": "0.01",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "bravekid",
+      "kidult",
+      "disfrazzes",
+      "gamestop",
+      "my-nintendo-store",
+      "nerd-custom-collection",
+      "orlando-rent-a-car",
+      "playstation-direct",
+      "stopuzzle",
+      "villabebe-giokids",
+      "voidu",
+      "yestoysit",
+      "1001-hobbies",
+      "fruugo-italy",
+      "digital-office-electronic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20778,6 +20785,7 @@
     "eCPC": "0.02",
     "similarBrands": [
       "expondo",
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -20790,8 +20798,7 @@
       "kaitinklt",
       "legami",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -20892,10 +20899,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/maono.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/maono-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -20905,21 +20912,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
+      "lenovo-italy",
       "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "ankersolix",
+      "aruba-cloud",
+      "avilia-home",
+      "banggood",
+      "beatbot",
+      "beps",
+      "it-bluettipower",
+      "business-shop",
+      "buytecit",
+      "comet",
+      "detectorshop",
+      "dysonit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -22166,9 +22173,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -22177,9 +22186,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -22467,6 +22474,7 @@
     "commissionType": "Percentage",
     "eCPC": "0.00",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -22480,8 +22488,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "offertecartucce",
-      "pixartprintingit"
+      "offertecartucce"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -22791,10 +22798,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/muc-off.com",
     "categories": [
-      "Products"
+      "Sports, Outdoors & Fitness"
     ],
     "tags": [
-      "products"
+      "sports",
+      "outdoors",
+      "fitness"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/muc-off-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -22804,21 +22813,21 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "aosom-it",
+      "asics-it-outlet",
+      "berger-campingit",
+      "bikestickers",
+      "it-bluettipower",
+      "bulkpowdersit",
+      "caddys",
+      "cingolani-bike-shop",
+      "cisalfasportit",
+      "collect-fifa",
+      "corrieredellosportit",
+      "deporvillage",
+      "detectorshop",
+      "diadorafitnessit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -24794,6 +24803,7 @@
       "anycubic",
       "expondo",
       "mrkeyshop",
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -24803,8 +24813,7 @@
       "finson",
       "flexispot",
       "imballaggi-2000",
-      "kaitinklt",
-      "legami"
+      "kaitinklt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -25829,10 +25838,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/papique.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/papique-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -25843,20 +25853,20 @@
     "eCPC": "",
     "similarBrands": [
       "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
       "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
       "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "afrodite-profumeriaweb",
+      "aldous-bio",
+      "alensait",
+      "aliveda",
+      "alpifarmait",
+      "annamaria",
+      "astonfarma-it",
+      "avon",
+      "barecosmetics",
+      "basler-beauty",
+      "beautycos"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -25997,10 +26007,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/parentaler.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/parentaler-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -26010,21 +26022,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -30689,10 +30701,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/sexyavenue.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/sexyavenue-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -30702,21 +30714,21 @@
     "commissionType": "",
     "eCPC": "0.02",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -31628,6 +31640,7 @@
       "anycubic",
       "expondo",
       "mrkeyshop",
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -31637,8 +31650,7 @@
       "finson",
       "flexispot",
       "imballaggi-2000",
-      "kaitinklt",
-      "legami"
+      "kaitinklt"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -32175,6 +32187,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -32184,8 +32197,7 @@
       "yestoysit",
       "1001-hobbies",
       "fruugo-italy",
-      "digital-office-electronic",
-      "lelo-it"
+      "digital-office-electronic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -33426,10 +33438,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/thetrendy.co.nz",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/thetrendy-co-nz?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -33439,21 +33451,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -33652,6 +33664,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -33665,8 +33678,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -34485,10 +34497,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/unaitalianhospitality.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/unaitalianhospitality-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -34498,21 +34511,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "acquario-cattolica",
+      "aer-lingus",
+      "air-transat-italy",
+      "airhelpit",
+      "aquafan",
+      "assivia",
+      "c-way",
+      "casevacanza",
+      "coverwise-ltd",
+      "crocierepiuit",
+      "destinia",
+      "direct-ferries",
+      "expedia",
+      "ferryhopper",
+      "flight-network"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35711,10 +35724,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/vogels.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/vogels-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -35724,21 +35737,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
+      "imperial",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "alensait",
+      "alphaink",
+      "atjewelsin",
+      "avilia-home",
+      "bagsromeogiglimilanoit",
+      "baracuta",
+      "beatbot",
+      "beps",
+      "bidoo-it",
+      "bikestickers",
+      "boohoo",
+      "breficom"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -35930,10 +35943,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/wallester.com",
     "categories": [
-      "Products"
+      "Subscription Boxes & Services"
     ],
     "tags": [
-      "products"
+      "subscription",
+      "boxes",
+      "services"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/wallester-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -35943,21 +35958,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
       "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "enel",
+      "fotocopie24",
+      "ho-mobile",
+      "younited-credit",
+      "locauto",
+      "master-formazione",
+      "mybeautybox",
+      "myparking",
+      "novakid",
+      "sixt",
+      "theunbox",
+      "viaggiare-rent",
+      "animasportiva",
+      "british-school-italia"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -36647,9 +36662,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -36658,9 +36675,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37006,6 +37021,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -37015,8 +37031,7 @@
       "voidu",
       "1001-hobbies",
       "fruugo-italy",
-      "digital-office-electronic",
-      "lelo-it"
+      "digital-office-electronic"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37554,8 +37569,8 @@
       "fruugo-italy",
       "lelo-it",
       "it-aliexpress",
-      "stopuzzle",
-      "yestoysit"
+      "keycense",
+      "stopuzzle"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -37920,10 +37935,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/alibaba.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/alibaba-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -37933,21 +37948,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
+      "lenovo-italy",
       "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "ankersolix",
+      "aruba-cloud",
+      "avilia-home",
+      "banggood",
+      "beatbot",
+      "beps",
+      "it-bluettipower",
+      "business-shop",
+      "buytecit",
+      "comet",
+      "detectorshop",
+      "dysonit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -38216,10 +38231,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/angelominetti.it",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/angelominetti-it-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -38229,21 +38244,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -40643,6 +40658,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -40656,8 +40672,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -42910,10 +42925,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/kreditiweb.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/kreditiweb-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -42923,21 +42938,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
+      "imperial",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "alensait",
+      "alphaink",
+      "atjewelsin",
+      "avilia-home",
+      "bagsromeogiglimilanoit",
+      "baracuta",
+      "beatbot",
+      "beps",
+      "bidoo-it",
+      "bikestickers",
+      "boohoo",
+      "breficom"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -42995,10 +43010,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/leam.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/leam-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -43008,21 +43023,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -46555,10 +46570,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/thebs.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/thebs-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -46568,21 +46583,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -46688,10 +46703,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/tubefittings.eu",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/tubefittings-eu-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -46701,21 +46716,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
+      "imperial",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "alensait",
+      "alphaink",
+      "atjewelsin",
+      "avilia-home",
+      "bagsromeogiglimilanoit",
+      "baracuta",
+      "beatbot",
+      "beps",
+      "bidoo-it",
+      "bikestickers",
+      "boohoo",
+      "breficom"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -48521,9 +48536,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -48532,9 +48549,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -49428,10 +49443,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/deesup.com",
     "categories": [
-      "Products"
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "home",
+      "garden"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/deesup-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -49441,21 +49457,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
       "abc-meubles",
-      "abd-shop",
-      "abiby",
       "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "aosom-it",
+      "assperrit",
+      "avilia-home",
+      "bennet",
+      "bestway-shop",
+      "bins-and-boxes",
+      "it-bluettipower",
+      "bottegaverdeit",
+      "brikumit",
+      "business-shop",
+      "camino-bioetanoloit",
+      "carrefour"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -49495,11 +49511,11 @@
       "bravekid",
       "kidult",
       "disfrazzes",
+      "keycense",
       "nerd-custom-collection",
       "orlando-rent-a-car",
       "stopuzzle",
-      "villabebe-giokids",
-      "yestoysit"
+      "villabebe-giokids"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -50984,10 +51000,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/felco.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/felco-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -50997,21 +51013,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
+      "imperial",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "alensait",
+      "alphaink",
+      "atjewelsin",
+      "avilia-home",
+      "bagsromeogiglimilanoit",
+      "baracuta",
+      "beatbot",
+      "beps",
+      "bidoo-it",
+      "bikestickers",
+      "boohoo",
+      "breficom"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -51303,9 +51319,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -51314,9 +51332,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -52182,9 +52198,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -52193,9 +52211,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -56246,10 +56262,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/twinset.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/twinset-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -56259,21 +56275,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56287,10 +56303,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/store.ubisoft.com",
     "categories": [
-      "Products"
+      "Events & Entertainment"
     ],
     "tags": [
-      "products"
+      "events",
+      "entertainment"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/store-ubisoft-com-it?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -56300,21 +56317,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "acquario-cattolica",
+      "aquafan",
+      "collect-fifa",
+      "disfrazzes",
+      "getyourguide",
+      "grouponit",
+      "hu-openair",
+      "ibs",
+      "il-libraccio",
+      "il-giardinodei-libri",
+      "iltuoticket",
+      "lafeltrinelli-it",
+      "le-caravelle",
+      "mascotte-costumi",
+      "oltremare"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -56453,10 +56470,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/uni7.uniplaces.com",
     "categories": [
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
-      "products"
+      "travel",
+      "vacations"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/uni7-uniplaces-com?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -56466,21 +56484,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "acquario-cattolica",
+      "aer-lingus",
+      "air-transat-italy",
+      "airhelpit",
+      "aquafan",
+      "assivia",
+      "c-way",
+      "casevacanza",
+      "coverwise-ltd",
+      "crocierepiuit",
+      "destinia",
+      "direct-ferries",
+      "expedia",
+      "ferryhopper",
+      "flight-network"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -59795,10 +59813,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/groupon.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/groupon-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -59809,20 +59828,20 @@
     "eCPC": "0.00",
     "similarBrands": [
       "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
       "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
       "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "afrodite-profumeriaweb",
+      "aldous-bio",
+      "alensait",
+      "aliveda",
+      "alpifarmait",
+      "annamaria",
+      "astonfarma-it",
+      "avon",
+      "barecosmetics",
+      "basler-beauty",
+      "beautycos"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60096,10 +60115,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/infowerk.com",
     "categories": [
-      "Products"
+      "Accessories"
     ],
     "tags": [
-      "products"
+      "accessories"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/infowerk-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -60109,21 +60128,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
     "similarBrands": [
-      "1000farmacie",
+      "imperial",
       "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "alensait",
+      "alphaink",
+      "atjewelsin",
+      "avilia-home",
+      "bagsromeogiglimilanoit",
+      "baracuta",
+      "beatbot",
+      "beps",
+      "bidoo-it",
+      "bikestickers",
+      "boohoo",
+      "breficom"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -60472,6 +60491,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -60481,8 +60501,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -61147,10 +61166,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/preply.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/preply-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -61160,21 +61181,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -61539,10 +61560,10 @@
     "description": "",
     "logo": "https://logo.debounce.com/rboutique.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/rboutique-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -61552,21 +61573,21 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -62514,10 +62535,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/aliexpress.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/aliexpress-com-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -62527,21 +62548,21 @@
     "commissionType": "",
     "eCPC": "0.00",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -63309,10 +63330,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/thomann.de",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.pickalink.com/click/thomann-de-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
@@ -63322,21 +63343,21 @@
     "commissionType": "",
     "eCPC": "0.01",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
+      "lenovo-italy",
       "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "ankersolix",
+      "aruba-cloud",
+      "avilia-home",
+      "banggood",
+      "beatbot",
+      "beps",
+      "it-bluettipower",
+      "business-shop",
+      "buytecit",
+      "comet",
+      "detectorshop",
+      "dysonit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -64196,9 +64217,11 @@
     "eCPC": "0.00",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -64207,9 +64230,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65087,9 +65108,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -65098,9 +65121,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65169,9 +65190,11 @@
     "eCPC": "0.01",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -65180,9 +65203,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65880,10 +65901,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/debitum.investments",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/debitum-investments-it?userId=88888889&subId={your tracking code}",
@@ -65893,21 +65916,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -65984,6 +66007,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -65997,8 +66021,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66067,9 +66090,11 @@
     "eCPC": "0.48",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -66078,9 +66103,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -66447,9 +66470,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -66458,9 +66483,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -67005,9 +67028,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -67016,9 +67041,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67050,6 +67073,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -67059,8 +67083,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67306,6 +67329,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -67315,8 +67339,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -67559,6 +67582,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -67568,8 +67592,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -68745,6 +68768,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -68752,8 +68776,7 @@
       "stopuzzle",
       "villabebe-giokids",
       "voidu",
-      "yestoysit",
-      "1001-hobbies"
+      "yestoysit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -69410,9 +69433,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -69421,9 +69446,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -70000,6 +70023,7 @@
     "commissionType": "Percentage",
     "eCPC": "0.05",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -70013,8 +70037,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "api",
@@ -70198,10 +70221,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/mypos.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/mypos-com-it?userId=88888889&subId={your tracking code}",
@@ -70211,21 +70236,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70280,10 +70305,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/nexo.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/nexo-com-it?userId=88888889&subId={your tracking code}",
@@ -70293,21 +70320,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70559,8 +70586,8 @@
       "sixt",
       "theunbox",
       "viaggiare-rent",
-      "animasportiva",
-      "british-school-italia"
+      "wallester",
+      "animasportiva"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -70629,6 +70656,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -70642,8 +70670,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -71032,10 +71059,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/outlet46.de",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/outlet46-de-it?userId=88888889&subId={your tracking code}",
@@ -71045,21 +71072,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -71677,9 +71704,11 @@
     "eCPC": "0.08",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -71688,9 +71717,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -72677,6 +72704,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -72684,8 +72712,7 @@
       "stopuzzle",
       "villabebe-giokids",
       "voidu",
-      "yestoysit",
-      "1001-hobbies"
+      "yestoysit"
     ],
     "logoQuality": "high",
     "logoSource": "logodev",
@@ -72756,9 +72783,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -72767,9 +72796,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -72983,8 +73010,8 @@
       "sixt",
       "theunbox",
       "viaggiare-rent",
-      "animasportiva",
-      "british-school-italia"
+      "wallester",
+      "animasportiva"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -73310,9 +73337,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -73321,9 +73350,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -73476,9 +73503,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -73487,9 +73516,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -73767,6 +73794,7 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -73780,8 +73808,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "none",
     "logoSource": "none",
@@ -74053,10 +74080,12 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/tradetracker.com",
     "categories": [
-      "Products"
+      "Digital Services & Streaming"
     ],
     "tags": [
-      "products"
+      "digital",
+      "services",
+      "streaming"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/tradetracker-com-it?userId=88888889&subId={your tracking code}",
@@ -74066,21 +74095,21 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "abebooks-it",
+      "app-mrpeasy",
+      "aruba-cloud",
+      "aruba-pec",
+      "audible",
+      "axerve-banca-sella",
+      "azurefilm",
+      "banggood",
+      "beatbot",
+      "bookbeat",
+      "cosaporto",
+      "coscomodo",
+      "digitalkeyspro",
+      "exitmusicit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -74112,6 +74141,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -74121,8 +74151,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75301,11 +75330,11 @@
       "bravekid",
       "kidult",
       "disfrazzes",
+      "keycense",
       "nerd-custom-collection",
       "orlando-rent-a-car",
       "stopuzzle",
-      "villabebe-giokids",
-      "yestoysit"
+      "villabebe-giokids"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75564,8 +75593,8 @@
       "sixt",
       "theunbox",
       "viaggiare-rent",
-      "animasportiva",
-      "british-school-italia"
+      "wallester",
+      "animasportiva"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -75892,9 +75921,11 @@
     "eCPC": "0.00",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -75903,9 +75934,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "inherited",
@@ -76874,9 +76903,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -76885,9 +76916,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77217,9 +77246,11 @@
     "eCPC": "0.01",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -77228,9 +77259,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -77656,9 +77685,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -77667,9 +77698,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78327,10 +78356,11 @@
     "description": "",
     "logo": "https://logo.debounce.com/vistaexpert.it",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/vistaexpert-it-it?userId=88888889&subId={your tracking code}",
@@ -78341,20 +78371,20 @@
     "eCPC": "0.14",
     "similarBrands": [
       "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
       "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
       "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "afrodite-profumeriaweb",
+      "aldous-bio",
+      "alensait",
+      "aliveda",
+      "alpifarmait",
+      "annamaria",
+      "astonfarma-it",
+      "avon",
+      "barecosmetics",
+      "basler-beauty",
+      "beautycos"
     ],
     "logoQuality": "high",
     "logoSource": "debounce",
@@ -78540,10 +78570,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/arcwave.com",
     "categories": [
-      "Products"
+      "Health & Beauty"
     ],
     "tags": [
-      "products"
+      "health",
+      "beauty"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/arcwave-com-it?userId=88888889&subId={your tracking code}",
@@ -78554,20 +78585,20 @@
     "eCPC": "",
     "similarBrands": [
       "1000farmacie",
-      "24bottles",
       "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
       "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
       "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "afrodite-profumeriaweb",
+      "aldous-bio",
+      "alensait",
+      "aliveda",
+      "alpifarmait",
+      "annamaria",
+      "astonfarma-it",
+      "avon",
+      "barecosmetics",
+      "basler-beauty",
+      "beautycos"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78595,6 +78626,7 @@
     "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [
+      "airslate",
       "alphaink",
       "app-mrpeasy",
       "bins-and-boxes",
@@ -78608,8 +78640,7 @@
       "legami",
       "malinka",
       "mclabels",
-      "mondoffice",
-      "offertecartucce"
+      "mondoffice"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78724,9 +78755,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -78735,9 +78768,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -78833,10 +78864,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/c.trackmytarget.com",
     "categories": [
-      "Products"
+      "Toys & Games"
     ],
     "tags": [
-      "products"
+      "toys",
+      "games"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/c-trackmytarget-com?userId=88888889&subId={your tracking code}",
@@ -78846,21 +78878,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "bravekid",
+      "kidult",
+      "disfrazzes",
+      "gamestop",
+      "keycense",
+      "my-nintendo-store",
+      "nerd-custom-collection",
+      "orlando-rent-a-car",
+      "playstation-direct",
+      "stopuzzle",
+      "villabebe-giokids",
+      "voidu",
+      "yestoysit",
+      "1001-hobbies",
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -79254,10 +79286,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eraldo.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/eraldo-com-it?userId=88888889&subId={your tracking code}",
@@ -79267,21 +79299,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -79295,10 +79327,11 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/eurococ.eu",
     "categories": [
-      "Products"
+      "Auto & Tires"
     ],
     "tags": [
-      "products"
+      "auto",
+      "tires"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/eurococ-eu?userId=88888889&subId={your tracking code}",
@@ -79308,21 +79341,21 @@
     "commissionType": "FixedAmount",
     "eCPC": "6.12",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
       "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "auto-europe",
+      "autodoc",
+      "autoparti",
+      "autoricambi-seccia",
+      "auxbeam",
+      "cambio-ruote",
+      "cingolani-bike-shop",
+      "espertoautoricambiit",
+      "ferrari",
+      "gommadiretto",
+      "grip-moto",
+      "hertz-italy",
+      "listnrideit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80199,6 +80232,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -80208,8 +80242,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80444,9 +80477,11 @@
     "eCPC": "0.01",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -80455,9 +80490,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80554,10 +80587,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/moosehillstore.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/moosehillstore-com?userId=88888889&subId={your tracking code}",
@@ -80567,21 +80600,21 @@
     "commissionType": "",
     "eCPC": "1.66",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -80609,9 +80642,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -80620,9 +80655,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81197,6 +81230,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -81206,8 +81240,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81266,10 +81299,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/shopbeyond.com",
     "categories": [
-      "Products"
+      "Electronics"
     ],
     "tags": [
-      "products"
+      "electronics"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/shopbeyond-com-it?userId=88888889&subId={your tracking code}",
@@ -81279,21 +81312,21 @@
     "commissionType": "",
     "eCPC": "",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
+      "lenovo-italy",
       "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
       "adobike",
-      "adventure-goods"
+      "ankersolix",
+      "aruba-cloud",
+      "avilia-home",
+      "banggood",
+      "beatbot",
+      "beps",
+      "it-bluettipower",
+      "business-shop",
+      "buytecit",
+      "comet",
+      "detectorshop",
+      "dysonit"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81362,9 +81395,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -81373,9 +81408,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81655,9 +81688,11 @@
     "eCPC": "",
     "similarBrands": [
       "imperial",
+      "alpinestars",
       "am-boutique",
       "annamaria",
       "baracuta",
+      "begood",
       "bershka",
       "bidoo-it",
       "it-bluettipower",
@@ -81666,9 +81701,7 @@
       "brastyit",
       "breficom",
       "camden-rimini",
-      "casadei",
-      "cingolani-bike-shop",
-      "costumalia"
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81742,6 +81775,7 @@
       "kidult",
       "disfrazzes",
       "gamestop",
+      "keycense",
       "my-nintendo-store",
       "nerd-custom-collection",
       "orlando-rent-a-car",
@@ -81751,8 +81785,7 @@
       "voidu",
       "yestoysit",
       "1001-hobbies",
-      "fruugo-italy",
-      "digital-office-electronic"
+      "fruugo-italy"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
@@ -81892,10 +81925,10 @@
     "description": "",
     "logo": "https://api.companyenrich.com/logo/voghion.com",
     "categories": [
-      "Products"
+      "Clothing"
     ],
     "tags": [
-      "products"
+      "clothing"
     ],
     "country": "IT",
     "affiliateUrl": "https://www.shoptastic.io/store/voghion-com-it?userId=88888889&subId={your tracking code}",
@@ -81905,21 +81938,21 @@
     "commissionType": "Percentage",
     "eCPC": "2.90",
     "similarBrands": [
-      "1000farmacie",
-      "24bottles",
-      "3c-farma",
-      "a2aenergia",
-      "abbonamentiit",
-      "abc-meubles",
-      "abd-shop",
-      "abiby",
-      "abitarearreda",
-      "aceait",
-      "acelstore",
-      "acqua-di-cuori",
-      "actionmotoit",
-      "adobike",
-      "adventure-goods"
+      "imperial",
+      "alpinestars",
+      "am-boutique",
+      "annamaria",
+      "baracuta",
+      "begood",
+      "bershka",
+      "bidoo-it",
+      "it-bluettipower",
+      "bonprix",
+      "boohoo",
+      "brastyit",
+      "breficom",
+      "camden-rimini",
+      "casadei"
     ],
     "logoQuality": "high",
     "logoSource": "companyenrich",
