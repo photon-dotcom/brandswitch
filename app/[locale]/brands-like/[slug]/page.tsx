@@ -126,6 +126,236 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 // ── Helpers ───────────────────────────────────────────────────────────────
 
+interface SavingsHack {
+  title: string;
+  description: string;
+}
+
+function generateSavingsHacks(category: string): SavingsHack[] {
+  const cat = category.toLowerCase();
+
+  const isFashion = ['clothing', 'fashion', 'apparel', 'wear', 'shoes', 'footwear', 'accessories',
+    'lingerie', 'swimwear', 'bags', 'handbags', 'jewelry', 'jewellery', 'watches', 'eyewear',
+    'sunglasses', 'sportswear', 'denim', 'suits', 'underwear'].some(k => cat.includes(k));
+
+  const isTech = ['electronics', 'tech', 'computer', 'laptop', 'phone', 'smartphone', 'gadget',
+    'software', 'gaming', 'camera', 'audio', 'headphones', 'tablet', 'wearable'].some(k => cat.includes(k));
+
+  const isBeauty = ['beauty', 'cosmetic', 'skincare', 'skin care', 'haircare', 'hair care',
+    'fragrance', 'makeup', 'make-up', 'grooming', 'perfume', 'wellness'].some(k => cat.includes(k));
+
+  const isHome = ['home', 'furniture', 'decor', 'garden', 'kitchen', 'bedding', 'lighting',
+    'interior', 'bath', 'storage', 'flooring', 'curtain', 'carpet'].some(k => cat.includes(k));
+
+  const isSports = ['sport', 'fitness', 'outdoor', 'camping', 'hiking', 'cycling', 'running',
+    'gym', 'athletic', 'yoga', 'climbing', 'skiing', 'swimming'].some(k => cat.includes(k));
+
+  const isFood = ['food', 'drink', 'grocery', 'nutrition', 'coffee', 'wine', 'snack',
+    'supplement', 'organic', 'meal', 'tea', 'beer', 'spirits'].some(k => cat.includes(k));
+
+  const isTravel = ['travel', 'hotel', 'flight', 'holiday', 'luggage', 'suitcase',
+    'accommodation', 'vacation', 'cruise', 'hostel'].some(k => cat.includes(k));
+
+  if (isFashion) {
+    return [
+      {
+        title: 'Shop end-of-season sales',
+        description: 'Fashion brands discount last season\'s stock by 40–70% at the end of each season. January and July are typically the best months for clothing deals.',
+      },
+      {
+        title: 'Sign up for newsletters',
+        description: 'Most fashion brands offer 10–15% off your first order when you join their email list. Create a dedicated shopping inbox to keep discount codes organised.',
+      },
+      {
+        title: 'Check brand outlet stores',
+        description: 'Many brands run official outlet stores — both online and in-person — where you can find previous seasons\' styles at a fraction of the original price.',
+      },
+      {
+        title: 'Use cashback extensions',
+        description: 'Browser extensions like Honey or TopCashback automatically find discount codes and earn cashback on fashion purchases from hundreds of brands.',
+      },
+      {
+        title: 'Buy off-season',
+        description: 'Purchase winter coats in spring and summer dresses in autumn. Retailers need to clear inventory and mark prices down dramatically out of season.',
+      },
+    ];
+  }
+
+  if (isTech) {
+    return [
+      {
+        title: 'Consider certified refurbished',
+        description: 'Manufacturers sell refurbished devices at 20–40% below new prices with the same warranty. Apple Refurbished and Amazon Renewed are reliable starting points.',
+      },
+      {
+        title: 'Use a price tracker',
+        description: 'Tools like CamelCamelCamel (Amazon), Honey, or Google Shopping alerts notify you when a product drops to your target price — often saving 20%+ vs buying immediately.',
+      },
+      {
+        title: 'Wait for the next model launch',
+        description: 'When a new product is announced, last year\'s model typically drops 20–30%. A great opportunity to pick up proven, well-reviewed technology at a lower cost.',
+      },
+      {
+        title: 'Explore open-box deals',
+        description: 'Open-box or display models are lightly used items sold at a significant discount. Check retailer clearance sections or Best Buy\'s open-box listings for substantial savings.',
+      },
+      {
+        title: 'Bundle for better value',
+        description: 'Buying accessories, cases, or protection plans as a bundle from the same brand is usually cheaper than purchasing each separately — and often includes extras.',
+      },
+    ];
+  }
+
+  if (isBeauty) {
+    return [
+      {
+        title: 'Request samples before committing',
+        description: 'Before buying a full-size product, request samples or purchase travel-size versions. Many beauty brands offer free samples at checkout or sell minis of their bestsellers.',
+      },
+      {
+        title: 'Join loyalty programmes',
+        description: 'Beauty loyalty schemes (Sephora Beauty Insider, Boots Advantage) earn points on every purchase that can be redeemed for free products or exclusive discounts.',
+      },
+      {
+        title: 'Subscribe and save',
+        description: 'Many beauty brands offer 10–15% off and free shipping on subscription orders. Easy to cancel or pause, and the saving adds up quickly on daily-use products.',
+      },
+      {
+        title: 'Explore high-quality dupes',
+        description: 'Premium beauty products often have effective drugstore alternatives. Beauty communities on Reddit and TikTok regularly compare formulas and highlight near-identical options at a fraction of the price.',
+      },
+      {
+        title: 'Shop multi-buy promotions',
+        description: 'Brands like The Ordinary and ASOS Beauty frequently run "3 for 2" or "buy 2 get 1 free" events. Stock up on skincare staples you use consistently during these offers.',
+      },
+    ];
+  }
+
+  if (isHome) {
+    return [
+      {
+        title: 'Ask about ex-display models',
+        description: 'Showroom floor models are sold at 20–40% off and are typically in excellent condition. Ask in-store or check retailer websites for ex-display and return listings.',
+      },
+      {
+        title: 'Shop major sale events',
+        description: 'Home and furniture brands offer their biggest discounts during Black Friday, January sales, and bank holiday weekends. Planning large purchases around these events can save hundreds.',
+      },
+      {
+        title: 'Look for end-of-line stock',
+        description: 'When a product line is discontinued, retailers heavily discount remaining inventory. Check clearance sections online or ask in-store about ranges being phased out.',
+      },
+      {
+        title: 'Choose flat-pack over assembled',
+        description: 'Ready-assembled furniture costs significantly more than flat-pack equivalents with identical quality. If you\'re comfortable with basic self-assembly, flat-pack is almost always better value.',
+      },
+      {
+        title: 'Measure carefully before ordering',
+        description: 'Return shipping for large furniture and appliances can eliminate any saving. Measure your space twice before ordering online to avoid costly returns and restocking fees.',
+      },
+    ];
+  }
+
+  if (isSports) {
+    return [
+      {
+        title: 'Buy last season\'s gear',
+        description: 'Sports equipment is updated annually. Last season\'s models are often functionally identical to new releases but discounted by 30–50% to clear warehouse stock.',
+      },
+      {
+        title: 'Rent before investing',
+        description: 'For activities you\'re trying for the first time — skiing, surfing, cycling — renting equipment first lets you discover exactly what specs you need before spending hundreds.',
+      },
+      {
+        title: 'Check secondhand platforms',
+        description: 'eBay, Vinted, and Facebook Marketplace have large stocks of barely-used sports gear. Many items are sold after people try a hobby once, so condition is often near-new.',
+      },
+      {
+        title: 'Shop at end of season',
+        description: 'Ski gear is cheapest in spring; cycling and running gear goes on sale in autumn. Outdoor retailers heavily discount seasonal inventory to prepare for next season\'s arrivals.',
+      },
+      {
+        title: 'Look into gear libraries',
+        description: 'Some outdoor shops and community groups offer gear libraries or rental schemes. Borrowing rarely-used specialist equipment is far more cost-effective than buying it outright.',
+      },
+    ];
+  }
+
+  if (isFood) {
+    return [
+      {
+        title: 'Subscribe for recurring discounts',
+        description: 'Most food and supplement brands offer 10–20% off and free shipping on subscription orders. If you use a product daily, subscribing consistently beats one-off pricing.',
+      },
+      {
+        title: 'Buy non-perishables in bulk',
+        description: 'Coffee, protein powder, tinned goods, and supplements almost always cost less per unit in larger quantities. Compare cost-per-gram or cost-per-serving before adding to your cart.',
+      },
+      {
+        title: 'Collect loyalty points',
+        description: 'Supermarket loyalty cards (Tesco Clubcard, Lidl Plus) and brand apps offer points, cashback, and exclusive member pricing. Savings compound quickly on regular grocery shopping.',
+      },
+      {
+        title: 'Compare own-brand alternatives',
+        description: 'Own-brand products in categories like olive oil, pasta, and canned goods often match the quality of premium brands at 40–60% lower cost. Direct the saving to the items where brand genuinely matters to you.',
+      },
+      {
+        title: 'Plan meals around weekly offers',
+        description: 'Grocery retailers rotate promotions weekly. Planning meals around what\'s on sale — rather than a fixed shopping list — can meaningfully reduce your food bill without sacrificing quality.',
+      },
+    ];
+  }
+
+  if (isTravel) {
+    return [
+      {
+        title: 'Set price drop alerts',
+        description: 'Google Flights, Skyscanner, and Kayak let you track prices and alert you to drops. Being flexible by even one or two days can unlock savings of 30% or more on flights.',
+      },
+      {
+        title: 'Earn points on everyday spend',
+        description: 'Travel credit cards and airline loyalty programmes let you accumulate miles on everyday purchases. A focused strategy can cover flights and hotels — especially for business-class upgrades.',
+      },
+      {
+        title: 'Travel in shoulder season',
+        description: 'Visiting destinations just before or after peak season delivers the same experience at lower prices for flights, accommodation, and attractions — with smaller crowds.',
+      },
+      {
+        title: 'Compare flight + hotel packages',
+        description: 'Booking flights and hotels as a bundle is frequently cheaper than booking separately. OTAs like Expedia and TUI offer exclusive package rates not available when booking each element individually.',
+      },
+      {
+        title: 'Factor in cancellation policies',
+        description: 'Always compare total costs including cancellation terms. Refundable rates look pricier upfront but can save money if plans change — factor this in when booking non-refundable fares.',
+      },
+    ];
+  }
+
+  // Generic fallback for all other categories
+  return [
+    {
+      title: 'Compare prices before buying',
+      description: 'Use Google Shopping or price comparison sites to check whether the same product is available cheaper from another retailer before committing — a two-minute check that often pays off.',
+    },
+    {
+      title: 'Sign up for brand newsletters',
+      description: 'Most brands offer 10–15% off your first order when you join their email list. Create a dedicated shopping inbox to keep discount codes organised and easy to find at checkout.',
+    },
+    {
+      title: 'Install a cashback extension',
+      description: 'Browser extensions like Honey, Rakuten, or TopCashback automatically apply discount codes and earn cashback on purchases from thousands of brands — completely free to use.',
+    },
+    {
+      title: 'Wait for seasonal sale events',
+      description: 'Black Friday, Cyber Monday, January sales, and brand-specific events are the best times to buy non-urgent items. Setting a calendar reminder for these costs nothing.',
+    },
+    {
+      title: 'Check the returns policy first',
+      description: 'Before buying from a new brand, understand their returns process. A lower upfront price rarely pays off if returning an item costs more than the saving, or if the process is deliberately complicated.',
+    },
+  ];
+}
+
 function generateSEOText(brandName: string, category: string): string[] {
   const cat = category.toLowerCase();
   return [
@@ -263,6 +493,7 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
     ? getRelatedBrands(locale, categorySlug, brand.slug, 10)
     : [];
   const seoText = generateSEOText(displayName, primaryCategory);
+  const savingsHacks = generateSavingsHacks(primaryCategory);
   const faqItems = buildFAQ({ ...brand, name: displayName });
   const description = getBrandDescription({ ...brand, name: displayName });
 
@@ -461,6 +692,26 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
               <div className="space-y-3 text-bs-gray leading-relaxed">
                 {seoText.map((para, i) => (
                   <p key={i}>{para}</p>
+                ))}
+              </div>
+            </section>
+
+            {/* Smart Shopping Tips */}
+            <section>
+              <h2 className="text-2xl font-bold text-bs-dark mb-5">
+                {t('savings_hacks_title', { category: localizedCategory })}
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {savingsHacks.map((hack, i) => (
+                  <div key={i} className="flex gap-3 p-4 bg-white border border-bs-border rounded-2xl">
+                    <span className="flex-shrink-0 w-7 h-7 rounded-full bg-bs-teal-light text-bs-teal text-xs font-bold flex items-center justify-center mt-0.5">
+                      {i + 1}
+                    </span>
+                    <div className="min-w-0">
+                      <p className="font-semibold text-bs-dark text-sm mb-1">{hack.title}</p>
+                      <p className="text-xs text-bs-gray leading-relaxed">{hack.description}</p>
+                    </div>
+                  </div>
                 ))}
               </div>
             </section>
