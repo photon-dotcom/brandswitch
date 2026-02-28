@@ -6,6 +6,7 @@ import { translateCategory } from '@/lib/translations';
 import { BrandLogo } from './BrandLogo';
 import { AffiliateButton } from './AffiliateButton';
 import { SaveButton } from './SaveButton';
+import { VoteButton } from './VoteButton';
 
 interface AlternativeCardProps {
   alternative: Brand;
@@ -60,16 +61,25 @@ export async function AlternativeCard({ alternative, mainBrand, locale }: Altern
           {getBrandDescription(alternative)}
         </p>
 
-        {/* Why similar + bottom link */}
-        <div className="flex items-center justify-between mt-2.5 gap-2">
-          {shared.length > 0 ? (
-            <p className="text-xs text-bs-gray">
-              <span className="font-medium text-bs-dark">{t('similar_label')}</span>{' '}
-              {shared.slice(0, 2).map(c => translateCategory(locale, c)).join(', ')}
-            </p>
-          ) : (
-            <div />
-          )}
+        {/* Why similar */}
+        {shared.length > 0 && (
+          <p className="text-xs text-bs-gray mt-2.5">
+            <span className="font-medium text-bs-dark">{t('similar_label')}</span>{' '}
+            {shared.slice(0, 2).map(c => translateCategory(locale, c)).join(', ')}
+          </p>
+        )}
+
+        {/* Vote buttons */}
+        <VoteButton
+          mainBrandSlug={mainBrand.slug}
+          altSlug={alternative.slug}
+          labelGood={t('vote_good')}
+          labelNot={t('vote_not')}
+          labelPercent={t('vote_percent')}
+        />
+
+        {/* Bottom link */}
+        <div className="flex justify-end mt-1">
           <Link
             href={`/${locale}/brands-like/${alternative.slug}`}
             className="text-xs text-bs-teal hover:underline shrink-0"

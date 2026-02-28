@@ -81,6 +81,9 @@
     "top_brands_sidebar_title": "Top-{category}-Marken",
     "top_brands_sidebar_see_all": "Alle ansehen →",
     "featured_brands_title": "Empfohlene Marken",
-    "featured_brands_subtitle": "Top-Marken — besuchen oder Alternativen entdecken."
+    "featured_brands_subtitle": "Top-Marken — besuchen oder Alternativen entdecken.",
+    "vote_good": "Gute Alternative",
+    "vote_not": "Eher nicht",
+    "vote_percent": "{percent}% sagen gute Alternative"
   }
 }

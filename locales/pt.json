@@ -81,6 +81,9 @@
     "top_brands_sidebar_title": "Top Marcas de {category}",
     "top_brands_sidebar_see_all": "Ver tudo →",
     "featured_brands_title": "Marcas em Destaque",
-    "featured_brands_subtitle": "As marcas com melhor desempenho — clique para visitar ou descobrir alternativas."
+    "featured_brands_subtitle": "As marcas com melhor desempenho — clique para visitar ou descobrir alternativas.",
+    "vote_good": "Boa alternativa",
+    "vote_not": "Nem tanto",
+    "vote_percent": "{percent}% dizem boa alternativa"
   }
 }

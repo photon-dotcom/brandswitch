@@ -81,6 +81,9 @@
     "top_brands_sidebar_title": "Top {category} Brands",
     "top_brands_sidebar_see_all": "See all →",
     "featured_brands_title": "Featured Brands",
-    "featured_brands_subtitle": "Top-performing brands — click to visit or discover alternatives."
+    "featured_brands_subtitle": "Top-performing brands — click to visit or discover alternatives.",
+    "vote_good": "Good alternative",
+    "vote_not": "Not really",
+    "vote_percent": "{percent}% say good alternative"
   }
 }
