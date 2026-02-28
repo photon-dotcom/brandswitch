@@ -1,73 +1,73 @@
 [
   {
-    "name": "Products",
-    "slug": "products",
-    "brandCount": 233
+    "name": "Accessories",
+    "slug": "accessories",
+    "brandCount": 87
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 68
+    "brandCount": 78
   },
   {
     "name": "Clothing",
     "slug": "clothing",
-    "brandCount": 59
-  },
-  {
-    "name": "Travel & Vacations",
-    "slug": "travel-and-vacations",
-    "brandCount": 52
+    "brandCount": 68
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 45
+    "brandCount": 59
   },
   {
     "name": "Sports, Outdoors & Fitness",
     "slug": "sports-outdoors-and-fitness",
-    "brandCount": 43
+    "brandCount": 55
   },
   {
-    "name": "Accessories",
-    "slug": "accessories",
-    "brandCount": 41
+    "name": "Travel & Vacations",
+    "slug": "travel-and-vacations",
+    "brandCount": 53
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 39
+    "brandCount": 48
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 33
-  },
-  {
-    "name": "Shoes",
-    "slug": "shoes",
-    "brandCount": 18
-  },
-  {
-    "name": "Auto & Tires",
-    "slug": "auto-and-tires",
-    "brandCount": 16
+    "brandCount": 39
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 15
+    "brandCount": 22
+  },
+  {
+    "name": "Shoes",
+    "slug": "shoes",
+    "brandCount": 20
+  },
+  {
+    "name": "Auto & Tires",
+    "slug": "auto-and-tires",
+    "brandCount": 17
   },
   {
     "name": "Toys & Games",
     "slug": "toys-and-games",
-    "brandCount": 14
+    "brandCount": 17
   },
   {
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
-    "brandCount": 9
+    "brandCount": 13
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 10
   },
   {
     "name": "Office Supplies",
@@ -77,36 +77,21 @@
   {
     "name": "Pets",
     "slug": "pets",
-    "brandCount": 7
+    "brandCount": 8
   },
   {
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
-    "brandCount": 6
-  },
-  {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 5
-  },
-  {
-    "name": "Food Drinks & Restaurants",
-    "slug": "food-drinks-and-restaurants",
-    "brandCount": 4
-  },
-  {
-    "name": "Sports Outdoors & Fitness",
-    "slug": "sports-outdoors-and-fitness",
-    "brandCount": 3
-  },
-  {
-    "name": "Gifts Flowers & Parties",
-    "slug": "gifts-flowers-and-parties",
-    "brandCount": 3
+    "brandCount": 7
   },
   {
     "name": "Baby & Toddler",
     "slug": "baby-and-toddler",
-    "brandCount": 3
+    "brandCount": 4
+  },
+  {
+    "name": "Products",
+    "slug": "products",
+    "brandCount": 1
   }
 ]

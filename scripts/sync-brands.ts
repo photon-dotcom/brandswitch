@@ -1239,15 +1239,35 @@ const LLM_CACHE_FILE = path.join(DATA_DIR, 'llm-categories.json');
 
 const VALID_LLM_CATEGORIES = new Set([
   'Health & Beauty', 'Accessories', 'Home & Garden', 'Clothing',
-  'Sports Outdoors & Fitness', 'Digital Services & Streaming', 'Electronics',
-  'Food Drinks & Restaurants', 'Travel & Vacations', 'Gifts Flowers & Parties',
+  'Sports, Outdoors & Fitness', 'Digital Services & Streaming', 'Electronics',
+  'Food, Drinks & Restaurants', 'Travel & Vacations', 'Gifts, Flowers & Parties',
   'Shoes', 'Subscription Boxes & Services', 'Toys & Games',
   'Events & Entertainment', 'Auto & Tires', 'Pets', 'Baby & Toddler', 'Office Supplies',
 ]);
 
+// Map of known old/variant category names to canonical ones
+const CATEGORY_NORMALIZE: Record<string, string> = {
+  'Food Drinks & Restaurants': 'Food, Drinks & Restaurants',
+  'Sports Outdoors & Fitness': 'Sports, Outdoors & Fitness',
+  'Gifts Flowers & Parties': 'Gifts, Flowers & Parties',
+};
+
 function loadLLMCache(): Record<string, string> {
   if (fs.existsSync(LLM_CACHE_FILE)) {
-    return JSON.parse(fs.readFileSync(LLM_CACHE_FILE, 'utf-8'));
+    const cache = JSON.parse(fs.readFileSync(LLM_CACHE_FILE, 'utf-8')) as Record<string, string>;
+    // Auto-normalize old category names
+    let fixed = 0;
+    for (const [domain, cat] of Object.entries(cache)) {
+      if (CATEGORY_NORMALIZE[cat]) {
+        cache[domain] = CATEGORY_NORMALIZE[cat];
+        fixed++;
+      }
+    }
+    if (fixed > 0) {
+      console.log(`  ⚠ Fixed ${fixed} old category names in LLM cache`);
+      saveLLMCache(cache);
+    }
+    return cache;
   }
   return {};
 }
@@ -1261,7 +1281,7 @@ async function callClaudeAPI(prompt: string, apiKey: string): Promise<string> {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
       model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 2048,
+      max_tokens: 4096,
       messages: [{ role: 'user', content: prompt }],
     });
 
@@ -1295,7 +1315,15 @@ async function callClaudeAPI(prompt: string, apiKey: string): Promise<string> {
 
 /** Apply the LLM cache to brands that still have "Products" only. Returns count applied. */
 function applyLLMCache(byMarket: Record<string, Brand[]>, cache: Record<string, string>): number {
+  const cacheEntries = Object.keys(cache).length;
+  const validEntries = Object.values(cache).filter(v => VALID_LLM_CATEGORIES.has(v)).length;
+  const unknownEntries = Object.values(cache).filter(v => v === 'Unknown').length;
+  const junkEntries = Object.values(cache).filter(v => v === 'Junk').length;
+  console.log(`  LLM cache: ${cacheEntries} entries (${validEntries} valid, ${junkEntries} junk, ${unknownEntries} unknown)`);
+
   let applied = 0;
+  let noMatch = 0;
+  const rejectedCats = new Set<string>();
   for (const brands of Object.values(byMarket)) {
     for (const brand of brands) {
       if (!brand.domain) continue;
@@ -1306,8 +1334,14 @@ function applyLLMCache(byMarket: Record<string, Brand[]>, cache: Record<string, 
         brand.categories = [llmCat];
         brand.tags = deriveTags([llmCat]);
         applied++;
+      } else if (llmCat && llmCat !== 'Unknown' && llmCat !== 'Junk') {
+        rejectedCats.add(llmCat);
+        noMatch++;
       }
     }
+  }
+  if (rejectedCats.size > 0) {
+    console.log(`  ⚠ ${noMatch} cache entries rejected — unrecognised categories: ${Array.from(rejectedCats).join(', ')}`);
   }
   return applied;
 }
@@ -1329,15 +1363,18 @@ async function classifyWithLLM(byMarket: Record<string, Brand[]>): Promise<numbe
   const cache = loadLLMCache();
 
   // Collect unique domains still on "Products" that aren't yet in cache
-  const toClassify: Array<{ name: string; domain: string }> = [];
+  // Also retry domains previously marked "Unknown" — they may classify better with descriptions
+  const toClassify: Array<{ name: string; domain: string; description: string }> = [];
   const seen = new Set<string>();
   for (const brands of Object.values(byMarket)) {
     for (const brand of brands) {
       if (!brand.domain || seen.has(brand.domain)) continue;
       seen.add(brand.domain);
       const hasReal = brand.categories.some(c => c && !GENERIC_CATS_SET.has(c));
-      if (hasReal || cache[brand.domain] !== undefined) continue;
-      toClassify.push({ name: brand.name, domain: brand.domain });
+      if (hasReal) continue;
+      // Classify if not in cache, or if previously Unknown
+      if (cache[brand.domain] !== undefined && cache[brand.domain] !== 'Unknown') continue;
+      toClassify.push({ name: brand.name, domain: brand.domain, description: brand.description ?? '' });
     }
   }
 
@@ -1360,11 +1397,23 @@ async function classifyWithLLM(byMarket: Record<string, Brand[]>): Promise<numbe
     const batchNum = Math.floor(i / BATCH_SIZE) + 1;
     process.stdout.write(`  Batch ${batchNum}/${totalBatches} (${batch.length} brands)...`);
 
-    const brandList = batch.map(b => `${b.name} (${b.domain})`).join('\n');
-    const prompt = `Classify each brand into exactly ONE of these categories based on the brand name and domain:
-Health & Beauty, Accessories, Home & Garden, Clothing, Sports Outdoors & Fitness, Digital Services & Streaming, Electronics, Food Drinks & Restaurants, Travel & Vacations, Gifts Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies
+    const brandList = batch.map(b => {
+      const desc = b.description && !b.description.toLowerCase().includes("don't have")
+        ? ` — ${b.description.slice(0, 150)}`
+        : '';
+      return `${b.name} (${b.domain})${desc}`;
+    }).join('\n');
+    const prompt = `Classify each brand into exactly ONE of these categories based on the brand name, domain, and description:
+Health & Beauty, Accessories, Home & Garden, Clothing, Sports, Outdoors & Fitness, Digital Services & Streaming, Electronics, Food, Drinks & Restaurants, Travel & Vacations, Gifts, Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies
 
-If you cannot determine the category with reasonable confidence, respond with "Unknown".
+Important rules:
+- Financial services, banking, insurance, loans → Digital Services & Streaming
+- Gambling, betting, casino → Events & Entertainment
+- Education, courses, training → Digital Services & Streaming
+- VPN, software, apps, SaaS → Digital Services & Streaming
+- General/multi-category retailers (like Amazon, Walmart) → Accessories
+- If the domain looks like spam or gibberish (e.g. hex strings, random characters), respond with "Junk"
+- Only respond "Unknown" if you truly cannot determine any reasonable category
 
 Respond ONLY in JSON format (no other text): {"domain1.com": "Category", "domain2.com": "Category", ...}
 
@@ -1387,6 +1436,9 @@ ${brandList}`;
       for (const [domain, category] of Object.entries(classifications)) {
         if (VALID_LLM_CATEGORIES.has(category)) {
           cache[domain] = category;
+          batchNew++;
+        } else if (category === 'Junk') {
+          cache[domain] = 'Junk';
           batchNew++;
         } else if (category === 'Unknown') {
           cache[domain] = 'Unknown'; // mark as checked so we don't retry

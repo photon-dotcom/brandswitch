@@ -1,0 +1,16 @@
+{
+  "prepared_at": "2026-02-28T06:55:08.250223Z",
+  "total_brands": 5872,
+  "model": "claude-haiku-4-5-20251001",
+  "batches": [
+    {
+      "index": 0,
+      "batch_id": "msgbatch_01Pvrg288UVgbFCAi3yG7DvC",
+      "file": "data/.desc-batch-0.jsonl",
+      "status": "merged",
+      "count": 5872,
+      "ok": 5872,
+      "errors": 0
+    }
+  ]
+}

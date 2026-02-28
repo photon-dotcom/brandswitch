@@ -50,5 +50,31 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "223954",
+    "name": "Blue Tomato",
+    "slug": "blue-tomato",
+    "domain": "blue-tomato.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/blue-tomato.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "FI",
+    "affiliateUrl": "https://www.pickalink.com/click/blue-tomato-com-cpc-fi?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/blue-tomato-com-cpc-fi?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
   }
 ]

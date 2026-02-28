@@ -92,19 +92,17 @@
   },
   {
     "id": "1474",
-    "name": "Bravofly Com",
+    "name": "Bravofly",
     "slug": "bravofly",
     "domain": "bravofly.com.au",
     "description": "",
     "logo": "https://gstatic.shoptastic.io/web/storelogo/bravofly-au_logo.png",
     "categories": [
-      "Travel & Vacations",
-      "Products"
+      "Travel & Vacations"
     ],
     "tags": [
       "travel",
-      "vacations",
-      "products"
+      "vacations"
     ],
     "country": "AU",
     "affiliateUrl": "https://www.pickalink.com/click/bravofly-au?pubId=88888903&pId=10735&subId={your tracking code}",

@@ -1,38 +1,38 @@
 [
   {
-    "name": "Products",
-    "slug": "products",
-    "brandCount": 123
+    "name": "Accessories",
+    "slug": "accessories",
+    "brandCount": 53
   },
   {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
-    "brandCount": 38
-  },
-  {
-    "name": "Accessories",
-    "slug": "accessories",
-    "brandCount": 30
-  },
-  {
-    "name": "Electronics",
-    "slug": "electronics",
-    "brandCount": 29
-  },
-  {
-    "name": "Clothing",
-    "slug": "clothing",
-    "brandCount": 29
+    "brandCount": 43
   },
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 27
+    "brandCount": 38
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "brandCount": 35
+  },
+  {
+    "name": "Clothing",
+    "slug": "clothing",
+    "brandCount": 31
   },
   {
     "name": "Home & Garden",
     "slug": "home-and-garden",
-    "brandCount": 22
+    "brandCount": 29
+  },
+  {
+    "name": "Sports, Outdoors & Fitness",
+    "slug": "sports-outdoors-and-fitness",
+    "brandCount": 19
   },
   {
     "name": "Travel & Vacations",
@@ -40,34 +40,39 @@
     "brandCount": 19
   },
   {
-    "name": "Sports, Outdoors & Fitness",
-    "slug": "sports-outdoors-and-fitness",
-    "brandCount": 14
-  },
-  {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
+    "brandCount": 15
+  },
+  {
+    "name": "Toys & Games",
+    "slug": "toys-and-games",
     "brandCount": 14
   },
   {
     "name": "Shoes",
     "slug": "shoes",
-    "brandCount": 10
+    "brandCount": 13
   },
   {
     "name": "Food, Drinks & Restaurants",
     "slug": "food-drinks-and-restaurants",
-    "brandCount": 10
+    "brandCount": 12
   },
   {
     "name": "Office Supplies",
     "slug": "office-supplies",
+    "brandCount": 10
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
     "brandCount": 8
   },
   {
-    "name": "Toys & Games",
-    "slug": "toys-and-games",
-    "brandCount": 8
+    "name": "Pets",
+    "slug": "pets",
+    "brandCount": 7
   },
   {
     "name": "Baby & Toddler",
@@ -80,23 +85,8 @@
     "brandCount": 4
   },
   {
-    "name": "Pets",
-    "slug": "pets",
-    "brandCount": 4
-  },
-  {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 3
-  },
-  {
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
-    "brandCount": 3
-  },
-  {
-    "name": "Sports Outdoors & Fitness",
-    "slug": "sports-outdoors-and-fitness",
-    "brandCount": 1
+    "brandCount": 4
   }
 ]

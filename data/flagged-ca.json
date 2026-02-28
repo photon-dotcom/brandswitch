@@ -229,34 +229,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "426370",
-    "name": "Fitnessfirst",
-    "slug": "fitnessfirst",
-    "domain": "fitnessfirst.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/fitnessfirst.co.uk?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "CA",
-    "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-ca?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "330347",
     "name": "Value2read Blogspot",
     "slug": "value2read-blogspot",

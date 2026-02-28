@@ -112,32 +112,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "307137",
-    "name": "baronematerassi-shop.it",
-    "slug": "baronematerassi-shopit",
-    "domain": "baronematerassi-shop.it",
-    "description": "",
-    "logo": "https://logo.clearbit.com/baronematerassi-shop.it?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "IT",
-    "affiliateUrl": "https://www.pickalink.com/click/baronematerassi-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/baronematerassi-shop-it-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "319019",
     "name": "Emporium Italy",
     "slug": "emporium-italy",
@@ -157,34 +131,6 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "426368",
-    "name": "Fitnessfirst",
-    "slug": "fitnessfirst",
-    "domain": "fitnessfirst.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/fitnessfirst.co.uk?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "IT",
-    "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-it?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -263,32 +209,6 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "262915",
-    "name": "Svapopiù",
-    "slug": "svapopi",
-    "domain": "svapopiu.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/svapopiu.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "IT",
-    "affiliateUrl": "https://www.pickalink.com/click/svapopiu-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/svapopiu-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",

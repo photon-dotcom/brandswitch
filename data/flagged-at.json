@@ -105,31 +105,5 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "330379",
-    "name": "Technikmarkt Aschaffenburg",
-    "slug": "technikmarkt-aschaffenburg",
-    "domain": "technikmarkt-aschaffenburg.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/technikmarkt-aschaffenburg.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "AT",
-    "affiliateUrl": "https://www.pickalink.com/click/technikmarkt-aschaffenburg-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/technikmarkt-aschaffenburg-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
   }
 ]

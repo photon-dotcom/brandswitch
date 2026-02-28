@@ -103,33 +103,5 @@
     "logoSource": "none",
     "quality": "suspect",
     "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "330110",
-    "name": "tech-shoppen.dk",
-    "slug": "tech-shoppendk",
-    "domain": "tech-shoppen.dk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/tech-shoppen.dk?size=200",
-    "categories": [
-      "Products",
-      "Electronics"
-    ],
-    "tags": [
-      "products",
-      "electronics"
-    ],
-    "country": "DK",
-    "affiliateUrl": "https://www.pickalink.com/click/tech-shoppen-dk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
   }
 ]

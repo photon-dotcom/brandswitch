@@ -814,6 +814,37 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "116913",
+    "name": "Camping 4 You",
+    "slug": "camping-4-you",
+    "domain": "camping-4-you.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/camping-4-you.de?size=200",
+    "categories": [
+      "Sports, Outdoors & Fitness",
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "sports",
+      "outdoors",
+      "fitness",
+      "travel",
+      "vacations"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/camping-4-you-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/camping-4-you-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "312320",
     "name": "Christmann Speyer",
     "slug": "christmann-speyer",
@@ -829,32 +860,6 @@
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/christmann-speyer-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/christmann-speyer-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "117146",
-    "name": "Comma Store",
-    "slug": "comma-store",
-    "domain": "comma-store.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/comma-store.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/comma-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/comma-store-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -885,32 +890,6 @@
     "commission": "Up to $0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "201783",
-    "name": "Duschkabine Shop",
-    "slug": "duschkabine-shop",
-    "domain": "duschkabine-shop.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/duschkabine-shop.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/duschkabine-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/duschkabine-shop-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -966,34 +945,6 @@
     "commission": "Up to $0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "426372",
-    "name": "Fitnessfirst",
-    "slug": "fitnessfirst",
-    "domain": "fitnessfirst.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/fitnessfirst.co.uk?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -1057,21 +1008,24 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "118605",
-    "name": "Horizn Studios",
-    "slug": "horizn-studios",
-    "domain": "horizn-studios.com",
+    "id": "181291",
+    "name": "Garten Schlueter",
+    "slug": "garten-schlueter",
+    "domain": "garten-schlueter.de",
     "description": "",
-    "logo": "https://logo.clearbit.com/horizn-studios.com?size=200",
+    "logo": "https://logo.clearbit.com/garten-schlueter.de?size=200",
     "categories": [
-      "Products"
+      "Products",
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "products",
+      "home",
+      "garden"
     ],
     "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/horizn-studios-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/horizn-studios-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/garten-schlueter-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/garten-schlueter-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -1299,93 +1253,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "308113",
-    "name": "Off White",
-    "slug": "off-white",
-    "domain": "off---white.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/off---white.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/off-white-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/off-white-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "120241",
-    "name": "Orchideen Klusmann",
-    "slug": "orchideen-klusmann",
-    "domain": "orchideen-klusmann.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/orchideen-klusmann.de?size=200",
-    "categories": [
-      "Products",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/orchideen-klusmann-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/orchideen-klusmann-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "262995",
-    "name": "Porsche Design",
-    "slug": "porsche-design",
-    "domain": "porsche-design.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/porsche-design.com?size=200",
-    "categories": [
-      "Products",
-      "Clothing",
-      "Electronics",
-      "Accessories"
-    ],
-    "tags": [
-      "products",
-      "clothing",
-      "electronics",
-      "accessories"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/porsche-design-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/porsche-design-com-cpc-de?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "328173",
     "name": "Premierinn",
     "slug": "premierinn",
@@ -1404,34 +1271,6 @@
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/premierinn-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/premierinn-co-uk-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "274212",
-    "name": "rauwolf-coffee.at",
-    "slug": "rauwolf-coffeeat",
-    "domain": "rauwolf-coffee.at",
-    "description": "",
-    "logo": "https://logo.clearbit.com/rauwolf-coffee.at?size=200",
-    "categories": [
-      "Food, Drinks & Restaurants"
-    ],
-    "tags": [
-      "food",
-      "drinks",
-      "restaurants"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/rauwolf-coffee-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/rauwolf-coffee-at-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -1469,32 +1308,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "262935",
-    "name": "Scooter Attack",
-    "slug": "scooter-attack",
-    "domain": "scooter-attack.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/scooter-attack.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/scooter-attack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/scooter-attack-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "328961",
     "name": "Mein schöner Garten",
     "slug": "shop-mein-schoener-garten",
@@ -1515,6 +1328,35 @@
     "deeplinkUrl": "https://www.pickalink.com/click/shop-mein-schoener-garten-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "171068",
+    "name": "Spiele Offensive",
+    "slug": "spiele-offensive",
+    "domain": "spiele-offensive.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/spiele-offensive.de?size=200",
+    "categories": [
+      "Products",
+      "Toys & Games"
+    ],
+    "tags": [
+      "products",
+      "toys",
+      "games"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/spiele-offensive-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/spiele-offensive-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "Up to $0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
     "similarBrands": [],
@@ -1608,26 +1450,28 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "98357",
-    "name": "Toner Partner24",
-    "slug": "toner-partner24",
-    "domain": "toner-partner24.de",
+    "id": "125934",
+    "name": "Toom Baumarkt",
+    "slug": "toom",
+    "domain": "toom.de",
     "description": "",
-    "logo": "https://logo.clearbit.com/toner-partner24.de?size=200",
+    "logo": "https://gstatic.shoptastic.io/web/storelogo/toom-baumarkt.png",
     "categories": [
-      "Office Supplies"
+      "Products",
+      "Home & Garden"
     ],
     "tags": [
-      "office",
-      "supplies"
+      "products",
+      "home",
+      "garden"
     ],
     "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/toner-partner24-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/toner-partner24-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "affiliateUrl": "https://www.pickalink.com/click/toom-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/toom-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
-    "eCPC": "",
+    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -1687,61 +1531,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "122030",
-    "name": "W Wie Wein",
-    "slug": "w-wie-wein",
-    "domain": "w-wie-wein.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/w-wie-wein.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/w-wie-wein-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/w-wie-wein-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "122096",
-    "name": "Werkstatt King",
-    "slug": "werkstatt-king",
-    "domain": "werkstatt-king.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/werkstatt-king.de?size=200",
-    "categories": [
-      "Products",
-      "Auto & Tires"
-    ],
-    "tags": [
-      "products",
-      "auto",
-      "tires"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/werkstatt-king-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/werkstatt-king-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "222504",
     "name": "Baby Nova Shop",
     "slug": "baby-nova-shop",
@@ -1786,89 +1575,6 @@
     "country": "DE",
     "affiliateUrl": "https://www.pickalink.com/click/cp-sports-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/cp-sports-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "223213",
-    "name": "Gesund Sein",
-    "slug": "gesund-sein",
-    "domain": "gesund-sein.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/gesund-sein.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/gesund-sein-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/gesund-sein-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "222972",
-    "name": "Hive Outdoor",
-    "slug": "hive-outdoor",
-    "domain": "hive-outdoor.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/hive-outdoor.com?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/hive-outdoor-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/hive-outdoor-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "222266",
-    "name": "Home-Deluxe",
-    "slug": "home-deluxe-gmbh",
-    "domain": "home-deluxe-gmbh.de",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/home-deluxe-1727587999.png",
-    "categories": [
-      "Products",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/home-deluxe-gmbh-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/home-deluxe-gmbh-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -2062,6 +1768,38 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "225173",
+    "name": "Schicker Mineral",
+    "slug": "schicker-mineral",
+    "domain": "schicker-mineral.de",
+    "description": "",
+    "logo": "https://logo.clearbit.com/schicker-mineral.de?size=200",
+    "categories": [
+      "Products",
+      "Health & Beauty",
+      "Home & Garden"
+    ],
+    "tags": [
+      "products",
+      "health",
+      "beauty",
+      "home",
+      "garden"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.pickalink.com/click/schicker-mineral-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/schicker-mineral-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "224928",
     "name": "Skid Plate",
     "slug": "skid-plate",
@@ -2133,89 +1871,6 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "221578",
-    "name": "Tennis Zone Com",
-    "slug": "tennis-zone-com",
-    "domain": "tennis-zone.com.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/tennis-zone.com.de?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/tennis-zone-com-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/tennis-zone-com-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "222986",
-    "name": "Viva Aqua",
-    "slug": "viva-aqua",
-    "domain": "viva-aqua.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/viva-aqua.de?size=200",
-    "categories": [
-      "Products",
-      "Home & Garden"
-    ],
-    "tags": [
-      "products",
-      "home",
-      "garden"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/viva-aqua-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/viva-aqua-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "223485",
-    "name": "Vtg Tiergesundheit",
-    "slug": "vtg-tiergesundheit",
-    "domain": "vtg-tiergesundheit.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/vtg-tiergesundheit.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "DE",
-    "affiliateUrl": "https://www.pickalink.com/click/vtg-tiergesundheit-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/vtg-tiergesundheit-de-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -2334,6 +1989,32 @@
     "supportsDeepLink": true,
     "commission": "€0.0000",
     "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Shoptastic CPA"
+  },
+  {
+    "id": "553032",
+    "name": "Younited Credit",
+    "slug": "younited-credit",
+    "domain": "de.younited-credit.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/de.younited-credit.com?size=200",
+    "categories": [
+      "Products"
+    ],
+    "tags": [
+      "products"
+    ],
+    "country": "DE",
+    "affiliateUrl": "https://www.shoptastic.io/de/store/de-younited-credit-com?userId=88888889&subId={your tracking code}",
+    "deeplinkUrl": "https://www.shoptastic.io/de/store/de-younited-credit-com?userId=88888889&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "0.00%",
+    "commissionType": "Percentage",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",

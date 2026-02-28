@@ -251,33 +251,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "95114",
-    "name": "Inspired Home",
-    "slug": "inspired-home",
-    "domain": "shopinspiredhome.com",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/inspired-home-us.png",
-    "categories": [
-      "Home & Garden"
-    ],
-    "tags": [
-      "home",
-      "garden"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.pickalink.com/click/inspired-home-us?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/inspired-home-us?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "Up to N/A",
-    "commissionType": "",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "92773",
     "name": "JR Dunn Jewelers",
     "slug": "jr-dunn-jewelers",
@@ -416,35 +389,6 @@
     "supportsDeepLink": true,
     "commission": "0.00%",
     "commissionType": "Percentage",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
-    "id": "90762",
-    "name": "Sleepyhead",
-    "slug": "sleepyhead",
-    "domain": "sleepyheadusa.com",
-    "description": "",
-    "logo": "https://gstatic.shoptastic.io/web/storelogo/sleepyhead.jpg",
-    "categories": [
-      "Home & Garden",
-      "Products"
-    ],
-    "tags": [
-      "home",
-      "garden",
-      "products"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.pickalink.com/click/sleepyhead?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "",
-    "supportsDeepLink": false,
-    "commission": "Up to N/A",
-    "commissionType": "",
     "eCPC": "",
     "similarBrands": [],
     "logoQuality": "none",
@@ -2402,35 +2346,6 @@
     "affiliateSource": "Pickalink CPA"
   },
   {
-    "id": "218768",
-    "name": "Shenzhen Lutuo Technology Co., Ltd.",
-    "slug": "shenzhen-lutuo-technology-co-ltd",
-    "domain": "carpuride.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/carpuride.com?size=200",
-    "categories": [
-      "Products",
-      "Auto & Tires"
-    ],
-    "tags": [
-      "products",
-      "auto",
-      "tires"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.pickalink.com/click/carpuride-com?pubId=88888903&pId=10735&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/carpuride-com?pubId=88888903&pId=10735&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "€0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPA"
-  },
-  {
     "id": "212238",
     "name": "Technics",
     "slug": "technics",
@@ -3090,6 +3005,33 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
+    "id": "225799",
+    "name": "Hotel Bb",
+    "slug": "hotel-bb",
+    "domain": "hotel-bb.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/hotel-bb.com?size=200",
+    "categories": [
+      "Travel & Vacations"
+    ],
+    "tags": [
+      "travel",
+      "vacations"
+    ],
+    "country": "US",
+    "affiliateUrl": "https://www.pickalink.com/click/hotel-bb-com-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/hotel-bb-com-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
     "id": "224081",
     "name": "Muir Way",
     "slug": "muir-way",
@@ -3105,32 +3047,6 @@
     "country": "US",
     "affiliateUrl": "https://www.pickalink.com/click/muir-way-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/muir-way-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "227652",
-    "name": "Zalando Lounge",
-    "slug": "zalando-lounge",
-    "domain": "zalando-lounge.de",
-    "description": "",
-    "logo": "https://logo.clearbit.com/zalando-lounge.de?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "US",
-    "affiliateUrl": "https://www.pickalink.com/click/zalando-lounge-de-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/zalando-lounge-de-cpc-us?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",

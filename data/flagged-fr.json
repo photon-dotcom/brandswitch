@@ -35,10 +35,13 @@
     "description": "",
     "logo": "https://logo.clearbit.com/alarme-maison-sans-fil.fr?size=200",
     "categories": [
-      "Products"
+      "Products",
+      "Home & Garden"
     ],
     "tags": [
-      "products"
+      "products",
+      "home",
+      "garden"
     ],
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/alarme-maison-sans-fil-fr?pubId=88888903&pId=10735&subId={your tracking code}",
@@ -265,34 +268,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "426377",
-    "name": "Fitnessfirst",
-    "slug": "fitnessfirst",
-    "domain": "fitnessfirst.co.uk",
-    "description": "",
-    "logo": "https://logo.clearbit.com/fitnessfirst.co.uk?size=200",
-    "categories": [
-      "Sports, Outdoors & Fitness"
-    ],
-    "tags": [
-      "sports",
-      "outdoors",
-      "fitness"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/fitnessfirst-co-uk-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "409422",
     "name": "G Star",
     "slug": "g-star",
@@ -393,6 +368,35 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
+    "similarBrands": [],
+    "logoQuality": "none",
+    "logoSource": "none",
+    "quality": "suspect",
+    "affiliateSource": "Pickalink CPC"
+  },
+  {
+    "id": "182203",
+    "name": "Librairie Bayard",
+    "slug": "librairie-bayard",
+    "domain": "librairie-bayard.com",
+    "description": "",
+    "logo": "https://logo.clearbit.com/librairie-bayard.com?size=200",
+    "categories": [
+      "Products",
+      "Events & Entertainment"
+    ],
+    "tags": [
+      "products",
+      "events",
+      "entertainment"
+    ],
+    "country": "FR",
+    "affiliateUrl": "https://www.pickalink.com/click/librairie-bayard-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
+    "deeplinkUrl": "https://www.pickalink.com/click/librairie-bayard-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
+    "supportsDeepLink": true,
+    "commission": "$0.0000",
+    "commissionType": "FixedAmount",
+    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",
@@ -535,86 +539,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "184535",
-    "name": "Sunny Inch",
-    "slug": "sunny-inch",
-    "domain": "sunny-inch.fr",
-    "description": "",
-    "logo": "https://logo.clearbit.com/sunny-inch.fr?size=200",
-    "categories": [
-      "Products",
-      "Clothing"
-    ],
-    "tags": [
-      "products",
-      "clothing"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/sunny-inch-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/sunny-inch-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "121404",
-    "name": "Swap Europe",
-    "slug": "swap-europe",
-    "domain": "swap-europe.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/swap-europe.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/swap-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/swap-europe-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "274181",
-    "name": "Tike Securite",
-    "slug": "tike-securite",
-    "domain": "tike-securite.fr",
-    "description": "",
-    "logo": "https://logo.clearbit.com/tike-securite.fr?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/tike-securite-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/tike-securite-fr-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "330349",
     "name": "Value2read Blogspot",
     "slug": "value2read-blogspot",
@@ -630,32 +554,6 @@
     "country": "FR",
     "affiliateUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}",
     "deeplinkUrl": "https://www.pickalink.com/click/value2read-blogspot-com-cpc-fr?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "326103",
-    "name": "Xl Artifices",
-    "slug": "xl-artifices",
-    "domain": "xl-artifices.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/xl-artifices.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/xl-artifices-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/xl-artifices-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
     "supportsDeepLink": true,
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
@@ -817,58 +715,6 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "223008",
-    "name": "Tableau Deco",
-    "slug": "tableau-deco",
-    "domain": "tableau-deco.eu",
-    "description": "",
-    "logo": "https://logo.clearbit.com/tableau-deco.eu?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/tableau-deco-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/tableau-deco-eu-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "227058",
-    "name": "Zago Store",
-    "slug": "zago-store",
-    "domain": "zago-store.com",
-    "description": "",
-    "logo": "https://logo.clearbit.com/zago-store.com?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "FR",
-    "affiliateUrl": "https://www.pickalink.com/click/zago-store-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/zago-store-com-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",

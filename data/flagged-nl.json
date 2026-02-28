@@ -131,32 +131,6 @@
     "affiliateSource": "Pickalink CPC"
   },
   {
-    "id": "286325",
-    "name": "top-zwembadshop.nl",
-    "slug": "top-zwembadshopnl",
-    "domain": "top-zwembadshop.nl",
-    "description": "",
-    "logo": "https://logo.clearbit.com/top-zwembadshop.nl?size=200",
-    "categories": [
-      "Products"
-    ],
-    "tags": [
-      "products"
-    ],
-    "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/top-zwembadshop-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/top-zwembadshop-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
     "id": "398332",
     "name": "Value2read Blogspot",
     "slug": "value2read-blogspot",
@@ -176,33 +150,6 @@
     "commission": "$0.0000",
     "commissionType": "FixedAmount",
     "eCPC": "",
-    "similarBrands": [],
-    "logoQuality": "none",
-    "logoSource": "none",
-    "quality": "suspect",
-    "affiliateSource": "Pickalink CPC"
-  },
-  {
-    "id": "221634",
-    "name": "tuin-huis-winkel.nl",
-    "slug": "tuin-huis-winkelnl",
-    "domain": "tuin-huis-winkel.nl",
-    "description": "",
-    "logo": "https://logo.clearbit.com/tuin-huis-winkel.nl?size=200",
-    "categories": [
-      "Office Supplies"
-    ],
-    "tags": [
-      "office",
-      "supplies"
-    ],
-    "country": "NL",
-    "affiliateUrl": "https://www.pickalink.com/click/tuin-huis-winkel-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}",
-    "deeplinkUrl": "https://www.pickalink.com/click/tuin-huis-winkel-nl-cpc?pubId=88888903&pId=10736&subId={your tracking code}&url={deeplink target url}",
-    "supportsDeepLink": true,
-    "commission": "$0.0000",
-    "commissionType": "FixedAmount",
-    "eCPC": "0.00",
     "similarBrands": [],
     "logoQuality": "none",
     "logoSource": "none",

@@ -1,6 +1,11 @@
 {
   "clothing": [
     {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
+    {
       "rank": 5,
       "name": "ASOS",
       "slug": "asos"
@@ -39,6 +44,11 @@
     }
   ],
   "sports-outdoors-and-fitness": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
     {
       "rank": 3,
       "name": "Under Armour",
@@ -83,6 +93,11 @@
     }
   ],
   "shoes": [
+    {
+      "rank": 1,
+      "name": "Nike",
+      "slug": "nike"
+    },
     {
       "rank": 8,
       "name": "Timberland",
