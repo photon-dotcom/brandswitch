@@ -38,3 +38,4 @@ next-env.d.ts
 
 # Runtime-only data files (not needed in repo)
 /data/.sync-checkpoint.json
+data/.desc-*
