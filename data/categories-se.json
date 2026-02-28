@@ -20,14 +20,14 @@
     "brandCount": 100
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 100
-  },
-  {
     "name": "Clothing",
     "slug": "clothing",
     "brandCount": 95
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 84
   },
   {
     "name": "Sports, Outdoors & Fitness",
@@ -88,6 +88,16 @@
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
     "brandCount": 11
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 9
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 7
   },
   {
     "name": "Products",

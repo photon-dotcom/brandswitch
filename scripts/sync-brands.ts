@@ -1243,6 +1243,7 @@ const VALID_LLM_CATEGORIES = new Set([
   'Food, Drinks & Restaurants', 'Travel & Vacations', 'Gifts, Flowers & Parties',
   'Shoes', 'Subscription Boxes & Services', 'Toys & Games',
   'Events & Entertainment', 'Auto & Tires', 'Pets', 'Baby & Toddler', 'Office Supplies',
+  'Finance & Banking', 'Education & Learning', 'Gambling & Betting',
 ]);
 
 // Map of known old/variant category names to canonical ones
@@ -1404,12 +1405,12 @@ async function classifyWithLLM(byMarket: Record<string, Brand[]>): Promise<numbe
       return `${b.name} (${b.domain})${desc}`;
     }).join('\n');
     const prompt = `Classify each brand into exactly ONE of these categories based on the brand name, domain, and description:
-Health & Beauty, Accessories, Home & Garden, Clothing, Sports, Outdoors & Fitness, Digital Services & Streaming, Electronics, Food, Drinks & Restaurants, Travel & Vacations, Gifts, Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies
+Health & Beauty, Accessories, Home & Garden, Clothing, Sports, Outdoors & Fitness, Digital Services & Streaming, Electronics, Food, Drinks & Restaurants, Travel & Vacations, Gifts, Flowers & Parties, Shoes, Subscription Boxes & Services, Toys & Games, Events & Entertainment, Auto & Tires, Pets, Baby & Toddler, Office Supplies, Finance & Banking, Education & Learning, Gambling & Betting
 
 Important rules:
-- Financial services, banking, insurance, loans → Digital Services & Streaming
-- Gambling, betting, casino → Events & Entertainment
-- Education, courses, training → Digital Services & Streaming
+- Financial services, banking, insurance, loans, crypto, investing → Finance & Banking
+- Gambling, betting, casino, poker, slots → Gambling & Betting
+- Education, courses, online learning, tutoring, language learning → Education & Learning
 - VPN, software, apps, SaaS → Digital Services & Streaming
 - General/multi-category retailers (like Amazon, Walmart) → Accessories
 - If the domain looks like spam or gibberish (e.g. hex strings, random characters), respond with "Junk"

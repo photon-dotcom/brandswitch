@@ -10,14 +10,14 @@
     "brandCount": 43
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 38
-  },
-  {
     "name": "Electronics",
     "slug": "electronics",
     "brandCount": 35
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 33
   },
   {
     "name": "Clothing",
@@ -73,6 +73,11 @@
     "name": "Pets",
     "slug": "pets",
     "brandCount": 7
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 5
   },
   {
     "name": "Baby & Toddler",

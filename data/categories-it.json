@@ -27,7 +27,7 @@
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 198
+    "brandCount": 167
   },
   {
     "name": "Sports, Outdoors & Fitness",
@@ -88,6 +88,16 @@
     "name": "Baby & Toddler",
     "slug": "baby-and-toddler",
     "brandCount": 23
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 21
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 10
   },
   {
     "name": "Products",

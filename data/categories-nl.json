@@ -15,14 +15,14 @@
     "brandCount": 325
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 304
-  },
-  {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
     "brandCount": 278
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 269
   },
   {
     "name": "Travel & Vacations",
@@ -88,6 +88,16 @@
     "name": "Pets",
     "slug": "pets",
     "brandCount": 57
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 22
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 13
   },
   {
     "name": "Products",

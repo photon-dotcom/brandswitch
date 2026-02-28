@@ -2,7 +2,7 @@
   {
     "name": "Accessories",
     "slug": "accessories",
-    "brandCount": 1967
+    "brandCount": 1964
   },
   {
     "name": "Health & Beauty",
@@ -20,14 +20,14 @@
     "brandCount": 1387
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 981
-  },
-  {
     "name": "Electronics",
     "slug": "electronics",
-    "brandCount": 802
+    "brandCount": 805
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 795
   },
   {
     "name": "Sports, Outdoors & Fitness",
@@ -62,7 +62,7 @@
   {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
-    "brandCount": 304
+    "brandCount": 294
   },
   {
     "name": "Auto & Tires",
@@ -90,8 +90,23 @@
     "brandCount": 197
   },
   {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 117
+  },
+  {
     "name": "Products",
     "slug": "products",
     "brandCount": 74
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 69
+  },
+  {
+    "name": "Gambling & Betting",
+    "slug": "gambling-and-betting",
+    "brandCount": 10
   }
 ]

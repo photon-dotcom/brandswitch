@@ -24,6 +24,9 @@ const CATEGORY_TRANSLATIONS: Record<string, { de: string; fr: string; es: string
   'Pets':                         { de: 'Haustiere',                    fr: 'Animaux',                          es: 'Mascotas',                      it: 'Animali',                        pt: 'Animais de estimação' },
   'Baby & Toddler':               { de: 'Baby & Kleinkind',             fr: 'Bébé & Tout-petit',                es: 'Bebé & Niño pequeño',           it: 'Neonati & Bambini',              pt: 'Bebê & Criança pequena' },
   'Office Supplies':              { de: 'Bürobedarf',                   fr: 'Fournitures de bureau',            es: 'Material de oficina',           it: 'Forniture per ufficio',          pt: 'Material de escritório' },
+  'Finance & Banking':            { de: 'Finanzen & Banking',            fr: 'Finance & Banque',                 es: 'Finanzas & Banca',              it: 'Finanza & Banca',                pt: 'Finanças & Banco' },
+  'Education & Learning':         { de: 'Bildung & Lernen',              fr: 'Éducation & Formation',            es: 'Educación & Aprendizaje',       it: 'Istruzione & Apprendimento',     pt: 'Educação & Aprendizagem' },
+  'Gambling & Betting':           { de: 'Glücksspiel & Wetten',          fr: 'Jeux de hasard & Paris',           es: 'Juegos de azar & Apuestas',     it: 'Gioco d\'azzardo & Scommesse',   pt: 'Jogos de azar & Apostas' },
 };
 
 type TranslatedLocale = 'de' | 'fr' | 'es' | 'it' | 'pt';

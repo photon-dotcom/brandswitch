@@ -1,10 +1,5 @@
 [
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 128
-  },
-  {
     "name": "Accessories",
     "slug": "accessories",
     "brandCount": 111
@@ -18,6 +13,11 @@
     "name": "Clothing",
     "slug": "clothing",
     "brandCount": 96
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 94
   },
   {
     "name": "Electronics",
@@ -50,18 +50,23 @@
     "brandCount": 35
   },
   {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 29
+  },
+  {
     "name": "Office Supplies",
     "slug": "office-supplies",
     "brandCount": 25
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 25
-  },
-  {
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
+    "brandCount": 24
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
     "brandCount": 24
   },
   {
@@ -93,5 +98,15 @@
     "name": "Products",
     "slug": "products",
     "brandCount": 9
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 5
+  },
+  {
+    "name": "Gambling & Betting",
+    "slug": "gambling-and-betting",
+    "brandCount": 1
   }
 ]

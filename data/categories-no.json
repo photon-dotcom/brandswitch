@@ -10,11 +10,6 @@
     "brandCount": 76
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 68
-  },
-  {
     "name": "Home & Garden",
     "slug": "home-and-garden",
     "brandCount": 67
@@ -23,6 +18,11 @@
     "name": "Clothing",
     "slug": "clothing",
     "brandCount": 61
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 58
   },
   {
     "name": "Electronics",
@@ -85,6 +85,11 @@
     "brandCount": 10
   },
   {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 7
+  },
+  {
     "name": "Products",
     "slug": "products",
     "brandCount": 5
@@ -93,5 +98,10 @@
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
     "brandCount": 4
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 3
   }
 ]

@@ -12,7 +12,7 @@
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 127
+    "brandCount": 108
   },
   {
     "name": "Clothing",
@@ -52,7 +52,7 @@
   {
     "name": "Events & Entertainment",
     "slug": "events-and-entertainment",
-    "brandCount": 43
+    "brandCount": 42
   },
   {
     "name": "Gifts, Flowers & Parties",
@@ -90,8 +90,23 @@
     "brandCount": 18
   },
   {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 10
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 9
+  },
+  {
     "name": "Products",
     "slug": "products",
     "brandCount": 5
+  },
+  {
+    "name": "Gambling & Betting",
+    "slug": "gambling-and-betting",
+    "brandCount": 1
   }
 ]

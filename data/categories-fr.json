@@ -22,7 +22,7 @@
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 422
+    "brandCount": 352
   },
   {
     "name": "Electronics",
@@ -70,14 +70,14 @@
     "brandCount": 93
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 88
-  },
-  {
     "name": "Subscription Boxes & Services",
     "slug": "subscription-boxes-and-services",
     "brandCount": 87
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 86
   },
   {
     "name": "Pets",
@@ -90,8 +90,23 @@
     "brandCount": 68
   },
   {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 41
+  },
+  {
     "name": "Products",
     "slug": "products",
-    "brandCount": 42
+    "brandCount": 41
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 30
+  },
+  {
+    "name": "Gambling & Betting",
+    "slug": "gambling-and-betting",
+    "brandCount": 2
   }
 ]

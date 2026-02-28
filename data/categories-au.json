@@ -22,7 +22,7 @@
   {
     "name": "Digital Services & Streaming",
     "slug": "digital-services-and-streaming",
-    "brandCount": 226
+    "brandCount": 192
   },
   {
     "name": "Electronics",
@@ -93,5 +93,15 @@
     "name": "Products",
     "slug": "products",
     "brandCount": 24
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 18
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 16
   }
 ]

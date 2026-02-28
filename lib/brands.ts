@@ -37,6 +37,8 @@ export const BEST_OF_MAP: Record<string, string> = {
   'accessory-brands':       'Accessories',
   'subscription-brands':    'Subscription Boxes & Services',
   'entertainment-brands':   'Events & Entertainment',
+  'finance-brands':         'Finance & Banking',
+  'education-brands':       'Education & Learning',
 };
 
 // ── Curated top-brands types ──────────────────────────────────────────────

@@ -5,11 +5,6 @@
     "brandCount": 300
   },
   {
-    "name": "Digital Services & Streaming",
-    "slug": "digital-services-and-streaming",
-    "brandCount": 270
-  },
-  {
     "name": "Health & Beauty",
     "slug": "health-and-beauty",
     "brandCount": 268
@@ -28,6 +23,11 @@
     "name": "Home & Garden",
     "slug": "home-and-garden",
     "brandCount": 222
+  },
+  {
+    "name": "Digital Services & Streaming",
+    "slug": "digital-services-and-streaming",
+    "brandCount": 212
   },
   {
     "name": "Clothing",
@@ -50,11 +50,6 @@
     "brandCount": 103
   },
   {
-    "name": "Events & Entertainment",
-    "slug": "events-and-entertainment",
-    "brandCount": 74
-  },
-  {
     "name": "Auto & Tires",
     "slug": "auto-and-tires",
     "brandCount": 71
@@ -65,6 +60,11 @@
     "brandCount": 70
   },
   {
+    "name": "Events & Entertainment",
+    "slug": "events-and-entertainment",
+    "brandCount": 68
+  },
+  {
     "name": "Toys & Games",
     "slug": "toys-and-games",
     "brandCount": 62
@@ -73,6 +73,11 @@
     "name": "Gifts, Flowers & Parties",
     "slug": "gifts-flowers-and-parties",
     "brandCount": 51
+  },
+  {
+    "name": "Finance & Banking",
+    "slug": "finance-and-banking",
+    "brandCount": 44
   },
   {
     "name": "Pets",
@@ -93,5 +98,15 @@
     "name": "Products",
     "slug": "products",
     "brandCount": 21
+  },
+  {
+    "name": "Education & Learning",
+    "slug": "education-and-learning",
+    "brandCount": 14
+  },
+  {
+    "name": "Gambling & Betting",
+    "slug": "gambling-and-betting",
+    "brandCount": 6
   }
 ]
