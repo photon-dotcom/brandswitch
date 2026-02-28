@@ -368,72 +368,74 @@ function generateSEOText(brandName: string, category: string): string[] {
 function buildFAQ(brand: { name: string; categories: string[]; domain: string }): FAQItem[] {
   const cat = (brand.categories[0] ?? 'product').toLowerCase();
   const name = brand.name;
-  return [
+
+  // All 7 candidate questions
+  const all: FAQItem[] = [
+    // Q0
     {
       question: `How do we rank alternatives to ${name}?`,
       answer: `We use a similarity scoring system based on shared categories and product tags. Brands that operate in the exact same category as ${name} score highest. We then refine by additional signals like price tier and market overlap.`,
     },
+    // Q1
     {
       question: `Is ${name} worth it?`,
       answer: `${name} is an established brand in the ${cat} space. Whether it's the right fit depends on your specific needs and budget. The alternatives listed here offer similar products and may suit you better depending on price, style, or values.`,
     },
+    // Q2
     {
       question: `What are the best ${cat} brands?`,
       answer: `The best ${cat} brands depend on your priorities. For sheer variety, ${name} is a solid choice. For alternatives, check our full list above — each brand has been evaluated for quality and customer satisfaction in the ${cat} market.`,
     },
+    // Q3 (new)
+    {
+      question: `Are there cheaper brands similar to ${name}?`,
+      answer: `Yes — several alternatives listed on this page offer a lower price point while covering similar ${cat} products. Brands ranked further down this list often trade some brand recognition for better value. Browse our full ${cat} category to compare options directly.`,
+    },
+    // Q4 (new)
+    {
+      question: `What makes a good ${cat} brand?`,
+      answer: `A strong ${cat} brand combines consistent quality, transparent pricing, and reliable customer service. Beyond that, the best brand for you depends on your personal priorities — whether that's sustainability, design aesthetic, price, or product range. Every brand on this page was selected for its genuine similarity to ${name}, not just category proximity.`,
+    },
+    // Q5 (new)
+    {
+      question: `How often do we update alternatives for ${name}?`,
+      answer: `Our brand data and similarity scores are refreshed daily via automated data feeds. When new ${cat} brands launch or existing ones change their product range, the list updates automatically. The alternatives you see here represent our most current similarity rankings for ${name}.`,
+    },
+    // Q6 — affiliate disclosure, always included
     {
       question: `Are the links on this page affiliate links?`,
       answer: `Yes, some "Visit" buttons on this page are affiliate links. We earn a small commission if you make a purchase — at no extra cost to you. This doesn't influence our rankings; we list brands based on similarity, not commission rates.`,
     },
   ];
+
+  // Use a name hash to rotate which 5 of the 7 appear, keeping Q6 (affiliate) fixed.
+  // Three rotations, each dropping a different pair from Q0–Q5.
+  const hash = name.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
+  const ROTATIONS: number[][] = [
+    [0, 1, 2, 4, 6], // drops Q3, Q5
+    [0, 2, 3, 5, 6], // drops Q1, Q4
+    [1, 3, 4, 5, 6], // drops Q0, Q2
+  ];
+  const indices = ROTATIONS[hash % 3];
+  return indices.map(i => all[i]);
 }
 
 // ── Schema.org ────────────────────────────────────────────────────────────
 
-function FAQPageSchema({
-  brand,
-  category,
-  alternatives,
-}: {
-  brand: { name: string; domain: string };
-  category: string;
-  alternatives: { name: string }[];
-}) {
-  if (alternatives.length < 3) return null;
-  const [a1, a2, a3] = alternatives.map(a => cleanDisplayName(a.name));
-  const count = alternatives.length;
-  const cat = category.toLowerCase();
-  const name = brand.name;
+function FAQPageSchema({ items }: { items: FAQItem[] }) {
+  if (items.length === 0) return null;
 
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: [
-      {
-        '@type': 'Question',
-        name: `What are the best alternatives to ${name}?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `The top alternatives to ${name} include ${a1}, ${a2}, and ${a3}. We've found ${count} similar ${cat} brands ranked by similarity.`,
-        },
+    mainEntity: items.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
       },
-      {
-        '@type': 'Question',
-        name: `What brands are similar to ${name}?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `Brands similar to ${name} include ${a1}, ${a2}, ${a3}, and ${count - 3} more. These are ${cat} brands that share a similar audience and style.`,
-        },
-      },
-      {
-        '@type': 'Question',
-        name: `Is ${name} a good ${cat} brand?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `${name} is a popular ${cat} brand available at ${brand.domain}. Compare it with ${count} alternatives to find the best option for you.`,
-        },
-      },
-    ],
+    })),
   };
 
   return (
@@ -500,7 +502,7 @@ export default async function BrandPage({ params: { locale, slug } }: Props) {
   return (
     <>
       <ItemListSchema brand={brand} alternatives={alternatives} locale={locale} />
-      <FAQPageSchema brand={brand} category={primaryCategory} alternatives={alternatives} />
+      {alternatives.length >= 3 && <FAQPageSchema items={faqItems} />}
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
 
