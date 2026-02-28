@@ -41,6 +41,7 @@ BATCH_DISCOUNT     = 0.50        # 50 % off for Batch API
 DATA_DIR     = Path("data")
 STATE_FILE   = DATA_DIR / ".desc-batch-state.json"
 RESULTS_FILE = DATA_DIR / ".desc-results.json"   # slug → description cache
+ID_MAP_FILE  = DATA_DIR / ".desc-id-map.json"    # numeric custom_id → slug
 
 # ── Utilities ─────────────────────────────────────────────────────────────────
 
@@ -190,13 +191,20 @@ def cmd_prepare(args) -> None:
     chunks = [brands[i : i + BATCH_SIZE] for i in range(0, n, BATCH_SIZE)]
     print(f"  Splitting into {len(chunks)} batch(es) of up to {BATCH_SIZE:,}")
 
+    # The Batch API requires custom_id ≤ 64 chars. Some slugs exceed this,
+    # so we assign a compact numeric ID and keep a separate ID→slug map.
+    id_map: dict[str, str] = {}   # custom_id (numeric str) → slug
+
     batch_meta = []
     for i, chunk in enumerate(chunks):
         batch_file = DATA_DIR / f".desc-batch-{i}.jsonl"
+        global_offset = i * BATCH_SIZE
         with open(batch_file, "w") as fh:
-            for brand in chunk:
+            for j, brand in enumerate(chunk):
+                cid = str(global_offset + j)   # e.g. "0" … "50062"
+                id_map[cid] = brand["slug"]
                 req = {
-                    "custom_id": brand["slug"],
+                    "custom_id": cid,
                     "params": {
                         "model":      MODEL,
                         "max_tokens": MAX_TOKENS,
@@ -224,8 +232,10 @@ def cmd_prepare(args) -> None:
         "model":        MODEL,
         "batches":      batch_meta,
     }
+    ID_MAP_FILE.write_text(json.dumps(id_map, ensure_ascii=False))
     _save_state(state)
-    print(f"\nState saved → {STATE_FILE}")
+    print(f"\nID map saved → {ID_MAP_FILE}  ({len(id_map):,} entries)")
+    print(f"State saved  → {STATE_FILE}")
     print("Next step:  python3 scripts/generate-descriptions.py submit")
 
 
@@ -394,14 +404,20 @@ def cmd_merge(args) -> None:
             print(f"  Batch {b['index']} has no batch_id — skipping.")
             continue
 
+        # Load ID→slug map (built during prepare)
+        if not ID_MAP_FILE.exists():
+            sys.exit(f"ID map not found: {ID_MAP_FILE}\nRe-run 'prepare --force'.")
+        id_map: dict[str, str] = json.loads(ID_MAP_FILE.read_text())
+
         print(f"  Downloading batch {b['index']} ({b['batch_id']}) … ", end="", flush=True)
         ok = errors = 0
         for result in client.messages.batches.results(b["batch_id"]):
             if result.result.type == "succeeded":
                 content = result.result.message.content
                 raw     = content[0].text if content else ""
+                slug    = id_map.get(result.custom_id, result.custom_id)
                 if raw.strip():
-                    results[result.custom_id] = _sanitize(raw)
+                    results[slug] = _sanitize(raw)
                     ok += 1
             else:
                 errors += 1
